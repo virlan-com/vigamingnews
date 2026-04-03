@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T20:37:08Z",
+  "last_updated": "2026-04-03T21:17:34Z",
   "data": {
     "top_stories": [
       {
@@ -7,6 +7,12 @@
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DRmJKb2tYWkkwdG5pTTZGUy1UTEx2cnpqd1k3UEZ1ZE50em5kZktTWFM3Q05SellkLWIzNFFmQzJ3Wk9vVW5DVWhUWQ?oc=5",
         "source": "WN Hub",
         "timestamp": 1775234667
+      },
+      {
+        "title": "Video game developer sets C-suite pay packages after \"breakthrough year\" - bizjournals.com",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSFBUYnlDcVdCQ09LMlg0YVZzRzhJUlRUU3FLMWxiTWhrMW5WZHZtSHNhUDh2MWFaTFFBRHoyY1hOcDJsX3hDMUxzeGxObEVKTVZDa2s3Wk0tWVFVbDQzdXY3dkJUSVhxWWkxV0U1WTJqOWpwdG9kVm1mRGhzdUNucElqNDdMRWppTGJkZ2hzc2g0YkpTcC1yRkNR?oc=5",
+        "source": "bizjournals.com",
+        "timestamp": 1775232900
       },
       {
         "title": "Running With Scissors CEO on The Evolution of Postal and Being a Self-Publishing Studio - 80 Level",
@@ -33,12 +39,6 @@
         "timestamp": 1775225370
       },
       {
-        "title": "How Virtuos Quietly Became One of Gaming’s Biggest Studios - Insider Gaming",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ1NWd0Z0VndOSldkWU9CU1JQcHV1VkM2dDlSOVNvc2dTSjBzWFVsaXF4X0NIdWlGSzZ4UnotWFdyREs2ZExkcEpvWnJhdVc2ZkdTeW93ODR2SnBCMkNYZFZRUWdROUR1UlNMY1JpRjlIcUhCS3Y3SkJoc0oyODZabUVuOUFjb21uRlE1SFN3?oc=5",
-        "source": "Insider Gaming",
-        "timestamp": 1775223472
-      },
-      {
         "title": "Save State: GB Operator Brings Game Boy Cartridges to Modern Devices - gameindustry.com",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMzhCNk5PT0pqMEs0UU54UEpxbkZuVjN1aHNKSE9JclRMd2s4ZjBDX0l5QWZCVEpVa2pVMkprVnBVS29UTWZmTFdjeTd2cTc4S0xidlFGM0F5R28zckx6eDdUeXB6SVp6SEtDU1Z2NWVsZnZPdVRfQ3ItNDZKbkR4QUYtVGxPRjg2bEZTbmY2Q3RoU0FyY3dtSnBrSnZVNGx3b0ZrNzl1MThXbzJuTEhMRE1BRWxkU0FTMXZJ?oc=5",
         "source": "gameindustry.com",
@@ -57,15 +57,21 @@
         "timestamp": 1775210400
       },
       {
+        "title": "Nexon founder to sell controlling stake in gaming company's holding firm: Korea Economic Daily - AOL.com",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYW5yTEtSRjlZRnR0VTlDUnJNejIzZmZPYWNSWmEzakpWT1ltRUt5NEUxYS0yRXdaMnY4Y2huZllkb2dZOEtuazN5SDFJUHpHX0pvQ3hCc0hmVGc2RnBEUlQ0U1I2WGluX2pjQXNjZjQ3aUg4dEJiVUg0ZW15aFJwWUhDQ1IxWXVnYlR6ZTExXzFGVGJubTVNT0h5enpMemFhaHVZaXJ3WQ?oc=5",
+        "source": "AOL.com",
+        "timestamp": 1775210240
+      },
+      {
         "title": "Reddit posts can be more important than data, and other lessons from maintaining Candy Crush as a forever game - GamesIndustry.biz",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNFNDRWRrY290ekhXZ2xFTDBNYjBlUnRLdTNuY2lyVU03YVZ2dE55YWdiQ2RiV2dIZ0V0VGRpODl5OGdCUlVEVGNoSm5DUWVzdnlDUks3MHBsSWtyZklBUEh1UUl4djVrcjE4dmY2bUlSOFQ2eWR6cnFyd0dpcU5iMDJwOXd3MmpTU3hzd2JqTEE0aDVIaGI5WkFhNERTYzhNR1ZBWXZsWXdyQV9RVTVicUVHaW13b0JtS2hZQlVoSWI0UVZ3eWdrdzZMZGk3RzdRZllFLVBB?oc=5",
         "source": "GamesIndustry.biz",
         "timestamp": 1775206800
       },
       {
-        "title": "The Rebranded GDC Festival of Gaming Leveled Up Its Content and Networking Events - tsnn.com",
+        "title": "The Rebranded GDC Festival of Gaming Leveled Up Its Content and Networking Events - Trade Show News Network",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWXVIbWVsLVJRYlVuRDhnd2FUZXY3d0tvUENiMkFEX0w4WTg2SUN3d0FIc1FRNkwwb0xMbGprTkwtNllYcGNOXzVMRjR1eVBuNHZmZC1WRWRHS3JmZ19wdmNSUVhmQjdKNFhmbXpxWkVsV2FVTGtJV1BQQy01ekV1azBiMlJscnl1RUtrVUtaT3ZwVFlUYjhuR3lscHZjd01aNG4tb1NDQXNNUmp6a19pQ2RkTmpqSnAzTWhncXU2S0RLUTFy?oc=5",
-        "source": "tsnn.com",
+        "source": "Trade Show News Network",
         "timestamp": 1775204671
       },
       {
@@ -73,12 +79,6 @@
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOHZEM3JqY3V2MUNqRjlOY3ZLY1RFVjlkMHJHQUU1VFJZam5uSEFFWnJhVW9XMXlpSWcwS21KQUFwWUZNZXNaX1B3QmFOdlhpZkgtMV9OcEtUN1pfYS1JT3p1MjhieFRLQVh3eWhYNndYXzl4VVZNTFVkeHF4X2VaV3hEaDQ3dW1NcXRNWDkzODE3dHNk?oc=5",
         "source": "IGN",
         "timestamp": 1775201909
-      },
-      {
-        "title": "The executives of large game companies who have left are mass-producing hit games. - 36 Kr",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzaVQ2MUNIU0RUYXJTS2NiYXBrMWY5WVJPSzJjX2F4RnpwWVFCdUYzdUVwYjZ4aGNmaHVyVG41UVJVM3NYOUFtSFBJUWZYY1dYeW44?oc=5",
-        "source": "36 Kr",
-        "timestamp": 1775179950
       },
       {
         "title": "Massively Overthinking: So how panicked are we about the state of the games industry? - Massively Overpowered",
@@ -94,6 +94,18 @@
       }
     ],
     "viral": [
+      {
+        "title": "PlayWay S.A. stock: Why this indie game publisher stands out for savvy investors - AD HOC NEWS",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMWd5LWJ3SlJHQmpsWEJIYkV3d0E0Zk9UTndCS2RQMEdYcHprS0RNVHNEaVVtOThUcW1qZmg4eHN4VjJodFd3ZjVyVFVnbFVoMjF3VzZVSzFMMTNOdVJmZkJlV1BieG9qbUFhRlpsZldTY2MxS0VrTTdEcjBVanJwQTczQmc2cWRZbkF3Q0oxT280YVJSTGFYVXdYU2U0SXdOeDRUdjVmSE00a2ZydWcwdTJESVBScEpXVWN0TWU2YnlLb05kTnc?oc=5",
+        "source": "AD HOC NEWS",
+        "timestamp": 1775249338
+      },
+      {
+        "title": "Buyer beware when buying Switch 2 pro controllers. People are returning the box with Switch 1 controllers inside.",
+        "link": "https://www.reddit.com/r/gaming/comments/1sbotki/buyer_beware_when_buying_switch_2_pro_controllers/",
+        "source": "Reddit",
+        "timestamp": 1775248049
+      },
       {
         "title": "The Gaming Historian is done",
         "link": "https://www.reddit.com/r/gaming/comments/1sbmgcw/the_gaming_historian_is_done/",
@@ -185,6 +197,12 @@
         "timestamp": 1775207452
       },
       {
+        "title": "Got Your ‘Thailand Tattoo’ Yet? The Surprising Souvenir Tourists Are Bringing Home - News18",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQk9Yemw1WGZMTTl6ZzYyY0tBMklaU0I5WjRtTjdqS2k1Vndwbm5hak9Ua281T0h3MHNwb18yZmZySnpWQ0IySGkwQThzV3R0bnhoWUUtc3JCVWlBLTJfc3NOdXFINUh2eVZCeEsyeUhPWmp4X0Q1ZnlkN2hEZzR4d3BYSWwzVkhVSUI1a0VDYjNzVGl5SF9kUUpsbTZmM3Q4YVJfaTFwSkMyclJkekFHTjNTZ1RzMnVIR3JJc3NOcTR5MlhGc0lXMko3cW02WXFFNkc2MzVvcWxzTXh30gHcAUFVX3lxTE1CT1h6bDVYZkxNOXpnNjJjS0EySVpTQjlaNG1ON2pLaTVWd3BubmFqT1RrbzVPSHcwc3BvXzJmZnJKelZDQjJIaTBBOHNXdHRueGhZRS1zckJVaUEtMl9zc051cUg1SHZ5VkJ4SzJ5SE9aanhfRDVmeWQ3aERnNHh3cFhJbDNWSFVJQjVrRUNiM3NUaXlIX2RRSmxtNmYzdDhhUl9pMXBKQzJyUmR6QUdOM1NnVHMydUhHcklzc05xNHkyWEZzSVcySjdxbTZZcUU2RzYzNW9xbHNNeHc?oc=5",
+        "source": "News18",
+        "timestamp": 1775201769
+      },
+      {
         "title": "How has your taste in games changed as you’ve gotten older?",
         "link": "https://www.reddit.com/r/gaming/comments/1sb5sx4/how_has_your_taste_in_games_changed_as_youve/",
         "source": "Reddit",
@@ -195,18 +213,6 @@
         "link": "https://www.reddit.com/r/gaming/comments/1sb3osl/i_have_never_gotten_so_emotional_over_a_game_like/",
         "source": "Reddit",
         "timestamp": 1775190479
-      },
-      {
-        "title": "What Games have the best Intro Levels?",
-        "link": "https://www.reddit.com/r/gaming/comments/1sb0t2e/what_games_have_the_best_intro_levels/",
-        "source": "Reddit",
-        "timestamp": 1775182062
-      },
-      {
-        "title": "Which game clone ended up being better than the original?",
-        "link": "https://www.reddit.com/r/gaming/comments/1savzjw/which_game_clone_ended_up_being_better_than_the/",
-        "source": "Reddit",
-        "timestamp": 1775169211
       }
     ],
     "updates": [
@@ -217,15 +223,15 @@
         "timestamp": 1775242672
       },
       {
-        "title": "Slay the Spire 2 Beta Patch 0.102.0 Released, Featuring Balance Tweaks and Bug Fixes - DSOGaming",
+        "title": "Slay the Spire 2 Beta Patch 0.102.0 Released, Featuring Balance Tweaks and Bug Fixes - dsogaming.com",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWFNGdVJsdS1iRFRLMlFTcmw4ay1GSWRkUndKcUNJYkVFd2VhcjA4MTNITnprU1ItYU0wYUdKajh2U0p1LU0zTTJ4amJhcWhZQ2ZyTFdWLXp2UmtlQWlMTWRKanlMRFdzckRWcE9IQm52Qk1xeEs5Z2JoNGxlNi1FclhveUxWV2hER2pHOEdqVjkzN3QxalBLa1Nlbl9sUF9lRzBIc2NROFNHNENjMDJ1VlBZYmQ1WHVnVUE?oc=5",
-        "source": "DSOGaming",
+        "source": "dsogaming.com",
         "timestamp": 1775215485
       },
       {
-        "title": "ARC Raiders Finally Playable Thanks To Latest Update - gamingbible.com",
+        "title": "ARC Raiders Finally Playable Thanks To Latest Update - GAMINGbible",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcW1SZ25WN28wTmpJeDZ3aldtTFlINEhNTnViV0hvMGY1ZGEwaDBKTzdqV3BtM3RFYk1WMG9vWWlya3d6YWNFeUtjVXk0OHptWjRXM29nOXgwUXZ4RVJNVC1VLWthSGM5VE1TZElGaG5Fd3BRVU9fVG5EdWZHNU1nckhKYjJSZjFXNm4tY09PTUFjM3B6Znc?oc=5",
-        "source": "gamingbible.com",
+        "source": "GAMINGbible",
         "timestamp": 1775214001
       },
       {
@@ -239,12 +245,6 @@
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtYXYzSWNEWS1nYXhrU0FpU0hJY3RTNGpBVEpQMXpkMFBmZl9IRUZjOG8xS3JiUFhNYi1vdlhySmRlb2lLb0R2aDNWTW5QZ9IBU0FVX3lxTE5iVkJJMkpYUHRLZHZkbnNTWGtEb1otNVNzNVhxT2xzVDdfSm40YzZTLW9Db0tYX2lHX0xpVlRXMDI1ZHFhR0JJTHJiUy1tSHNsaTdr?oc=5",
         "source": "Beebom",
         "timestamp": 1775209031
-      },
-      {
-        "title": "WWE 2K26 season 2 leaks revealed: Reduced RXP grind, instant DLC unlocks, and major gameplay changes in patch 1.07 - MSN",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTTktMWNsYmpkVTUtSVEtRm45T0VOd25abW54cU1vMkxGUEExUUQyaVJWV2xJVE9URV9mQjQzMERPcE0wWGg0LUhUUWNwT1Vwb2lBUjB1b1hVVEtUako2Q1FYWURnbFNsZkRmTXNEN1BZeEJSRVhLVXJIRDUyeE85d19IQVZRd0htWVpwdjJ2SXpKb2s1YnV2ZDU0QVNDeWh0RXF1NjlleE5YQ2tQZ2IwckdFTDljOXdlUDdwQWxidWtpdWR4N1dIRk5jVUxvTnVPbERSLXpqdzU2N1lvZkw3M1BOLVpuY1FtV1dUTHBMSGM3UQ?oc=5",
-        "source": "MSN",
-        "timestamp": 1775208418
       },
       {
         "title": "All Sailor Piece Auras and How to Get Them - Beebom",
@@ -263,6 +263,12 @@
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyaWhyLUMtNVdpdFd5RFI2SllUVS11c0hFLVhBaDFxOGVDbjdqNGdmS2dPU0pQRS1HMEpSZVNYTGIyZWlMX05hMm5YMENtYTN3ZjBBUTAtSDJ6ZGNoS3BWb3JjdTdVRDRXTk5obm5wT3JIWTlHMUF5c2NieFdtcnc?oc=5",
         "source": "Not a Tesla App",
         "timestamp": 1775192544
+      },
+      {
+        "title": "SEGA VILLAINS STAGE DLC IS NOW LIVE - SEGA",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BSUFwQjN4UGt5R0EyOElUVUhvdDFNTGNXSndpekZrd3UwVk5FUFExU25jSGhwTndpelFGTDFKcUlsU1AwSlJkdG9tM1JyWUhyS19yT3pPdGZNYWJ2UVp2S2NHTlBxbHhoSEV0M0NB?oc=5",
+        "source": "SEGA",
+        "timestamp": 1775190142
       },
       {
         "title": "NHL 26 patch notes: New update targets gameplay and World of Chel - MSN",
@@ -302,6 +308,12 @@
       }
     ],
     "errors": [
+      {
+        "title": "Long-running Disney Game Is Shutting Down & Will Soon Be Delisted on All Platforms - ComicBook.com",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcFo5cExMSDJRNFFLaFJYRXdMUGhWRzU2QUhCM05WZ2w1YVBJT25uNXRveVlPd09QTU5GalN5bmg2R1N5UlNyTEJIQXdYaHJYZ2s2bFM5b3VhZmgtOFA4bURzSU1PTnp0Q3ZKaTIzNHJPMFJnLTVzX1JXOGJBRWwtS1hRaWtidFhBdnhrWjdWMXJYTXROZmtOcF95VVVsUUwz?oc=5",
+        "source": "ComicBook.com",
+        "timestamp": 1775236500
+      },
       {
         "title": "Free Fire Redeem Codes (Valid Today, Updated Daily) - Free Fire Mania",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55djlicVZJMjhtUWlYR0lPSE5RWnU2bVR6OGl0Rm5PenNINmUwR2N0d0c3VDM3dWpUeDF6ckd0dHZlMmtCUDlCVTVoRmFvd1VPb0xUcjR3RVB2bTg5dXlhcE1YWDdZWm92dnJlME5wV01wUQ?oc=5",
@@ -367,12 +379,6 @@
         "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNbUhMNG9XLUE2M0x2MWRxb1FZdUdwT19YajMtQ3BCNmdfMWpVN1U0QzFKQy1SY3lsRDd4M3lZYmNlanUtaTdZTHpKS1VtQ2FWWjM1V0NiOVhaRl91S1JwM3dONGk3Vk16S0gyc1htOEZyV253ZXYzZmhUZG1nY3pWOTNnSjRTVk1IbDdRRmI0dE00ckxQTGZKR2FuU2I5V09YelRQWVZRLTQyczVFRXZmX3lpZDhoeFVJSW9oOGluUGtKZVRZWExoRXhqRnppYTlHc1NSQlp1bmtWMkF1bTVtekhVRnR1dkJIaERMYTdjRkFBSUJHUFlFUWl1dXk3SWptajNuaVhpTTBkV29fcXZnQzlFM1FZUE9kY0FENUgwNEl2S0pFMTlj?oc=5",
         "source": "The Times of India",
         "timestamp": 1775188860
-      },
-      {
-        "title": "Fortnite Steal the Brainrot codes (April 2026) - Dexerto",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdmJ6S1BDOU9SMHh1TS0tdHJZb3UyLU5ueHZjQlpXTFF6WmI3clRPT3F6d3VlbHJhWkota0VlTXRVSFdvYjlnNVNlbHpuTTZPWmxITV9jdnBheF9mNGhMeF9nRWN4RHJjS2psdXVFT2NDeFMzMlFJblNzQlR2MHVnLQ?oc=5",
-        "source": "Dexerto",
-        "timestamp": 1775162605
       }
     ],
     "guides": [
@@ -407,6 +413,12 @@
         "timestamp": 1775214163
       },
       {
+        "title": "Ziggs vs. Renekton Top - Matchup Statistics - Patch 26.6 - Mobalytics",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRmJJRTNobmJuR2YxLTBONkFwVnpMQ3dyT0NXRnV4ZVVFM2FmRXJLV1RYckVhMVREVXQ1MUtqZy1zUHZVMmNSMlVFdkI0VS04Z1pQRFZSSXVXYXdvMFVHTWt3cVlwX0FlNjhlalppSURPUWRkeGRCSU43UXRHVGJCdkpDU3FVNUpval9UVVJtMlNpcWtoR2lLTkdteFJDTDg?oc=5",
+        "source": "Mobalytics",
+        "timestamp": 1775210792
+      },
+      {
         "title": "Sailor Piece Wiki – A Complete Game Guide and Walkthrough - Beebom",
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtYXYzSWNEWS1nYXhrU0FpU0hJY3RTNGpBVEpQMXpkMFBmZl9IRUZjOG8xS3JiUFhNYi1vdlhySmRlb2lLb0R2aDNWTW5QZ9IBU0FVX3lxTE5iVkJJMkpYUHRLZHZkbnNTWGtEb1otNVNzNVhxT2xzVDdfSm40YzZTLW9Db0tYX2lHX0xpVlRXMDI1ZHFhR0JJTHJiUy1tSHNsaTdr?oc=5",
         "source": "Beebom",
@@ -417,6 +429,12 @@
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVUZZUzU2NnRfZGNBc0x4UEFuVGlCLTN6Nk1wVmFib1Z0SmNwdGR6cjcwdTRERzVvM3l2aTg5UG5GbHFOVUxlUnpBTVZHQ1dGYkpYMVJna25fUVhZNkRCQ2w5dHk1Z0tBNW9yN0htdTJlbGFNVlR4VWRrTmpFbVdFaElJSy1hcWxUUTJKZGcyWVlWOTJ0SlHSAZsBQVVfeXFMT2xFenJ1VkhfTHlGX054SjNiaWxuX3poNmNUbFRDR3ozTlpqb0lueUZMZkdpZU9CTkZjY0dOYnFtOXZxN1RzamhtMi1WYkJJakVoSTdnZWJaRU03cnhna2RVNGprZUZPNlVWcjhyRFVXclU3WUl0eE11YUdLX0RTNDVOeXpaMl9VemhDaUVsQXVxNjliUi1xVFNmTVk?oc=5",
         "source": "Wccftech",
         "timestamp": 1775207580
+      },
+      {
+        "title": "How to Get the Best Performance Out of Your Steam Deck - Geeky Gadgets",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pbmxnV245Z3J2QTlncVptUDFEVG5Va3E1RGpadDdzOGVEdFR1UnVOUks5SVM2X0NKbFVDOWxRSzktYWowaDF5R3dLUnBKX2RReHllLWxRUDIxcC1zQWdlVg?oc=5",
+        "source": "Geeky Gadgets",
+        "timestamp": 1775196134
       },
       {
         "title": "All Sailor Piece Fighting Melee Styles (and How to Get Them) - Beebom",
@@ -453,18 +471,6 @@
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNkVHSGNDQWVPV2l6RDdkQndheWNVWmVIS08wMVhTN2YwZTlxOThTM2ZBN3RSWXRybUVGSnZ6alAtSkpYaHhnNlNFWGR5djZtVV9aTXA4QjMxYWpJT0tvaUtoVGxXZHdXdUVwNklqMGtLeDF0V2wwMVV4bUxFNVRON1dOVnNoeXUzYnJZX2N3?oc=5",
         "source": "Axios",
         "timestamp": 1775165079
-      },
-      {
-        "title": "Best Slots to Play Online for Real Money Ranked for April 2026 - USA Today",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOalFhc2JYOXFxNVVBMzF1WFkxejdlb3UtMkdvR1FxcXZYcFlpdktjWk9IdkRSR2tpdFN5eV84STRDME1QRlowLV9NZGhKYk9iOWVraFNUM0RVVVB5V0I0d3dWVTYyMFBWenVKd0NlTVNGbmc2UTk3N3R1dlF4a181RkRzMjNmamt1UTV6bkZObTVxU1FsSS1LYVAxWkVuMFhITXgzd0w2ckU5Z3NQNkppWUdFdkE?oc=5",
-        "source": "USA Today",
-        "timestamp": 1775163720
-      },
-      {
-        "title": "The 8 Best Things to Eat (and Drink) at Coors Field - 5280 - Denver's Mile High Magazine",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9WdG5YMFJRaUJJNmNRNHhMM3F3d0RQREZjVVZabDVMYmVLY3pENndUZ1V0Vjh1eUJ4dktJS1ZoSlZwZ2NrS3BmMzhBUFoxUlRmYTFNTTEwQQ?oc=5",
-        "source": "5280 - Denver's Mile High Magazine",
-        "timestamp": 1775163613
       }
     ],
     "assets": [
@@ -580,9 +586,9 @@
         "timestamp": 1775230121
       },
       {
-        "title": "Critical Role had helped bring the fantasy sports crowd into D&D, according to Matt Mercer - thepopverse.com",
+        "title": "Critical Role had helped bring the fantasy sports crowd into D&D, according to Matt Mercer - Popverse",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUDhIWEJFZG8zeGJkNWM0ZjFtaDA2NFJoYXV4UVVfQW56Z1RrQzl2R1UyeDV4d25VSDU3YVpjZkZ2WFRJM3J0OUN2ZWxYRl84bWlmSWNrREt4dW8zYVFuS0Y1Mk1OSmlpaTlUYWQ4MkVydVB0R1pNU2JhTHJuSUNobDVuaFJGRW5uNFVkcG9sanRHeEtBUUFkMU1RRmNLR2hseldYa282M0NUZjBUWi01dTdqUGdMR0E0SGM5Rm01Z1d3OTlGdnc?oc=5",
-        "source": "thepopverse.com",
+        "source": "Popverse",
         "timestamp": 1775228422
       },
       {
@@ -642,16 +648,16 @@
         "timestamp": 1775224860
       },
       {
+        "title": "Tom Clancy’s The Division Resurgence Is Out Now on iOS and Android - GameDaily",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPemF5aGhGVzJzQmpzQWRucGN1OE9JUnRuamIxX3FXRjF1ZkRoRVh2czBZNTVmLXJNSGhEV1pCY0cxMHBzTV9YS0hObHZEckZmcUo5cjUzbUxzWTRPZVhFcmowQ1Y0cExGa0VJRlhsSTVUV2VaWWNwbFFxTkREVTR1ZmpjUjllOVNEV2NLZnZRMWRBYXpobE9MZg?oc=5",
+        "source": "GameDaily",
+        "timestamp": 1775222176
+      },
+      {
         "title": "Friday's best iOS app deals and freebies: Sonority, Warm Snow, Lara Croft GO, Boxville, more - 9to5Toys",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GbHd6ZXp3cGhzWUFOSnhsUkgxcHd5VEhCSC1nQy12SzBoejlTZDE2NjhBanZzUzNLa1lKMTBfTnAwSVZ6aHB2c19HMURmOWl2SkJTaEVNZWxkTzMycDFXVUxMMXZsZDk5VUpQV0stZ01IRU1GbzhWdnhXYXNPUQ?oc=5",
         "source": "9to5Toys",
         "timestamp": 1775222160
-      },
-      {
-        "title": "The Best Game Controller for Every Kind of Player - WIRED",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80Y2JoUTZsRWw2ay16QXE0STVJV0t2Uk5tYXB6V3EyZk1Kb0VMYnFKejBva1JqVmVjVk9meWZBUm5reFI4Ymp0dFZwaDk3OHFtVURlM1A5MW93ZDdZNmVQQk9hMUo?oc=5",
-        "source": "WIRED",
-        "timestamp": 1775214000
       },
       {
         "title": "Sailor Piece Wiki – A Complete Game Guide and Walkthrough - Beebom",
@@ -678,16 +684,16 @@
         "timestamp": 1775199600
       },
       {
+        "title": "Phone Joystick For Mobile Gaming – Universal Suction Cup Analog Stick For Touchscreens, IOS/Android, No Lag - aplusme.me",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UX1Aybld3ZWdWREh5UVZ2NkNXV1gzNDR2UkJ3MjJaM1YwV19BUFh0ajJYeHc3eUFsd1hZaDJjaGMxUEtTRFRFRnU2ZWZMZWQ2Y2tVNE9wenpJZw?oc=5",
+        "source": "aplusme.me",
+        "timestamp": 1775196497
+      },
+      {
         "title": "Borderlands® Legends Mobile Game Now Available on iOS - Yahoo",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFJPcVNfLThoMF9TVGctcmRqNWNLaUZvN1VUVlU3WndhaUluRjQ3Y0x1TDlyNmcxOEI2LW5MWDNCWjBPVVFvM3k4M21kZFN6X19za0xJYlN1cUJ4c2N1UzVyeGxhSzl3cXdFcmMwSHlIcmtsaEtGUVozVjBiQ2R6U1RHTDlxYm9oaUZCaEM0d0dqZw?oc=5",
         "source": "Yahoo",
         "timestamp": 1775194452
-      },
-      {
-        "title": "11-in-1 Mobile Game Controller With Cooling Fan – L2/R2 Triggers For PUBG, Call Of Duty On IPhone & Android - aplusme.me",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9fcUNwMGptN2dfU0hNZXEyT3A4R1FVRlRoaVZQLU95cTRPY0FnN1cxY01DaWtPRmtWMkF4SkZPUkxuUThrUFNNRGhoMlV3TzRaaHpCck42eXQxQQ?oc=5",
-        "source": "aplusme.me",
-        "timestamp": 1775193560
       },
       {
         "title": "New game digest: Monopoly Go Chat, Rec Room, Monster Hunter, The Division, Hoyoverse’s next game and more - Mobilegamer.biz",
@@ -702,13 +708,25 @@
         "timestamp": 1775185259
       },
       {
-        "title": "F2P Open-world Shooter ‘Tom Clancy’s The Division Resurgence’ Out on iOS & Android - playday.one",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZy02VldpcGdsRVM4aWh1TEhuekxpUWNsYjF1MmpVSFV5dXI0NGdPcHJGalJzTXpiVk1sYTRlaGp0U0xQNm4xeU1JM3haMVFWbWZ5Mm4tSFhabUJRclBFZzJlREV3MUQ5UEZ6dVFPMVZvdGZzakhMUi01T0tMSlJnQkY4eFRHeDhPRFV1eFliMmg1MThreDRKblZINmRreHZYNEZZWmpjQWk0bHVwYlE?oc=5",
-        "source": "playday.one",
-        "timestamp": 1775164096
+        "title": "Today’s Wordle answer and hints for #1749 on April 03 - NME",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSWVMdFk0THRiUFRBb0RaaGlJLW04RnFwUWk0dGM4NXRGMjE1MFRMVWxaQ3lwQzNNc0tMM0pRYWY4amUteURuLVVMQjhjZzNDYUtBT2NmSXNQVThMa1NNNXpMLVFjQ0dsb3RnZGRpa3laU25aM201T0hOT19sVldlbVF3UWV5MS1TMEE?oc=5",
+        "source": "NME",
+        "timestamp": 1775170894
       }
     ],
     "all": [
+      {
+        "title": "PlayWay S.A. stock: Why this indie game publisher stands out for savvy investors - AD HOC NEWS",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMWd5LWJ3SlJHQmpsWEJIYkV3d0E0Zk9UTndCS2RQMEdYcHprS0RNVHNEaVVtOThUcW1qZmg4eHN4VjJodFd3ZjVyVFVnbFVoMjF3VzZVSzFMMTNOdVJmZkJlV1BieG9qbUFhRlpsZldTY2MxS0VrTTdEcjBVanJwQTczQmc2cWRZbkF3Q0oxT280YVJSTGFYVXdYU2U0SXdOeDRUdjVmSE00a2ZydWcwdTJESVBScEpXVWN0TWU2YnlLb05kTnc?oc=5",
+        "source": "AD HOC NEWS",
+        "timestamp": 1775249338
+      },
+      {
+        "title": "Buyer beware when buying Switch 2 pro controllers. People are returning the box with Switch 1 controllers inside.",
+        "link": "https://www.reddit.com/r/gaming/comments/1sbotki/buyer_beware_when_buying_switch_2_pro_controllers/",
+        "source": "Reddit",
+        "timestamp": 1775248049
+      },
       {
         "title": "Sam pepper abusing animals on kick",
         "link": "https://www.reddit.com/r/LivestreamFail/comments/1sboon5/sam_pepper_abusing_animals_on_kick/",
@@ -806,6 +824,12 @@
         "timestamp": 1775237068
       },
       {
+        "title": "Long-running Disney Game Is Shutting Down & Will Soon Be Delisted on All Platforms - ComicBook.com",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcFo5cExMSDJRNFFLaFJYRXdMUGhWRzU2QUhCM05WZ2w1YVBJT25uNXRveVlPd09QTU5GalN5bmg2R1N5UlNyTEJIQXdYaHJYZ2s2bFM5b3VhZmgtOFA4bURzSU1PTnp0Q3ZKaTIzNHJPMFJnLTVzX1JXOGJBRWwtS1hRaWtidFhBdnhrWjdWMXJYTXROZmtOcF95VVVsUUwz?oc=5",
+        "source": "ComicBook.com",
+        "timestamp": 1775236500
+      },
+      {
         "title": "The AI division of Take-Two has been hit by a wave of layoffs - WN Hub",
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DRmJKb2tYWkkwdG5pTTZGUy1UTEx2cnpqd1k3UEZ1ZE50em5kZktTWFM3Q05SellkLWIzNFFmQzJ3Wk9vVW5DVWhUWQ?oc=5",
         "source": "WN Hub",
@@ -822,6 +846,12 @@
         "link": "https://www.reddit.com/r/gaming/comments/1sbi5il/found_my_pokémon_yellow_sitting_in_a_drawer_best/",
         "source": "Reddit",
         "timestamp": 1775233271
+      },
+      {
+        "title": "Video game developer sets C-suite pay packages after \"breakthrough year\" - bizjournals.com",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSFBUYnlDcVdCQ09LMlg0YVZzRzhJUlRUU3FLMWxiTWhrMW5WZHZtSHNhUDh2MWFaTFFBRHoyY1hOcDJsX3hDMUxzeGxObEVKTVZDa2s3Wk0tWVFVbDQzdXY3dkJUSVhxWWkxV0U1WTJqOWpwdG9kVm1mRGhzdUNucElqNDdMRWppTGJkZ2hzc2g0YkpTcC1yRkNR?oc=5",
+        "source": "bizjournals.com",
+        "timestamp": 1775232900
       },
       {
         "title": "Modern Warfare 4 leak claims CoD’s most controversial weapon could return - Dexerto",
@@ -872,9 +902,9 @@
         "timestamp": 1775228441
       },
       {
-        "title": "Critical Role had helped bring the fantasy sports crowd into D&D, according to Matt Mercer - thepopverse.com",
+        "title": "Critical Role had helped bring the fantasy sports crowd into D&D, according to Matt Mercer - Popverse",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUDhIWEJFZG8zeGJkNWM0ZjFtaDA2NFJoYXV4UVVfQW56Z1RrQzl2R1UyeDV4d25VSDU3YVpjZkZ2WFRJM3J0OUN2ZWxYRl84bWlmSWNrREt4dW8zYVFuS0Y1Mk1OSmlpaTlUYWQ4MkVydVB0R1pNU2JhTHJuSUNobDVuaFJGRW5uNFVkcG9sanRHeEtBUUFkMU1RRmNLR2hseldYa282M0NUZjBUWi01dTdqUGdMR0E0SGM5Rm01Z1d3OTlGdnc?oc=5",
-        "source": "thepopverse.com",
+        "source": "Popverse",
         "timestamp": 1775228422
       },
       {
@@ -938,10 +968,10 @@
         "timestamp": 1775224370
       },
       {
-        "title": "How Virtuos Quietly Became One of Gaming’s Biggest Studios - Insider Gaming",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ1NWd0Z0VndOSldkWU9CU1JQcHV1VkM2dDlSOVNvc2dTSjBzWFVsaXF4X0NIdWlGSzZ4UnotWFdyREs2ZExkcEpvWnJhdVc2ZkdTeW93ODR2SnBCMkNYZFZRUWdROUR1UlNMY1JpRjlIcUhCS3Y3SkJoc0oyODZabUVuOUFjb21uRlE1SFN3?oc=5",
-        "source": "Insider Gaming",
-        "timestamp": 1775223472
+        "title": "Tom Clancy’s The Division Resurgence Is Out Now on iOS and Android - GameDaily",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPemF5aGhGVzJzQmpzQWRucGN1OE9JUnRuamIxX3FXRjF1ZkRoRVh2czBZNTVmLXJNSGhEV1pCY0cxMHBzTV9YS0hObHZEckZmcUo5cjUzbUxzWTRPZVhFcmowQ1Y0cExGa0VJRlhsSTVUV2VaWWNwbFFxTkREVTR1ZmpjUjllOVNEV2NLZnZRMWRBYXpobE9MZg?oc=5",
+        "source": "GameDaily",
+        "timestamp": 1775222176
       },
       {
         "title": "Friday's best iOS app deals and freebies: Sonority, Warm Snow, Lara Croft GO, Boxville, more - 9to5Toys",
@@ -984,30 +1014,6 @@
         "link": "https://www.reddit.com/r/LivestreamFail/comments/1sbc4a5/joeykaotyk_pull_sar_charizard_card_live_on_stream/",
         "source": "Reddit",
         "timestamp": 1775219010
-      },
-      {
-        "title": "Varus vs. Gwen Mid - Matchup Statistics - Patch 26.6 - Mobalytics",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMGZTMnhDTWJlQVpUN0JxRjdJN2dhaE5manFjbzRIQnZvTFVnOGIwTTg4TUYxUzFpUFdnbW9rUHdBWlpzanAxUEZ0WEg4aExFSEF1bGo5Sk1mbGlaOWt6M1FSRnJJNW1KZW9MaFFEU2RoZ0piZUNRdWRiZnZYVEllbEFYNGtHVG9Jc05lb0NLc0ZGenRYMjdtdzln?oc=5",
-        "source": "Mobalytics",
-        "timestamp": 1775217656
-      },
-      {
-        "title": "Metroid Madness! Prime 4 Cosplay at the recent Chicago C2E2.",
-        "link": "https://www.reddit.com/r/gaming/comments/1sbbcxd/metroid_madness_prime_4_cosplay_at_the_recent/",
-        "source": "Reddit",
-        "timestamp": 1775216881
-      },
-      {
-        "title": "MY PHYSICAL COLLECTION",
-        "link": "https://www.reddit.com/r/gaming/comments/1sbba50/my_physical_collection/",
-        "source": "Reddit",
-        "timestamp": 1775216653
-      },
-      {
-        "title": "Slay the Spire 2 Beta Patch 0.102.0 Released, Featuring Balance Tweaks and Bug Fixes - DSOGaming",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWFNGdVJsdS1iRFRLMlFTcmw4ay1GSWRkUndKcUNJYkVFd2VhcjA4MTNITnprU1ItYU0wYUdKajh2U0p1LU0zTTJ4amJhcWhZQ2ZyTFdWLXp2UmtlQWlMTWRKanlMRFdzckRWcE9IQm52Qk1xeEs5Z2JoNGxlNi1FclhveUxWV2hER2pHOEdqVjkzN3QxalBLa1Nlbl9sUF9lRzBIc2NROFNHNENjMDJ1VlBZYmQ1WHVnVUE?oc=5",
-        "source": "DSOGaming",
-        "timestamp": 1775215485
       }
     ]
   }
