@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-04-09T02:23:39Z",
+  "last_updated": "2026-04-09T04:56:54Z",
   "data": {
     "top_stories": [
+      {
+        "title": "Shanghai rolls out measures to support gaming and esports industry - citynewsservice.cn",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOczM5NmJKSVlHR0psaVZLVng5cnBHN3FFdmJKaTZURXBSNXpVWG9tdmplRzRjUzhtWjVfanhjVmhuZmJGOU82cVJyV3p0M2FFMjZsT1RsSnV0OFlER2dlQzRvRlJVZGN4bVZ0YzF2aFBEbkJzVGg0bE42T0ZiWnpnaG91YTl4RDE1Nk9sMEk5b0ExRTFBZjFlQnFsX3FZZDItUVgtdTl2VVlERkR0NUdFTHBQMGRzZHhLTU9OcGhqeDgxRWVQWkMtRw?oc=5",
+        "source": "citynewsservice.cn",
+        "timestamp": 1775708010
+      },
       {
         "title": "This Ed Fries Podcast Interview on Today’s Gaming Industry Feels Different - OpenCritic",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVlpsVFhzN202ejVMZVRETU9lcVVOUVRqTzVjdWxBVFVMczlSMDdZT3FGODNiVHZOdGpEa19qLTNHYkNFU1RESWhRQjRvdzFPNW84WUE5LXlrTWdQNVlhb21IM2VxTk9taHU0dGM2a0dENERLQUZVWHVsUWVucFVKYk90UnhqUDFBeGN0RVFlYUNKQzVoZFY4ZEN2VDI2SXBPbm5MNTFzV04wVTVw?oc=5",
@@ -19,6 +25,12 @@
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qMXVMTFppRlhFWFVBSWlYeEZUSW5HUFZlNHdwbzNONzdTU05zUzVKT2pLNmNUTUtNRmxPVjV6eUlFX1RObS14cVNBZnh6VHJFcV9ram05bEdqUy0zYnBsMGUzeEg1dnVwY2NBLQ?oc=5",
         "source": "svg.com",
         "timestamp": 1775693804
+      },
+      {
+        "title": "A year later, up-and-down tariffs and rising costs continue to loom over gaming suppliers - igamingbusiness.com",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUTNDZ2VVRUZZWC1lZ3RkOTlPaU5nakdOa3paQnlKdl9iZTBmUi1IT0hjNUc3ekNxVzEzbFJwNHBDUFd1N3h6LVlZMl9RVE0wMTFkRFZPTWJLeFhmSXJNRFRZRGptN3pCYmcwR005anNETGtGenZoempKZm5YaTQyVHViSmc2SU5Tc0ctZkp0cy13eV82eXZYZQ?oc=5",
+        "source": "igamingbusiness.com",
+        "timestamp": 1775690846
       },
       {
         "title": "Content Aggregation Strategies: Lessons from Gaming Industry - Programming Insider",
@@ -75,30 +87,30 @@
         "timestamp": 1775644058
       },
       {
-        "title": "Citizens cuts Flutter Entertainment stock price target on gaming sector outlook - Investing.com",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNm5RMndMTUV0dTVybXVGZVVpNnpnc21FM3hYYzk2Wl9yUXJLajItR2Rfem5xVlMzR3J0bktyQ1JKb3JHbk5faE1wT1RISWNnbVNNOURhYkpPVWtIcm1aa0ZfZnktOFdFWXBWUzVzT2Rwa0FLWmVzQmRrTV9rbDlBeTZRRWxMSDRMQlNBWTlBc1l2dU9mWFJsWTdkZ0hBNUFDZmtqNk5fZmJkUVV2U1dGYTNKTHlBeEZ1cy05X3hjUzNlYUJlbjhlMFdaMTd1S0EzbGR3OS1n?oc=5",
-        "source": "Investing.com",
-        "timestamp": 1775642019
-      },
-      {
-        "title": "These Three States Bring in the Most Gaming Revenue - Governing",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRkFxVVpsNWJoT0k5Y2luSUZrc1phQnJLdFctSFVMXzFYYmJZc3hGR2MxRWwwcllmX29fWVZxd2ZUcWVMbWhaWF9UYk1FRnlqVElKUGxsLTJLU1UzTmw4Y0VTd3RXV2kwSFhNTU9OdFN1UTEzVjU5bWpuaHdwaENrNGRnY0NXWF8takF3?oc=5",
-        "source": "Governing",
-        "timestamp": 1775621084
-      },
-      {
-        "title": "Government provides support for SMEs in gaming industry - Hürriyet Daily News",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSjV6dkFVckRldko5VmQ4LW5lbDR2dEtiVmtBelUtLTRMLWoxWTg0R1NmUVdRRk5mbDVsVTNOVFN6c3ppN01kUGJqcUhYaGt2Q3RndUVac1RHZjlDclU4dzNVQ1FicEtRSG1EcnhYeTAxY251V0dsU2hRbS1OcjZKUHh2Rjg1Q29XOHFEZGJlZWdrUUo4T2VBM1djc1JBb3BUSHfSAaIBQVVfeXFMTko1enZBVXJEZXZKOVZkOC1uZWw0dnRLYlZrQXpVLS00TC1qMVk4NEdTZlFXUUZOZmw1bFUzTlRTenN6aTdNZFBianFIWGhrdkN0Z3VFWnNUR2Y5Q3JVOHczVUNRYnBLUUhtRHJ4WHkwMWNudVdHbFNoUW0tTnI2SlB4dkY4NUNvVzhxRGRiZWVna1FKOE9lQTNXY3NSQW9wVEh3?oc=5",
-        "source": "Hürriyet Daily News",
-        "timestamp": 1775619571
+        "title": "Super Mario Galaxy Movie becomes highest grossing debut of 2026 in the US - GamesIndustry.biz",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQczFrbHdlbUtCeVdSQmZ3cHdHUm1DTzNKdWVMUkNXYjJDWjNwd1A4V0hzV3BSb2xkVWttd3NkdmdTY3c5Vm9hci1nX3FabURNTEczQ203dUUyWGZPcFBwbE5JTHpnZVNRSkh1eFhSbXFyNzUyaGhwNzEwdG9aRURtcThJVG1LLUVrUVJTTW1KTVhmSDNHMlFFZ294NS1fc2ZiR21SNVZB?oc=5",
+        "source": "GamesIndustry.biz",
+        "timestamp": 1775639055
       }
     ],
     "viral": [
+      {
+        "title": "‘Absolutely perfect’ Apple fave now on sale - News.com.au",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQalpjTTlPTEJOdzJ5VWtwN2hHdHFsd3pVT3EzZXpmNzJmVG52M3hmbGFlWjQ0U19LRGxSQVVZc3ZwZEpnejBHbUlOcTFiYWJad18tQjlEMVdrbnNVRmYwTUxHMFRlZ2hjRFppOXAxUzN6OXppOUdYUy01WVM4cjNsSlFCVWJNcXptWkZCcjhmZ0VqdkYzcmYycHZCbGhCUXpZZllNeG9jdWxwbGlnNmpVclNlc3ZTb1RVQy1aU0RwX3hqTDZYM3lITmJyQdIB0AFBVV95cUxNWS14U0NZNm0tcTVzUl80b2JuWmVRalZLWHBnckRKdU1CM2UxX2JXNnMyS1FIZ2RHZ21iZ3dSbldJU1dPNEpUZF9wcEVSTXdNLVpoQURtUy0zUUQxRXJlNTNnZnp2cXhFTF9wTDExblM4VnoteDhSTmVNMHlqX3RyYnd3ajlYLUV6NEI2YXUxNEZHOGg3SFBBNTlCX2tYTFZOT2h3QnR4SzRmUVhKTWpPSVRTTkxIcnVUTzVTMElKSVpGdE9VZmdRS3ZMUjhsVFIz?oc=5",
+        "source": "News.com.au",
+        "timestamp": 1775702040
+      },
       {
         "title": "Congrats AVGN and Cinemassacre crew to 20 years. Here is to 20 more years.",
         "link": "https://www.reddit.com/r/gaming/comments/1sgb8oc/congrats_avgn_and_cinemassacre_crew_to_20_years/",
         "source": "Reddit",
         "timestamp": 1775696668
+      },
+      {
+        "title": "What song makes you instantly think of a video game? I’ll start, ain’t no rest for the wicked - Borderlands",
+        "link": "https://www.reddit.com/r/gaming/comments/1sgaxqb/what_song_makes_you_instantly_think_of_a_video/",
+        "source": "Reddit",
+        "timestamp": 1775695852
       },
       {
         "title": "Despite good reviews, The First Berserker Khazan development team reportedly dissolved over disappointing sales just days after Nexon CEO praised the game",
@@ -155,12 +167,6 @@
         "timestamp": 1775664651
       },
       {
-        "title": "Back in 2020, the new generation promised us that games made with the new technology and running on SSD's would be way bigger and richer in content. Which games in your opinion actually delivered on this promise ?",
-        "link": "https://www.reddit.com/r/gaming/comments/1sfwr4o/back_in_2020_the_new_generation_promised_us_that/",
-        "source": "Reddit",
-        "timestamp": 1775663441
-      },
-      {
         "title": "Alysa Liu and Amber shine in Jason Brown’s viral TikTok - MSN",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSGd6c1hieXRGdzM5VUZwSEExVlZHc041RERrZ05XWGRaQkxzc3JudW5IUldVUkhiT2pVc2xZMF9SeDRFQ0ZWQzlQWnA2cER2WDBSTUZQWjBuSjJHV013aEE1MHVTUFZ5eVREZmZ3eDZodmhHNkFUaHk3V0JjUlU3ODJNZU1Nam1LdHRZd3V5aDhjWnI4Y3NzM1BGSElUbVd0REdLTUlhVQ?oc=5",
         "source": "MSN",
@@ -197,25 +203,25 @@
         "timestamp": 1775637617
       },
       {
-        "title": "Viral video from Spurs game appears to show fan's anti-Hispanic text messages - MSN",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaXV3VnlqZ3lsQVBPbldnWWlCWE1BNWE5M2NuZmZ0UmdHRENNMUtXZ3JIMHJoTmh6SDFla0o2N0dEakpHVVNDQjRxQnNJQlBYaUplakZBVEg5cUNBd1prV0JMQURiQ09MZkZjSjhRVDhVR3JJNGxnYjgtdE96b0dWNFBjcnliSUdiR0lXOGl6Tko4akNfcWpZV0tYdUtWZ1NqUVdpRFVkMHZFa0xWUWF4R29hNTVvVnhmZGdxZC1yZTFYT3Bp?oc=5",
-        "source": "MSN",
-        "timestamp": 1775628932
+        "title": "Commonwealth sport delegation visits Gujarat ahead of 2030 Centenary Games - Tribune India",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN0FIcjJ2eXVGeHFsU3J0bXVZSEtMTFp5RHVTblhQMXlVdE1QRFhOWVB2MG9mbndDT1ZqZUpaYkY3OXZoV1lrcERmZW9yTjJyMnhXTW9mX2xkR2J4ZHBHMDhlSzFSWThRYWx3NXFkYXUzdGJqbGxadXJEVWNHd1ZNbkx5VERnSlI1Zy01Wm5IbEp0TmpPOXVvWERyWGpCcGdiRnpPeTBaYUJ1ZV9sYTVjbkVZa1FtSTg?oc=5",
+        "source": "Tribune India",
+        "timestamp": 1775631019
       },
       {
         "title": "RaKai reveals death threats and claims doxxing after clash with Spanish streamer El Rubius in MrBeast challenge, fans say ‘FAFO’ - PopRant",
         "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNLVZYbV8wY0FVNFFpLVJCX1FJbnNKNUVIUWxQMFB6eDJRQ1B0cFFmLVV5Rzdfb2ZQVWE2eUpITDljcWpIbGQ1YWpUTEg1dHhRaDA1Mk54aEk4dmtzLTdVSXZWc1ZtVmNjUlVLVGMwbko1bS1Ob3REX18xT0FmMURjYlkzNVU3dUd3cTdiejg4OERiazhucl9yM0NfWG1lRWtjRnhMMDBIdFFfZWR1amZzdjFzYzRKRUJLRFdVcklyWjZFWU9qcWdCTjhRYXlhblZxbnlnWE8tSFFUaUVEdkxaY2pJVGRLN25TdzVPSnRVbmd4QkRicHZnTW9iVXc5ZnoweGt3X0UxdTFoRFVMQmZkYm5zR2M3WERjYUhwdHZPZHljZ9IBogJBVV95cUxNLVZYbV8wY0FVNFFpLVJCX1FJbnNKNUVIUWxQMFB6eDJRQ1B0cFFmLVV5Rzdfb2ZQVWE2eUpITDljcWpIbGQ1YWpUTEg1dHhRaDA1Mk54aEk4dmtzLTdVSXZWc1ZtVmNjUlVLVGMwbko1bS1Ob3REX18xT0FmMURjYlkzNVU3dUd3cTdiejg4OERiazhucl9yM0NfWG1lRWtjRnhMMDBIdFFfZWR1amZzdjFzYzRKRUJLRFdVcklyWjZFWU9qcWdCTjhRYXlhblZxbnlnWE8tSFFUaUVEdkxaY2pJVGRLN25TdzVPSnRVbmd4QkRicHZnTW9iVXc5ZnoweGt3X0UxdTFoRFVMQmZkYm5zR2M3WERjYUhwdHZPZHljZw?oc=5",
         "source": "PopRant",
         "timestamp": 1775628696
-      },
-      {
-        "title": "“I will never understand why men talk down on each other” — Lady questions gaming culture - GistReel",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTkd0cW53dnBYeTRlakh4ZEhEVkN0WUtBajhVX28yTXFmZWE3UDVrcXU1bUloeGpRY1RVOVc1SWM5MmstSl9jckRuM3NReFhXZXluNVViWEVRWUVCLTl6cG5kb09Eb2h6YVREczBzZW45WVBIaWdtVVhkU3BLU2NOUUJZckRzLVF0R2Q1OWYxZGhZNTk5NlZISHhKYWdZam1NaElGNHhtRXRoZTlEZHFzNQ?oc=5",
-        "source": "GistReel",
-        "timestamp": 1775627159
       }
     ],
     "updates": [
+      {
+        "title": "Pokémon Pokopia Updated To Version 1.0.3, Includes Improvements & Fixes - Nintendo Life",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORVpRRUNQMEE5TlFndVI3X0hxME14NFBhVDJzN0hLMFpKZGQxbUI4eElnR3hHWWhVQXA3RkpCc0JHV2ViMHlIZ0ZCM0ZobGhvcmp1SC1FY2ctTWhXZmxTRGczNTZlSFhqWEQ1R0NRWHdRcFhveHFLZWktZjBkODBiZWNoRmItM2tRRC1LTFNzYTRJWXc1N25CaXBMYnFjaFBrOFJSTV83NXJhMnZVU0hTNnJySkg?oc=5",
+        "source": "Nintendo Life",
+        "timestamp": 1775704637
+      },
       {
         "title": "Disney Dreamlight Valley announces \"Whispers of the Wind\" update [update: trailer]] - Nintendo Everything",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRGcyOU0yZEE0U0UwSU9ka25hMWhPSkZDVGZzYzZKbEZSZmdlckNBTERtRk5rUFlNbHRnOGVXY1BrRmZBLUNvSjJUam1zMUxVa0dFRHhOZEhDMFYwc3ZtWFVQTDZpOENyWmdqMjIwdWd3WGtaQllWYzNzWGhscC00MUJRSzBYZGNYZkJlOWJJMHp2V1hPbFVfeElR?oc=5",
@@ -229,16 +235,16 @@
         "timestamp": 1775664300
       },
       {
+        "title": "ARC RAIDERS Update 1.23.0 Full Patch Notes: Bug Fixes And New Vanguard Cosmetic Set Arrive - GameFragger.com",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNX2M5UFZvWFV0UWViUzRSQkxqclhnWFo2MEZDcFFyVUNUTGdacVFIMjBBTTRxU1dmLTVUT1U5YUppbFVqUjZtOGdRSlpfaHpoOXRzWGMtLWRjbjFzV2Rld244NFh5SV9uZFhCcTlqSEhkcHJiM2ZKb1Q0VXlOa0pVMTlJd1ZyRWNrRmRrdTNaSnVTNjRESF9CMHlkcGpPWklucWpCZGhMZVM1UFRZME5hSVVvSnNVOXpYclpWdUxDb0h3R1dhRk5xa3pIX0lHUjR3N0ZhWmln?oc=5",
+        "source": "GameFragger.com",
+        "timestamp": 1775664240
+      },
+      {
         "title": "DayZ Update 1.29 patch notes bring a fresh server and character wipe - Shacknews",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ub1AtY1BKc2ZNYVdOdk9HN1E5MEV6dTJsbFgxUVVtUlVvWmNScVl1VDFYN3J4QWZwWkZsaE00bUNQZEI4MjFYdGJrVUdlcm9SdkNaaFoweEFHQm5PMEFkNENmQzRCZWF4S2pEaHpoUHNUZmlVS1Jz0gGEAUFVX3lxTE1EUDB5TS1fa0c0b2VvSmNfREZOaTQ2MTEyYmRzSmMwV0VOLUtFVmJQMUNLUnlSNW9xb05aZF9aTEtQdG1vM0tBMElROG9qWGFUSFBMYUhiTU12dUZ0QkxJc0JRa1RXSXJseVJ1MDliZmZObWM0NDBNbDRraElQVlFpV0h6NA?oc=5",
         "source": "Shacknews",
         "timestamp": 1775662560
-      },
-      {
-        "title": "A Free PS5 Pro Update For Cyberpunk 2077 is Available Now - Game Informer",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbW5zQy1aR0tVUEVBdzI2RlFTeHJxYk1MTng3RE9TYml5Zmw4YTk2cVczOXd4Vlp2SEJoY0FkaHc0RlhZUWpsUWJTTnFYQWs4WExjUHFZdVFJSzVzMzkwbHRheFczTDNQX0lNOUVZYUNmRWM4dzRlNGFFNEJTZnhGTHB1Z1F0Q254XzBHcTZfS2FUa3dYcDFnRg?oc=5",
-        "source": "Game Informer",
-        "timestamp": 1775662061
       },
       {
         "title": "DAYZ UPDATE 1.29 DELIVERS PERFORMANCE BOOST, TERRAIN UPGRADES & NEW GEAR - Games Press",
@@ -299,12 +305,6 @@
         "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBhNlVNZGhXeGRxUU9tRlFITDhUblhFU1lHX1c5alI1NkduamloM3ZqTGZaV1BIclp6cW9jdUkxN0ZoY2c?oc=5",
         "source": "PUBG: BATTLEGROUNDS",
         "timestamp": 1775633969
-      },
-      {
-        "title": "F-Zero 99 Has Been Updated To Version 1.7.1, Here Are The Patch Notes - Nintendo Life",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdG5RUDNFdS1wRktjanhzYV9oWENGTTRBT1RhbWhHYndpdkEwU09hWC1MeWtCMXFpWGZhaF9ra1BCcl80T0ZVTzVNX0RnVWd2OFpjcENQRmgtSXRmX0hxb2RvUGI1a2paMmtZaGVqLUxsN0NERXM3emRGbk9mRTJkQXowU0hBTlFBSkNveHBNSG43WWFiNXlfaDFLOFY3am5MaFBpdklodi1IbHZLdEVv?oc=5",
-        "source": "Nintendo Life",
-        "timestamp": 1775626763
       }
     ],
     "errors": [
@@ -333,10 +333,10 @@
         "timestamp": 1775664443
       },
       {
-        "title": "A brutal, single-player twist on Escape From Tarkov, Road to Vostok has finally launched - PCGamesN",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTaEdlTnVxaDg5LU93TnJjb05WSFBhM01hLVRCYVN1bEVWZEY1SEl1UnhkdjBrSTU2aUZXSlJRRUNxLW1yYUtBQVVwZTBfR1ZLMHJjTkFBQjJRdFF4SjZfQkltaUViQ1Z3NDM4?oc=5",
-        "source": "PCGamesN",
-        "timestamp": 1775662607
+        "title": "Morbid Metal Early Access Launch Date and Exact Times - games.gg",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzMmtMWURSRGhJd3N0OUV6WjlnQ3JQQ01wRGJhQmdsSkNfTFRESE5XVmRrSXliWFBpTzItY29TTVYxTlVmcWNNRnNUNU44WktNRGpLbkNScDIxZ1M4eFFmUl9JYVF4LUJoV1o1WmRn?oc=5",
+        "source": "games.gg",
+        "timestamp": 1775663049
       },
       {
         "title": "Free Fire Redeem Codes (Valid Today, Updated Daily) - Free Fire Mania",
@@ -373,12 +373,6 @@
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY2VHMm81UnlIR2ZTUU14LXMtTzE5UkdjaHdYcllDejVFNEY4M2QteUdmMHRJOGtTN09kTWttN04tcnNOM1ZCZk1tZE04a2R0ODNmWW44U1Eyc0F5dVpIYl9mYXM4b2x4Q2xPdGhYTmpyajBCVEVsaC1taHB3RkpjekFpdmtIbi1uRFBuY0lTTUU?oc=5",
         "source": "games.gg",
         "timestamp": 1775624504
-      },
-      {
-        "title": "Garena Free Fire MAX redeem codes April 8: Win exciting in-game rewards and more - Moneycontrol.com",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSjdubVZmX0tDZERsRW9Ycjc2TGp4UjJlWlB2RGMyMFdkeVZKODc4bWIwZFcxbUozTUw5ckNLWThlWTY1cjdDVHlXUHlialc2REw2d3d5WGR4V1kyUlJ3QllWRExNZ3FzOEVpdjlvaVVndExsdDkyNmQ4S1lLX2MwU0x2aWkzMXkwVHFlZUZqUjQ3eTBpM214ejMzdllfZ0hXVEdKT0t2cEJveURHZzZLSkV1bUpQZlp5bnhCcWZrMVo0LXQ1LUFXUlh6UzVaZDdhM2NpSGpDbFnSAd4BQVVfeXFMTU14UTNub1NYWjNtelF6ODJmejMzUGtiSUlWVV9yNHZsOVRMMDkyVXNEaFprb18welBLTmNXekM3UVJxWEVsaTJkZldhd051NEFWT0ZtYkRIN2pvaWlsbU9pSFB2YUN3czY3SF91UGxnc0poczJtT3VoQVZBTk1Nb1NnYU9HN0x6ekpTT3dMSTNNUEdCY2NGeFBGcURaNWFvOFE0alR6Rlc1Z2lsZmc3MUtNc0NKc24wMUFGTVZ3dVRNcTU3VHlYeEUybFhzSFpZdGtlZWl3S1FWSC1QQTlR?oc=5",
-        "source": "Moneycontrol.com",
-        "timestamp": 1775621725
       }
     ],
     "guides": [
@@ -387,6 +381,12 @@
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MR0dVYThJUFRFRnFyc1dKSlZ4YXVSSThnZmVQWmhrYlVVVTl4TjZqMHNlVFhKYXFrVlBtVHY5QTMwTkpDZENsaGJleVRQMEd4QmVQbHJlUWlhRE5BODlOVV85cnlkWUZBTVQwVHJFcGtlbVY3b1E?oc=5",
         "source": "games.gg",
         "timestamp": 1775685764
+      },
+      {
+        "title": "A Guide to Super Bulldog Weekend - Alabama A&M Athletics",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbXJ2UDFja0k5UEFucFJoeDJ1N0t0bURadE8xQk8yTGdzNjR3VGIweGVoY3A2UkdRZmF4V3dnYnlYdUxaMml1QzBpMkFGQ3BPRzJuV2RkTU9CS0VXVjBMSG9obEk0WFdkZVN3cjVvcTl6M2swTlhyVmZNU183QnZuam4yanUtTUszTDZz?oc=5",
+        "source": "Alabama A&M Athletics",
+        "timestamp": 1775679529
       },
       {
         "title": "21 Best Switch 2 Games Under $25 - Nintendo Life",
@@ -399,12 +399,6 @@
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uc0w1VkdzbjI0VjJWSnZPT2RYNDl2WnBRelFjY3FlRVZDWmlXUW5FZTFhNjE2ODdvUFAtb2o1SXZfV01BSXlNdmFpR1VXeGFWM1pXaHRtWG9lWjI0SnV3?oc=5",
         "source": "PCGamesN",
         "timestamp": 1775666837
-      },
-      {
-        "title": "Masters prop bets: History is guide for special markets, same game parlays in Augusta - PGA Tour",
-        "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOUTFYUktEWTAwbFVhMlJ1SlpOX1RqeGF5bnB6R25CSjFZZzRoUXRFaTd3eXlOdDctYXdoYXB5dWh5VmduSFhDQjU1b2JnWTJ6OVhqZjJWM1Faa05XeFltdXY1TVBVT0g5WjUyTFkxc3lDdFA0VHowMWJkOTdsVm40N3gtMWVhNVlLODV6MmpvRnZhbnd3cmh5MHVUUGEydUVvN0s4dnF6QTNOekwyQVJYcHBPSzllZUZYUFROeGxnMTZQT2J3RmdKYVh5b3k2dEdob05lNl9vRjFjb0FacjFCa3JmSlI3VUk2WHQ1UXVfeGhTUzNmOU9pdEl3d1JmX2JhbEkwRDlQekFvSkVieEZtUERJMA?oc=5",
-        "source": "PGA Tour",
-        "timestamp": 1775664377
       },
       {
         "title": "Slay the Spire 2 Regent guide - strategy, builds, and tier list - PCGamesN",
@@ -475,6 +469,12 @@
     ],
     "assets": [
       {
+        "title": "Free Fire MAX May 2026 Booyah Pass: Release, Leaked Rewards, and More - InsideSport",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUmJBRG4zc0dMZnBfcEV6T3pwckRkckdGdGVMbF9hQWJLUVZQUDNtdDJmVW5sNTBWYU45YnNRdGpUbGhxLXBFUkpZOVhZVjZ5RVJuZWM3NmVhdnlmYUtDd2xDcXBnQjQ5MXBPQlA5a1BRbURRbnZqSnk3VjNsNmFidGprdElMWjZrQ0tNbkhLVzh6TWo1enluVzI4ckxGcHhWSmpUMkhoME5YSkltcXRTZw?oc=5",
+        "source": "InsideSport",
+        "timestamp": 1775703522
+      },
+      {
         "title": "Rumor: Halo Campaign Evolved Early Access Release Date Leaked - GameRant",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVEptLXFHZE5sMWwtWWRVOG1sMlBhcDNXQWhXODZhNnhnenpzU0pEaDBLRG9PenF2MWRtUE45ZFBPZksyT24wQUhTNEU0MTdxdzBEMUJoNmlMSnBPNE10TC04WkpOMjhRa3hDS1lubkwtck1ab1RWRjA1bFZzU0VMOHh5aw?oc=5",
         "source": "GameRant",
@@ -499,6 +499,18 @@
         "timestamp": 1775667687
       },
       {
+        "title": "HALO CAMPAIGN EVOLVED: New Leak Reportedly Reveals Early Access And Release Dates - GameFragger.com",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeE1SVjZENXN4SkJqaWszMndjS3hKVzQwM0pyM2l3b3lMRk1BdXI0RlMwVUZubkNHb0UtMS1Bb19uNWtNWnhnQUx4R1JLcm1mbWppSVc5bGt2NUF2YWd5dEZ6eUJPOGdKRDNLSm5VWVd4WVZaOWRFX1h6UGJfbnBqcVI5bDZYcmxKMUp5RDU4dFY4U1h0VjdTZWlpMGdQQWZxLTBtUW9JVk1KMFFfb041cFNkd0ctNzVSNTl4M3FB?oc=5",
+        "source": "GameFragger.com",
+        "timestamp": 1775660640
+      },
+      {
+        "title": "Genshin Impact Lohen Kit, Materials and Release Date - Beebom",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXLW5Td2RRaHJpWmpncTZnSDY3M0c4U2JrUXVPRE9zaXRwNzFqR3JSc21GTFMxc3EwbkQzaEE0VjlwemE3QUhPSkt0dldwQ2pqVXfSAVdBVV95cUxOaWVtblNoeFM4Unh4Wl9zOUpwdXhaZE1qSmxuY2MyU0hrYWtUZVk1N1RrclM1RXhOazdycHdYMkRSN25mQlIzYTJGRHp0RGxvVHgxVnVBb3c?oc=5",
+        "source": "Beebom",
+        "timestamp": 1775651102
+      },
+      {
         "title": "Sentinels of Light 2.0 Bundle Coming to Valorant Mobile Soon, Leaks Suggest - TalkEsport",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc0pkUGUwUVFWR0lDbWtnWmpPTmVrT2ppd2dyUE81aWNSRkEyb1F1N04xcEFBdllrYk1DVWNDWHpwcWluMzJPSHBPN2g4UGdGcGpKM3NOZjlZNzVmYjFSZHh3dExPcE1kX0ZCWWQ5RWg3bjlfQTM5UDFpSl9oRDdQYXJyZks2ZDNpRldackU0LUNkdDdBY2VGTGYxM1VpbVRjWkFjWGtuZl8yR3M?oc=5",
         "source": "TalkEsport",
@@ -509,33 +521,51 @@
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRTBHQTVHTFRRZ29INm5hRFhzMDhtekxLNWJoN0J5Y0ZlOFBwSjFvTjFubkJNaWFfdzkzYTZkMUphWFljVTNZYVJ0SkZTZWFna0JnSUxyZFR5Q3RxOS1XRWtoRGNFMUNKV09INkthSFpEMTBidzMzdy1lUUtDYlN6OXFSU2d4S09pN3M1UVkxVDk4dE9UNUZwQUtMUQ?oc=5",
         "source": "EGW.News",
         "timestamp": 1775631765
-      },
-      {
-        "title": "Genshin Impact 6.5 Luna VI Banners - Beebom",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00U0p6TkFKeUtqOTZBTmJKQjRHOHVCRTMyeTByN3VZT2NjRkFWbExrUTh6VU1OSGtCcndOaDJibjN0R0piNVdQeUM5bHowMlFoZTljMHY0b21lN1hOTHAw0gFkQVVfeXFMT2VUVFNoN0ZSeFRfWlh2a05hVlhOaGFnRHBPa19MQ1JlODkwVERQaGZZTFBiVnVrNTBPbVZQLU5lMEZUSmZMYUdTS2JRbEF2bUN1WmRGMWphUmh1Ylc1dW1aaFprQQ?oc=5",
-        "source": "Beebom",
-        "timestamp": 1775624193
-      },
-      {
-        "title": "Call of Duty: Black Ops 7 forced to reschedule event after accidentally releasing new weapon early - MSN",
-        "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOSTFsdFBOZEg5R0VyUk9IcndPM2JIMFBjcTE1ZkZGZjNlYVNJMm0yV0hBeTR4Y2xPNl9LRmFtaWZ4VHZtSGhwUERueVpSeFQ5SzhzcVVQUGRrY0MtQkVDRWtTYkQxaU54UDgwNGRyckNDYXNubHFmbVd4cUdwTG9XYkVIZXdfQUp0YmFrUmw2elpKWWg0aDVNWk9fdWVRODR3X184STRPYk5iMzMtS29HMEhoM2RHZjRmM0VTaVNtdWpUY2lxT3BBaVFOZ19Ec2wzOERxUDhvaGJCS0xSTTZtV1BDSjVNaXVlc1RrZTNVODZjQmlsekNVVU5kTVB4QmlXa0RaTVdFZV84WVM5LXpsT0htOWNRWmt3UHkyQ0YyeWlzUF9qaGxhd2ZsUVhPQndzMnhBOTZ4RG4wMm50Y0w4SGprYjk5bzF4bjJsNk1La3V2djdfYmlTRlEyTkpKLUdWazg2ZzJyMXVIVlc4VXBDMWYyVW90OEQ2VHkwbA?oc=5",
-        "source": "MSN",
-        "timestamp": 1775618169
       }
     ],
     "browser": [],
     "streamers": [
       {
+        "title": "cutesylovey receives 1 gifted sub",
+        "link": "https://www.reddit.com/r/LivestreamFail/comments/1sgfidz/cutesylovey_receives_1_gifted_sub/",
+        "source": "Reddit",
+        "timestamp": 1775708687
+      },
+      {
+        "title": "xqc gets dissed by imdontai",
+        "link": "https://www.reddit.com/r/LivestreamFail/comments/1sgf2h9/xqc_gets_dissed_by_imdontai/",
+        "source": "Reddit",
+        "timestamp": 1775707352
+      },
+      {
+        "title": "man is watching midnight in paris 4 times in isolation as a punishment",
+        "link": "https://www.reddit.com/r/LivestreamFail/comments/1sgejnq/man_is_watching_midnight_in_paris_4_times_in/",
+        "source": "Reddit",
+        "timestamp": 1775705812
+      },
+      {
+        "title": "Arky Gets Dissed",
+        "link": "https://www.reddit.com/r/LivestreamFail/comments/1sgdyvy/arky_gets_dissed/",
+        "source": "Reddit",
+        "timestamp": 1775704168
+      },
+      {
+        "title": "6ix9ine talks about his time in prison explaining how he slept on Diddy’s bed right next to Maduro",
+        "link": "https://www.reddit.com/r/LivestreamFail/comments/1sgdvzt/6ix9ine_talks_about_his_time_in_prison_explaining/",
+        "source": "Reddit",
+        "timestamp": 1775703944
+      },
+      {
+        "title": "Why Asmongold was banned: Streamer opens up on Twitch suspension - Hindustan Times",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaEV6dFFNQjdUSjZuTDhxeDBUU0tZR3dZOWd0Zm0zektncHdmdl9MQkhZV0JIemlYeVNEUlVCWUc2bTNIMzIweEdCODJyS1dPbFFxM3FxcDBTVjNhb2dSancyaVM5clFid25HTFVFZ1pzVERReENCYnp4VlFHTlM4YU9vNTJBdFp3UGwzemVfZ2VlVVpGbXN5YkZyNG44U0Nzbmc4ejdDdXd4U2dkaEZaWHhNczNZVHhNQ3lKOGFLbTZEOTgzVnQ2cUtic1BfeEE?oc=5",
+        "source": "Hindustan Times",
+        "timestamp": 1775702940
+      },
+      {
         "title": "Hasan makes his entrance",
         "link": "https://www.reddit.com/r/LivestreamFail/comments/1sgcvod/hasan_makes_his_entrance/",
         "source": "Reddit",
         "timestamp": 1775701135
-      },
-      {
-        "title": "Dem Senate candidate takes swipe at Joe Rogan after refusing to disavow Hasan Piker’s past comments - 930 WFMD Free Talk",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZFVINUc4NWZKVEpEeTl2Zkp3N2xSUU5kQlNqdzl4QTJ4M0owZmtQQllQQVZZRmViWXplaVFhTllBLVZRRjlkSGRRUTJSSGxpQnRfV05nc09WZHBmMlpZRkJVaGtxRXQ3X1VjaUZBWTJMRURpSEVzZ21vY1poQzREbUZXeDB4aXhsa3ZBVGkybG0zekpaNUhfTGxWOUxBVjFpUEdjR1hhMWNPblJjSnphNzh0UmloYTQyY0dPZGl4N2E3RGE3aGZpaFVhbw?oc=5",
-        "source": "930 WFMD Free Talk",
-        "timestamp": 1775701007
       },
       {
         "title": "Crime Simulator Sneaks Onto PlayStation 5 - Gameindustry.com",
@@ -598,12 +628,6 @@
         "timestamp": 1775680490
       },
       {
-        "title": "PSN Leaks Reveal Best PS1 Games Coming Back Going At This Website (9Sy5FRaYj4) - Mshale",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jQ2gzN1pZREJRM3RRTjJfczJ1MEZFQzU3eWxZQnQ5SGtuNkhqVTRVbGI2MkphTFVaSTVsc1pwRDBpdDAwSVdDVzdwQklDWkpZb3JFS05PZktyci1JTjJLb3BWaw?oc=5",
-        "source": "Mshale",
-        "timestamp": 1775678697
-      },
-      {
         "title": "Forsen finds BILL TIN apartment",
         "link": "https://www.reddit.com/r/LivestreamFail/comments/1sg3ah9/forsen_finds_bill_tin_apartment/",
         "source": "Reddit",
@@ -616,34 +640,10 @@
         "timestamp": 1775675423
       },
       {
-        "title": "Jynxzi in disbelief as he loses a 1v1 twice in a row to Mooda, who has only 27 hours in the game",
-        "link": "https://www.reddit.com/r/LivestreamFail/comments/1sg217o/jynxzi_in_disbelief_as_he_loses_a_1v1_twice_in_a/",
-        "source": "Reddit",
-        "timestamp": 1775674672
-      },
-      {
         "title": "Minecraft: All Tiny Takeover Twitch Drops and How to Claim Them - Our Culture",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU1Z1dVhsV19fdURKWEFCb0FyRUxNbXEwTnl1NHNWYlZhRWhHeS0wYlc0T28zdGhsc3lxZTI2UWJUOFh4b3ZCeFpZeHAzb2Q0YmxEUEZnSEpxT1N4dkFoNjhoam9aYWxDb3kxR3lnV2NvU19ZNXRFT2pzS0s5UGo1YjNicXIxcXNxWm5MbjMwdUk2dzVnTVpjVExPWlZWSlhKV3c?oc=5",
         "source": "Our Culture",
         "timestamp": 1775672930
-      },
-      {
-        "title": "YouTube prankster yells \"gun\" in crowded movie theater and police let him leave... proceeds to upload the video anyway incriminating himself and is arrested",
-        "link": "https://www.reddit.com/r/LivestreamFail/comments/1sg0x6s/youtube_prankster_yells_gun_in_crowded_movie/",
-        "source": "Reddit",
-        "timestamp": 1775672271
-      },
-      {
-        "title": "BigJonfr Poor Outfit Decision in Miami",
-        "link": "https://www.reddit.com/r/LivestreamFail/comments/1sfzvsx/bigjonfr_poor_outfit_decision_in_miami/",
-        "source": "Reddit",
-        "timestamp": 1775670057
-      },
-      {
-        "title": "How to watch the Triple-i Initiative showcase on April 9 - Engadget",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ2hOV25FZVcyUXhmcl9laTMyMEtSb2dtSU5ZMEtEVkNJWVRXbDRMWXVscU9mcDc0YV9Gd3Vtc2FaSnprN21pcU5yQnd5cDlrcDcwbkxJVnphMmJZUmVOSl9VS2xWVTlHYU4zYnFlNVdVUzc5Z0dudEZ1YmRiNU93dkF2SVlxSGpXdDNreVlBZFpQOHJYWGVGRzNqaWprT1lfNFJqVVh3?oc=5",
-        "source": "Engadget",
-        "timestamp": 1775667833
       }
     ],
     "mobile": [
@@ -673,7 +673,7 @@
       },
       {
         "title": "Google may be planning a gaming console-like mobile experience with Android 17: Here’s what may change - MSN",
-        "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQMTd5N1NSSXR3dWtQdGxrRW41Q195WU9WckJseEk2MGVKVnM2R19YZS1uUnJSQ3BMUmM5ZDd4VEFPZ1ljWlA1T0VXMFNZM0szQlJOd3VVaW5IRDVKdFo0WTlZSURmODlNa2RmYm9xTVlCeU9IS2l4cE5HcndNRWVYNjZ2amlSVlg4QTdLbUE5LXFURzdBdEpONlE1aDFfSlFnemJXa1pHNGEzYnNDQ2UzQWZhQ3JibUd5UUc0OTZmTlFRalZwajRrV0VYYmlRMUhtY2F0d3RvMHFSQzBvYWI2SG9qTkgxcGlUaV9Wd3h4a3UwdGp6UGc3T2Z3dHpKT0F2YW9oXzI2Y1hLWWtOSXZNdlFpTkJVU1lzbVQxNjdKX05NQW1hcEFUOUtFZlRCZTcwazhuZGV0WVotOHJEVy02aDRXYWhoQ0gxV3F4bXFjUVo2T0NUSkdwa3A0UTItZXhya3kySmpvZ1Zyb1dQcmhsamhxREZwNGp4N0E?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxQSEJSbWNqUnFLZ2ZCS2ZzQkRuaUhBWjZXX1FqeUV4NWpvdGFwZnVza0VkLWIydHV5ZHdTRWk3TlhEUlpsdThHWlRVb0dkNkZrYy02VWduOVhNR09oUF9oSDE2Q002WjZCZGV6MnFqWjZLQ0NtWDdXM0JHQ2M2Y0Z0QkhMSTNJM3dkTUl0VWlRSTNLdHlSUUpWa00tRGZCdTNwdW9sM2p6NEtVcU45eUJMVXVJZWQ4U3BQTi1ZWlVnR1BDYlExYWtXT0Z5aG5GSE40cEwyMDhUc1l1WFluN2dhaFpZR0FmcmdDZUtEaDZOMmtMUi1QY0VRcjBlN1RBbjAxM0lWYnVfcE12NWtxVmpnQXg4OUhLV0lUd3oyNFBRV1p4S3Z1TlBZaWlnYkhZQ0xFQk9KZVBRdWpuWk9fdG16dnNHMTk1UmlXa2FxS1ZjT1lDZDFjdFdFZnpSb2s4MlZBdHRHc2U5ZThZTVNTSE5Xb0VTSFdXeDlhUjB3?oc=5",
         "source": "MSN",
         "timestamp": 1775668755
       },
@@ -740,16 +740,70 @@
     ],
     "all": [
       {
+        "title": "cutesylovey receives 1 gifted sub",
+        "link": "https://www.reddit.com/r/LivestreamFail/comments/1sgfidz/cutesylovey_receives_1_gifted_sub/",
+        "source": "Reddit",
+        "timestamp": 1775708687
+      },
+      {
+        "title": "Shanghai rolls out measures to support gaming and esports industry - citynewsservice.cn",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOczM5NmJKSVlHR0psaVZLVng5cnBHN3FFdmJKaTZURXBSNXpVWG9tdmplRzRjUzhtWjVfanhjVmhuZmJGOU82cVJyV3p0M2FFMjZsT1RsSnV0OFlER2dlQzRvRlJVZGN4bVZ0YzF2aFBEbkJzVGg0bE42T0ZiWnpnaG91YTl4RDE1Nk9sMEk5b0ExRTFBZjFlQnFsX3FZZDItUVgtdTl2VVlERkR0NUdFTHBQMGRzZHhLTU9OcGhqeDgxRWVQWkMtRw?oc=5",
+        "source": "citynewsservice.cn",
+        "timestamp": 1775708010
+      },
+      {
+        "title": "xqc gets dissed by imdontai",
+        "link": "https://www.reddit.com/r/LivestreamFail/comments/1sgf2h9/xqc_gets_dissed_by_imdontai/",
+        "source": "Reddit",
+        "timestamp": 1775707352
+      },
+      {
+        "title": "man is watching midnight in paris 4 times in isolation as a punishment",
+        "link": "https://www.reddit.com/r/LivestreamFail/comments/1sgejnq/man_is_watching_midnight_in_paris_4_times_in/",
+        "source": "Reddit",
+        "timestamp": 1775705812
+      },
+      {
+        "title": "Pokémon Pokopia Updated To Version 1.0.3, Includes Improvements & Fixes - Nintendo Life",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORVpRRUNQMEE5TlFndVI3X0hxME14NFBhVDJzN0hLMFpKZGQxbUI4eElnR3hHWWhVQXA3RkpCc0JHV2ViMHlIZ0ZCM0ZobGhvcmp1SC1FY2ctTWhXZmxTRGczNTZlSFhqWEQ1R0NRWHdRcFhveHFLZWktZjBkODBiZWNoRmItM2tRRC1LTFNzYTRJWXc1N25CaXBMYnFjaFBrOFJSTV83NXJhMnZVU0hTNnJySkg?oc=5",
+        "source": "Nintendo Life",
+        "timestamp": 1775704637
+      },
+      {
+        "title": "Arky Gets Dissed",
+        "link": "https://www.reddit.com/r/LivestreamFail/comments/1sgdyvy/arky_gets_dissed/",
+        "source": "Reddit",
+        "timestamp": 1775704168
+      },
+      {
+        "title": "6ix9ine talks about his time in prison explaining how he slept on Diddy’s bed right next to Maduro",
+        "link": "https://www.reddit.com/r/LivestreamFail/comments/1sgdvzt/6ix9ine_talks_about_his_time_in_prison_explaining/",
+        "source": "Reddit",
+        "timestamp": 1775703944
+      },
+      {
+        "title": "Free Fire MAX May 2026 Booyah Pass: Release, Leaked Rewards, and More - InsideSport",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUmJBRG4zc0dMZnBfcEV6T3pwckRkckdGdGVMbF9hQWJLUVZQUDNtdDJmVW5sNTBWYU45YnNRdGpUbGhxLXBFUkpZOVhZVjZ5RVJuZWM3NmVhdnlmYUtDd2xDcXBnQjQ5MXBPQlA5a1BRbURRbnZqSnk3VjNsNmFidGprdElMWjZrQ0tNbkhLVzh6TWo1enluVzI4ckxGcHhWSmpUMkhoME5YSkltcXRTZw?oc=5",
+        "source": "InsideSport",
+        "timestamp": 1775703522
+      },
+      {
+        "title": "Why Asmongold was banned: Streamer opens up on Twitch suspension - Hindustan Times",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaEV6dFFNQjdUSjZuTDhxeDBUU0tZR3dZOWd0Zm0zektncHdmdl9MQkhZV0JIemlYeVNEUlVCWUc2bTNIMzIweEdCODJyS1dPbFFxM3FxcDBTVjNhb2dSancyaVM5clFid25HTFVFZ1pzVERReENCYnp4VlFHTlM4YU9vNTJBdFp3UGwzemVfZ2VlVVpGbXN5YkZyNG44U0Nzbmc4ejdDdXd4U2dkaEZaWHhNczNZVHhNQ3lKOGFLbTZEOTgzVnQ2cUtic1BfeEE?oc=5",
+        "source": "Hindustan Times",
+        "timestamp": 1775702940
+      },
+      {
+        "title": "‘Absolutely perfect’ Apple fave now on sale - News.com.au",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQalpjTTlPTEJOdzJ5VWtwN2hHdHFsd3pVT3EzZXpmNzJmVG52M3hmbGFlWjQ0U19LRGxSQVVZc3ZwZEpnejBHbUlOcTFiYWJad18tQjlEMVdrbnNVRmYwTUxHMFRlZ2hjRFppOXAxUzN6OXppOUdYUy01WVM4cjNsSlFCVWJNcXptWkZCcjhmZ0VqdkYzcmYycHZCbGhCUXpZZllNeG9jdWxwbGlnNmpVclNlc3ZTb1RVQy1aU0RwX3hqTDZYM3lITmJyQdIB0AFBVV95cUxNWS14U0NZNm0tcTVzUl80b2JuWmVRalZLWHBnckRKdU1CM2UxX2JXNnMyS1FIZ2RHZ21iZ3dSbldJU1dPNEpUZF9wcEVSTXdNLVpoQURtUy0zUUQxRXJlNTNnZnp2cXhFTF9wTDExblM4VnoteDhSTmVNMHlqX3RyYnd3ajlYLUV6NEI2YXUxNEZHOGg3SFBBNTlCX2tYTFZOT2h3QnR4SzRmUVhKTWpPSVRTTkxIcnVUTzVTMElKSVpGdE9VZmdRS3ZMUjhsVFIz?oc=5",
+        "source": "News.com.au",
+        "timestamp": 1775702040
+      },
+      {
         "title": "Hasan makes his entrance",
         "link": "https://www.reddit.com/r/LivestreamFail/comments/1sgcvod/hasan_makes_his_entrance/",
         "source": "Reddit",
         "timestamp": 1775701135
-      },
-      {
-        "title": "Dem Senate candidate takes swipe at Joe Rogan after refusing to disavow Hasan Piker’s past comments - 930 WFMD Free Talk",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZFVINUc4NWZKVEpEeTl2Zkp3N2xSUU5kQlNqdzl4QTJ4M0owZmtQQllQQVZZRmViWXplaVFhTllBLVZRRjlkSGRRUTJSSGxpQnRfV05nc09WZHBmMlpZRkJVaGtxRXQ3X1VjaUZBWTJMRURpSEVzZ21vY1poQzREbUZXeDB4aXhsa3ZBVGkybG0zekpaNUhfTGxWOUxBVjFpUEdjR1hhMWNPblJjSnphNzh0UmloYTQyY0dPZGl4N2E3RGE3aGZpaFVhbw?oc=5",
-        "source": "930 WFMD Free Talk",
-        "timestamp": 1775701007
       },
       {
         "title": "This Ed Fries Podcast Interview on Today’s Gaming Industry Feels Different - OpenCritic",
@@ -774,6 +828,12 @@
         "link": "https://www.reddit.com/r/gaming/comments/1sgb8oc/congrats_avgn_and_cinemassacre_crew_to_20_years/",
         "source": "Reddit",
         "timestamp": 1775696668
+      },
+      {
+        "title": "What song makes you instantly think of a video game? I’ll start, ain’t no rest for the wicked - Borderlands",
+        "link": "https://www.reddit.com/r/gaming/comments/1sgaxqb/what_song_makes_you_instantly_think_of_a_video/",
+        "source": "Reddit",
+        "timestamp": 1775695852
       },
       {
         "title": "Android 17 Enhances Gaming Experience with Button Customization - صوت الإمارات",
@@ -810,6 +870,12 @@
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRGcyOU0yZEE0U0UwSU9ka25hMWhPSkZDVGZzYzZKbEZSZmdlckNBTERtRk5rUFlNbHRnOGVXY1BrRmZBLUNvSjJUam1zMUxVa0dFRHhOZEhDMFYwc3ZtWFVQTDZpOENyWmdqMjIwdWd3WGtaQllWYzNzWGhscC00MUJRSzBYZGNYZkJlOWJJMHp2V1hPbFVfeElR?oc=5",
         "source": "Nintendo Everything",
         "timestamp": 1775691600
+      },
+      {
+        "title": "A year later, up-and-down tariffs and rising costs continue to loom over gaming suppliers - igamingbusiness.com",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUTNDZ2VVRUZZWC1lZ3RkOTlPaU5nakdOa3paQnlKdl9iZTBmUi1IT0hjNUc3ekNxVzEzbFJwNHBDUFd1N3h6LVlZMl9RVE0wMTFkRFZPTWJLeFhmSXJNRFRZRGptN3pCYmcwR005anNETGtGenZoempKZm5YaTQyVHViSmc2SU5Tc0ctZkp0cy13eV82eXZYZQ?oc=5",
+        "source": "igamingbusiness.com",
+        "timestamp": 1775690846
       },
       {
         "title": "Lirik wants to speak to the manager",
@@ -890,10 +956,10 @@
         "timestamp": 1775679598
       },
       {
-        "title": "PSN Leaks Reveal Best PS1 Games Coming Back Going At This Website (9Sy5FRaYj4) - Mshale",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jQ2gzN1pZREJRM3RRTjJfczJ1MEZFQzU3eWxZQnQ5SGtuNkhqVTRVbGI2MkphTFVaSTVsc1pwRDBpdDAwSVdDVzdwQklDWkpZb3JFS05PZktyci1JTjJLb3BWaw?oc=5",
-        "source": "Mshale",
-        "timestamp": 1775678697
+        "title": "A Guide to Super Bulldog Weekend - Alabama A&M Athletics",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbXJ2UDFja0k5UEFucFJoeDJ1N0t0bURadE8xQk8yTGdzNjR3VGIweGVoY3A2UkdRZmF4V3dnYnlYdUxaMml1QzBpMkFGQ3BPRzJuV2RkTU9CS0VXVjBMSG9obEk0WFdkZVN3cjVvcTl6M2swTlhyVmZNU183QnZuam4yanUtTUszTDZz?oc=5",
+        "source": "Alabama A&M Athletics",
+        "timestamp": 1775679529
       },
       {
         "title": "Morocco, Huawei Sign Gaming Industry Deal at GITEX Africa 2026 - Morocco World News",
@@ -944,12 +1010,6 @@
         "timestamp": 1775674740
       },
       {
-        "title": "Jynxzi in disbelief as he loses a 1v1 twice in a row to Mooda, who has only 27 hours in the game",
-        "link": "https://www.reddit.com/r/LivestreamFail/comments/1sg217o/jynxzi_in_disbelief_as_he_loses_a_1v1_twice_in_a/",
-        "source": "Reddit",
-        "timestamp": 1775674672
-      },
-      {
         "title": "Cicero crash linked to gaming parlor burglaries; police say 2 officers hurt - AOL.com",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ISkIxNTl4Q3M5dndPM2Y2eWlwaXRDcWhRNUtCNENXWktxN0w0RHN3elFiZmNXS3pRQzBiZDRkbXBsQzh6STJVYkhLVU1DN3laX1FEdXZfc3pMOEZYVlRScUtLdVRITVhNME1jR0oxMkRhQ1RqYU9EODlaLW1VZw?oc=5",
         "source": "AOL.com",
@@ -978,66 +1038,6 @@
         "link": "https://www.reddit.com/r/gaming/comments/1sg0z8v/a_closer_look_at_mt_haruna_aka_mt_akina_in_forza/",
         "source": "Reddit",
         "timestamp": 1775672389
-      },
-      {
-        "title": "YouTube prankster yells \"gun\" in crowded movie theater and police let him leave... proceeds to upload the video anyway incriminating himself and is arrested",
-        "link": "https://www.reddit.com/r/LivestreamFail/comments/1sg0x6s/youtube_prankster_yells_gun_in_crowded_movie/",
-        "source": "Reddit",
-        "timestamp": 1775672271
-      },
-      {
-        "title": "Anime Overload Codes (April 2026) - Beebom",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nVGMzZ3lpQVZ5MWZPMG9oVjN4QzZTZEJWam9BMnc2V1dpV1JvaVozNDNlUHJKVFZXZkVSbWFfU1dYcy1vWXBtN0hYVW1RTXloZmfSAVdBVV95cUxNT19PRjZGbGc5UzZGaUNZVmYyUXJIa1B0WGdfRkNweTJ5eDRRbndaMVhMMVd1SG9hVXV0VktkTU5JRHNiT0tOLVRwUzAxRnhEYmFTVjRERkU?oc=5",
-        "source": "Beebom",
-        "timestamp": 1775672154
-      },
-      {
-        "title": "Genshin Impact 6.6 Leaks Review: New Characters, Boss, Artifacts & Weapons - VPEsports",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1TbUNVZEtRNmdGX3JKaGprMnk4a1pyS0VDb2pvQ3JwVVRZRkxVeU5jNTFMRGwwbFNPaWp5MVBvdWlPZnJPZXpfYm8tbE45SXg0RGlRdUdXYnE3eG1UeEpTUlRlU2VUc1dPN3duYjBDY2dXUkZzd2JVcFBB?oc=5",
-        "source": "VPEsports",
-        "timestamp": 1775671894
-      },
-      {
-        "title": "Claude AI down? Users say chat and code features aren't working | Hindustan Times - Hindustan Times",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOakF2ZzBYbExWLWNuNEdId1ktVmdrSTdpdkFkbGpVdV9BQ2FIVHJSWFZPalpqdVlhWU54VzZRMC1CU3h1MUkzOWd0NjBINENQeDR5TTgwS2V1dzNUd1VEMndzUUtjaFhaZHNhVDd1U2o1ZXhnQzZNV0xqM2tkUVVWOWF5dGlJbGV1MGN5VHBKa1BLOVBVNl9JYzRvSW9XUU9kWnNUWGFiNTNKaGJBRUE4SndyOUQ2R3FlR0NlSHpBRkRQbTVhb1VmMmNTSnDSAdIBQVVfeXFMUGZmTGpEQ1VPU05pRzlmc2ZYakpjSHVRcGJ0d0V4Q2VjVjVhVjY1TGFuWWFMc2Ridm1ORlBLODRfbERfTGxkRUNETXd0d0RRZkI4a1VZbmR4R1ZXT1MycEhiWWd6OFhVcmRUOWdDRjAyVHlsQjRXZ0NOWTVjZFZqcTNzSW8zYVlVeWdtdFZadG5OVVgyQXZzSWlScm1YcHpHcVBJTnktZUo3cks2LTZoT3dOOGZYYmVjRXZWc09JZjlVcGV4eTN1a2lWUDU0anM1X3BR?oc=5",
-        "source": "Hindustan Times",
-        "timestamp": 1775670595
-      },
-      {
-        "title": "BigJonfr Poor Outfit Decision in Miami",
-        "link": "https://www.reddit.com/r/LivestreamFail/comments/1sfzvsx/bigjonfr_poor_outfit_decision_in_miami/",
-        "source": "Reddit",
-        "timestamp": 1775670057
-      },
-      {
-        "title": "Google may be planning a gaming console-like mobile experience with Android 17: Here’s what may change - MSN",
-        "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQMTd5N1NSSXR3dWtQdGxrRW41Q195WU9WckJseEk2MGVKVnM2R19YZS1uUnJSQ3BMUmM5ZDd4VEFPZ1ljWlA1T0VXMFNZM0szQlJOd3VVaW5IRDVKdFo0WTlZSURmODlNa2RmYm9xTVlCeU9IS2l4cE5HcndNRWVYNjZ2amlSVlg4QTdLbUE5LXFURzdBdEpONlE1aDFfSlFnemJXa1pHNGEzYnNDQ2UzQWZhQ3JibUd5UUc0OTZmTlFRalZwajRrV0VYYmlRMUhtY2F0d3RvMHFSQzBvYWI2SG9qTkgxcGlUaV9Wd3h4a3UwdGp6UGc3T2Z3dHpKT0F2YW9oXzI2Y1hLWWtOSXZNdlFpTkJVU1lzbVQxNjdKX05NQW1hcEFUOUtFZlRCZTcwazhuZGV0WVotOHJEVy02aDRXYWhoQ0gxV3F4bXFjUVo2T0NUSkdwa3A0UTItZXhya3kySmpvZ1Zyb1dQcmhsamhxREZwNGp4N0E?oc=5",
-        "source": "MSN",
-        "timestamp": 1775668755
-      },
-      {
-        "title": "How to watch the Triple-i Initiative showcase on April 9 - Engadget",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ2hOV25FZVcyUXhmcl9laTMyMEtSb2dtSU5ZMEtEVkNJWVRXbDRMWXVscU9mcDc0YV9Gd3Vtc2FaSnprN21pcU5yQnd5cDlrcDcwbkxJVnphMmJZUmVOSl9VS2xWVTlHYU4zYnFlNVdVUzc5Z0dudEZ1YmRiNU93dkF2SVlxSGpXdDNreVlBZFpQOHJYWGVGRzNqaWprT1lfNFJqVVh3?oc=5",
-        "source": "Engadget",
-        "timestamp": 1775667833
-      },
-      {
-        "title": "Free Fire Booyah Pass May 2026: Release Date, Leaked Rewards, and More - InsideSport",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQVJjTHJSSm5XMk1FOHoyMy05VFpObldGRWhLRjFuRmlMSUNJeHRaMjY5di1iNFhteDh5QXByd3htQWZhYkREY1FQQWxnMWxPbDZRTTk0NFFiQWhrN2wtYTFERUY2NjlRdV83ZzRNdUZSN2p0bEoxNE53eUdIQnNIQy10c2taRU1uSlF6Vjg2SUR1dlNaZzhwUEh2WVF3M09hNzZYcXVGV2xBUXVzVnFkNHlR?oc=5",
-        "source": "InsideSport",
-        "timestamp": 1775667687
-      },
-      {
-        "title": "21 Best Switch 2 Games Under $25 - Nintendo Life",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wWDdRcndHT3RDMGtXQTk5V3d2bzZWOEhRRE9zT3JxVzJ4RVBGaUowYlJHLXVmbGMyT0prdUY5c21GdG9wd1FjVnFMZEF3cHB5YURqVk5MWFdMVHNmZF85SW5qZlJzaGVwUDQ4X0tfaWMzeGVmZWV1S2tB?oc=5",
-        "source": "Nintendo Life",
-        "timestamp": 1775667600
-      },
-      {
-        "title": "No Man's Sky with 42nd free major update!! The ten-year-old game is still being developed with new free content. Pokemon in space!!",
-        "link": "https://www.reddit.com/r/gaming/comments/1sfyidb/no_mans_sky_with_42nd_free_major_update_the/",
-        "source": "Reddit",
-        "timestamp": 1775667159
       }
     ]
   }
