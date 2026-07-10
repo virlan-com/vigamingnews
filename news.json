@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-07-10T00:09:09Z",
+  "last_updated": "2026-07-10T04:14:03Z",
   "data": {
     "top_stories": [
+      {
+        "title": "How do you put a price tag on a legacy like id Software's? - PC Gamer",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUHdkT25oNVhqbjIxTlVrSWZsRzFkaTFOUks5NVJiNEJ5NGU1bXFBS2k2UG43NGFqeU01cTNrYjZOa0hzMGRmcG01Rnd3ZnVEM3lhMmtBTHZjcWNTYjdnbHY1UGlDV2NBSmE1SGhPdW5nMmo2bkRLZGdpV2xmZGFyYzFRM2Q2U0hydURxbEdVVGFWUldXWXBtNGVwVmdaZw?oc=5",
+        "source": "PC Gamer",
+        "timestamp": 1783641577
+      },
       {
         "title": "John Carmack reacts to massive layoffs at id Software: 'My 'Microsoft will probably be a good steward of the brand' statement isn't aging well' - PC Gamer",
         "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQaG9EYWQ0dkpVNi15QkFCSG9xTVFsTUFmeUdPeEtrejFOTFFCa3UtNl9OeW9DNVRlSGxrM0c1aUFHZDdoSXhscF9zRlBlWk5OSWJBNGtxTnh4R21ydFJRMjVwRUdMdVNyeWQ2QkRWQllaeHZySDB5V0lUaUNIeTdvN2pFLU5mb3p5dS1ZeEh6bjU5akVkNE1YNDVNZGhhdndCS1Q0RjY5RlBlQUR5bFA0TkRYVHBxQnotTE5JNVVTcU1PbmFIRW5FSTlyWVNQMWVzNFNpUFZabmFaVjVjRmQ4ZDQwNU85YXNBNklHRGpMaHBtRmhEMG1MZ0tLRVMzZ2RPYkEwWS1zdUVnUQ?oc=5",
@@ -13,12 +19,6 @@
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV2h0SGtseF9ocnBtcjRQTUxoUUU4ZXBhT2J2Z2IyZUM5X0YtX0t6OVpFd1A0bnJhZ1oxcjBtTXFtVG04WHpPNV9hMjhBcnVSeFVYVTlrVDBqczRha1Vxd3BvQTYwZzlDS1ZKTVlxNVBOX2JsMlZmT1BLODFFbF9qbjF0UE1lQUp2VXR1VjdmSHpxZHhLTFJ1dkdNejNzQjZx?oc=5",
         "source": "GeekWire",
         "timestamp": 1783633662
-      },
-      {
-        "title": "US Federal Reserve taps Xbox CEO Asha Sharma, who just laid off 3,200 employees, to lead task force on jobs - PC Gamer",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbWJ6UjUtdFYyZGhzdnNvWlZPMEU1V254aF9Pb1ZsdGJPQ2xLMFllNVRVank4aXA4WEduMmFzZlQzSTVWcmRuZkZqcS1tcTFrOXNidTkzSzRHQzBSNWpiaENoQ1ZsX3F2bS1ZUVpOWEpLdWhvajhsZS11YjNzcVlLYVA3Y2N1dm1vNjlLblF4ZXBRX0dMdE1tYWFjNHB2bzFDZ0lST0JqMFgxSzBVWGFkWVhtMnNJdUZXNXV2S2pjcXJZZGR2aEV6VEtoMmZ5T3lxdkxPYm9jdVFGc3FvRi04?oc=5",
-        "source": "PC Gamer",
-        "timestamp": 1783631460
       },
       {
         "title": "Fans grow restless as GTA 6 marketing stalls ahead of release - MSN",
@@ -33,16 +33,16 @@
         "timestamp": 1783629918
       },
       {
-        "title": "Xbox cuts 3,200 jobs as gaming business struggles - aol.com",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qTUE1RFBWUnctdEZJUkYySzJ5eE1ud09ZYUdfT0RwblhsamlVLWxfcXl6ODk4c3BLb0RtQTVtUnVBT1RCM1QzV2hOaXJybHlJLWNDbDJkc3o4RzkxZlI2NjZ4em94Q0cxZ2NwZDd6ejY2RjN6Nkx1bA?oc=5",
-        "source": "aol.com",
-        "timestamp": 1783619513
+        "title": "Danville gaming store owner reacts to Sony moving games fully digital - WCIA.com",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQXY2RW1oeU8waEFzUXFjaUptMFpBUzVYcnVVcV85aXdJTzVEeDRzWV9HOExqWktkZDZQSklhYlE2TzdKVlg3NVdUNlg1SlJNOVlKWTlPd01tN2pobVV6R195MmRFcXRESi1iTVZXdTJ5aHF5WXlxQTM1Q2JlMW9ucmJvLXBkVmswX0V5akZ0S2JSZ29qWm5jazZIOG5Wb09hdEZPNlJTeHNmWFg2T29McGU3TXU0aHZK0gG4AUFVX3lxTE5BdjZFbWh5TzBoQXNRcWNpSm0wWkFTNVhydVVxXzlpd0lPNUR4NHNZX0c4TGpaS2RkNlBKSWFiUTZPN0pWWDc1V1Q2WDVKUk05WUpZOU93TW03amhtVXpHX3kyZEVxdERKLWJNVld1MnlocXlZeXFBMzVDYmUxb25yYm8tcGRWazBfRXlqRnRLYlJnb2pabmNrNkg4blZvT2F0Rk82UlN4c2ZYWDZPb0xwZTdNdTRodko?oc=5",
+        "source": "WCIA.com",
+        "timestamp": 1783625011
       },
       {
-        "title": "Only 8% of gamers are strictly against AI-generated content in Steam games, according to a study - WN Hub",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82cG5ja0hGTVhJZjVwQWllSE1jVTd6VVZscDJFMTRsaUc1YWh6M1BuZXBPYU1oS1h0R0tjV0ZsOGNTR3BjUzBXS08tVHZpM2JfZUI3RA?oc=5",
-        "source": "WN Hub",
-        "timestamp": 1783616724
+        "title": "Xbox cuts 3,200 jobs as gaming business struggles - AOL.com",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qTUE1RFBWUnctdEZJUkYySzJ5eE1ud09ZYUdfT0RwblhsamlVLWxfcXl6ODk4c3BLb0RtQTVtUnVBT1RCM1QzV2hOaXJybHlJLWNDbDJkc3o4RzkxZlI2NjZ4em94Q0cxZ2NwZDd6ejY2RjN6Nkx1bA?oc=5",
+        "source": "AOL.com",
+        "timestamp": 1783619513
       },
       {
         "title": "SBC Highlights Latest Exits & Hires in US Gaming Industry - sbcamericas.com",
@@ -57,10 +57,10 @@
         "timestamp": 1783610280
       },
       {
-        "title": "Games industry M&A reaches $2.3bn in Q2 2026 - Pocket Gamer.biz",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QX0g4NHNKN3FVdzBRRFJmM3ZQUlpfYkxLTjJzZDhrMVJDQ0lBblRzUUpNS3luQmM1UU1LUlhpczJrU3hiTld6aGxEZFVWZkEtV1hZZFl1bmloMng4VmozYTd6STZGVVc2dHJXSmpRUWtvNjdyRXFjSHI4NXVWZw?oc=5",
-        "source": "Pocket Gamer.biz",
-        "timestamp": 1783607100
+        "title": "Supercell introduces a new grant program offering equity-free support to game development studios located in Africa - WN Hub",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14MEZjQ2E4a25fcUFlaXpWZDFBZDhTQmJyTEVkcVYyUFJ5TWw2TE9aMUx4c1BNc0VHUld6UUM2UFpOQlQyTVlPVmxfLUo1T0Y1OGtEUjJPU0tfVEU?oc=5",
+        "source": "WN Hub",
+        "timestamp": 1783605006
       },
       {
         "title": "Niantic is rebranding the Pokemon Go games division under Scopely as Scopely Explore - Massively Overpowered",
@@ -87,13 +87,31 @@
         "timestamp": 1783595651
       },
       {
-        "title": "Analyst names the main reason for Xbox Game Pass problems - games are not to blame - ixbt.games",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWmRMS1NOVk11UU04cjhDZUt3Z2U2aWhFOTJaTUYtbndMMXRpNWFUdTNCR09aRGE0dWtEeDJHd2wtS0NQXzk2aXkwMmxDek9RRkM3REhzVjltQUd5R0Y5czM5VHotbVZydlF0eTZsd09HY0NkZEdBVXhocWNaUnpIdDQxV09kMVhsN25sTEdjanowRTBvQWJqenZzY2pPR3NhSXFoOUFfLUJveVNiSVJLT1g0dE1yWENWYXJZREFGa9IBxAFBVV95cUxPc3FrRjdyeUZ6dzB0MDh1bnN4Z20tMUdtSTlDODJEd2d1c3R4RktJNllIUlFYaUFYLUw2ZmVzcURwZ1VCaHpFRUh3eXZ3by1JbHZlcHE2QWIzVlhfMGktYXJQYlNRdXdpbWxaOExFckQ1ajFwMFBkalpmV0NUbmxJZFVPbkZGSnFZOVVWcWlKUFptN2hIcE16Sk9fZ0IzM1NBX2xfTElULTRZZk84Skpibk1LcFpjOEJFeEF4S215R3BNM1B2?oc=5",
-        "source": "ixbt.games",
-        "timestamp": 1783581628
+        "title": "Bungie and Sony settle lawsuit with former Marathon director for undisclosed amount - GamesIndustry.biz",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQnJxMzh6RnZ1cEtseGxpaGZvelpxMHhobmljcm85Y2RwR2xEZEg1NkZBY2o3VDVfMU9nOVQ1ZG5CdEhHcmFyUW44WU9tY1M5bURRZ284Z1VMRnZFa0o5YnJtU0lUV2o3MG44NXk2RnVfeEh5TzRfVFh5dzZfV0RmVE9GSmd6Q2lIbnhQa0ZBZnNteHlpdXJ3UmdwNHhUUHotZlVDNjB2b3czZ1dlYTFYcmhoZw?oc=5",
+        "source": "GamesIndustry.biz",
+        "timestamp": 1783588305
       }
     ],
     "viral": [
+      {
+        "title": "TIL that this little robot in Metal Gear Solid 4 was made out of a PS3 and it has the CELL Processor in it, and Snake controls it with a DualShock 3 controller",
+        "link": "https://www.reddit.com/r/gaming/comments/1us9dkf/til_that_this_little_robot_in_metal_gear_solid_4/",
+        "source": "Reddit",
+        "timestamp": 1783646483
+      },
+      {
+        "title": "Reader’s Vote: The Best Scary Games To Play With Friends IRL - AOL.com",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfRVFSeWJKY04weTFLVnVtTTJOOHRoV29wTzdjTHZjR2RZNWExUmg5TjM4QTFXMHh1YW42eUJyTlRUOVkycE0xTVl4RHhnc0dfODFJekJSUUE4NFVPbkhkbnJpMzR5ZXpibFMzMzk1NFczMVdPa2Z3Z1JSVTg?oc=5",
+        "source": "AOL.com",
+        "timestamp": 1783646169
+      },
+      {
+        "title": "My son got in trouble at school and as a parent of a child who doesn't get in trouble often, I didn't know exactly how to punish him, but I think I figured it out.",
+        "link": "https://www.reddit.com/r/gaming/comments/1us7qun/my_son_got_in_trouble_at_school_and_as_a_parent/",
+        "source": "Reddit",
+        "timestamp": 1783642123
+      },
       {
         "title": "Xbox CEO Asha Sharma named as adviser to US Federal Reserve on ‘Jobs and Productivity’ | VGC",
         "link": "https://www.reddit.com/r/gaming/comments/1us3dln/xbox_ceo_asha_sharma_named_as_adviser_to_us/",
@@ -137,28 +155,10 @@
         "timestamp": 1783609940
       },
       {
-        "title": "Reader’s Vote: The Best Scary Games To Play With Friends IRL - aol.com",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfRVFSeWJKY04weTFLVnVtTTJOOHRoV29wTzdjTHZjR2RZNWExUmg5TjM4QTFXMHh1YW42eUJyTlRUOVkycE0xTVl4RHhnc0dfODFJekJSUUE4NFVPbkhkbnJpMzR5ZXpibFMzMzk1NFczMVdPa2Z3Z1JSVTg?oc=5",
-        "source": "aol.com",
-        "timestamp": 1783608895
-      },
-      {
         "title": "Rhythm Heaven Groove sold 393,378 physical units at launch in Japan",
         "link": "https://www.reddit.com/r/gaming/comments/1ursihu/rhythm_heaven_groove_sold_393378_physical_units/",
         "source": "Reddit",
         "timestamp": 1783608650
-      },
-      {
-        "title": "90s babies - what was your first video game?",
-        "link": "https://www.reddit.com/r/gaming/comments/1urs4kq/90s_babies_what_was_your_first_video_game/",
-        "source": "Reddit",
-        "timestamp": 1783607805
-      },
-      {
-        "title": "Saif Ali Khan Hails Ranveer Singh’s ‘Dhurandhar’ as an Industry Game-Changer, Calls ‘Shararat’ - LatestLY",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQd2oyTWFZcEFLVi0wS1lMMzVBVThLaFBiRnFwUzVQMEdFVS1VeUo0QzlYblBlbE9UdFQ5Q05kaVZHLTZwZjNzVm5NVF8tcThzSnZLLVlyYy1hMkZCbXFCbmxGMXJFTHcyUVVSQTNxMnRyVHVwTkRFcnBjWUFpQkxhY0UwWS1YYjRTMG9YWHJqaFlBc2ptNHRuamxpWFNmWW9GaGpCNmhQLWZJZ3Ric2p1ZUIwVHBXYmNFUFFGaEN5Z0FvT3EzQjlNendKSzJkYURhWmREbWk5RG1TUEh0Xzh4RVc4V0dDczFGV2ZVdlNoY0JWNkpxcWt1REN1Z2pKZmtyUDhR0gGDAkFVX3lxTFB3ajJNYVlwQUtWLTBLWUwzNUFVOEtoUGJGcXBTNVAwR0VVLVV5SjRDOVhuUGVsT1R0VDlDTmRpVkctNnBmM3NWbk1UXy1xOHNKdkstWXJjLWEyRkJtcUJubEYxckVMdzJRVVJBM3EydHJUdXBOREVycGNZQWlCTGFjRTBZLVhiNFMwb1hYcmpoWUFzam00dG5qbGlYU2ZZb0ZoakI2aFAtZklndGJzanVlQjBUcFdiY0VQUUZoQ3lnQW9PcTNCOU16d0pLMmRhRGFaZERtaTlEbVNQSHRfOHhFVzhXR0NzMUZXZlV2U2hjQlY2SnFxa3VEQ3Vnakpma3JQOFE?oc=5",
-        "source": "LatestLY",
-        "timestamp": 1783604971
       },
       {
         "title": "Palworld V1.0 Releases Tommorow on PS5, Xbox Series, And PC",
@@ -177,6 +177,12 @@
         "link": "https://www.reddit.com/r/gaming/comments/1urnwfy/the_elder_scrolls_6_will_suffer_because_of_xbox/",
         "source": "Reddit",
         "timestamp": 1783597543
+      },
+      {
+        "title": "50m bottles sold, now it’s on sale for $21 - News.com.au",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQc2lnQXNNRE03UTl5bGZib2FGU3NXSmVHVzZHZmRVZDhTVmNSZl9QWjdIb1VTWmZLYnA1VE5DSUNCX0twZTF3TE5DZEFTOERUdmNuSE1JN3RmaWhSMTJvbFA0b2hfak04aDA5azhhTGdLSXhyWjhVRDlOZG0xdGdRYlNBVlVBcVpWQ2NjcjN2blpLQ1RLWE9Ld0Vrbnp4TmxCRHhiMUNZYjRVZ05NSmVNTGktYzFodmU5QnJOVWRPOUxzSHBWVEhEYlFwcnBXaUR5XzR1WHNmZUt1cUZWMUZnXzN1QjFHOVZTWDBV0gHwAUFVX3lxTFBtSUxqTWpYbnlrWWM5ZWZNWFhEZ1BUTWhPNFRyNnlIMUxZRmEtWjdDZDFFYVVMYThKN0hBQzJYdEFNRk1vdXFMbEhObjQ0VWJKNlFxdWJYc2xva1UtZ211Q011NDBGR0ZuTW5BcG1tNHBOdndnNGU5UlAxQjUycTh2U2dwODFHdGU3Mm9iUElrcXRkMFVyYkpOSFlaWmVNd1FXUm5iOUFwYm4xcE1rclFhSlBuZzk2ZmlaM1BFTkh6YnFOYlllME5RV0JLbWtTNVZIOVZJWGQzeXZLUldSUEJhU1gxc0pFMDJjS0xnUDBidg?oc=5",
+        "source": "News.com.au",
+        "timestamp": 1783591016
       },
       {
         "title": "I want a sequel of Too Human",
@@ -207,20 +213,14 @@
         "link": "https://www.reddit.com/r/gaming/comments/1urhsrk/this_guy_just_arrived_in_the_mail_a_symbol_of/",
         "source": "Reddit",
         "timestamp": 1783577518
-      },
-      {
-        "title": "Mystery Fan Who Broke The Internet During Georgia-Texas Game On ESPN Is Finally Identified - aol.com",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPckxvLVhWeXp6YlA0STZhMGl2NnlRSV8tQ1JvY1pvTGxxdnExdVhmWXJ3X0VQZ0tDei05a25JbkUxcFRoNVN0Vm04alFSdlpITVZWQmExU3VPdDcxcHozWHNHdXROYzdpcGJQVzRpU0htVUVSZjAtazdjWFJnNzA5ck5nb0l1ZG13?oc=5",
-        "source": "aol.com",
-        "timestamp": 1783574961
       }
     ],
     "updates": [
       {
-        "title": "MLB The Show 26 Patch Notes: New Update Addresses Gameplay and Diamond Dynasty - Athlon Sports",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT3V0R01oUmhPWFpDUVhUcFZKSGN2SDBtWnFlLTZ5S2NfeERXZWlkem9XeGNnR1ZjQmd1LTVWUHVaNlJuYjdxUDM5bkpXWkhSclRWYS02VWNxT0JzeXktTnpwV2s2TEZrOGJqWFdDdkx2UWFXNGRtWl9XNWZFc3JDeHpPRlF5VzJv?oc=5",
-        "source": "Athlon Sports",
-        "timestamp": 1783639483
+        "title": "MLB The Show 26 Patch Notes: New Update Addresses Gameplay and Diamond Dynasty - AOL.com",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xZlkyNDA4c09RWGw5c3VZbVVsYmZvRjd0b3J4U1l2a1FvZDVjUDQzV1l3YWJiOFJraUM4eWhfX2gtYWpKdEtiQVRqRFFtZkJreU1MZFNpQWN4UTN5Q0VxbXJLdkY2V09CcU5lVDBVQjNFRmhNUXc?oc=5",
+        "source": "AOL.com",
+        "timestamp": 1783652640
       },
       {
         "title": "Deltarune's Latest Update Adds A Terrifying Secret Conversation - Kotaku",
@@ -301,13 +301,25 @@
         "timestamp": 1783594800
       },
       {
-        "title": "MLB The Show 26 Patch Notes: New Update Targets Gameplay, Franchise, and Diamond Dynasty - aol.com",
+        "title": "MLB The Show 26 Patch Notes: New Update Targets Gameplay, Franchise, and Diamond Dynasty - AOL.com",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05Z2ZVOVpXZjA4UHB4T0pTUzFKMXJhNk1nQkJieUVlMHFRM0hFMEpuRS01cTFTemZVX0wyRnFiaTRpcFF3UnRMQTk3SG42Nk1fNnY5YVZBYmpWdUhSdTJGak9qTGQtekhxZFNTQlVRVEEwMmN6dmc?oc=5",
-        "source": "aol.com",
+        "source": "AOL.com",
         "timestamp": 1783585879
       }
     ],
     "errors": [
+      {
+        "title": "Be Dino Codes (July 2026) - Beebom",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ZSE83UW1jb1FReDhkWF9WV2k3OVBUQ1J3WVhuem1KX3RDOElDMVhyMGRKejVreDd4eFZrZTVmdjRVNks0b2otbdIBTkFVX3lxTE9OcFpWeVRZTFBYektHeHdCMWh3ZzFHZDVQY1dKYWlVaVNoYTRPMFcyb0pXMkFydFlvSDl6OURBSjA4dlFTMkdkelpYN2tBUQ?oc=5",
+        "source": "Beebom",
+        "timestamp": 1783647167
+      },
+      {
+        "title": "Danville gaming store owner reacts to Sony moving games fully digital - AOL.com",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vTjBYRVlrWE9uckZtR1lodWFKZkZGQWxvZXlla1ZPdWxobnFmM2dqREdINEtXVVRuTHRQQkNyMmtIbDBfNlpyWEpfUGdrdVo2T3dlSXZ2cXJRSDZ2eHFocUJ5SjBYZTFWNjI4ODJlMXdkbzdlOElwOTJsbElYME0?oc=5",
+        "source": "AOL.com",
+        "timestamp": 1783642620
+      },
       {
         "title": "Roblox Game Codes [July 09, 2026] - Sportskeeda",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Ma0pGWGxHb0NOQkpDN0VMbVNwb0NJeDZmaHU4ZlViZDlGVGVYOHpDdlpJbnNsU0NNUTBxV2Fva2k2bTFlU0tZdEN1T0g0VVI2RVhGNzU2Y0F2QnBYak5wbktFTGhSWGxMSjkwajQ1NA?oc=5",
@@ -319,12 +331,6 @@
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BcXJKakNEcmtSNGlnTGJnY3JBMHg0aVE2ZjNvZEgzTmRnRDBTVExTWUMyWThIVWVmX0RneDZ5emlqd1haSk9aNDZZUG1jUDFPck9rR0kzNEh4VlFGdzI0?oc=5",
         "source": "GameRant",
         "timestamp": 1783617805
-      },
-      {
-        "title": "Gakuran Codes (July 2026) - Beebom",
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB3M2pmR0Nac1dzaWdwVEhzeldScjk1NXRhTHp3VG1FNXY3RHdnXzJ1LTdyQ2tTWTgxSm9GQjNMQkN5VTc5Ui1jX9IBTkFVX3lxTFBJalN0UjF0eUMwZVpybkhwemsxamJjN1RDYlNDYi1NQ3lRTUd5RXFrVnMzWU9GR0V1THk0R2p0YUNTeFJXV083c01qUE5xUQ?oc=5",
-        "source": "Beebom",
-        "timestamp": 1783608485
       },
       {
         "title": "Mario Kart Tour Ends September 30 With No Offline Mode Amid Consumer Rights Fight - Tech Times",
@@ -339,22 +345,16 @@
         "timestamp": 1783605563
       },
       {
-        "title": "Evomon Codes (July 2026) - Beebom",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5uVXBIRmVLWWNKZXZSLW4ydkxsVU1kV3R6RjlvZFNHVUtaVkpHUmUwVFpfMzUtN096SmNvYmVsMWZaY1VPRkdv0gFMQVVfeXFMT0xfM3RZWEdyUHlZeGJ3RmROOTZSLVJCQjJkU0NCeG5vRHdoc3ZCTXhJcTJfVld5aEQtci1VLWVsemQybmxmUzJmVGo3bQ?oc=5",
-        "source": "Beebom",
-        "timestamp": 1783603115
+        "title": "Chameleon codes (July 2026) - PCGamesN",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rN0xxQy1jdktqUzR6MElja2VZM1hDZ0lBdm84WE51ZzNteGhDckFWelIyR0JpSTU4M3Bibjc4dFZ1ZmRkaGl6Vzk4dXVMNV9XZHc?oc=5",
+        "source": "PCGamesN",
+        "timestamp": 1783603165
       },
       {
         "title": "Chameleon codes July 2026 - Pocket Tactics",
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GaUhmWXdNazNiTXZlN2doRmFNZGZ6UDlKNFp1Q3ZkTTRpZkxpbnFUd1hobDJ0Q29hRVg1RlE1aHhSY254ZnQ4Und3MHNfVmRGZXBqRnlmNUo?oc=5",
         "source": "Pocket Tactics",
         "timestamp": 1783602858
-      },
-      {
-        "title": "Anime Destiny codes (July 2026) - PCGamesN",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1TckRIRkplU3VFLXNzTUJEZmFnM0VOUTNfUXhFLXdUWXNoSGhiMG9mcUl2RW5NYU9pOVE2MnVhNE5OcDVuZ0V0X3ZfZDR2Tm5KQ1E4Yzk4UQ?oc=5",
-        "source": "PCGamesN",
-        "timestamp": 1783595987
       },
       {
         "title": "Ball Game codes July 2026 - Pocket Tactics",
@@ -375,16 +375,16 @@
         "timestamp": 1783594633
       },
       {
-        "title": "Voxel Fighters Codes (July 2026) - Pro Game Guides",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE04VDdMZWtFRXNUOVdRZG1QZWtQejI0ZEJqUktJNzNCb1FhV3haOFgzQ09qbmNLbDVzdHJVWUxlUVFMaGZPbXhkWjlsQ3daOHQyN2tKdHF2TGtiVmRqLTBsZkR2bFo?oc=5",
-        "source": "Pro Game Guides",
-        "timestamp": 1783592913
-      },
-      {
         "title": "STARVERSE Codes (July 2026) - Destructoid",
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBxUV9QMlA3YTkzeWJWZEQxTDhUa1F3bVllcE82TFhiS0RvczIxTE1FbzVZdExyRXBWVzdlMHZBMnB1a01UdFhaRTk0NzJMMWVHT1FQZ1pBRQ?oc=5",
         "source": "Destructoid",
         "timestamp": 1783589700
+      },
+      {
+        "title": "Jalen Brunson's Game 1 NBA Finals jersey sells at auction for over $1 million - AOL.com",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FcmVyREducFlEQXB5bW1qMXpHNHAwaEY3SWFsSzZ5R0c0bncwYm1aSnBSdnRVVUhzXzAzamFKV2IwQXFTNGZFMmx3U2JzTWVRVlNfZk9EbDNHNm5yV3VkbDR3YTBMS2E0aGRRRzY4enJPSHc?oc=5",
+        "source": "AOL.com",
+        "timestamp": 1783589100
       },
       {
         "title": "Gakuran codes for July 2026 - Eurogamer.net",
@@ -401,16 +401,16 @@
     ],
     "guides": [
       {
-        "title": "Who are the BBC and ITV commentators and pundits for the 2026 FIFA World Cup? - Goal.com",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdEpCakxzNFNjb0ZRb3pLalh6VDdhRWVKZDlLbVlNTThmd01aazFjVnhiS2lQbWNyOW9CUGRjVHBzUWZha3RFTDFVU2dUN1R6YnJIVXhacmhDWHVQYzdlVkZjUVE1QzBaYUVpWFB4MGhFMDMtaUtuX0ZzbDFRbDVQUkJobE1DaUlhQWRXZ3FCazA3ZlpjdWVZWmEyTQ?oc=5",
-        "source": "Goal.com",
-        "timestamp": 1783635645
+        "title": "How to Make Nuggets Quickly - Gothic 1 Remake Guide - IGN",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpMUI3cGd3RVJtY1Y1V2tDcW1hZFpPSFo2dXpZdkpMS3lWaWpHR2ZlTmY2UXRCQjducjByRHR1bG0tRXVYd2ZCUFUweUNnRWNOTzQycWVTYUZsaFZMcXMzV3BnQnFLSXlkalh3UlJPejdMNDg4RjVKRg?oc=5",
+        "source": "IGN",
+        "timestamp": 1783647098
       },
       {
         "title": "All of the upcoming PS5 games for 2026 (and beyond) - GamesRadar+",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNdnd3VThwT1RicndJbnQ3QWNWT3RwdTRXakxHR3pjb0ZkRlg3YkMtRlh4R3V3eHkyb2lRaWZ1bkxVbjItVGlESC1SR1dGdmhiWjIzamVsVmtyQQ?oc=5",
         "source": "GamesRadar+",
-        "timestamp": 1783630945
+        "timestamp": 1783641802
       },
       {
         "title": "Best VR Game Development Companies 2026 - Programming Insider",
@@ -435,6 +435,18 @@
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQakZYVjVqV0J4TlVtUTZZV004MzEwTTlBN2VPYlJvVy1jMGVTbUJBVFl1ck1iaGUwVVZENm1rOVBjQkpmYlIyMWtlZ3FPQUgtUFlyY1Boc1pDay1wSm5PRFk0ZEJrajQ0anlKOWV5anhfOVgzZXpPOHhISDdGUkVYY1FQd1ZzTU9QcDY3Y1Zob0pnYmxxT0NsT29IZGlOLXRIZHpvUkRISndPdw?oc=5",
         "source": "games.gg",
         "timestamp": 1783622999
+      },
+      {
+        "title": "Assassin's Creed Black Flag Resynced: 10 tips and tricks for beginners - Red Bull",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaHFPRkRoZURwYlR6NUxxeXRBbG1UYTlDOXhMZXhldm5GRmtOUjFDTHgxbDFvb0JaLVozT25LZ3hBX19ETk1lZEFaUFA0amtaT09HQ0drNEFvemI4RnJveGZMcVJ6aExTLW9pOHJBYUdrM21kOEpjdExCSFZFR2dDc05tSQ?oc=5",
+        "source": "Red Bull",
+        "timestamp": 1783621577
+      },
+      {
+        "title": "Best AC Black Flag Resynced Graphics Settings For Console And PC - NeonLightsMedia",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOVRNRmpqcXRWRkFjNzRzeWdTbmRrdjVvbGdGd0VEazRRWFcwZDNMampON2trVm1KVWNycGFqTjlCcmp0OW92eDBBRWVjS3lDdzhlb3NsSWhxYlR6bkdhYVM2UDc5bHl0ZVA5cmtRU3ZJRy1mdV9hcnBDb2FmcF9ZRmdXdG5XbmFXMEp6VzhpZ2dCZw?oc=5",
+        "source": "NeonLightsMedia",
+        "timestamp": 1783613171
       },
       {
         "title": "How to watch World Cup 2026 online — live stream every game for free, quarterfinals start with France vs Morocco - Tom's Guide",
@@ -470,25 +482,13 @@
         "title": "Pals You NEED to Catch ASAP - Best Early Game Pals in Palworld 1.0 - Mobalytics",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xQ3EtTVZEUW1uYTdKcGFUckx2eWVlb2pWWjAzek80QklUWHJiTzdua01uc1d4UXhCNWtyaEc1ancwbkR5OXZ0LU9kR2tDQ3NUYU5HVThfdlFOLVp4VC1jTlloNXF1ZERYckE?oc=5",
         "source": "Mobalytics",
-        "timestamp": 1783604919
-      },
-      {
-        "title": "College Football 27 Best Passing Settings And Types - NeonLightsMedia",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdF9remMyU2NaVlB3aHlScmRYZ2l0a3lvR0t4X2Zsb3RaQU94MDlwZ3NxSk9mQWFvRGJNNGRIWElVRjZtWmlJd3o5LVl6LVJYNHJmT042TG53dWk0Mkg4M0JxaTdWS2NRek1iRURGdV9lSW8xaTg2UGVycEVMZ1JWLVg3WURUMnc2VmpWWGhDU0M1dw?oc=5",
-        "source": "NeonLightsMedia",
-        "timestamp": 1783604635
+        "timestamp": 1783604475
       },
       {
         "title": "Nori to fish big wins in Brawl Stars: How to play, best build, and free unlock tips - esports.gg",
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EZG5fdDVVVlgwZEMxMjNxTjdrODNHTThWRTBjeFM0T2RxOUl4MFRFS0pUMGFYVGNTZzRQbVJkR2NZRzlDYTRhSlM2QURpTVVQUV9vbk8zV2Y3MDFwMGNLRXVyX0U?oc=5",
         "source": "esports.gg",
         "timestamp": 1783591571
-      },
-      {
-        "title": "Best Weapons - IGN",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TR015WkRCT200R29qbkpiZHNLd0E2NHlWU2RCWk83QTdfSWVrNldNaXpHY3JPeHVkZG1PaXJTT1JGTXhtMEhuTEV3dEV0VFI2MnNycmxhWklTR2JDNUZkUlVObU1yRmc?oc=5",
-        "source": "IGN",
-        "timestamp": 1783581584
       }
     ],
     "assets": [
@@ -504,7 +504,7 @@
         "title": "FIFA World Cup 2026 livestream: How to watch World Cup for free - Mashable",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DVnUxS0ZIYVJuVXdfaXZvd3hXOVB3ZllzM0VmNkYzX0hncC1LTDZzOHZ3cHdtaGtDV0NUZk92UG5KeDc3TndoOUJfamJiYUpYV0RSc1h6Rm1SRjJKcVdrcmlfNFFQbzZBTjZ6QzhwUXpvdl85YnAwNw?oc=5",
         "source": "Mashable",
-        "timestamp": 1783634460
+        "timestamp": 1783645291
       },
       {
         "title": "Xbox Summer Sale Start Date and Initial Games Leaked by Fan - games.gg",
@@ -514,6 +514,36 @@
       }
     ],
     "streamers": [
+      {
+        "title": "“Pull Up to Philly”: Jaylen Brown Uses Famous YouTube Streamer To Recruit LeBron James to 76ers - basketballnews.com",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMmVxSGEtbm82aXg2bE10b1RHa2JNZHJXTEhsVWdJWjBPd0tFNHJDSERYMGtIUlFueXdNSy1rTkF1ZHBpUURnekRoWTBzbVRNT3pxYmctSHNoQVA1QTBUcFk3WjFhNEhVR0ZCTjJEN3Q5eTFmUVJ5TXdvbDBMTHZob1lqZlFVOUZKd1VKTkJBTkVQY01aWEFJd1NHYlpJSE56M3ZlcFJremJHaHBJd0NiLU5xbWk4c2p5RnRVSkhUd2toS1EwTkxodWhCdnc1MnRWU2l1bTQtam5JTjZBRl81cUJmaUl2bmJaaGp2WmhwTzl2QQ?oc=5",
+        "source": "basketballnews.com",
+        "timestamp": 1783654648
+      },
+      {
+        "title": "Marvel Rivals Season 9 Twitch Drops: Rewards, how to get, and more - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOUJXQ0I2VUdfd252dnBBaVAybnY2SFBNVWJjSG4zTjVmUW9vaUR6SnZ4Rm83eVROU0xVd1VSaU1oMEdsdU5jMDFKbGs4Y081QmYzdUdPVkFVWkRkS0xHWVZ4dk9mN0ozUk9uQzNLRmJWV2xtV2l5MVJlbDZXWjQtZVVUWmk2WThWdkh5cmlpa1hXVEtoOU1qY2lzODUzcE1fVnVrakRwSU5nOVN5ZlZqcmFKY2plaWlMN3lQZTExbFRfRldReEpDcGZneHJYZ1RpdWlOT0hzOU5kX1ZBUWfSAeMBQVVfeXFMTlZ3ODZFeHF0OFFNcHgySEVtZTZncnAtVjNaMHBiWEpmXzZLem5xakNyWTNSeGVWd2RoNEg3N2RWX3BfUTctellvb1ZDdHFTaE9Ia21xQTlRTGJNbDFUWlBGck0wajM3WWkzTWdRUVNkNElPWFB4LVhSRXlVdHlKTHkwMEY5ejdfMHFBOWxJakN5bEo3c1VrSDBjMGZvUV9PaTcyNjNfbU55MWNYR3VfMy1VX1FkU2dfOVhkcHh5Q1FnVFhrZXVmTU0wSlVlZ0FkWHl4TzJWcGNyTlhNV3NBLUF5dVE?oc=5",
+        "source": "The Times of India",
+        "timestamp": 1783651140
+      },
+      {
+        "title": "Ranking Every Sportsperson’s Pitch to LeBron James As Superstar Muses Over NBA Future - Sports Illustrated",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPenN3bDREQy1DRDRHUXZRYVQxODBCU2VKc3prZl91N0lpV1EtZS1yb2w1NGNaeXd5RW5mWUxGSXpHcEh3aG9yM0NFMHoyaFFXSDcyZER1RExTTFNwS2hPd0FocFFTbTBMb2tWOWFPcC1Bdk5NdHpqMF9LRjljZFJtTnVzNVdZc2pVb1EzQklTSkhTZmFYNThDRUtycWEwUF9HY1JFcA?oc=5",
+        "source": "Sports Illustrated",
+        "timestamp": 1783645761
+      },
+      {
+        "title": "Twitch Streamer N3on hilariously takes over Oracle Park with Najee Harris - AOL.com",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT25VQ1YzaDZ2R3lpMk1KMnJ2UmVtSkcyQnFDWUtoQmpSQmVreXpxMHdhMTl4RFdCa2hWcTVnUGdqc0VXZk9kQ1Vyc0pfTVgzT1RQcWxKUzlKQ1M2VVBPUll3LVUwa1hGLW1RTlozMkVURXRsWXRTLVFFcVJILUVoZl9OVVJ6UVoxT2c?oc=5",
+        "source": "AOL.com",
+        "timestamp": 1783637638
+      },
+      {
+        "title": "Diablo 4 Season 14: Everything You Need To Know About Death Awakening - Mobalytics",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wcHZBZDRzODJZdHpDR3FRbkwzNVQwWGxqbzlDRzE0emVCMFU2elgwa09yQ3V0V0JTQzJ5ODFjZjEybVduT3dDcWQzcGpIZF81S2hqc1RpOTA5OHZLSjU4NW95YjctUWVCa0xxNFdyeUJ0T2pRblptSEc1S2k?oc=5",
+        "source": "Mobalytics",
+        "timestamp": 1783634650
+      },
       {
         "title": "Celebrate 10 years of Pokémon Go tonight at 6:15pm EDT/3:15pm PDT - Gaming Age",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTHN3T3ZfSzRoMEptQlB4VWlPTmNuZVNFcmVUWUJjUjN0dTlMbXhSLUp3dGZTSFlqQzF3MTc2RTJzZ0ttNHZPZjhoMmtZUXpqbkloTjlnVGNGTE0xOWlvdFh1b2Z6blpHTjY0TE1FRGU0Y1JDV1BsZFhkQmFsMDltMS1RWk9xamdFMVFTdXZGZlNUXzlOeVdseV82WdIBmwFBVV95cUxQTHN3T3ZfSzRoMEptQlB4VWlPTmNuZVNFcmVUWUJjUjN0dTlMbXhSLUp3dGZTSFlqQzF3MTc2RTJzZ0ttNHZPZjhoMmtZUXpqbkloTjlnVGNGTE0xOWlvdFh1b2Z6blpHTjY0TE1FRGU0Y1JDV1BsZFhkQmFsMDltMS1RWk9xamdFMVFTdXZGZlNUXzlOeVdseV82WQ?oc=5",
@@ -533,12 +563,6 @@
         "timestamp": 1783618943
       },
       {
-        "title": "ALGS Group Stage Finale: 14 Teams Lock Into $2M Finals, Six Go Home Today - Tech Times",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY1p0V2I0M3h1dmhMWUd0SHpKZ1pxblMtOWhBR2wzcjUtQ1pKRW50VzdyTkVSdGQ1THdWYktUNHl6cTliOFlLcldGQmpEZ2VBLXBQd1E4dTdfRlhsRXpLckZ2dVpYQVRiUlNnZUE3d1I4WTFZQ28zVzdVTE9pTkVhWXJkOXVpbGpYY2hfbWlhTFcxc1hRRFFJZWJJdUlhbFh4X1FjY2t1MFdBMVR0bV9vbUM5SGNoQUFMRE9yZA?oc=5",
-        "source": "Tech Times",
-        "timestamp": 1783618537
-      },
-      {
         "title": "EWC 2026 Dota 2 Day 3 Live: PVISION Unbeaten as Falcons Chase Playoff Lock in Paris - Tech Times",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRkR6cDM4RFphSlFfMFBxdkd3WHVtNzRnTmFnSjV2dnFFQlQ2emdsX0pDdmtja2pSQ19wZm5kc1pVQWxtcm1mandhakVWTmRFYU1pX3h2bEhNWGllTmxNdFlZZlotVkhmdEE3enBjekxfOThOTXdiclUwRWJhQVd2S3BvRzQxWVhtNE1mYWoxcUpsVXNuSmFzdlpvNTlRRWNyMDRyMW1aZ1Q3eHF2RHhxTjNPNE01WmpZM0ZMbERmeUs0a05NcGVmaXpxcw?oc=5",
         "source": "Tech Times",
@@ -551,16 +575,10 @@
         "timestamp": 1783609147
       },
       {
-        "title": "Twitch star involved in terrifying high-speed crash while livestreaming - aol.com",
+        "title": "Twitch star involved in terrifying high-speed crash while livestreaming - AOL.com",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTDJPdTdtRzhXemdseldua0dmMHQxUEJhblB5ZnhQWUZOSWc3Y2FKclNQaG8yZV9BMnYtM3dVd2VNclUxelExQUR1NU9rdjFDdnhWWEh3UjZPMkE4RDY5cEVZZlgtZGdjNzRJcThTYTc1QnNhRVRGeEVFX0Qzd0ZqSTgwRnBZeGc?oc=5",
-        "source": "aol.com",
+        "source": "AOL.com",
         "timestamp": 1783608910
-      },
-      {
-        "title": "Esports World Cup 2026 - EWC Valorant - Viewership, Overview, Prize Pool - Esports Charts",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54UEFfRkw0THlJSnJkeEZ4NXJzdWNrbldVLW1RQmdGb3E5WEVRWU0xM0VWTjBySkZwUV9vZVhIZ0pSYm1CYlhVVE94cmNHZWwxT2RaajJubUpkeEtLWGxhY3FMZGM5TkpjRGhUd0Q3M3dQbkVJaV9kQW1XZnBvZw?oc=5",
-        "source": "Esports Charts",
-        "timestamp": 1783601166
       },
       {
         "title": "What Is Jynxzi's Real Name? Everything to Know About Nick Stewart - criticalhit.net",
@@ -581,31 +599,31 @@
         "timestamp": 1783593567
       },
       {
-        "title": "Twitch streamer forgets to feed son for a week - MSN",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWW0wRi1jcTRzU0NHSzRIQnJjTWUtS19ZYjlheENZVHgxZDU3SzlKRWNJMkVuNlJ0aXZwSnQ4YUZMVTZlQjBXVGt4X0VjQy1sZWZObGZpNW1zQUx4T1RDY09jTi1FX01Vb0NDV2tWLTJINjBiMHpNLWMwSEQ3ODlVNms4YU0ycDRZSy1wUmw2ZWpoZlJwWTlYVUwwMA?oc=5",
-        "source": "MSN",
-        "timestamp": 1783591273
-      },
-      {
-        "title": "Summer Games Done Quick returns to Minneapolis to raise millions for charity - MPR News",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZDREMkFtSjBtclVhWm04UmRzUUdnVGdxRUk0U3Q0anZFX2ZudUFVUC1YUTZyN1BIQ2tWcnlraFhuODhwckVqZmlPTjFLSTNjZHBsbHY1UmpZTFhWYnpieGR0UEhHWWRhaUdibXNhb0lQWXQydUU0YlBuUzlYLU54aHV3MUk3UkZKNFotTzdneEtZcUhMakpGWlVHLW04Tm5I?oc=5",
-        "source": "MPR News",
-        "timestamp": 1783587600
-      },
-      {
         "title": "How Gaming Culture Is Influencing Social Life, Entertainment, and Personal Identity - PC Tech Magazine",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNkc1OWtXWVhGLWs2Y01OMS11dGJocGhLZzFuNUhPczZfSWx1eVhsd0JSVFNRLVVMQzJ3MkJ6VWpKbmxPOE1QZFFMVEE5Q2lic2NkaWRmbnFnOFNPS1diNnk4Qk91MWhHT0U2bFJkQVVwS21fVlFFT2Q5RUhWbjZleUFBQ2R1X2t5Uy1QQjNFTnZjZ3lOV2tLMzNZR0QwTzR4RnRFRi1oLUw4TUhBMG1WOUxR?oc=5",
         "source": "PC Tech Magazine",
         "timestamp": 1783576837
-      },
-      {
-        "title": "LCK 2026 Road to MSI - LoL - Viewership, Overview, Prize Pool - Esports Charts",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsTTdyQXEzeU9KbjhyMnMySkFFRm04TUZseGowTUtGQzdycUJyNVJVT2s4aEthT2h1b3dxQWtUSnZpQVo4VHFFdzZSVlJ2YURsZUM3Vm1hWW85T3VCQ0k0WUx5MU8?oc=5",
-        "source": "Esports Charts",
-        "timestamp": 1783572043
       }
     ],
     "mobile": [
+      {
+        "title": "Power Up Your San Diego Comic-Con 2026 with Marvel Games Lounge [UPDATE July 9] - San Diego Comic-Con Unofficial Blog",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTFR2NHdTc3VYQWpWMTBzcUVFbWxmNkFFOEJ5WV8zMHgxVjJtSkNHWWM4T01zMXdlcTEtbG1xbXVEem43UUtlNTI0Y1haR1pkWGFpNVZUZW1halRXNWNMOUJXRVl3MDdEejcxMVhkNVZ4Q3lBbUZ0amVOenpnYjVSa0FFa0xRTlhKdGI4MlU3Y3VsLU05R3BheA?oc=5",
+        "source": "San Diego Comic-Con Unofficial Blog",
+        "timestamp": 1783647198
+      },
+      {
+        "title": "Best apps to watch FIFA World Cup 2026 on your mobile phone - Goal.com",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYUFSSjdsSm5IX3VUTVRnU1JvMFlibEY0NGMxaUE4bGN6cmRfRmhmUWRZUHdDQ0pMbVRwdzdkT1R5UVp6N2VsVkEwMHB0c0JfU2M5QVZGOEtuUmZvOWxFNEFSazM2T2F1d2w5LXFkUzJUNV9uT1lFeEJrdmliU2FNTGdiZl9kNHdCTkpxcnVLSDJ4V3M?oc=5",
+        "source": "Goal.com",
+        "timestamp": 1783643793
+      },
+      {
+        "title": "'EA SPORTS College Football 27', 'EA SPORTS College Football Mobile' Out Now Worldwide - PlayDayOne",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSW1HSldKbWVVZUZIejhkWFdzWmwwbjF6UHY2Vzc0YV80TXE1VDR1WHFES0dIZnE3SWdJQlhYZ1pVWnlCNHk1aFYtRm80aGlpSkhUM3VWeERtM3pwRU0zZ1ZLRFlBMUREbmJ0RmNwdndVSzBvbnF1M29oQWkwc2lJb19JdERJN3hiNEJvYnBQbkJUTy1mOXE3VVpSZ2UwMjljX21XM1V3TlA5cTRKWkZlSUxvTQ?oc=5",
+        "source": "PlayDayOne",
+        "timestamp": 1783643022
+      },
       {
         "title": "Best new mobile games on iOS and Android – July 2026 round-up - Metro.co.uk",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmU1UDFrQ2JXRmJ5M1hVQzJaZFdlMDktTmpfUDQtSDlkTUVVeWdJM0E3cXZwczZnQ1c3RWV5MURLdUJ4bmlEakFId3JNRVR4cElUclVvNUlTUHo5Qnotb3NYVmd6bmwzaFhMcVNHdjRPQzNRRmZYVXF4cXl2LUtmTkFldlZIZHdzcm1FVjJfYkdpZlgwZV9ydtIBngFBVV95cUxQdDgxeXRmbl9aOW4zTkFPMUc3d25iZHdyRXdsWlBWeS16NTd3Rm43SVBqeDZRVzhFdjk5ZDRyNmRZSkRuY01uclBFdjJPMEl5Qm1qXzY0aFhfdElDVnhkM3FFSDNXVG4yeWxFVEtMajgxam1UQVlGMjFqZGtSTUUtaWxkWmFJNjI3eks1VzJDR0JLTHZ0Y1oxZFYxTU90UQ?oc=5",
@@ -613,10 +631,10 @@
         "timestamp": 1783641600
       },
       {
-        "title": "Best apps to watch FIFA World Cup 2026 on your mobile phone - Goal.com",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYUFSSjdsSm5IX3VUTVRnU1JvMFlibEY0NGMxaUE4bGN6cmRfRmhmUWRZUHdDQ0pMbVRwdzdkT1R5UVp6N2VsVkEwMHB0c0JfU2M5QVZGOEtuUmZvOWxFNEFSazM2T2F1d2w5LXFkUzJUNV9uT1lFeEJrdmliU2FNTGdiZl9kNHdCTkpxcnVLSDJ4V3M?oc=5",
-        "source": "Goal.com",
-        "timestamp": 1783632837
+        "title": "NYT Connections hints and answers for Friday, July 10 (game #1125) - TechRadar",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa1B2VkFaOWZEaURSLW1xNXZEMFhlZXhsM3pfb1dkRHpadzc2Q3ZTQURkTDBpVlYybjJSVko0TlNzcm9LeVRjMU1vVmVXR1RvU080WkRiOFRiV0pZVWIxSk9PUkdWclJ1bE84VVZkRUdKVFMxd1daMnEyZVVCaUkyd1M0TWtWVkVj?oc=5",
+        "source": "TechRadar",
+        "timestamp": 1783638000
       },
       {
         "title": "Best Casino Apps for Real Money Tested, Ranked & Reviewed — July 2026 - List Wire",
@@ -643,9 +661,9 @@
         "timestamp": 1783610206
       },
       {
-        "title": "BoomBit stock stays anchored by its mobile game model - Ad-hoc-news.de",
+        "title": "BoomBit stock stays anchored by its mobile game model - AD HOC NEWS",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWHgxdk8tY0t3XzFnYjIyLS1zZld0QURDbFlndHZsWksyZHBVSFoxaURxSzl0VHZlSDJ3MVJuemw2LUhoQW93cnlWVzRHdXc0U05DLWMxLWhzc05Nb0wzTFF5SGF5OUtZZlBIaW4zZ21ETWtXSEJBWE5fb1ItT2drVHZRU205SGJ6Zk92cDNIWlVpWnBLc2Vwa0huNDFjVjhOVjdGSWNud3NiZ1htTk5SOS1R?oc=5",
-        "source": "Ad-hoc-news.de",
+        "source": "AD HOC NEWS",
         "timestamp": 1783607469
       },
       {
@@ -661,43 +679,115 @@
         "timestamp": 1783603200
       },
       {
-        "title": "UK's no. 1 mobile game lets you be prime minister and sees how long you can last - Metro.co.uk",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbmo1azNNdF9Nc0ZTYTZIdV9aa3RDbUlUUnZKVVhGV0xTbjUzd0tLYkVLVEtHNHJtZ283cjhDVHEwMUFzUDF5emdyeEVCeWE0SkFFYnZFVGNkM0dPdGJUS1B1eTNEdVNfRmRvaFoxWWtvX3MweUI0NUdBV3RidTh3MjlIYVNMTXRGVGxFUkFSTmp2enZGRThyNmhMT3pZTFh1UWfSAacBQVVfeXFMT0tBSUU5anVGNGxsdjZPWXFleEpucFlBaU52bnIxWW1md2hMZlZOTE44T1d5RU5famhzVU9Pb0NLN2RVQy1mc0VFQnhDcEJ1OERYazJfQUhqRE8xbm15X0MzckM4U05fNVlZQ1FpajNMbEpObmRaZW43a29zaXBlc2NSaE5KV1FOUTUyNnpBUFVIaHdreHM4Z0s4MmIzUzJNSEVOYXVUMUU?oc=5",
-        "source": "Metro.co.uk",
-        "timestamp": 1783593420
-      },
-      {
-        "title": "The makers of New Vegas are working on a new Fallout game - TechRadar",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdk8tQW1Pc2lXam5OQm5qZGNZbmdvWFJZR3JidW9PUzMxZE44S1ZoT2hYeFdMNEgzOFp1X1pFc1RQRS0zQXZ2QTBJNEdmVlp2akFNZEZDOWVQaHlFcGFFWnZCUjdEQm5ERm4yYUhDbkVyMDllbGNlVUtVajB1Vk4zaFJVRmVERGZIVWpjdWJuZmh6eWMw?oc=5",
-        "source": "TechRadar",
-        "timestamp": 1783592708
-      },
-      {
         "title": "India's mobile gaming market to reach $2.4 billion by 2029 as player spending rises - bestmediainfo.com",
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObFVJNFhlbGtNbHBMazNoWUtlaFBTeWJNOHpUUVBPSnl4QTBmM0NMa3VoNmJjRk4tMmZQLWk1LURKUkpmZ1ItYXhHc3pvdFJqX2sxeHlKb2ppVV9MSFlHbnRkWkFVSGp3T3BTWVIzWGVMUE9ydElGWjVvLWdmOTBkb2lzYXYwTzZ4NFBCTGJqaVY4N3VrXzA1aW4tN2pCV1ZKSDg3aE1fenVpWDU3VlNETk9qNXEtSHNucGVWMklzYkxFQU13YkFEbDVZR0djeDRfdFlWdGEwNi1WcThhckHSAd4BQVVfeXFMTmxVSTRYZWxrTWxwTGszaFlLZWhQU3liTTh6VFFQT0p5eEEwZjNDTGt1aDZiY0ZOLTJmUC1pNS1ESlJKZmdSLWF4R3N6b3RSal9rMXh5Sm9qaVVfTEhZR250ZFpBVUhqd09wU1lSM1hlTFBPcnRJRlo1by1nZjkwZG9pc2F2ME82eDRQQkxiamlWODd1a18wNWluLTdqQldWSkg4N2hNX3p1aVg1N1ZTRE5PajVxLUhzbnBlVjJJc2JMRUFNd2JBRGw1WUdHY3g0X3RZVnRhMDYtVnE4YXJB?oc=5",
         "source": "bestmediainfo.com",
         "timestamp": 1783583071
       },
       {
+        "title": "Nintendo and Square Enix confirm mobile game shutdowns - MSN",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPV1Q3dWhMeklDdkk3OFYzZWN1R2NEOTh1V25DdXBVX1VPdHRfWXVKR2Zidk02VG1xdlRMRzlqLUNNWFdXSUpOMnRpNjMxTDczQ1NZSWQ2LWJiTmVIQXd5eVFMMHpPbW1FcE9LNWdkc1I1M0xkYXRpYWZUMkhrY2d4WVhJaGYtR2V0RmRlZ0FRZGo3b0lJZjlGeUlvdDNuTTVSbmV6cndBS3FsMWtoUTVpbEN2bGxnMTBNRkpNdnJwMm0wTU5teTEzd0NnRGFMZEZ5dFRkdGZkRkM0WlM3cU5LVlp5eldnMzNRWXZ0bQ?oc=5",
+        "source": "MSN",
+        "timestamp": 1783581749
+      },
+      {
         "title": "Mario Kart Tour Shutting Down in September, No Offline Mode - games.gg",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50RXdQamVqVjl0bTd3eFA5eGpCSmZ0cDNBWjVkdkg5XzFSOXp3QnVwenk5S2RWWTdvTER2QXFLYnNvZDUwQldORmNYSUNpdm9wWEdYc3c0MmQ4SWd0ZERwZkE3bFFERV9B?oc=5",
         "source": "games.gg",
         "timestamp": 1783579120
-      },
-      {
-        "title": "NEXON to Showcase Mabinogi Mobile and Project RX at TGS 2026 - 게임뷰",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jQlYzeFpkQ3Q2a1doSWxsYVBqdlkwcU5CWmtkQlQ3eEgySC1NRUZwSmhBSmZSUDMzMV9CR0V4bkFCdy13NzRNeTNPTHBkdmloajJlLTRfVFpWV2x2UXdGYVdKNDhHakZVbUE?oc=5",
-        "source": "게임뷰",
-        "timestamp": 1783576226
-      },
-      {
-        "title": "'Mario Kart Tour' Is Shutting Down Free Mobile Game For Good—What Will Happen? - inkl",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeE5KUmFKWkpLSGphc3BhTERlVW9iMWVyczV3Nm9iUV9VdnotUFNjSHFrcnJ6OGNKeHlKRF9zMm5Fc2l0Y2xuaktaLWdSb1pYQnh5UWNiWDFSWFJKSmkwN1ZLRWRlZjBvV3lXNEk2cEhGa2tVd2pCWDhITkktUFlmVnRjV3hmbGp3SjNURlR3eHM2LThfTTNMT0pvUDZhYWZWMTBB?oc=5",
-        "source": "inkl",
-        "timestamp": 1783573613
       }
     ],
     "all": [
+      {
+        "title": "“Pull Up to Philly”: Jaylen Brown Uses Famous YouTube Streamer To Recruit LeBron James to 76ers - basketballnews.com",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMmVxSGEtbm82aXg2bE10b1RHa2JNZHJXTEhsVWdJWjBPd0tFNHJDSERYMGtIUlFueXdNSy1rTkF1ZHBpUURnekRoWTBzbVRNT3pxYmctSHNoQVA1QTBUcFk3WjFhNEhVR0ZCTjJEN3Q5eTFmUVJ5TXdvbDBMTHZob1lqZlFVOUZKd1VKTkJBTkVQY01aWEFJd1NHYlpJSE56M3ZlcFJremJHaHBJd0NiLU5xbWk4c2p5RnRVSkhUd2toS1EwTkxodWhCdnc1MnRWU2l1bTQtam5JTjZBRl81cUJmaUl2bmJaaGp2WmhwTzl2QQ?oc=5",
+        "source": "basketballnews.com",
+        "timestamp": 1783654648
+      },
+      {
+        "title": "MLB The Show 26 Patch Notes: New Update Addresses Gameplay and Diamond Dynasty - AOL.com",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xZlkyNDA4c09RWGw5c3VZbVVsYmZvRjd0b3J4U1l2a1FvZDVjUDQzV1l3YWJiOFJraUM4eWhfX2gtYWpKdEtiQVRqRFFtZkJreU1MZFNpQWN4UTN5Q0VxbXJLdkY2V09CcU5lVDBVQjNFRmhNUXc?oc=5",
+        "source": "AOL.com",
+        "timestamp": 1783652640
+      },
+      {
+        "title": "Marvel Rivals Season 9 Twitch Drops: Rewards, how to get, and more - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOOUJXQ0I2VUdfd252dnBBaVAybnY2SFBNVWJjSG4zTjVmUW9vaUR6SnZ4Rm83eVROU0xVd1VSaU1oMEdsdU5jMDFKbGs4Y081QmYzdUdPVkFVWkRkS0xHWVZ4dk9mN0ozUk9uQzNLRmJWV2xtV2l5MVJlbDZXWjQtZVVUWmk2WThWdkh5cmlpa1hXVEtoOU1qY2lzODUzcE1fVnVrakRwSU5nOVN5ZlZqcmFKY2plaWlMN3lQZTExbFRfRldReEpDcGZneHJYZ1RpdWlOT0hzOU5kX1ZBUWfSAeMBQVVfeXFMTlZ3ODZFeHF0OFFNcHgySEVtZTZncnAtVjNaMHBiWEpmXzZLem5xakNyWTNSeGVWd2RoNEg3N2RWX3BfUTctellvb1ZDdHFTaE9Ia21xQTlRTGJNbDFUWlBGck0wajM3WWkzTWdRUVNkNElPWFB4LVhSRXlVdHlKTHkwMEY5ejdfMHFBOWxJakN5bEo3c1VrSDBjMGZvUV9PaTcyNjNfbU55MWNYR3VfMy1VX1FkU2dfOVhkcHh5Q1FnVFhrZXVmTU0wSlVlZ0FkWHl4TzJWcGNyTlhNV3NBLUF5dVE?oc=5",
+        "source": "The Times of India",
+        "timestamp": 1783651140
+      },
+      {
+        "title": "Power Up Your San Diego Comic-Con 2026 with Marvel Games Lounge [UPDATE July 9] - San Diego Comic-Con Unofficial Blog",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTFR2NHdTc3VYQWpWMTBzcUVFbWxmNkFFOEJ5WV8zMHgxVjJtSkNHWWM4T01zMXdlcTEtbG1xbXVEem43UUtlNTI0Y1haR1pkWGFpNVZUZW1halRXNWNMOUJXRVl3MDdEejcxMVhkNVZ4Q3lBbUZ0amVOenpnYjVSa0FFa0xRTlhKdGI4MlU3Y3VsLU05R3BheA?oc=5",
+        "source": "San Diego Comic-Con Unofficial Blog",
+        "timestamp": 1783647198
+      },
+      {
+        "title": "Be Dino Codes (July 2026) - Beebom",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ZSE83UW1jb1FReDhkWF9WV2k3OVBUQ1J3WVhuem1KX3RDOElDMVhyMGRKejVreDd4eFZrZTVmdjRVNks0b2otbdIBTkFVX3lxTE9OcFpWeVRZTFBYektHeHdCMWh3ZzFHZDVQY1dKYWlVaVNoYTRPMFcyb0pXMkFydFlvSDl6OURBSjA4dlFTMkdkelpYN2tBUQ?oc=5",
+        "source": "Beebom",
+        "timestamp": 1783647167
+      },
+      {
+        "title": "How to Make Nuggets Quickly - Gothic 1 Remake Guide - IGN",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpMUI3cGd3RVJtY1Y1V2tDcW1hZFpPSFo2dXpZdkpMS3lWaWpHR2ZlTmY2UXRCQjducjByRHR1bG0tRXVYd2ZCUFUweUNnRWNOTzQycWVTYUZsaFZMcXMzV3BnQnFLSXlkalh3UlJPejdMNDg4RjVKRg?oc=5",
+        "source": "IGN",
+        "timestamp": 1783647098
+      },
+      {
+        "title": "TIL that this little robot in Metal Gear Solid 4 was made out of a PS3 and it has the CELL Processor in it, and Snake controls it with a DualShock 3 controller",
+        "link": "https://www.reddit.com/r/gaming/comments/1us9dkf/til_that_this_little_robot_in_metal_gear_solid_4/",
+        "source": "Reddit",
+        "timestamp": 1783646483
+      },
+      {
+        "title": "Reader’s Vote: The Best Scary Games To Play With Friends IRL - AOL.com",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfRVFSeWJKY04weTFLVnVtTTJOOHRoV29wTzdjTHZjR2RZNWExUmg5TjM4QTFXMHh1YW42eUJyTlRUOVkycE0xTVl4RHhnc0dfODFJekJSUUE4NFVPbkhkbnJpMzR5ZXpibFMzMzk1NFczMVdPa2Z3Z1JSVTg?oc=5",
+        "source": "AOL.com",
+        "timestamp": 1783646169
+      },
+      {
+        "title": "Ranking Every Sportsperson’s Pitch to LeBron James As Superstar Muses Over NBA Future - Sports Illustrated",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPenN3bDREQy1DRDRHUXZRYVQxODBCU2VKc3prZl91N0lpV1EtZS1yb2w1NGNaeXd5RW5mWUxGSXpHcEh3aG9yM0NFMHoyaFFXSDcyZER1RExTTFNwS2hPd0FocFFTbTBMb2tWOWFPcC1Bdk5NdHpqMF9LRjljZFJtTnVzNVdZc2pVb1EzQklTSkhTZmFYNThDRUtycWEwUF9HY1JFcA?oc=5",
+        "source": "Sports Illustrated",
+        "timestamp": 1783645761
+      },
+      {
+        "title": "FIFA World Cup 2026 livestream: How to watch World Cup for free - Mashable",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DVnUxS0ZIYVJuVXdfaXZvd3hXOVB3ZllzM0VmNkYzX0hncC1LTDZzOHZ3cHdtaGtDV0NUZk92UG5KeDc3TndoOUJfamJiYUpYV0RSc1h6Rm1SRjJKcVdrcmlfNFFQbzZBTjZ6QzhwUXpvdl85YnAwNw?oc=5",
+        "source": "Mashable",
+        "timestamp": 1783645291
+      },
+      {
+        "title": "Best apps to watch FIFA World Cup 2026 on your mobile phone - Goal.com",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYUFSSjdsSm5IX3VUTVRnU1JvMFlibEY0NGMxaUE4bGN6cmRfRmhmUWRZUHdDQ0pMbVRwdzdkT1R5UVp6N2VsVkEwMHB0c0JfU2M5QVZGOEtuUmZvOWxFNEFSazM2T2F1d2w5LXFkUzJUNV9uT1lFeEJrdmliU2FNTGdiZl9kNHdCTkpxcnVLSDJ4V3M?oc=5",
+        "source": "Goal.com",
+        "timestamp": 1783643793
+      },
+      {
+        "title": "'EA SPORTS College Football 27', 'EA SPORTS College Football Mobile' Out Now Worldwide - PlayDayOne",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSW1HSldKbWVVZUZIejhkWFdzWmwwbjF6UHY2Vzc0YV80TXE1VDR1WHFES0dIZnE3SWdJQlhYZ1pVWnlCNHk1aFYtRm80aGlpSkhUM3VWeERtM3pwRU0zZ1ZLRFlBMUREbmJ0RmNwdndVSzBvbnF1M29oQWkwc2lJb19JdERJN3hiNEJvYnBQbkJUTy1mOXE3VVpSZ2UwMjljX21XM1V3TlA5cTRKWkZlSUxvTQ?oc=5",
+        "source": "PlayDayOne",
+        "timestamp": 1783643022
+      },
+      {
+        "title": "Danville gaming store owner reacts to Sony moving games fully digital - AOL.com",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vTjBYRVlrWE9uckZtR1lodWFKZkZGQWxvZXlla1ZPdWxobnFmM2dqREdINEtXVVRuTHRQQkNyMmtIbDBfNlpyWEpfUGdrdVo2T3dlSXZ2cXJRSDZ2eHFocUJ5SjBYZTFWNjI4ODJlMXdkbzdlOElwOTJsbElYME0?oc=5",
+        "source": "AOL.com",
+        "timestamp": 1783642620
+      },
+      {
+        "title": "My son got in trouble at school and as a parent of a child who doesn't get in trouble often, I didn't know exactly how to punish him, but I think I figured it out.",
+        "link": "https://www.reddit.com/r/gaming/comments/1us7qun/my_son_got_in_trouble_at_school_and_as_a_parent/",
+        "source": "Reddit",
+        "timestamp": 1783642123
+      },
+      {
+        "title": "All of the upcoming PS5 games for 2026 (and beyond) - GamesRadar+",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNdnd3VThwT1RicndJbnQ3QWNWT3RwdTRXakxHR3pjb0ZkRlg3YkMtRlh4R3V3eHkyb2lRaWZ1bkxVbjItVGlESC1SR1dGdmhiWjIzamVsVmtyQQ?oc=5",
+        "source": "GamesRadar+",
+        "timestamp": 1783641802
+      },
       {
         "title": "Best new mobile games on iOS and Android – July 2026 round-up - Metro.co.uk",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmU1UDFrQ2JXRmJ5M1hVQzJaZFdlMDktTmpfUDQtSDlkTUVVeWdJM0E3cXZwczZnQ1c3RWV5MURLdUJ4bmlEakFId3JNRVR4cElUclVvNUlTUHo5Qnotb3NYVmd6bmwzaFhMcVNHdjRPQzNRRmZYVXF4cXl2LUtmTkFldlZIZHdzcm1FVjJfYkdpZlgwZV9ydtIBngFBVV95cUxQdDgxeXRmbl9aOW4zTkFPMUc3d25iZHdyRXdsWlBWeS16NTd3Rm43SVBqeDZRVzhFdjk5ZDRyNmRZSkRuY01uclBFdjJPMEl5Qm1qXzY0aFhfdElDVnhkM3FFSDNXVG4yeWxFVEtMajgxam1UQVlGMjFqZGtSTUUtaWxkWmFJNjI3eks1VzJDR0JLTHZ0Y1oxZFYxTU90UQ?oc=5",
@@ -705,10 +795,22 @@
         "timestamp": 1783641600
       },
       {
-        "title": "MLB The Show 26 Patch Notes: New Update Addresses Gameplay and Diamond Dynasty - Athlon Sports",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT3V0R01oUmhPWFpDUVhUcFZKSGN2SDBtWnFlLTZ5S2NfeERXZWlkem9XeGNnR1ZjQmd1LTVWUHVaNlJuYjdxUDM5bkpXWkhSclRWYS02VWNxT0JzeXktTnpwV2s2TEZrOGJqWFdDdkx2UWFXNGRtWl9XNWZFc3JDeHpPRlF5VzJv?oc=5",
-        "source": "Athlon Sports",
-        "timestamp": 1783639483
+        "title": "How do you put a price tag on a legacy like id Software's? - PC Gamer",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUHdkT25oNVhqbjIxTlVrSWZsRzFkaTFOUks5NVJiNEJ5NGU1bXFBS2k2UG43NGFqeU01cTNrYjZOa0hzMGRmcG01Rnd3ZnVEM3lhMmtBTHZjcWNTYjdnbHY1UGlDV2NBSmE1SGhPdW5nMmo2bkRLZGdpV2xmZGFyYzFRM2Q2U0hydURxbEdVVGFWUldXWXBtNGVwVmdaZw?oc=5",
+        "source": "PC Gamer",
+        "timestamp": 1783641577
+      },
+      {
+        "title": "NYT Connections hints and answers for Friday, July 10 (game #1125) - TechRadar",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa1B2VkFaOWZEaURSLW1xNXZEMFhlZXhsM3pfb1dkRHpadzc2Q3ZTQURkTDBpVlYybjJSVko0TlNzcm9LeVRjMU1vVmVXR1RvU080WkRiOFRiV0pZVWIxSk9PUkdWclJ1bE84VVZkRUdKVFMxd1daMnEyZVVCaUkyd1M0TWtWVkVj?oc=5",
+        "source": "TechRadar",
+        "timestamp": 1783638000
+      },
+      {
+        "title": "Twitch Streamer N3on hilariously takes over Oracle Park with Najee Harris - AOL.com",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT25VQ1YzaDZ2R3lpMk1KMnJ2UmVtSkcyQnFDWUtoQmpSQmVreXpxMHdhMTl4RFdCa2hWcTVnUGdqc0VXZk9kQ1Vyc0pfTVgzT1RQcWxKUzlKQ1M2VVBPUll3LVUwa1hGLW1RTlozMkVURXRsWXRTLVFFcVJILUVoZl9OVVJ6UVoxT2c?oc=5",
+        "source": "AOL.com",
+        "timestamp": 1783637638
       },
       {
         "title": "John Carmack reacts to massive layoffs at id Software: 'My 'Microsoft will probably be a good steward of the brand' statement isn't aging well' - PC Gamer",
@@ -717,28 +819,16 @@
         "timestamp": 1783637126
       },
       {
-        "title": "Who are the BBC and ITV commentators and pundits for the 2026 FIFA World Cup? - Goal.com",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdEpCakxzNFNjb0ZRb3pLalh6VDdhRWVKZDlLbVlNTThmd01aazFjVnhiS2lQbWNyOW9CUGRjVHBzUWZha3RFTDFVU2dUN1R6YnJIVXhacmhDWHVQYzdlVkZjUVE1QzBaYUVpWFB4MGhFMDMtaUtuX0ZzbDFRbDVQUkJobE1DaUlhQWRXZ3FCazA3ZlpjdWVZWmEyTQ?oc=5",
-        "source": "Goal.com",
-        "timestamp": 1783635645
-      },
-      {
-        "title": "FIFA World Cup 2026 livestream: How to watch World Cup for free - Mashable",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DVnUxS0ZIYVJuVXdfaXZvd3hXOVB3ZllzM0VmNkYzX0hncC1LTDZzOHZ3cHdtaGtDV0NUZk92UG5KeDc3TndoOUJfamJiYUpYV0RSc1h6Rm1SRjJKcVdrcmlfNFFQbzZBTjZ6QzhwUXpvdl85YnAwNw?oc=5",
-        "source": "Mashable",
-        "timestamp": 1783634460
+        "title": "Diablo 4 Season 14: Everything You Need To Know About Death Awakening - Mobalytics",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wcHZBZDRzODJZdHpDR3FRbkwzNVQwWGxqbzlDRzE0emVCMFU2elgwa09yQ3V0V0JTQzJ5ODFjZjEybVduT3dDcWQzcGpIZF81S2hqc1RpOTA5OHZLSjU4NW95YjctUWVCa0xxNFdyeUJ0T2pRblptSEc1S2k?oc=5",
+        "source": "Mobalytics",
+        "timestamp": 1783634650
       },
       {
         "title": "Why the video game industry may be sliding toward its next big crash - GeekWire",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV2h0SGtseF9ocnBtcjRQTUxoUUU4ZXBhT2J2Z2IyZUM5X0YtX0t6OVpFd1A0bnJhZ1oxcjBtTXFtVG04WHpPNV9hMjhBcnVSeFVYVTlrVDBqczRha1Vxd3BvQTYwZzlDS1ZKTVlxNVBOX2JsMlZmT1BLODFFbF9qbjF0UE1lQUp2VXR1VjdmSHpxZHhLTFJ1dkdNejNzQjZx?oc=5",
         "source": "GeekWire",
         "timestamp": 1783633662
-      },
-      {
-        "title": "Best apps to watch FIFA World Cup 2026 on your mobile phone - Goal.com",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYUFSSjdsSm5IX3VUTVRnU1JvMFlibEY0NGMxaUE4bGN6cmRfRmhmUWRZUHdDQ0pMbVRwdzdkT1R5UVp6N2VsVkEwMHB0c0JfU2M5QVZGOEtuUmZvOWxFNEFSazM2T2F1d2w5LXFkUzJUNV9uT1lFeEJrdmliU2FNTGdiZl9kNHdCTkpxcnVLSDJ4V3M?oc=5",
-        "source": "Goal.com",
-        "timestamp": 1783632837
       },
       {
         "title": "Roblox Game Codes [July 09, 2026] - Sportskeeda",
@@ -757,18 +847,6 @@
         "link": "https://www.reddit.com/r/gaming/comments/1us3dln/xbox_ceo_asha_sharma_named_as_adviser_to_us/",
         "source": "Reddit",
         "timestamp": 1783631872
-      },
-      {
-        "title": "US Federal Reserve taps Xbox CEO Asha Sharma, who just laid off 3,200 employees, to lead task force on jobs - PC Gamer",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbWJ6UjUtdFYyZGhzdnNvWlZPMEU1V254aF9Pb1ZsdGJPQ2xLMFllNVRVank4aXA4WEduMmFzZlQzSTVWcmRuZkZqcS1tcTFrOXNidTkzSzRHQzBSNWpiaENoQ1ZsX3F2bS1ZUVpOWEpLdWhvajhsZS11YjNzcVlLYVA3Y2N1dm1vNjlLblF4ZXBRX0dMdE1tYWFjNHB2bzFDZ0lST0JqMFgxSzBVWGFkWVhtMnNJdUZXNXV2S2pjcXJZZGR2aEV6VEtoMmZ5T3lxdkxPYm9jdVFGc3FvRi04?oc=5",
-        "source": "PC Gamer",
-        "timestamp": 1783631460
-      },
-      {
-        "title": "All of the upcoming PS5 games for 2026 (and beyond) - GamesRadar+",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNdnd3VThwT1RicndJbnQ3QWNWT3RwdTRXakxHR3pjb0ZkRlg3YkMtRlh4R3V3eHkyb2lRaWZ1bkxVbjItVGlESC1SR1dGdmhiWjIzamVsVmtyQQ?oc=5",
-        "source": "GamesRadar+",
-        "timestamp": 1783630945
       },
       {
         "title": "Best Casino Apps for Real Money Tested, Ranked & Reviewed — July 2026 - List Wire",
@@ -807,6 +885,12 @@
         "timestamp": 1783626163
       },
       {
+        "title": "Danville gaming store owner reacts to Sony moving games fully digital - WCIA.com",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQXY2RW1oeU8waEFzUXFjaUptMFpBUzVYcnVVcV85aXdJTzVEeDRzWV9HOExqWktkZDZQSklhYlE2TzdKVlg3NVdUNlg1SlJNOVlKWTlPd01tN2pobVV6R195MmRFcXRESi1iTVZXdTJ5aHF5WXlxQTM1Q2JlMW9ucmJvLXBkVmswX0V5akZ0S2JSZ29qWm5jazZIOG5Wb09hdEZPNlJTeHNmWFg2T29McGU3TXU0aHZK0gG4AUFVX3lxTE5BdjZFbWh5TzBoQXNRcWNpSm0wWkFTNVhydVVxXzlpd0lPNUR4NHNZX0c4TGpaS2RkNlBKSWFiUTZPN0pWWDc1V1Q2WDVKUk05WUpZOU93TW03amhtVXpHX3kyZEVxdERKLWJNVld1MnlocXlZeXFBMzVDYmUxb25yYm8tcGRWazBfRXlqRnRLYlJnb2pabmNrNkg4blZvT2F0Rk82UlN4c2ZYWDZPb0xwZTdNdTRodko?oc=5",
+        "source": "WCIA.com",
+        "timestamp": 1783625011
+      },
+      {
         "title": "Get 100 FPS With an RTX 4070 in Assassin's Creed: Black Flag Resynced Using Our Optimized PC Settings - IGN",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVHhkeFJsWFV2akJJZl9xZ3RrbmlGaldRWjRRTEY0ZzdJRjN0dDd4cklsTFFQZDV2dlhETkNkU2pta0VYTlhaVVdKcHVhZ1BDNGVhVC1vUTBKaFlYbGhndHNCanNSVnk3UEJjOXFBLUVmbUZkc1pablhDQkxzR2hqVTZRVGhsQ0xsMkE?oc=5",
         "source": "IGN",
@@ -843,9 +927,15 @@
         "timestamp": 1783621739
       },
       {
-        "title": "Xbox cuts 3,200 jobs as gaming business struggles - aol.com",
+        "title": "Assassin's Creed Black Flag Resynced: 10 tips and tricks for beginners - Red Bull",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaHFPRkRoZURwYlR6NUxxeXRBbG1UYTlDOXhMZXhldm5GRmtOUjFDTHgxbDFvb0JaLVozT25LZ3hBX19ETk1lZEFaUFA0amtaT09HQ0drNEFvemI4RnJveGZMcVJ6aExTLW9pOHJBYUdrM21kOEpjdExCSFZFR2dDc05tSQ?oc=5",
+        "source": "Red Bull",
+        "timestamp": 1783621577
+      },
+      {
+        "title": "Xbox cuts 3,200 jobs as gaming business struggles - AOL.com",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qTUE1RFBWUnctdEZJUkYySzJ5eE1ud09ZYUdfT0RwblhsamlVLWxfcXl6ODk4c3BLb0RtQTVtUnVBT1RCM1QzV2hOaXJybHlJLWNDbDJkc3o4RzkxZlI2NjZ4em94Q0cxZ2NwZDd6ejY2RjN6Nkx1bA?oc=5",
-        "source": "aol.com",
+        "source": "AOL.com",
         "timestamp": 1783619513
       },
       {
@@ -853,12 +943,6 @@
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZXJiX1NwYkVtMkdEeEtnV293c1htTFlRaUFqOUNMR2VSemk1dWNFVXEwS05uLURZWkNzeUFaQlBFcDI1M1VGU3VwRVJIWjRoV1kweEFEa0xaOHVfTW5tUGdNTlA4ODR5WHZ3a0V4em4zMEJDTE1VMFJuNC1mWENNeDAwXzNvU1lUWGVlY1RQQ1l1dUt4djJvN2k2SThLTWVDU2ZSemw0SDZPQ00?oc=5",
         "source": "MediaPost",
         "timestamp": 1783618943
-      },
-      {
-        "title": "ALGS Group Stage Finale: 14 Teams Lock Into $2M Finals, Six Go Home Today - Tech Times",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY1p0V2I0M3h1dmhMWUd0SHpKZ1pxblMtOWhBR2wzcjUtQ1pKRW50VzdyTkVSdGQ1THdWYktUNHl6cTliOFlLcldGQmpEZ2VBLXBQd1E4dTdfRlhsRXpLckZ2dVpYQVRiUlNnZUE3d1I4WTFZQ28zVzdVTE9pTkVhWXJkOXVpbGpYY2hfbWlhTFcxc1hRRFFJZWJJdUlhbFh4X1FjY2t1MFdBMVR0bV9vbUM5SGNoQUFMRE9yZA?oc=5",
-        "source": "Tech Times",
-        "timestamp": 1783618537
       },
       {
         "title": "PlayStation is heading to San Diego Comic Con with three live panels for Wolverine, God Of War Laufey, and Marvel Token with a audience",
@@ -877,12 +961,6 @@
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BYzVqdXBVZV9RVFpBazMyXzhzTWtxYjlITWZzM3ZkbllvZlNaVmhWdW1GclZwQkRJZ21CcXFjRF9XS1pmWm9ubTQ1SkNGSjFCelFlMnNFQzZWZTZXTmhiSnZXbjdlNG9OS09pOXRjeE5oOGJkUDZQSUZaN3RWRGM?oc=5",
         "source": "IGN",
         "timestamp": 1783617688
-      },
-      {
-        "title": "Only 8% of gamers are strictly against AI-generated content in Steam games, according to a study - WN Hub",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82cG5ja0hGTVhJZjVwQWllSE1jVTd6VVZscDJFMTRsaUc1YWh6M1BuZXBPYU1oS1h0R0tjV0ZsOGNTR3BjUzBXS08tVHZpM2JfZUI3RA?oc=5",
-        "source": "WN Hub",
-        "timestamp": 1783616724
       },
       {
         "title": "Best Casino Apps in Canada for Real Money Play In 2026 - RotoWire",
@@ -909,94 +987,16 @@
         "timestamp": 1783614678
       },
       {
+        "title": "Best AC Black Flag Resynced Graphics Settings For Console And PC - NeonLightsMedia",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOVRNRmpqcXRWRkFjNzRzeWdTbmRrdjVvbGdGd0VEazRRWFcwZDNMampON2trVm1KVWNycGFqTjlCcmp0OW92eDBBRWVjS3lDdzhlb3NsSWhxYlR6bkdhYVM2UDc5bHl0ZVA5cmtRU3ZJRy1mdV9hcnBDb2FmcF9ZRmdXdG5XbmFXMEp6VzhpZ2dCZw?oc=5",
+        "source": "NeonLightsMedia",
+        "timestamp": 1783613171
+      },
+      {
         "title": "How to watch World Cup 2026 online — live stream every game for free, quarterfinals start with France vs Morocco - Tom's Guide",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZzg3ZU1hNEx5MEpWdFUtaUc1Q1RNQVNGb0pHM1ZlcDlBald5RzVFeGVTSUVzQ0E3QjlDVHRBOXl1UEhORVpESlpWVERFYTg4YU5ENXlYcTlOQkFISVAzcDhiYU5nWjdPT1Z1V3AxZldidnhMTE5QSktjT2lkSl9fYm5wYXlkNXJ6dHlzSGp3?oc=5",
         "source": "Tom's Guide",
         "timestamp": 1783613166
-      },
-      {
-        "title": "Ubisoft Barcelona Hit By 51 Layoffs In Wake Of Strong Assassin’s Creed Black Flag Resynced Launch",
-        "link": "https://www.reddit.com/r/gaming/comments/1uru7x4/ubisoft_barcelona_hit_by_51_layoffs_in_wake_of/",
-        "source": "Reddit",
-        "timestamp": 1783612292
-      },
-      {
-        "title": "France vs. Morocco mega-preview: Predictions, form guide, key players and more - The Athletic - The New York Times",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWERwYUJwOHJodm0wbEEwY0dDRUxkMTJtNWVDRVpjMTJCbE5fRW93WTBKLWliY25NcnFGa3Q0RE1wSkxfOGpLQUJ2V3RpYl9MMGxmQXMweEVISXp6SEhZYURPM1BXM1RZM3FpVG5zNjdPbjBmOThZNEJtc1l3T3d3V0lmektHNjdadk1iVnNZVGVFTmdxTjktWjBuVm1wbEV1LXZnMA?oc=5",
-        "source": "The New York Times",
-        "timestamp": 1783610545
-      },
-      {
-        "title": "Jackpot.com Partners with THNDR to Launch Industry-First P2P Skill Games and Tournaments - PR Newswire",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYWFDcm9ERmJrUzFvdFpPT3VKTFk3RnFaMzBGQzBaRld3d1h3QW01YTBOR0lDcEFsUUtRbHlnUER5MFJacThRVzRJY3k2NXdLRExzTk03bU5Va3ZEc0ZmY0JXdFh4TnRqOS1jNWJOcjZLQ3B2Q1kwOHoteG16dDVSV2NoV1kycVljR1huX2J0WkQ2SGtfazVoN2R2VmVfSDd3SzJHX1BEeE0yaFFHRFFwRnpjV1JiYkxXUnB2b2FSQ19JLUVBTVI3ckVSdm9sUXhOdHl0Z0o5TFkwTVU?oc=5",
-        "source": "PR Newswire",
-        "timestamp": 1783610280
-      },
-      {
-        "title": "The Best Roguelike Games on PS5: your guide to PlayStation rogues on PS4, PS5, and PS Vita - Rogueliker",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pVVBOeHd0QW9mQWFzSGlfVm9WWmlZZTRfZS1wQmh2Q2JHQmxPMXpMUC1uT2dNRDRtMGdjbHR2N0M3azlfN3EtTmM2UmJlMlNaVWlrdGxDSHNuQQ?oc=5",
-        "source": "Rogueliker",
-        "timestamp": 1783610267
-      },
-      {
-        "title": "June’s top mobile game downloads: Arrows, Amaze Go, Free Fire Max, Roblox - Mobile Goddess",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcWc4cHBpSTNNMTdVNFNlUzlRd2NFMVlNWmdVX3VXXzZFbGZSNnpOWGxhSThiQXVhME12SHVKYVE1S3hQOGdsQTA1dWJRcWN1czZRcWxyd0ZhbnQ1WnJlN2c4RThidk5Bd3Y3ZEVYNnk0N3lGZXN5ZmJpZjVkTU5LUzlyVW1OemdzZV95NkxTTHl4X29nSjIwYzMwV2lMWmJ4c3JacFpSZ2xQdHI2Rlh6aQ?oc=5",
-        "source": "Mobile Goddess",
-        "timestamp": 1783610206
-      },
-      {
-        "title": "EWC 2026 Dota 2 Day 3 Live: PVISION Unbeaten as Falcons Chase Playoff Lock in Paris - Tech Times",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRkR6cDM4RFphSlFfMFBxdkd3WHVtNzRnTmFnSjV2dnFFQlQ2emdsX0pDdmtja2pSQ19wZm5kc1pVQWxtcm1mandhakVWTmRFYU1pX3h2bEhNWGllTmxNdFlZZlotVkhmdEE3enBjekxfOThOTXdiclUwRWJhQVd2S3BvRzQxWVhtNE1mYWoxcUpsVXNuSmFzdlpvNTlRRWNyMDRyMW1aZ1Q3eHF2RHhxTjNPNE01WmpZM0ZMbERmeUs0a05NcGVmaXpxcw?oc=5",
-        "source": "Tech Times",
-        "timestamp": 1783610128
-      },
-      {
-        "title": "Deltarune Chapter 5 Switch Patch Notes Breakdown - games.gg",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkSEtsV0tzZXN3VnFqbUZHM3hTaUdORkltX292aW5RcmNZcEZnQVFBVWdwaDl0aURfM09IalFQeG8xbkdhV05ocHFYTWo1NjNDOWVhZ2RUbldJVng4NDlBMXlkUkJoWG9yc0NwTUtB?oc=5",
-        "source": "games.gg",
-        "timestamp": 1783610024
-      },
-      {
-        "title": "Entertainment News | Alliance: Soha Ali Khan Steps in as Host as Kunal Kemmu Busy with a Film Shoot - LatestLY",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSnJlcUdGTTdnVnVxeWFWZUZ0S2VaZ2YxODR5Z3I1UlNPc3N3UWRsMlRVY254OF85dkhWdHFqUVdaeEI5ZllCZ0YyYXhTU1F4S1BtLUdEREVyX1liRmhTRXZvVkoyTEIxS2g5X0xndVFGQjNiaDMxZDJDUTBTNVVsWGk5cVctc0NVcm1VZDF3Z21DU2FmWmZpLWY5cVJrOTRhVTRnajNxV3Jqb3N5NU13aG5KS2N5bk5qX0xuc2VfNk5hQVdORDBMTzJONlgwZGhpU1M0WXQzS1NiLXFSUGg2SmNYNnHSAeQBQVVfeXFMTkpyZXFHRk03Z1Z1cXlhVmVGdEtlWmdmMTg0eWdyNVJTT3Nzd1FkbDJUVWNueDhfOXZIVnRxalFXWnhCOWZZQmdGMmF4U1NReEtQbS1HRERFcl9ZYkZoU0V2b1ZKMkxCMUtoOV9MZ3VRRkIzYmgzMWQyQ1EwUzVVbFhpOXFXLXNDVXJtVWQxd2dtQ1NhZlpmaS1mOXFSazk0YVU0Z2ozcVdyam9zeTVNd2huSktjeW5Oal9MbnNlXzZOYUFXTkQwTE8yTjZYMGRoaVNTNFl0M0tTYi1xUlBoNkpjWDZx?oc=5",
-        "source": "LatestLY",
-        "timestamp": 1783609940
-      },
-      {
-        "title": "Marvel Rivals Season 9 Reveal Premiere Times & How to Watch - games.gg",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNFdGaF8yNDg2UnRSQTZPaVhxLXJfNWtHdmt4bi1iUDJRSF9tT01yb3lLcWZQbWxFdEZ0Q2haYzJRQUNtcjJhcDh4VWNuVmhJMDRTRFhodXl1enJuVjFuaUh6eEtXcjVYUFc0ZTlnUU4tS2Q1VzNkRF9Bd0lxbzdrSGNwU3V0ZWVHdWNB?oc=5",
-        "source": "games.gg",
-        "timestamp": 1783609147
-      },
-      {
-        "title": "Twitch star involved in terrifying high-speed crash while livestreaming - aol.com",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTDJPdTdtRzhXemdseldua0dmMHQxUEJhblB5ZnhQWUZOSWc3Y2FKclNQaG8yZV9BMnYtM3dVd2VNclUxelExQUR1NU9rdjFDdnhWWEh3UjZPMkE4RDY5cEVZZlgtZGdjNzRJcThTYTc1QnNhRVRGeEVFX0Qzd0ZqSTgwRnBZeGc?oc=5",
-        "source": "aol.com",
-        "timestamp": 1783608910
-      },
-      {
-        "title": "Reader’s Vote: The Best Scary Games To Play With Friends IRL - aol.com",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfRVFSeWJKY04weTFLVnVtTTJOOHRoV29wTzdjTHZjR2RZNWExUmg5TjM4QTFXMHh1YW42eUJyTlRUOVkycE0xTVl4RHhnc0dfODFJekJSUUE4NFVPbkhkbnJpMzR5ZXpibFMzMzk1NFczMVdPa2Z3Z1JSVTg?oc=5",
-        "source": "aol.com",
-        "timestamp": 1783608895
-      },
-      {
-        "title": "Palworld's big 1.0 launch arrives and its patch notes are too big for Steam - Polygon.com",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZGgxSTNEenlHYU1hS3FyX1BHRzB6b0l3SkV0cmdIVTZ5TGpLME1DSEU4c1FObkRoTUNLd19HZy1saWlxdVltb1RwU0lyWFZzX0laWkZwOEFrSTAxemJLeXhldDhncXBxZzV3dEMzSVhYNGl4YXNnRlJocFJsR09zSmlQRWtmd2FDSk9ONWtB?oc=5",
-        "source": "Polygon.com",
-        "timestamp": 1783608849
-      },
-      {
-        "title": "Rhythm Heaven Groove sold 393,378 physical units at launch in Japan",
-        "link": "https://www.reddit.com/r/gaming/comments/1ursihu/rhythm_heaven_groove_sold_393378_physical_units/",
-        "source": "Reddit",
-        "timestamp": 1783608650
-      },
-      {
-        "title": "Gakuran Codes (July 2026) - Beebom",
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB3M2pmR0Nac1dzaWdwVEhzeldScjk1NXRhTHp3VG1FNXY3RHdnXzJ1LTdyQ2tTWTgxSm9GQjNMQkN5VTc5Ui1jX9IBTkFVX3lxTFBJalN0UjF0eUMwZVpybkhwemsxamJjN1RDYlNDYi1NQ3lRTUd5RXFrVnMzWU9GR0V1THk0R2p0YUNTeFJXV083c01qUE5xUQ?oc=5",
-        "source": "Beebom",
-        "timestamp": 1783608485
       }
     ]
   }
