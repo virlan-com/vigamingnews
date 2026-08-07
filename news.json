@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-08-07T23:17:23Z",
+  "last_updated": "2026-08-07T23:58:16Z",
   "data": {
     "top_stories": [
+      {
+        "title": "Neon Museum to Host Steve Wynn Event at Golden Nugget, That’s a Problem - Casino.org",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVVlCNUJiWEhnVjZSWEpFajJuUXMyTUxPY3dvYVlaNHpFalExNFRORmpELUxPdmZBQ09MM0ttSUNDM0k0bmFVVndscy1tbXVHcE14ZHFvS29kVzUwbHROYkxUSXNCVW83LTlEODZUWlZTSHFwS2VKWnQ2MzM4QUREbUlPMnpzS1k4cldFTDRSQ21FOTBERmxtNjNuZjlNMmZzOWRxRGZfVQ?oc=5",
+        "source": "Casino.org",
+        "timestamp": 1786139938
+      },
       {
         "title": "The Mid-Tier Is Ripe For A Comeback: Gaming Needs More Than Just Blockbusters and Indies - GameTyrant",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMGdaRnFtNDBSOGVwTWNDeUNhTE9jRW9HT2hXbHY5cTNKczRlVDc0RGZLTjNwM0hOdVBaa1ltNHhSS2ZjVFZEWG1NM004QktTbWt1WjVESmhIVk9BNXBTb1hLaG5wRFl0TVNBR2Jkb212U0VINXVmLWw3YlpQSFdkSG52eVJVR29YaDNDN19NR1JyNWd1TkZwdmpSSmZlZ1V1TklGMm5UeWNrbTRGUUc3emotbVNvZw?oc=5",
@@ -31,12 +37,6 @@
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQjVhSXZ3dVF2em9Qc2lFdE92Mmt4SkJQX1NnYVNjYTg2anF0Y3NvOXdjWEZnbmtxUkROWHFUZlMzS2VVaHJ2c3oyMkUzdkRBckdoU0hkUUNfaFVHa3pyZ0NQUlFUaTZ4b0xySDNJMXRvMzZGTThSZWl5bUwtVXdUNG1MWUJzeUhMU2ZnaW5R?oc=5",
         "source": "CDC Gaming",
         "timestamp": 1786124936
-      },
-      {
-        "title": "Halo Studios Hit by Layoffs After Campaign Evolved Launch [UPDATE] - Insider Gaming",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOHlxOFc2VGh3UHhrRHB6VzhlUWt4TjZPa0w0WWpBOTRaTHVUVUl4WElLeFBRZVBGMkpsVzM5bUlQeWZWenNqLURGTkNJbnFrVlZFS2dUMjcwNXd0eFBKcHZBcXZxMU9VenNzamppMHpWcUt3dXd1UXVteTBjV1BfY2NnS0xTTFdWMzEyYjVR?oc=5",
-        "source": "Insider Gaming",
-        "timestamp": 1786123417
       },
       {
         "title": "Take-Two boss dismisses hand-wringing over the end of disc-based games: 'Our business is well over 90% digitally distributed as it is' - PC Gamer",
@@ -95,10 +95,10 @@
     ],
     "viral": [
       {
-        "title": "Took me a while to make this Gamestage Display for Red Dead 2",
-        "link": "https://www.reddit.com/r/gaming/comments/1vi71n4/took_me_a_while_to_make_this_gamestage_display/",
+        "title": "'We're Talking About Advent Children, Dirge of Cerberus, Crisis Core' — Naoki Hamaguchi Plans to Unite Final Fantasy VII Spin-Offs in Revelation's Finale",
+        "link": "https://www.reddit.com/r/gaming/comments/1vifh6r/were_talking_about_advent_children_dirge_of/",
         "source": "Reddit",
-        "timestamp": 1786123779
+        "timestamp": 1786143440
       },
       {
         "title": "Sports News | Stubbs Eyes Strong Start to SA20 Season 5 as SEC Will Face PC in Tournament Opener - LatestLY",
@@ -220,7 +220,7 @@
         "title": "DRAGON BALL: Sparking! ZERO - Update Notice (August 7, 2026) - Bandai Namco Europe",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYlpSbWxWbFhrUGUza0gySVRFeVJSaGlvVXA4c2VIUkJrbUpocENNOU9LV25PSkktRjc0Sm1RQ3lzaVN5WkxpbGRWdHpWUEdKcnY1SWF0YkxKQWM5M3J3QV9lejN0WWl1bTV3YmJ5QVN6U2FhYW1SYXNKWDNWQlc5UjNpbkxneV9HV1g4MFhKS0NVa2ZNYXYxV2JzaXRKc1ls?oc=5",
         "source": "Bandai Namco Europe",
-        "timestamp": 1786136929
+        "timestamp": 1786146171
       },
       {
         "title": "Big Walk patch addresses voice volume complaints with restraint: 'We consider it an important part of the game's design that you can only hear players who are close to you' - PC Gamer",
@@ -321,6 +321,12 @@
         "timestamp": 1786115173
       },
       {
+        "title": "How to make a Minecraft server: setting up a server on Linux, Windows, and macOS - Hostinger",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0OUgxamRjbEFBN1BSZzFSVXRxREhYZW1hamNHTlBPbzdQbl9ycjlzb1dqWm5rLTJxOHVsQTE1UGZOMmVoem42Ym9KT0NXeTdyVGI2MmM1cW1Ga210cDc1MWo0VHlwa0lQaTRiZS1aRWwwLWYzZFdaZA?oc=5",
+        "source": "Hostinger",
+        "timestamp": 1786105795
+      },
+      {
         "title": "Dino Hunters Codes (August 2026) - Beebom",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1jc0VwSV95WjdEMlNreGpNU3p4N1pCZ09jRkZVR1JKdW1VRWNVMG9fUGtrVXJldDk1TzhWaGI1bkhoekxPMzJDNUtqbG5nVUnSAVRBVV95cUxON21NZWtfM0o3a3ltS3k5ellXLW16UFdrTzI3S2oyTjRHRzFDOTFPTkxLRnpFM1luYjV6X1hzTWl5aGlZZHJ1Yy1UR0pyMzQ2ckh1VUU?oc=5",
         "source": "Beebom",
@@ -375,9 +381,9 @@
         "timestamp": 1786083107
       },
       {
-        "title": "When Will Marvel Rivals Servers Be Back Up? Marvel Rivals Season 9.5 August 7 Downtime - Insider Gaming",
+        "title": "When Will Marvel Rivals Servers Be Back Up? Marvel Rivals Season 9.5 August 7 Downtime - insider-gaming.com",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPX25RNjA2ZGUxSEdFWnEwelppdEdYOW5YcGtsUVl4UXRaR1BZNXRMYmNMNU9PUUt5V3lGOTNFSHNSV29FQWktZDVTaDJyYmxaVnotOVhrRHdHaTJqZUNGLXBDYW9yVF81RFAwQnMxdFppR3ZabjBGNmo3djlwcWt6Nk9aWUNQaV9WemItVmFyVEVNdWtnQ3FzVTJkRExDT21odV9KN29vLVZPakNCY3FRRWZpMA?oc=5",
-        "source": "Insider Gaming",
+        "source": "insider-gaming.com",
         "timestamp": 1786082400
       },
       {
@@ -398,7 +404,7 @@
         "title": "Best Pals to Breed in Order in Palworld 1.0 - IGN",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaENqVVphR0NwZWpiUWtRZ3BXZGN2ZUh6SW9LODlENk44c2NqV0k2blE0dDEtQWJTNXcwNlZPRE44ckQwTGlCbUVaVW5Yb3J5M0JHYjM3S01UWkg5ZVp2aWNMTFpnQ2hRcU5ZbnZwbWozX2RGTkkzcFJmc3o2dGp5YVNiLTg?oc=5",
         "source": "IGN",
-        "timestamp": 1786141091
+        "timestamp": 1786145418
       },
       {
         "title": "Best FPL mid-priced midfielders for 2026/27: £6.5m-£7.5m - Fantasy Football Hub",
@@ -407,15 +413,21 @@
         "timestamp": 1786137063
       },
       {
+        "title": "7 Best Casino Apps in the USA for August 2026 - List Wire",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb0VEUXd5V21yTTJtaEpCQlFrOXNfVGtwWkIzbHhZRkNOMzJUdnRmOTB2ZVFPejd4Y3p4V3RveXluNEdzby1OREE3Wm5SMGU4SmxRZ1lYblMtLVJCb0tmSGY2RFU2U19Ib01yQ0ltUGlyYTlFYVpPNzdlckhiMDhibm1CdDdDZXhNdDRiQzVQSUgxYmUybHZ2VXhmY2NnMjlSaXpmVHRvLTdiQ2c?oc=5",
+        "source": "List Wire",
+        "timestamp": 1786129560
+      },
+      {
         "title": "How to Win at Online Slots: Best RTP, Strategies & Tips for August 2026 - USA Today",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2FCc2JfVnVXQkloNjNWNnQzTE5hLVcxNmdMUlFqX0VybWhvQTNzeHNPX0s4LUUweXZoU2NHcmR4RTlOSU1LSXVhbWp4VEoxM3NHOHQtVFJIMnNsWVdVM3J2d3o5ejNfOGlFaWtmQUFpdlVERVV5T3lvTUtTaDBhT0oweDgzV2JoUFRLWkhaalNDN19wSUxxdWUzcnRvU28?oc=5",
         "source": "USA Today",
         "timestamp": 1786129500
       },
       {
-        "title": "Best Florida online casinos and apps to try for free this week (August 2026) - news-press.com",
+        "title": "Best Florida online casinos and apps to try for free this week (August 2026) - The News-Press",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc0VRSENrZ3JmM05EYXdFM2U4TGs0OXc2RGRMTE93RnprQ2pOVXp4dUxscWJpVktQeWdvSUZ4R0NXUmFBZ041OFQ0Vkh5UnBEN3NBQ0l1VEFqR1F4Rm90SndxTS1FQ3pUWXBGZ0ljQUhFTXVJcDEzb1dfMElwUXNCVG1OOFhMWmZ1WXpPaE9nemI3QUpqdDNlMjJmMWlZNnhWZm4w?oc=5",
-        "source": "news-press.com",
+        "source": "The News-Press",
         "timestamp": 1786129020
       },
       {
@@ -477,12 +489,6 @@
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MM29mWl8zVFJLejMxNnQ2RVhBWm45VFNTNnl3ek04UnJsUXpfZ1JLb3oyX3ZiWmRVMkN5dXYzVHJNOUFaRjNrdlFjTFA0UTNScHRLaGR2dUxmZ2xtNGhlbmszS21ubzBKbExvdw?oc=5",
         "source": "Mobalytics",
         "timestamp": 1786070994
-      },
-      {
-        "title": "Today’s Wordle hints and answer: August 7, 2026, solution #1,875 - Tom's Guide",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yckZIaXRoYi1wdURnTWRpYkd6MUxkeGE3YThVbmY1bVhoc3dFRFVPR3hHTmpJdHN0Sm9wNHBCaVE2LVdnUnpXeFBEWGlsRTVSWmptenAyTG9YZlFIVjBORngwM1lIczNYbWZZ?oc=5",
-        "source": "Tom's Guide",
-        "timestamp": 1786059901
       }
     ],
     "assets": [
@@ -493,10 +499,16 @@
         "timestamp": 1786127657
       },
       {
-        "title": "Honkai Impact 3rd x Call of Duty: Mobile Collaboration Officially Announced: Everything We Know So Far - gamingonphone.com",
+        "title": "Honkai Impact 3rd x Call of Duty: Mobile Collaboration Officially Announced: Everything We Know So Far - GamingonPhone",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQmJDVHcyZHZieHdNT0tVYWh1X2Q4R3owc1lVYlFrejlyZl9ib1RsSFh4TEpHOGhMY0hPSURhbjZ3TUFNaGVoajFOT3RaOWU3SG1pWTNSM1E2WjB5NGotQzAxLTdzR3hVTzVrWUk0NTk3ZkJKN004c3NjUVBMWDFOckw5dzBqVXVwSk02NHBwQVZpOVBaVHJZSURHLVdtUHh2akhkQ2E2T2UxOTVoSlBNWGVDWmd6YTZHcWFEZ09sZ0R4YjN1VjliM1poUC0?oc=5",
-        "source": "gamingonphone.com",
+        "source": "GamingonPhone",
         "timestamp": 1786108933
+      },
+      {
+        "title": "Trump’s Rage Over Embarrassing Leaks Triggers White House Blame Game - The Daily Beast",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUVN6VVJwdkN3ZjJ5UHhsZVAybWlvSS1DeVgyNFo4QVUyWkh3UlhSel8zRV9yLURlbl9fMXFtQ3F2TG5heDJYOEpJZU9hTW5RT1NkVUlDU3JDV1pydUk3clZxckIyUVBGWGFNbHY1cEFpQnJWeTVUSUxCSXZrM05yX3hJRGNGdU85QVJ4dlQwN19zcEptcU5xZTRDbTJTdlk?oc=5",
+        "source": "The Daily Beast",
+        "timestamp": 1786101480
       },
       {
         "title": "Genshin Impact and Zenless Zone Zero leakers jailed in China's first criminal game leak case - GosuGamers",
@@ -544,9 +556,15 @@
         "timestamp": 1786122602
       },
       {
-        "title": "iShowSpeed Nominated for Esports Streamer of the Year 2026: Can He Complete a Three-Peat? - WIN.GG",
+        "title": "There are big ideas lurking under a new game’s cheap stream-bait exterior - A.V. Club",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEWmVqWG82ZTFIdEN5d05ud3BVSXNlSl95NloyaDVvTlRmV1RuNU5vdHBJa0JsVGVGLTRYblNUcG5VZ3NkNDBaMkF4M18yeDdJNnQ1UXFyU0U0N2liLThMZGQ0cldSRFVZNzhfeVpCT0VOR0U?oc=5",
+        "source": "A.V. Club",
+        "timestamp": 1786111760
+      },
+      {
+        "title": "iShowSpeed Nominated for Esports Streamer of the Year 2026: Can He Complete a Three-Peat? - win.gg",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zU0U5MWxLQnhHYy1Nc1pDVTRZdXliRE5Cdngwak55MkxtcmU2U1dOdkVaZWVBcWtub3BvMjhhN2NQQnZYRjk5RWhLMzc4aW5NZm1nSEFUN3MtX0QyeFdCTkxubWJZT2psZzNPMDdfcUhGY2Fyam52ZUpoTC12T0E?oc=5",
-        "source": "WIN.GG",
+        "source": "win.gg",
         "timestamp": 1786110046
       },
       {
@@ -562,9 +580,9 @@
         "timestamp": 1786106640
       },
       {
-        "title": "Kai Cenat Reveals GTA 6 Marathon Details - WIN.GG",
+        "title": "Kai Cenat Reveals GTA 6 Marathon Details - win.gg",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XNTA2eDZySjBQVGdGU3R2VWRCTF9yWlRIYzhuZTR5R1dNRno4T2ZUSG9tcUFLQjZ5eFRHNkptZ2JHS1daUmV1WV9abE5HLTNrdUVMY2VRNERYV0d2?oc=5",
-        "source": "WIN.GG",
+        "source": "win.gg",
         "timestamp": 1786103440
       },
       {
@@ -574,9 +592,9 @@
         "timestamp": 1786100100
       },
       {
-        "title": "New VTuber \"Urushiha Putera\" from Bebop High School will debut on August 1st. - Mogura VR",
+        "title": "New VTuber \"Urushiha Putera\" from Bebop High School will debut on August 1st. - moguravr.com",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ROHEtNTN0Z1Rac1RCV0tCQkhXSXBiZXFIcV9WSjhwRlM2NGtSQWRRZFNNejVUYUJoeWpvdDJjaXF6YXpQTGhDUlg1Um9VLThEM3hnN2h1eG5tcjVoMGdrbktocXMxTmhkX1JJUS1mS0ZoNnFZbTBoWQ?oc=5",
-        "source": "Mogura VR",
+        "source": "moguravr.com",
         "timestamp": 1786097364
       },
       {
@@ -584,12 +602,6 @@
         "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQNV83RmJwUWIwaDN6cVViTmpRYXBnNFBiaFlMcmszZE1Uem9aSmFsTzRkakNwZmp6QkI1YmpSMU0wZERPT01idmszNHowa3V6SUtubUNMdmZmTUNibWFVaW5KbjdTT1hEejNFTFlXTXVvTUV2VTVEUldVR2NkMzBLRmw4eWpBRk1HNmtYVXNxanhmQjAxWHhUYVlUOHRsUGh5bVQ2WmtGU3lneGI3T0tuWUd4LTFHVlZvRVVXTzBGOU84ODFRV3FIa3hxTFNWNE9mcjJOUmF1Rmlta0h0bkpPTDV3MGFzQzRYZUtGdy11Y2VIUmh1NkxNdDdXSlBBVjJyQkc4S2tTQV93Z9IBjwJBVV95cUxQcXA3ZWd1OWEwSDJKeWtjeUM5RzFFOXJwR1dEUW14X2JnRzYxWWRZOEl2RDJZUWpMREo1VmdISEVPRkpLTTEyQmgzN0dlTmc0YklrdXdPVkZ6TjAyVXdlaHlHQXduQ0U5RWlLMUQ0cGsxNXMwZ195cE04Q2hkcFcxZzNrSTR2SDV6WG4yY2Jtd2FzcUhfVmp5WFJLdllaZTEzR2JtRnZUOFJucjRqanpHV29yTUk4VUNlVGFPZUhxVkRWTEcybGo2c3BHVktIY2NOVHJyR1hRSmJyQ2FQUjd4T0RXNFZpcm5UVE1GNmVCTHdLRG5Pa0dTYUtoR05NX3FYY3pvRDVRRnlQa0JkVXBV?oc=5",
         "source": "The Times of India",
         "timestamp": 1786096680
-      },
-      {
-        "title": "Esports Awards 2026 Streamer of the Year nominees revealed as IShowSpeed eyes third straight win - The Times of India",
-        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQRnJ0aWNsVDg5OHNGU3dDd3JjRnBWOF93UzhwR25GQUdjS3pzc0lKckRubzg5cjVVc2ZtM0Q4U1RmZmlRV3ZfN1gwRm9fM0lfamR2RzN3ZkI1Q0w1anNkcjROYnpsTmttSWdZd2xSQlU3ckU4VThvcVFQRFN2NDhDV202UlpmN29MTkhFOFluZXVUdXRReGZIY2RBQW1qenJEX0xVRnhRQTVYLWNhWVNieTFaVXVQVnVtR29vZFVodmFtZUhCUnJ0RkhhZnN3M2RVS1g0MnlaR1hsTXhzVW5pQjNyWVhrVkxwaHRDQmNuVF9CYzZkdk83NVdtVm81WlZtUVBzSldReko4SWhxa3fSAY4CQVVfeXFMUEZydGljbFQ4OThzRlN3Q3dyY0ZwVjhfd1M4cEduRkFHY0t6c3NJSnJEbm84OXI1VXNmbTNEOFNUZmZpUVd2XzdYMEZvXzNJX2pkdkczd2ZCNUNMNWpzZHI0TmJ6bE5rbUlnWXdsUkJVN3JFOFU4b3FRUERTdjQ4Q1dtNlJaZjdvTE5IRThZbmV1VHV0UXhmSGNkQUFtanpyRF9MVUZ4UUE1WC1jYVlTYnkxWlV1UFZ1bUdvb2RVaHZhbWVIQlJydEZIYWZzdzNkVUtYNDJ5WkdYbE14c1VuaUIzcllYa1ZMcGh0Q0JjblRfQmM2ZHZPNzVXbVZvNVpWbVFQc0pXUXpKOElocWt3?oc=5",
-        "source": "The Times of India",
-        "timestamp": 1786092660
       },
       {
         "title": "Honor of Kings at the Esports World Cup 2026: Everything from the $3 million event - Esports.gg",
@@ -604,9 +616,9 @@
         "timestamp": 1786087093
       },
       {
-        "title": "Chess With Bombs Hits Twitch: Anichess Books Four Streamers for Sunday Pengu Blast Arena - eGamers.io",
+        "title": "Chess With Bombs Hits Twitch: Anichess Books Four Streamers for Sunday Pengu Blast Arena - egamers.io",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeF93bnYtcWNZcUg4clAteXZHVWxZTEoxdkViZXJnam1xSTJ4dUxMWl9PZ3R2NWJBWW5YYWlySlNlMHloNWprN3BIMjA2UXExNG4zckd1TjBNTVVObFF2U0FCNmVCZjJhbVpnNHNmWTZCeDJ4V0NidFZlUE55ODZSalNvcm91TGE1TTlpSUEtU0FYR2wzVTcwUk1NdFQxMXM3NlQxMzE4eGg5Tk0?oc=5",
-        "source": "eGamers.io",
+        "source": "egamers.io",
         "timestamp": 1786069778
       }
     ],
@@ -618,9 +630,9 @@
         "timestamp": 1786132980
       },
       {
-        "title": "East Side Games Group to Announce Second Quarter 2026 Financial Results - Investing News Network",
+        "title": "East Side Games Group to Announce Second Quarter 2026 Financial Results - investingnews.com",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLXhaZE02N0NsUzV6ZmtSOTkzWHNjQ0VVaGc4WGs0eXJ6TktnV2dER2NQSUgzeDY1SHBsR040b1J6LXJyUjBHalpObFNpa3VMdlRVWVlEY1p0R0tXcWR0X2cwZGJaTmdaSEN4SlJ4Skt0UUFJWXNJX1FHNVJud21JSkxSR3lFT3ZvM2VHLWd3VENNNExiWk9fYWhMbGZFN3c?oc=5",
-        "source": "Investing News Network",
+        "source": "investingnews.com",
         "timestamp": 1786132384
       },
       {
@@ -636,9 +648,9 @@
         "timestamp": 1786129375
       },
       {
-        "title": "Royal Caribbean tests mobile lottery game aboard Utopia of the Seas - Yogonet",
+        "title": "Royal Caribbean tests mobile lottery game aboard Utopia of the Seas - yogonet.com",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQnhsYnBXVFJ6QXgwQ2VHdThXOWVtV21DaHVhT2p0cWMwdzctYWMzX1l4dU9OUVJGVnBBSDYtaVc2cjcwVVNoblZyaFpULWtCS3pOV241ZjJUaUNrYWgtbDAwNk94VmZUNldLUEpWYzVLWkNDSkJWRkVOM19vanRLNmJyMnFSclJWcnhuS0pHMkk1S3hhVDY4eW50S1FMeWlNdXVxSThucEhtMFdnTlRiXzJ6LWNBM2ZmdHVWSnlIRUdUS3loenEw?oc=5",
-        "source": "Yogonet",
+        "source": "yogonet.com",
         "timestamp": 1786126958
       },
       {
@@ -648,15 +660,21 @@
         "timestamp": 1786122240
       },
       {
+        "title": "Take-Two's first-quarter results highlight net bookings surpassing expectations, a modest rise in revenue, and the cancellation of a previously unannounced \"new core IP\" game. - WN Hub",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nN0Y4bm9DVG5yMGc5Z3BSZS02dG11VU9lbkJ3ZDQzLTZlcEhhS1llaThVdGFBSkFGSk1TRjRLUS1ESGRQSjFzdlR1V251X202UWc?oc=5",
+        "source": "WN Hub",
+        "timestamp": 1786117344
+      },
+      {
         "title": "New game digest: CookieRun, My Hero Academia, 9 Kings, a new Nuverse game and more - Mobilegamer.biz",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbVVwY0JJSU91d24xQmloZUxVeFo4SVFTcTRWM0poZWhRYVpQLUpSTjFhdVVwZ1pDZFcyNDZmUThXYVdVd1labk96TUNJdW83b1BSQy1vMkxhb1Y5b3R6YVhPbzFEVTlJREVlcjJESGZkNVlBQ1hWR2tQdl9vTldjNnBKUC10MVNOVm9lWWp5WG1qcU5uaE1YZE4tVkE0T2V3LU9wNHhn?oc=5",
         "source": "Mobilegamer.biz",
         "timestamp": 1786114924
       },
       {
-        "title": "Take-Two Interactive Currently has 29 Games in Development - Insider Gaming",
+        "title": "Take-Two Interactive Currently has 29 Games in Development - insider-gaming.com",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd3J3b1pocE9mb3VwUXlwSE1MeEVOWVg2QnFIQ0FQZi1uYjdudUt4MDFMc3FvMWs0d21Fam9oVkt5eFNkZlhmMzZxZGcwYnMzZDFhN3BaalJIU21Hb2VyTURSVzZxMlpNaEZva0pmRzRyRmRULU95QVExWFhFbXRYQ0wtREpZWll5T05NUTQtbw?oc=5",
-        "source": "Insider Gaming",
+        "source": "insider-gaming.com",
         "timestamp": 1786110972
       },
       {
@@ -672,12 +690,6 @@
         "timestamp": 1786098900
       },
       {
-        "title": "A brand-new entry in the series, “Suikoden STAR LEAP,” is now available on iOS and Android! Details on the first in-game event, scheduled to launch soon, have also been revealed. - Saiga NAK",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52YVcwVlFId3VKR0NRWWlHUTkwTDZDTUtmWnNBMU14T2hmNkVWVXRQMFowUjA4OWRGZVJEdmYxQXBZajdfMWFRU0tVSFJWVk1ZSHVKUFZXbWNvS1pt0gFiQVVfeXFMTkgtcU5jZ2JNSDI4dW9KOS1vaFZFVVRRZkFIcXpaUFZPRi1hajB6b2pTNTFLa3FwaXk1RTB6SG9Bb2l1Zzd2REJJU3RPNWdwVE82UDlsWWxhYVozcTVMY1ZWc0E?oc=5",
-        "source": "Saiga NAK",
-        "timestamp": 1786093441
-      },
-      {
         "title": "Best new casino sites in the UK (August 2026) – Find top new casinos - talkSPORT",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE91Q2VQcnBlNmlBTUZBRUxuMTgzMDhXUE9ad251TW5OSnRQOUtkNW5ocmthbUVxZTluYThFaFRLa1JkTFhkUHVfWjFmWW95dkRkNVRVcmlTNWNMeDNzM0lLdWxuUnJNUXdQYlMtMTF3Xy1xX2s?oc=5",
         "source": "talkSPORT",
@@ -690,9 +702,9 @@
         "timestamp": 1786090987
       },
       {
-        "title": "The Final Hurdle Mobile Esports Must Clear in the West - The Esports Advocate",
+        "title": "The Final Hurdle Mobile Esports Must Clear in the West - esportsadvocate.net",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13empnWnUxY2NXTDRHcHBpX2NQWG03dWRiei1EZG1NUGdRSWVkaE00TnFvQjVNMURCUFpYT2FfYXVmMzVXeHZUSDZGTk91R0VJUnZQT1hkUC12bmZTVFpYU0FCa1JKOVE?oc=5",
-        "source": "The Esports Advocate",
+        "source": "esportsadvocate.net",
         "timestamp": 1786078850
       },
       {
@@ -704,16 +716,28 @@
     ],
     "all": [
       {
-        "title": "Have you heard? Addison Rae has a Fortnite skin and Erling Haaland has a secret weapon. - Tubefilter",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV2EwN1FQS1Y5akxuM1ZFdUJ1eklDbHl0MklfV196MGhQdm5tcXo0Z1RCRW5jOExYNG1DSkVwbDN0NHRTNzlFOHR6ZWVTX3YwMzVsYVNtbm1iRVZXZmRuclJRYy1BWjI1UVJ6VlRrRmhpNlN4T1pMaHRSZ2RlcG9MdmFfMVROUDh4Sm1RRTRjb2E4dHZZTEpLbElNMmpONGZk0gGmAUFVX3lxTE1JSV96djM3aTlqSG5MYllKZjNnQnQtNXl6UzdzMmN6WThvdmNYUnBjZ2NDZWVlU1ZlZmh1bS1GSU9HOHlab2prZzY4elVuRi1RNkZ3bzZkRHlEYzFERk83VF9UT3VyQ2dIQW1TYkxyTWpYd1Z3X1oyQk5zOGRnNWo4cVppN2FwMzlxRzlxeVVpM05FbDJsa2hMZWRFeEtfMVR6WEJCeHc?oc=5",
-        "source": "Tubefilter",
-        "timestamp": 1786142453
+        "title": "DRAGON BALL: Sparking! ZERO - Update Notice (August 7, 2026) - Bandai Namco Europe",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYlpSbWxWbFhrUGUza0gySVRFeVJSaGlvVXA4c2VIUkJrbUpocENNOU9LV25PSkktRjc0Sm1RQ3lzaVN5WkxpbGRWdHpWUEdKcnY1SWF0YkxKQWM5M3J3QV9lejN0WWl1bTV3YmJ5QVN6U2FhYW1SYXNKWDNWQlc5UjNpbkxneV9HV1g4MFhKS0NVa2ZNYXYxV2JzaXRKc1ls?oc=5",
+        "source": "Bandai Namco Europe",
+        "timestamp": 1786146171
       },
       {
         "title": "Best Pals to Breed in Order in Palworld 1.0 - IGN",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaENqVVphR0NwZWpiUWtRZ3BXZGN2ZUh6SW9LODlENk44c2NqV0k2blE0dDEtQWJTNXcwNlZPRE44ckQwTGlCbUVaVW5Yb3J5M0JHYjM3S01UWkg5ZVp2aWNMTFpnQ2hRcU5ZbnZwbWozX2RGTkkzcFJmc3o2dGp5YVNiLTg?oc=5",
         "source": "IGN",
-        "timestamp": 1786141091
+        "timestamp": 1786145418
+      },
+      {
+        "title": "'We're Talking About Advent Children, Dirge of Cerberus, Crisis Core' — Naoki Hamaguchi Plans to Unite Final Fantasy VII Spin-Offs in Revelation's Finale",
+        "link": "https://www.reddit.com/r/gaming/comments/1vifh6r/were_talking_about_advent_children_dirge_of/",
+        "source": "Reddit",
+        "timestamp": 1786143440
+      },
+      {
+        "title": "Have you heard? Addison Rae has a Fortnite skin and Erling Haaland has a secret weapon. - Tubefilter",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV2EwN1FQS1Y5akxuM1ZFdUJ1eklDbHl0MklfV196MGhQdm5tcXo0Z1RCRW5jOExYNG1DSkVwbDN0NHRTNzlFOHR6ZWVTX3YwMzVsYVNtbm1iRVZXZmRuclJRYy1BWjI1UVJ6VlRrRmhpNlN4T1pMaHRSZ2RlcG9MdmFfMVROUDh4Sm1RRTRjb2E4dHZZTEpLbElNMmpONGZk0gGmAUFVX3lxTE1JSV96djM3aTlqSG5MYllKZjNnQnQtNXl6UzdzMmN6WThvdmNYUnBjZ2NDZWVlU1ZlZmh1bS1GSU9HOHlab2prZzY4elVuRi1RNkZ3bzZkRHlEYzFERk83VF9UT3VyQ2dIQW1TYkxyTWpYd1Z3X1oyQk5zOGRnNWo4cVppN2FwMzlxRzlxeVVpM05FbDJsa2hMZWRFeEtfMVR6WEJCeHc?oc=5",
+        "source": "Tubefilter",
+        "timestamp": 1786142453
       },
       {
         "title": "“Are you white?”: Twitch streamer JayMommy doubles down after YRG Cobblemon racism controversy and refuse - The Times of India",
@@ -722,16 +746,16 @@
         "timestamp": 1786140660
       },
       {
+        "title": "Neon Museum to Host Steve Wynn Event at Golden Nugget, That’s a Problem - Casino.org",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVVlCNUJiWEhnVjZSWEpFajJuUXMyTUxPY3dvYVlaNHpFalExNFRORmpELUxPdmZBQ09MM0ttSUNDM0k0bmFVVndscy1tbXVHcE14ZHFvS29kVzUwbHROYkxUSXNCVW83LTlEODZUWlZTSHFwS2VKWnQ2MzM4QUREbUlPMnpzS1k4cldFTDRSQ21FOTBERmxtNjNuZjlNMmZzOWRxRGZfVQ?oc=5",
+        "source": "Casino.org",
+        "timestamp": 1786139938
+      },
+      {
         "title": "Best FPL mid-priced midfielders for 2026/27: £6.5m-£7.5m - Fantasy Football Hub",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX1BzOWw1dU1qOFQwR0hXUTRHdUV3TEJqLVM0QlBrOXlmZU1CajlHMU9KQ3FNVTZheWExcHp4b1FSM2lSMEc0S1VuTHBMTmRadDlrTDhMdnQ1bHR4SjJ0czY2Q2J3WWxCMVdWOXZJY3lFUWhjUTZsVEMyNDBxZ0o0UGxIelpjUVhs?oc=5",
         "source": "Fantasy Football Hub",
         "timestamp": 1786137063
-      },
-      {
-        "title": "DRAGON BALL: Sparking! ZERO - Update Notice (August 7, 2026) - Bandai Namco Europe",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYlpSbWxWbFhrUGUza0gySVRFeVJSaGlvVXA4c2VIUkJrbUpocENNOU9LV25PSkktRjc0Sm1RQ3lzaVN5WkxpbGRWdHpWUEdKcnY1SWF0YkxKQWM5M3J3QV9lejN0WWl1bTV3YmJ5QVN6U2FhYW1SYXNKWDNWQlc5UjNpbkxneV9HV1g4MFhKS0NVa2ZNYXYxV2JzaXRKc1ls?oc=5",
-        "source": "Bandai Namco Europe",
-        "timestamp": 1786136929
       },
       {
         "title": "The Mid-Tier Is Ripe For A Comeback: Gaming Needs More Than Just Blockbusters and Indies - GameTyrant",
@@ -752,9 +776,9 @@
         "timestamp": 1786132980
       },
       {
-        "title": "East Side Games Group to Announce Second Quarter 2026 Financial Results - Investing News Network",
+        "title": "East Side Games Group to Announce Second Quarter 2026 Financial Results - investingnews.com",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLXhaZE02N0NsUzV6ZmtSOTkzWHNjQ0VVaGc4WGs0eXJ6TktnV2dER2NQSUgzeDY1SHBsR040b1J6LXJyUjBHalpObFNpa3VMdlRVWVlEY1p0R0tXcWR0X2cwZGJaTmdaSEN4SlJ4Skt0UUFJWXNJX1FHNVJud21JSkxSR3lFT3ZvM2VHLWd3VENNNExiWk9fYWhMbGZFN3c?oc=5",
-        "source": "Investing News Network",
+        "source": "investingnews.com",
         "timestamp": 1786132384
       },
       {
@@ -776,6 +800,12 @@
         "timestamp": 1786130433
       },
       {
+        "title": "7 Best Casino Apps in the USA for August 2026 - List Wire",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb0VEUXd5V21yTTJtaEpCQlFrOXNfVGtwWkIzbHhZRkNOMzJUdnRmOTB2ZVFPejd4Y3p4V3RveXluNEdzby1OREE3Wm5SMGU4SmxRZ1lYblMtLVJCb0tmSGY2RFU2U19Ib01yQ0ltUGlyYTlFYVpPNzdlckhiMDhibm1CdDdDZXhNdDRiQzVQSUgxYmUybHZ2VXhmY2NnMjlSaXpmVHRvLTdiQ2c?oc=5",
+        "source": "List Wire",
+        "timestamp": 1786129560
+      },
+      {
         "title": "How to Win at Online Slots: Best RTP, Strategies & Tips for August 2026 - USA Today",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2FCc2JfVnVXQkloNjNWNnQzTE5hLVcxNmdMUlFqX0VybWhvQTNzeHNPX0s4LUUweXZoU2NHcmR4RTlOSU1LSXVhbWp4VEoxM3NHOHQtVFJIMnNsWVdVM3J2d3o5ejNfOGlFaWtmQUFpdlVERVV5T3lvTUtTaDBhT0oweDgzV2JoUFRLWkhaalNDN19wSUxxdWUzcnRvU28?oc=5",
         "source": "USA Today",
@@ -794,9 +824,9 @@
         "timestamp": 1786129375
       },
       {
-        "title": "Best Florida online casinos and apps to try for free this week (August 2026) - news-press.com",
+        "title": "Best Florida online casinos and apps to try for free this week (August 2026) - The News-Press",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc0VRSENrZ3JmM05EYXdFM2U4TGs0OXc2RGRMTE93RnprQ2pOVXp4dUxscWJpVktQeWdvSUZ4R0NXUmFBZ041OFQ0Vkh5UnBEN3NBQ0l1VEFqR1F4Rm90SndxTS1FQ3pUWXBGZ0ljQUhFTXVJcDEzb1dfMElwUXNCVG1OOFhMWmZ1WXpPaE9nemI3QUpqdDNlMjJmMWlZNnhWZm4w?oc=5",
-        "source": "news-press.com",
+        "source": "The News-Press",
         "timestamp": 1786129020
       },
       {
@@ -812,9 +842,9 @@
         "timestamp": 1786127657
       },
       {
-        "title": "Royal Caribbean tests mobile lottery game aboard Utopia of the Seas - Yogonet",
+        "title": "Royal Caribbean tests mobile lottery game aboard Utopia of the Seas - yogonet.com",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQnhsYnBXVFJ6QXgwQ2VHdThXOWVtV21DaHVhT2p0cWMwdzctYWMzX1l4dU9OUVJGVnBBSDYtaVc2cjcwVVNoblZyaFpULWtCS3pOV241ZjJUaUNrYWgtbDAwNk94VmZUNldLUEpWYzVLWkNDSkJWRkVOM19vanRLNmJyMnFSclJWcnhuS0pHMkk1S3hhVDY4eW50S1FMeWlNdXVxSThucEhtMFdnTlRiXzJ6LWNBM2ZmdHVWSnlIRUdUS3loenEw?oc=5",
-        "source": "Yogonet",
+        "source": "yogonet.com",
         "timestamp": 1786126958
       },
       {
@@ -830,22 +860,10 @@
         "timestamp": 1786124936
       },
       {
-        "title": "Took me a while to make this Gamestage Display for Red Dead 2",
-        "link": "https://www.reddit.com/r/gaming/comments/1vi71n4/took_me_a_while_to_make_this_gamestage_display/",
-        "source": "Reddit",
-        "timestamp": 1786123779
-      },
-      {
         "title": "Why was Asmongold banned from Twitch? Streamer's controversial comments about immigrants explained: ‘I’d shoot whoever’ | Hindustan Times - Hindustan Times",
         "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPamhpUUxYbXFZZXZWRUNMZ2J2SVlpbU1NTG10emc1V2NvWDRydVdKWjVHd3hwc2ZaV3Z3Nnh1Vzc0SUtHRXJfOGszLTRYMXEwM25MbE9zMjlsU190NWZkQVNUcDh5U3lqSGNzZTk1b2t4Uk95SUtTYThVWV9vNlRxb2hXcHlfbW1ZS2dmT28wX1JoSjFxMjVRRUZlbEk1NW1KVkFMUk02RmtvZlVCMXdkd2N4UVdYVWE1aGZmdWQ2eHV5QWNsZGc5SFF4eVdJOVlJY1BxMTUwdDFUVUZXUk5VcXo5Y3RCSjhBMHNiLThVUTcxYUVuN2V2V19YbS1nai1wNmVTVThPVE5NZ9IBjwJBVV95cUxPYVFOZllRRHVXY3NYLVdvSkVfOVlhWkVRWkdTZkd4eXFpb1RVZHg5T2JPa0g1SUlqeXJYNUtwQUF1NEl0eUJrb2EzZlhmYzlSemtqWmR2MEdEc01FT295THFsVk5tMFk0TENHdXNuNTZIX0JQUHRXQlBGYzRBeWxpNTUtdW9LVXhYbzZLYWNpVFY3cU5JUV9TSzlHbDRNdWQwVjVBRmVmRGJLdHlTSjFBcVdSdFBtYmlVOTN6MGFVWkJuNWdjbk1nd2xpVmJBSVk4ZGJ3WUFXbzlaemZyaFA3V1h2T3pBNFpvdlN2Wm1udGZ3Z2lOdGtTWG93S3dLVkZhb3FobU03b3RFUTQyWFVF?oc=5",
         "source": "Hindustan Times",
         "timestamp": 1786123643
-      },
-      {
-        "title": "Halo Studios Hit by Layoffs After Campaign Evolved Launch [UPDATE] - Insider Gaming",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOHlxOFc2VGh3UHhrRHB6VzhlUWt4TjZPa0w0WWpBOTRaTHVUVUl4WElLeFBRZVBGMkpsVzM5bUlQeWZWenNqLURGTkNJbnFrVlZFS2dUMjcwNXd0eFBKcHZBcXZxMU9VenNzamppMHpWcUt3dXd1UXVteTBjV1BfY2NnS0xTTFdWMzEyYjVR?oc=5",
-        "source": "Insider Gaming",
-        "timestamp": 1786123417
       },
       {
         "title": "Asmongold Banned Again on Twitch Following 'Violation of Community Guidelines' - IGN",
@@ -900,6 +918,12 @@
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPakwzT1hnWWI3Umd0RUdmRjBVQlByVG5BU2xIUWZabWZOR2thNDR3ZTYzajlqNm9ucnRNanNYeVB3cVJ6T0lRci1TQVJYV0IxaHFBNmlmT3dLNW5CQzA3Zy1pWWRObTg2Y09QMXYxbmprbzk5WW8wUXVKcWJVb3RxN0E4aVVoa3d5TTluamtsb09kRlhxYU1J?oc=5",
         "source": "IGN",
         "timestamp": 1786118477
+      },
+      {
+        "title": "Take-Two's first-quarter results highlight net bookings surpassing expectations, a modest rise in revenue, and the cancellation of a previously unannounced \"new core IP\" game. - WN Hub",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nN0Y4bm9DVG5yMGc5Z3BSZS02dG11VU9lbkJ3ZDQzLTZlcEhhS1llaThVdGFBSkFGSk1TRjRLUS1ESGRQSjFzdlR1V251X202UWc?oc=5",
+        "source": "WN Hub",
+        "timestamp": 1786117344
       },
       {
         "title": "Just need to share my appreciation for Armored Core 6",
@@ -962,15 +986,21 @@
         "timestamp": 1786112100
       },
       {
-        "title": "Take-Two Interactive Currently has 29 Games in Development - Insider Gaming",
+        "title": "There are big ideas lurking under a new game’s cheap stream-bait exterior - A.V. Club",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEWmVqWG82ZTFIdEN5d05ud3BVSXNlSl95NloyaDVvTlRmV1RuNU5vdHBJa0JsVGVGLTRYblNUcG5VZ3NkNDBaMkF4M18yeDdJNnQ1UXFyU0U0N2liLThMZGQ0cldSRFVZNzhfeVpCT0VOR0U?oc=5",
+        "source": "A.V. Club",
+        "timestamp": 1786111760
+      },
+      {
+        "title": "Take-Two Interactive Currently has 29 Games in Development - insider-gaming.com",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd3J3b1pocE9mb3VwUXlwSE1MeEVOWVg2QnFIQ0FQZi1uYjdudUt4MDFMc3FvMWs0d21Fam9oVkt5eFNkZlhmMzZxZGcwYnMzZDFhN3BaalJIU21Hb2VyTURSVzZxMlpNaEZva0pmRzRyRmRULU95QVExWFhFbXRYQ0wtREpZWll5T05NUTQtbw?oc=5",
-        "source": "Insider Gaming",
+        "source": "insider-gaming.com",
         "timestamp": 1786110972
       },
       {
-        "title": "iShowSpeed Nominated for Esports Streamer of the Year 2026: Can He Complete a Three-Peat? - WIN.GG",
+        "title": "iShowSpeed Nominated for Esports Streamer of the Year 2026: Can He Complete a Three-Peat? - win.gg",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zU0U5MWxLQnhHYy1Nc1pDVTRZdXliRE5Cdngwak55MkxtcmU2U1dOdkVaZWVBcWtub3BvMjhhN2NQQnZYRjk5RWhLMzc4aW5NZm1nSEFUN3MtX0QyeFdCTkxubWJZT2psZzNPMDdfcUhGY2Fyam52ZUpoTC12T0E?oc=5",
-        "source": "WIN.GG",
+        "source": "win.gg",
         "timestamp": 1786110046
       },
       {
@@ -984,24 +1014,6 @@
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80bE5sRGpGVDh0ZHphQ2FyTm51dm5haTBRRzUwMmtFd0E5SmQ1dGhCUEZScnNNajI5RWlwNlIwbEZBU012ZkZ2QmtIUURaSm51cW5jV1E5eDh5R1dDd0syd25Zc2hpa1ZQS2dYVl9xSi1jeUU4?oc=5",
         "source": "Esports Charts",
         "timestamp": 1786109061
-      },
-      {
-        "title": "Honkai Impact 3rd x Call of Duty: Mobile Collaboration Officially Announced: Everything We Know So Far - gamingonphone.com",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQmJDVHcyZHZieHdNT0tVYWh1X2Q4R3owc1lVYlFrejlyZl9ib1RsSFh4TEpHOGhMY0hPSURhbjZ3TUFNaGVoajFOT3RaOWU3SG1pWTNSM1E2WjB5NGotQzAxLTdzR3hVTzVrWUk0NTk3ZkJKN004c3NjUVBMWDFOckw5dzBqVXVwSk02NHBwQVZpOVBaVHJZSURHLVdtUHh2akhkQ2E2T2UxOTVoSlBNWGVDWmd6YTZHcWFEZ09sZ0R4YjN1VjliM1poUC0?oc=5",
-        "source": "gamingonphone.com",
-        "timestamp": 1786108933
-      },
-      {
-        "title": "Crimson Desert Version 1.17.00 Now Available on August 7 as Update 1.000.434 - MP1st",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX1lnTENLbzB3NUtpWkNXY29VWkJxd1ZGUER6SzVKT3BhcFVyRVc5YzJ6aU9tbEdJS0tib3RHVkJuRmNCMGN5ZGd4V2dla1EzU3RsZUxPMHVOMzh2bmFsWEtnUTFuMER2YlpUVzB5MnBGa0EyMlhydk9pQXhWZTM1SzhYVTRNbE9hUjZnanlXaDNLUm9ZVklZOGdVVk92MmY1Vl9pY1RUeVNFZDhvcWdB?oc=5",
-        "source": "MP1st",
-        "timestamp": 1786107539
-      },
-      {
-        "title": "Esports Awards 2026: IShowSpeed eyes historic third Streamer of the Year title as voting begins - The Economic Times",
-        "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPTm1GdnZhRXdpTUgyaWNmczItMGxnRHpEbGxXNFNCMS13dlppRnFqQUxiZGVidTRQVEhrd0ZyTmlPVVFtNVlNNW1BZ1RIb3dxUUtDc2hRXzBPRVIxV2lNTk5qcThTQmVVWlNld3NsMTlLZzJJRVRBalpHX0ZrQUdpSHEwcVYzeEZvaWcwVTNhb0dPeEpWMURzY0ZldE10cjJxOFN2Mkt3X2ZPVjY5ZXdLdG5zV2diM1J0RGdsLWV4RnFsV3VLVzJLV3lHODQyY2JyWmZJek51S21Cb3ZSR093M1M0Vkk2NEFqYzdJYnF2ajJ4SERPMlM4dnphWW5IXzc3TDFXQWJYTV85OUtKMHJEZzdOd9IBkwJBVV95cUxPTm1GdnZhRXdpTUgyaWNmczItMGxnRHpEbGxXNFNCMS13dlppRnFqQUxiZGVidTRQVEhrd0ZyTmlPVVFtNVlNNW1BZ1RIb3dxUUtDc2hRXzBPRVIxV2lNTk5qcThTQmVVWlNld3NsMTlLZzJJRVRBalpHX0ZrQUdpSHEwcVYzeEZvaWcwVTNhb0dPeEpWMURzY0ZldE10cjJxOFN2Mkt3X2ZPVjY5ZXdLdG5zV2diM1J0RGdsLWV4RnFsV3VLVzJLV3lHODQyY2JyWmZJek51S21Cb3ZSR093M1M0Vkk2NEFqYzdJYnF2ajJ4SERPMlM4dnphWW5IXzc3TDFXQWJYTV85OUtKMHJEZzdOdw?oc=5",
-        "source": "The Economic Times",
-        "timestamp": 1786106640
       }
     ]
   }
