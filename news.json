@@ -1,7 +1,13 @@
 {
-  "last_updated": "2026-08-15T15:18:50Z",
+  "last_updated": "2026-08-15T15:44:50Z",
   "data": {
     "top_stories": [
+      {
+        "title": "Nexpace Sets Aug. 18 Launch for MapleStory Vibe Camp Season 2 With Verse8 - eGamers.io",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV3RlZFpITm93RHFvdVpZaTB0akliem1HUzMzSkZRSEUxQXZFY3J5aXpRbW9UQ1pQS2VUSDdpa2p0VmlZN1dlLWExM3Y3UW1TMndlb1lqV1NVSlFVSXJCU3NJQWhMcVpwcDRJeldjNVd2bDlIcUdoa1lrVmVpdi10U2wzMW50ZnpsY2hlVGt1VUpmMzhScEdz?oc=5",
+        "source": "eGamers.io",
+        "timestamp": 1786803809
+      },
       {
         "title": "The bigwigs who want AI-generated NPCs and writing think you're too dumb to appreciate a good story—don't prove them right - PC Gamer",
         "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOYWpBak4tMTJFeUV0Y3RGcC10cl96VENTQ2NLbVROZWNPdTdVWFNhYXdLNzlJcFhZSkpqQ2p0bXp6ZVpaMzd4c3JVVUVJVERBUXBpOHJTLVJkVU5TT2NmenNhek1wUXYxMk5vUUNoNkl1YXU1SHNnMUZ1SG5NZWFBWnJHNGJEeWpFdmFwTEZybHU0bGFYX2xGb2tOMS1KLVRjLXBQal93ZkNjdWE0RjVvNnRRT0s1RzVZa05jODcyUUNLR1lCZnhBVXlJUHZyMU1FaHIwRTFuVmVabFlNVUFtVm9QVTFCNnRXSUFuLVM3VTZBQ0cwX0RVMTZHcUVWckFCWjFFdU1ZeE54dw?oc=5",
@@ -43,12 +49,6 @@
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLXEzZmFrcWVjbEZQMmtoOFFkQ3h5eTcxbUtLcWtmY0FZYlM4LXFkY0FRNGpSemhJVlZ1M2pCVThTc3JUTF9TemIwZTBYaGRzeHNPYjFBYi1tV1NjbUdLS3cyeVlwWnJ2UnpobzNyWU1LV25tMy1GZU4yZzR0NVZoY3JLMHl1RlAzMk9tcjFreGswMWVmSW45YnIzTlVUMllLTUM3aFdFYVhScFhhMXpUb1ZKWXRVam8?oc=5",
         "source": "Stock Titan",
         "timestamp": 1786737900
-      },
-      {
-        "title": "Nexters appoints Aghanim as global DTC enablement partner - Macau Business",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaGFsTHd4a09kZTFCckU1X0RzU2ZyY2JBNmQ5V05qS3B4dHZJTG55THNhTm1RNUVGMjRCRnJra1hiQnpsWjZOS3RESlZrNk0wdHczTUdVS0NJMWFrTGhKNDV5YnRCTVdBeGZIbVdGdEJvRlczd29Uc1RwdmF4WVBDRHlnT0thSHdwODh2TGhNazg?oc=5",
-        "source": "Macau Business",
-        "timestamp": 1786736329
       },
       {
         "title": "Nexon Q2 2026: MapleStory and ARC Raiders made so much money that Nexon paid out a special dividend - Massively Overpowered",
@@ -95,10 +95,16 @@
     ],
     "viral": [
       {
-        "title": "What games hit you in the feelings after completing?",
-        "link": "https://www.reddit.com/r/gaming/comments/1vp3ojv/what_games_hit_you_in_the_feelings_after/",
+        "title": "Monkey Island Creator Says He Is Making Thimbleweed Park 2 Because A Rich Fan Of The First Game Wanted More And Funded Its Entire Development",
+        "link": "https://www.reddit.com/r/gaming/comments/1vp5eje/monkey_island_creator_says_he_is_making/",
         "source": "Reddit",
-        "timestamp": 1786802539
+        "timestamp": 1786806920
+      },
+      {
+        "title": "The Witcher 3 lead says designing for player curiosity \"really came to haunt us\" when making sure it felt like \"people truly exist\" in the RPG's villages",
+        "link": "https://www.reddit.com/r/gaming/comments/1vp4u5a/the_witcher_3_lead_says_designing_for_player/",
+        "source": "Reddit",
+        "timestamp": 1786805514
       },
       {
         "title": "Konami has permanently priced dropped Metal Gear Solid Delta to 49$ and Deluxe Edition to 59$ on Steam, PlayStation and Xbox Store",
@@ -111,12 +117,6 @@
         "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNQm1OY0RxbmlTNDhHQlVaMnBhZVZpSTM1M1B3SV9RbG9kd3ZxUEhfQ2tMaXFHV2ktVDlRcmwzd0x0dWNKX2xPWHNKbVdWbU9TSVh1cEx1eWE3NmxhdDJ4UjZpVFppVDlacmVsaUszb2ZudGlhbFRyNC16eXBVWmsyRDc0U3RyOFZEMlZ1QWZBaDgzMUwyZHZZZERISU5lZll1Y0F2eUNaWlNsMUtmRl9ZX2dFZGIyQUFXaXBmM0lRc2dfa3RFZTQ5MnNibFBRR0ZqWEM2UVR3RjcwOExMQ0pObzYxTzVHa3dYTUU5SEF6U3VaaUtveTF3RzdSMjdiNG56VDZJVXlRVDlOZk5OX3FIMXNHRnkzMzNLOEN3dEMxeUdvYXFiMW42YzhiajdDY1liVlY5NGI4ZmpiZzlB0gG8AkFVX3lxTE1CbU5jRHFuaVM0OEdCVVoycGFlVmlJMzUzUHdJX1Fsb2R3dnFQSF9Da0xpcUdXaS1UOVFybDN3THR1Y0pfbE9Yc0ptV1ZtT1NJWHVwTHV5YTc2bGF0MnhSNmlUWmlUOVpyZWxpSzNvZm50aWFsVHI0LXp5cFVaazJENzRTdHI4VkQyVnVBZkFoODMxTDJkdllkREhJTmVmWXVjQXZ5Q1paU2wxS2ZGX1lfZ0VkYjJBQVdpcGYzSVFzZ19rdEVlNDkyc2JsUFFHRmpYQzZRVHdGNzA4TExDSk5vNjFPNUdrd1hNRTlIQXpTdVppS295MXdHN1IyN2I0bnpUNklVeVFUOU5mTk5fcUgxc0dGeTMzM0s4Q3d0QzF5R29hcWIxbjZjOGJqN0NjWWJWVjk0YjhmamJnOUE?oc=5",
         "source": "The Times of India",
         "timestamp": 1786795140
-      },
-      {
-        "title": "Best cozy fishing games? I am in fishing mood",
-        "link": "https://www.reddit.com/r/gaming/comments/1vp0ve1/best_cozy_fishing_games_i_am_in_fishing_mood/",
-        "source": "Reddit",
-        "timestamp": 1786794735
       },
       {
         "title": "The Simpsons Creator Matt Groening Says Hit & Run 'Is Coming Back in Some Form' Before Showrunner Suggests Otherwise",
@@ -285,6 +285,12 @@
     ],
     "errors": [
       {
+        "title": "Towson Shuts Down Delaware Avenue for Server Games Block Party - Hoodline",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMXJJYTlOWmVjLWZzUTljS2tpM2NIVjdtalhfZzRFY05RTDVNZ3VEOWlxMHVqcXdGMlFmejRrQUlBdFFlemFHU1RVblRyejhPTm0zMm8zNEhiVjJjLUdnT1lybWFtUmxPcXYwQ1FPbm92M1FhS1RKYm5vRzdWRXJiMTA1ZnlSb3dvLXU4SnZNOXhDWS12VUIw?oc=5",
+        "source": "Hoodline",
+        "timestamp": 1786807775
+      },
+      {
         "title": "Nintendo Switch Game Delisted and Now 100% Unplayable, Owners Aren't Getting a Refund - ComicBook.com",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9uaGpMSmhjN0pORzl1QlY4Ykw3YjdTMENCNjluVWpyWVNjQURmSUVfWk5MbWdoOXEtR2tyWWFHZ1JKWElRUWpnRHFKTFFVWTdWZmczOXkxY3JiOXQ5am5oc1YyUEdpU2lWbnh1V2g0VVZ5S3R6ZFB1Vi1aYw?oc=5",
         "source": "ComicBook.com",
@@ -307,12 +313,6 @@
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNzUtS2RSaXBsNzVJZ3dCZXlVQTY5T081a1pqY2pKN0ZHNWZLZEZoSjZBTVlfcTI3a3I5SEd4dTlLV281WkluNGo3ZDhsd0o4UzBRenlwR0p6SU5SdU5Cb3BfcnZTNnZ3T0JjVGExUFZSckxSV1R1OUtCbjdxamFIMU9wWEVueWxqNmUzWUhra2NJZGhFTk1Rc1hQcDZXUVQ1MEExUGFDQWZtbl800gGsAUFVX3lxTFA3NS1LZFJpcGw3NUlnd0JleVVBNjlPTzVrWmpjako3Rkc1ZktkRmhKNkFNWV9xMjdrcjlIR3h1OUtXbzVaSW40ajdkOGx3SjhTMFF6eXBHSnpJTlJ1TkJvcF9ydlM2dndPQmNUYTFQVlJyTFJXVHU5S0JuN3FqYUgxT3BYRW55bGo2ZTNZSGtrY0lkaEVOTVFzWFBwNldRVDUwQTFQYUNBZm1uXzQ?oc=5",
         "source": "Analytics Insight",
         "timestamp": 1786790780
-      },
-      {
-        "title": "1 Damage Per Revive codes (August 2026) - Destructoid",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51WHNkZ1JhWlk0VngxN29yWm4xaFZrRUUxSGR4X3o2MzVfanEzYTNKQU51a0xFYmhEYjYyM1YwT0ZjV2VWd0JKZ1BGRWtWZ1F3Mk1WeE5uTmVuaTM1ZWxweG9HNmY?oc=5",
-        "source": "Destructoid",
-        "timestamp": 1786787940
       },
       {
         "title": "Sprite Pillars Codes (August 2026) — Free Stars and Luck - Pro Game Guides",
@@ -377,6 +377,12 @@
     ],
     "guides": [
       {
+        "title": "Jumanji Is The Perfect D&D Film, Deborah Ann Woll Explains Why - JustWatch",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNekZ0MUdMNzVWNUdiTy1wSjZOckhkM2ozU0JLb2NXOTBha3RmS2NpazJYRGpZTzdOSGUtNC1qRmtfMW1CX253djY1MXNWSHpvS3k5R0VKZENYT3MtOUhpeEoxdktVMy1KS3RmdEk1c3F3eUtlYTRabm05dTJGUnY3RFBSRHJPUkRGbnJETmtYM2hHS1Z0NXpZ?oc=5",
+        "source": "JustWatch",
+        "timestamp": 1786782550
+      },
+      {
         "title": "Upcoming Nintendo Switch 2 Games & Accessories For August & September 2026 - Nintendo Life",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZlhERndCUVNyc0R0dC1zeEtQOTJrQ19Nc0gtWFdfUTJ2bGhkR2tPMnd2ZnNnQUFpSjFDLWhpcmFqWDNwZHpMbWNnSUIxMnRjbkZZbUVTQ3c4dkxVWDFIVERBd09wMGtlNU1jWnNJSV9RcWEzRi02eTY4bGl0dHZKMXFNQldNa2wybzBzZkNqai1Ec3FEVkVGbXVPTHItNUlLUVRCUVRrQmFDTG5yMENUVXBiZmY?oc=5",
         "source": "Nintendo Life",
@@ -387,12 +393,6 @@
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84SkFiWm0yQ0dORW9xWUN4TUQ4b0NQejdMZkJ0ci1ac2FEakhwSDdFam5zT3p4THpyX2RRWjVISHpBLXpFSVU1dV9QWnBicXo5MjFWUWIyV0xCeHBzaklnZUZyQVNXVzE3Wmd4QUI2cHU2ZFBUR1FZWXRfaWE0a2s?oc=5",
         "source": "Goal.com",
         "timestamp": 1786769243
-      },
-      {
-        "title": "How to watch Bristol City vs Milwall and TV guide - Bristol Live",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbHdIajRFVzBsLWRRa2VLVHc0ODdOVTBKZnRNcG1KanlTUHNuNC1lcDFtNWs0cDBBckVHVlo4NmdpTjdCcEViaUVUSXNMRFJlTjNtTmJEeWZyWkRhTzFKLXhaczczTmFZeWZWS3hXMXpldF85WXM1UlZVQmw5NzQyeDhuaVo2cnJwNHR1LXVVcGRBQ0Y4bGdyaQ?oc=5",
-        "source": "Bristol Live",
-        "timestamp": 1786768020
       },
       {
         "title": "Today’s Wordle hints and answer: August 15, 2026, solution #1,883 - Tom's Guide",
@@ -407,9 +407,9 @@
         "timestamp": 1786749178
       },
       {
-        "title": "Today’s Wordle answer and hints for #1883 on August 15 - NME",
+        "title": "Today’s Wordle answer and hints for #1883 on August 15 - nme.com",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSWVMdFk0THRiUFRBb0RaaGlJLW04RnFwUWk0dGM4NXRGMjE1MFRMVWxaQ3lwQzNNc0tMM0pRYWY4amUteURuLVVMQjhjZzNDYUtBT2NmSXNQVThMa1NNNXpMLVFjQ0dsb3RnZGRpa3laU25aM201T0hOT19sVldlbVF3UWV5MS1TMEE?oc=5",
-        "source": "NME",
+        "source": "nme.com",
         "timestamp": 1786748494
       },
       {
@@ -437,9 +437,9 @@
         "timestamp": 1786742412
       },
       {
-        "title": "Broncos vs Falcons free live stream: Where to watch NFL preseason game tonight - OregonLive.com",
+        "title": "Broncos vs Falcons free live stream: Where to watch NFL preseason game tonight - oregonlive.com",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYWk0cVhiTXNzM0M4TWlGSDZUNjdwTndNN2RkeHhFUEpYVzliWHo5clZiU0Z5SmtPcThXQlBmbHNlQTJJSGpCNDdiRUVCTHZuQ3JkMXJHbG1FVVM5UExMV1NXbjc1emthdDU3a0lDeldXUzhaNDlmVFRocWtia05rcFo1VThlbzY4bEJlbktPby1QWVdtNEhHMjZnSUlVbHRya0JGV29rTjV2N0ZKYXp0SVBGTUVVNmR3aVdrc9IB0AFBVV95cUxNaEh2cGNYVV83emdWS29tbmVvM2tZa2lBcmpkZTl0LWFUY0hmckF1d3BpUzdhWnhmcmtYSFdwWl81ak8yZDNfNnMyTDFHWnl5WkxBLUFNSjhxSDdFWFItQk1ESXpkRHdXMks0Ql96cmU5YlJVZ3BYZ0VMZS1DdWpPZUh1NTliSWtKdXotQTROaTRwd1ZzaXNfWVptb1BnVmo5djJyYk9wOWhXdm50c3FCek1BTzhwckFvenI4NlRadTdoZnQ1TFBBYmQzQWo4Qzhj?oc=5",
-        "source": "OregonLive.com",
+        "source": "oregonlive.com",
         "timestamp": 1786740300
       },
       {
@@ -455,16 +455,16 @@
         "timestamp": 1786727580
       },
       {
+        "title": "Wyoming Online Casinos in 2026: Guide To Best Sweeps Casino Options - RotoWire",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNalFZMkRmZGxYWG5fZEJaMDFFSHJoSmpIU3A1ZVFBRmNiNWN0Vk15a2pCZ2VXYXhOMnI1dlR1YTlzQWJabG1JYk9CX3plSmVNdFBIQ0pYdmM5MEJZS2NvQ1laaXBtMTk1RjZGT1RJSXJWVGdLdTVyYUxlTXo0bjdVYmJmLWVOX09WR1BqdHlkazhhLVp5b3Q3eWRDQlkzamxhTjRmSGxR?oc=5",
+        "source": "RotoWire",
+        "timestamp": 1786727040
+      },
+      {
         "title": "2026 ENNIE Awards Winners: Crooked Moon, Daggerheart and Legend in the Mist lead the pack - tabletopgaming.co.uk",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdUZwNU1XWTQ4dUNxN3hVT3JVUlZEV0Jua3J5UmRqWmlBMDkxUHJfYWFmMU54aTlBMkZlLV9DN2RyM0F3MjMzT2huSHdDMHM1anB2eGtKUmwzQXNNVWdTbjRVdENHQ3dGdW9vWTRxNGU1aHRuWDZHdHhrSkNtckxiYkRzZlBRSTF6NU1tczJfOFpiV0RLSVhXOHd2STdMclRqUGpIdzVqLWhsTmc0?oc=5",
         "source": "tabletopgaming.co.uk",
         "timestamp": 1786726298
-      },
-      {
-        "title": "Stunning demo shows Unreal Engine 6 should be a game changer for rendering cinematics - Creative Bloq",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaGdFZVZTYVBwbHI1b0RGdEJCckJMMnBGa1FJSmJPYzRudWI1NGYycXVwc1VBeVQ0TFJ5cE9oOVhkcmRvTnZqUG9BRWdueVppX3QwWGs4bk5MYkkyb0F0RjU0c2puVEJodmFKcmlnVGN0N3lWLUtxVlZnSTd5QWo1OU8wSE5PU3hVd09lSWNRb1VEMUc1WjBsTVdSU1NqWnF6ejJFYmVtWVVWNjVpZ3E0cUg0Zk9EaXMyWllNbm1XekhxWFRxbjFnaE1iOXpJdGNl?oc=5",
-        "source": "Creative Bloq",
-        "timestamp": 1786721663
       }
     ],
     "assets": [
@@ -485,10 +485,22 @@
     ],
     "streamers": [
       {
+        "title": "Spotify’s New Weapon Against YouTube: Twitch - The Ankler",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ3lJNDBaaWhCbmhyeEp0Y1k1SHRydFYyQWVnZmJ4RWpPaTVucXhYSmF2bFRrLXlZMzg4elRPQ2hVQjlVZTdFRVhGeGlCNW9hQ0ZoZWI0a1Vsa1VDZmFFblp0a3FKNkFpam9VbzlhQVpDUDZOMFl0YVdXUzY4LUw4N1lIRnhvM1R0X0E?oc=5",
+        "source": "The Ankler",
+        "timestamp": 1786808044
+      },
+      {
         "title": "The International 2026 - TI 2026 Dota 2 - Viewership, Overview, Prize Pool - Esports Charts",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Kb1JqaVZTcEVhQ3NzVVVDbzdNODQtbGtqbDRObjZLajJZd2pTVndsdWlES1JuUXNrUzl0bHl2dDdNODhrUVpJX1F3NF84R0E5ZHpHYlE1OHVDbUpjNEpINjJfYlVMLW1L?oc=5",
         "source": "Esports Charts",
         "timestamp": 1786802012
+      },
+      {
+        "title": "“Night after night, she is the most reliable bucket on the floor” – Jason Whitlock says Kelsey Mitchell’s Fever MVP case is not a Caitlin Clark diss - Basketball Network",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdUtkU0ZHRlpDSXZzaHNWN0ZuSWpGWjY4MXM3M2FiVkU1WUZPY1c2aW10RG02LUVvREZBVUlBc05yMTdDaWRLSVB6NXQ5U2VkUUpDOENKM1B2SEg3RVBSQ2VnbUxyMDFIRjAxRWRpN1dvejhVdnZKX0VZN05jMDlHWFRiLUdwdG9HNzM1OGhxYVdEdHRfaFNRODN1VnV1Qmh5TWlXRzk5dFlJMDFDN1dzd196VllGbUJHUmc?oc=5",
+        "source": "Basketball Network",
+        "timestamp": 1786785060
       },
       {
         "title": "Ubisoft Unveils Games Lineup for Gamescom 2026 - ixbt.games",
@@ -527,12 +539,6 @@
         "timestamp": 1786764311
       },
       {
-        "title": "Warzone Resurgence Series 2026 Championship / Statistics - Esports Charts",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQmxBc2ZULXR6Nm1weHJPWHpHZUo5eG1MdjlqSjJQRWduWXZNTVZ5cDYyRUQxTjB6Sk5VVzhQdkl2VEhOR2xfd1FaamUyN0g5YWFpR2xmM3JQaGpoT2c5a09rTHNpb2pkemtYVU1ZdFdNS1JsTzRMUmIyVXBhR2d1cE9hOWpEWkZ1NFpVMQ?oc=5",
-        "source": "Esports Charts",
-        "timestamp": 1786763386
-      },
-      {
         "title": "How To Earn Rewards During NBA 2K27’s August 18 Game Reveal Livestream - GameDaily",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51UjBHejh1QlRodENTb2t2bERFMm93dTVPc3FFV0ZYUG53NkphYUl5bmpPNDdvZHphNy1IVFNWN0p6cVJHQzR5WTl3bF9RNW5vN2JQZHA5b3JmSk5NYVhJbjBHT2FlZTlqQUZtOGVCa08zVEhPX0tIeQ?oc=5",
         "source": "GameDaily",
@@ -567,12 +573,6 @@
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS1Z6QVdIWTRQREhhXzk2dFcwbXJnQ0tlbVZINzJzbmdvUHQxVW5JQlJhbW9pQUNCdmhhLXhiSl9vdV9WVFh4QldiOHo0RkNiTk1MWGQtVnNjUnFCOUlHNFV4amplaG9qQ0xkbXVuRGtEN1JyUzYxQ2Iyc1dIWVAwZXpTd3NNalpMWGhoWU0waGRBMTM4RktvMVh3?oc=5",
         "source": "Yahoo Tech",
         "timestamp": 1786728440
-      },
-      {
-        "title": "Starting Pitcher Streamer Ranks Fantasy Baseball: 8/14 & 8/15 & 8/16 - Pitcher List",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS2pZT2JGU0VMcTdXWk9rZXFhTjhTdUlvSng4azc3SEJhSDJmQi1XMk8xNDU0SFRoR0NEUm5UaUk5Znl4RUdneVBadVZtLVBuUE5MSW8xZkN0SFRDdXhaU1JCZ2lfUjZOcGJlX3VycFRUTGFGWWI2a3pBdWxWSmI1UHcyNkt2NWRVTVp1NlI3TFFUZw?oc=5",
-        "source": "Pitcher List",
-        "timestamp": 1786721749
       }
     ],
     "mobile": [
@@ -619,9 +619,9 @@
         "timestamp": 1786739574
       },
       {
-        "title": "8 Best sites like Chumba Casino: Top alternatives & sister casinos for 2026 - OregonLive.com",
+        "title": "8 Best sites like Chumba Casino: Top alternatives & sister casinos for 2026 - oregonlive.com",
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aeUUyYk9DTnF6N0V0dHg3SThKOVFEY05abUlJTTJrc2s0bzRIY1BTSVdhcVU5SEotV3JZdGtOTktMQzVZeU1tcFFkSklyTlkzamxkd1hiT2FHa0prRTl4bmhXbDdpdkhQ?oc=5",
-        "source": "OregonLive.com",
+        "source": "oregonlive.com",
         "timestamp": 1786736400
       },
       {
@@ -669,10 +669,40 @@
     ],
     "all": [
       {
+        "title": "Spotify’s New Weapon Against YouTube: Twitch - The Ankler",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ3lJNDBaaWhCbmhyeEp0Y1k1SHRydFYyQWVnZmJ4RWpPaTVucXhYSmF2bFRrLXlZMzg4elRPQ2hVQjlVZTdFRVhGeGlCNW9hQ0ZoZWI0a1Vsa1VDZmFFblp0a3FKNkFpam9VbzlhQVpDUDZOMFl0YVdXUzY4LUw4N1lIRnhvM1R0X0E?oc=5",
+        "source": "The Ankler",
+        "timestamp": 1786808044
+      },
+      {
+        "title": "Towson Shuts Down Delaware Avenue for Server Games Block Party - Hoodline",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMXJJYTlOWmVjLWZzUTljS2tpM2NIVjdtalhfZzRFY05RTDVNZ3VEOWlxMHVqcXdGMlFmejRrQUlBdFFlemFHU1RVblRyejhPTm0zMm8zNEhiVjJjLUdnT1lybWFtUmxPcXYwQ1FPbm92M1FhS1RKYm5vRzdWRXJiMTA1ZnlSb3dvLXU4SnZNOXhDWS12VUIw?oc=5",
+        "source": "Hoodline",
+        "timestamp": 1786807775
+      },
+      {
+        "title": "Monkey Island Creator Says He Is Making Thimbleweed Park 2 Because A Rich Fan Of The First Game Wanted More And Funded Its Entire Development",
+        "link": "https://www.reddit.com/r/gaming/comments/1vp5eje/monkey_island_creator_says_he_is_making/",
+        "source": "Reddit",
+        "timestamp": 1786806920
+      },
+      {
         "title": "Nintendo Switch Game Delisted and Now 100% Unplayable, Owners Aren't Getting a Refund - ComicBook.com",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9uaGpMSmhjN0pORzl1QlY4Ykw3YjdTMENCNjluVWpyWVNjQURmSUVfWk5MbWdoOXEtR2tyWWFHZ1JKWElRUWpnRHFKTFFVWTdWZmczOXkxY3JiOXQ5am5oc1YyUEdpU2lWbnh1V2g0VVZ5S3R6ZFB1Vi1aYw?oc=5",
         "source": "ComicBook.com",
         "timestamp": 1786806809
+      },
+      {
+        "title": "The Witcher 3 lead says designing for player curiosity \"really came to haunt us\" when making sure it felt like \"people truly exist\" in the RPG's villages",
+        "link": "https://www.reddit.com/r/gaming/comments/1vp4u5a/the_witcher_3_lead_says_designing_for_player/",
+        "source": "Reddit",
+        "timestamp": 1786805514
+      },
+      {
+        "title": "Nexpace Sets Aug. 18 Launch for MapleStory Vibe Camp Season 2 With Verse8 - eGamers.io",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV3RlZFpITm93RHFvdVpZaTB0akliem1HUzMzSkZRSEUxQXZFY3J5aXpRbW9UQ1pQS2VUSDdpa2p0VmlZN1dlLWExM3Y3UW1TMndlb1lqV1NVSlFVSXJCU3NJQWhMcVpwcDRJeldjNVd2bDlIcUdoa1lrVmVpdi10U2wzMW50ZnpsY2hlVGt1VUpmMzhScEdz?oc=5",
+        "source": "eGamers.io",
+        "timestamp": 1786803809
       },
       {
         "title": "Affordable Xiaomi smartphone makes expensive gaming phones unnecessary | Game review - Notebookcheck",
@@ -685,12 +715,6 @@
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZXpVNE8yVEtXREJiYUJYWkV1Z29FTUtoN01uN0U1OW1Pc1R6ZTRla2FycEpfcjlHRkYtV0ZGczhJMmJ5MzFLTVpESmJRa0VlU0Y1NVFPSTl4aFpaV3BQeFRjUjZyQmlnNXgtWm5Eek9ISUctMi1XdVRjQms1SnN0Yk15VFRTWGZGQ0dQX2hLQ3hDZkpkaEw4VmNR?oc=5",
         "source": "How-To Geek",
         "timestamp": 1786803313
-      },
-      {
-        "title": "What games hit you in the feelings after completing?",
-        "link": "https://www.reddit.com/r/gaming/comments/1vp3ojv/what_games_hit_you_in_the_feelings_after/",
-        "source": "Reddit",
-        "timestamp": 1786802539
       },
       {
         "title": "The bigwigs who want AI-generated NPCs and writing think you're too dumb to appreciate a good story—don't prove them right - PC Gamer",
@@ -735,12 +759,6 @@
         "timestamp": 1786795140
       },
       {
-        "title": "Best cozy fishing games? I am in fishing mood",
-        "link": "https://www.reddit.com/r/gaming/comments/1vp0ve1/best_cozy_fishing_games_i_am_in_fishing_mood/",
-        "source": "Reddit",
-        "timestamp": 1786794735
-      },
-      {
         "title": "JoJo's Bizarre Adventure Golden Spirit codes for August 2026 - Eurogamer",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EbkhGQXYxcG5lUm1sZVBZT3NHRWZEdjRKMWt5ZmdiWU1Fa0poUDRZa3NIZmVNcHFESHFENXpWRVFlei1DUEtXN1FhdHRQR0tsVlpnT3g4RFJsRzhQeEgwVUpiVEs2N1kySWp6SDJiSUpIbjZaYk0yZQ?oc=5",
         "source": "Eurogamer",
@@ -753,16 +771,16 @@
         "timestamp": 1786790780
       },
       {
-        "title": "1 Damage Per Revive codes (August 2026) - Destructoid",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51WHNkZ1JhWlk0VngxN29yWm4xaFZrRUUxSGR4X3o2MzVfanEzYTNKQU51a0xFYmhEYjYyM1YwT0ZjV2VWd0JKZ1BGRWtWZ1F3Mk1WeE5uTmVuaTM1ZWxweG9HNmY?oc=5",
-        "source": "Destructoid",
-        "timestamp": 1786787940
-      },
-      {
         "title": "Lords of the Fallen Update 1.114 Adjusts Boss Weapon Special Attacks on August 15 - MP1st",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPczlZNEk0Si1aeURQNXdHVV9DZ0dFbFRPZWUtVkV2aHJkTTIwU19weFBid1dnOEJ6YUVQNkFZdFlyY0ZXalF4WFJfZjhXekF3NUd4dGhfeTZhUEtJbmRBMWx2cGNFTjRVZm5GU1RqenZ0RmFGM2RUYktGODJQVmN4REFDMkItT1VxTHgwT3g1aHJucU1fek00LWJWSVJvaVZZUlVmTGk1bnB6RDdVOU4wY2VsblJBUXptMi1aTjR6TQ?oc=5",
         "source": "MP1st",
         "timestamp": 1786786230
+      },
+      {
+        "title": "“Night after night, she is the most reliable bucket on the floor” – Jason Whitlock says Kelsey Mitchell’s Fever MVP case is not a Caitlin Clark diss - Basketball Network",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdUtkU0ZHRlpDSXZzaHNWN0ZuSWpGWjY4MXM3M2FiVkU1WUZPY1c2aW10RG02LUVvREZBVUlBc05yMTdDaWRLSVB6NXQ5U2VkUUpDOENKM1B2SEg3RVBSQ2VnbUxyMDFIRjAxRWRpN1dvejhVdnZKX0VZN05jMDlHWFRiLUdwdG9HNzM1OGhxYVdEdHRfaFNRODN1VnV1Qmh5TWlXRzk5dFlJMDFDN1dzd196VllGbUJHUmc?oc=5",
+        "source": "Basketball Network",
+        "timestamp": 1786785060
       },
       {
         "title": "Ubisoft Unveils Games Lineup for Gamescom 2026 - ixbt.games",
@@ -787,6 +805,12 @@
         "link": "https://www.reddit.com/r/gaming/comments/1voxoof/the_simpsons_creator_matt_groening_says_hit_run/",
         "source": "Reddit",
         "timestamp": 1786783637
+      },
+      {
+        "title": "Jumanji Is The Perfect D&D Film, Deborah Ann Woll Explains Why - JustWatch",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNekZ0MUdMNzVWNUdiTy1wSjZOckhkM2ozU0JLb2NXOTBha3RmS2NpazJYRGpZTzdOSGUtNC1qRmtfMW1CX253djY1MXNWSHpvS3k5R0VKZENYT3MtOUhpeEoxdktVMy1KS3RmdEk1c3F3eUtlYTRabm05dTJGUnY3RFBSRHJPUkRGbnJETmtYM2hHS1Z0NXpZ?oc=5",
+        "source": "JustWatch",
+        "timestamp": 1786782550
       },
       {
         "title": "Sprite Pillars codes (August 2026) - Destructoid",
@@ -891,12 +915,6 @@
         "timestamp": 1786768674
       },
       {
-        "title": "How to watch Bristol City vs Milwall and TV guide - Bristol Live",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbHdIajRFVzBsLWRRa2VLVHc0ODdOVTBKZnRNcG1KanlTUHNuNC1lcDFtNWs0cDBBckVHVlo4NmdpTjdCcEViaUVUSXNMRFJlTjNtTmJEeWZyWkRhTzFKLXhaczczTmFZeWZWS3hXMXpldF85WXM1UlZVQmw5NzQyeDhuaVo2cnJwNHR1LXVVcGRBQ0Y4bGdyaQ?oc=5",
-        "source": "Bristol Live",
-        "timestamp": 1786768020
-      },
-      {
         "title": "Marvel’s Wolverine | D23 Showcase Sizzle",
         "link": "https://www.reddit.com/r/gaming/comments/1voso53/marvels_wolverine_d23_showcase_sizzle/",
         "source": "Reddit",
@@ -933,12 +951,6 @@
         "timestamp": 1786764311
       },
       {
-        "title": "Warzone Resurgence Series 2026 Championship / Statistics - Esports Charts",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQmxBc2ZULXR6Nm1weHJPWHpHZUo5eG1MdjlqSjJQRWduWXZNTVZ5cDYyRUQxTjB6Sk5VVzhQdkl2VEhOR2xfd1FaamUyN0g5YWFpR2xmM3JQaGpoT2c5a09rTHNpb2pkemtYVU1ZdFdNS1JsTzRMUmIyVXBhR2d1cE9hOWpEWkZ1NFpVMQ?oc=5",
-        "source": "Esports Charts",
-        "timestamp": 1786763386
-      },
-      {
         "title": "KINGDOM HEARTS IV | D23 2026 Showcase Trailer",
         "link": "https://www.reddit.com/r/gaming/comments/1vorkoa/kingdom_hearts_iv_d23_2026_showcase_trailer/",
         "source": "Reddit",
@@ -955,18 +967,6 @@
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUXzMxOFozV29UWGZ6V0pXNHJobDNwc2Z2TzFLejNTdHFHTGFHY2hCeVZibmk0eHBZQVhUdnpSTm9nV0YtVWNYZ0R6SWd5MGlkOXRWc2MwUUF5a3kxczg5MUtfWmxvRUNwZlBiT0VtalJLUGM?oc=5",
         "source": "svg.com",
         "timestamp": 1786755600
-      },
-      {
-        "title": "Today’s Wordle hints and answer: August 15, 2026, solution #1,883 - Tom's Guide",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yckZIaXRoYi1wdURnTWRpYkd6MUxkeGE3YThVbmY1bVhoc3dFRFVPR3hHTmpJdHN0Sm9wNHBCaVE2LVdnUnpXeFBEWGlsRTVSWmptenAyTG9YZlFIVjBORngwM1lIczNYbWZZ?oc=5",
-        "source": "Tom's Guide",
-        "timestamp": 1786750525
-      },
-      {
-        "title": "HasanAbi sues Scott Jennings? Twitch streamer calls CNN analyst’s ‘defamation’ claim an ‘egregious lie’ - The Times of India",
-        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVDVCWWxEVXRhczZfZXJHR19WNUEtUzNBcThscjF4REZNYVpZOEhvVVVBWHE0a21pUHhDV1BSeDRvU0wwQ1Zwd25iWDRuRUxiSnQ5UndTT1A3TXRITHd6Qmc5YnRuQUt5Vi1OYTYxVFkyc3NocE9uV0hBZ2owQnV0UnVVMFFkZW1aUGRINEpPaDA0b0QwS21mM1BtUDhZQmt6b2NEOXY5XzFrRHVOMzJCMWdjdUt5eXQxblhxMUwzamg4SjJsUjl0bzljWjF4NmpHSnl4NmJMek1YTGFDWlZnU3B6dlVKM0RBQWxXWFRabzBzcURick03bk9CeVAzQ1dFU1JzZkNHTFB0UdIBjwJBVV95cUxQb2l0WGxqaVNqNFdPU3FFMlozZE5teXZ1OTY2V0JkUzBoSUxNWUpkUUxYVXIzcXVPVjMwZi1YczR5bEd5NXZJRS0zOG9odWF4bEhMODJMYV9BaVl1SWwxdFcydnFERmJaVjRZN3JnbTBIMXlSenU3RGRUaEoyQVdWbjlQMncxRkE1Rk8xWVFsVTJhMkNtcEl3VlRXSjk0T0RtM0lSZDRhOEppRTd0Z0ZrRFVrLTd0anh6MVRSdldMRmNQb05RWV9YeEIxZnlBVlI5MlUyNUx6OElSOHlfVHFXV3BSVlF1TXljNFE2djIwTVQzc0xxVzloalFhOHFHTkxnVVotckVrU1lqdzFHeUFN?oc=5",
-        "source": "The Times of India",
-        "timestamp": 1786749960
       }
     ]
   }
