@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T17:44:21Z",
+  "last_updated": "2026-08-17T18:13:48Z",
   "data": {
     "top_stories": [
       {
@@ -27,9 +27,9 @@
         "timestamp": 1786981008
       },
       {
-        "title": "'I honestly thought Highguard looked pretty good' — Gears of War creator laments internet culture in which it's 'cool to hate' new games - techradar.com",
+        "title": "'I honestly thought Highguard looked pretty good' — Gears of War creator laments internet culture in which it's 'cool to hate' new games - TechRadar",
         "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNLVdBLW4yeGd1M3RzYjhjY01nR1ZNTTVjb0pYUnZzNlotSFdtc0tQa2pyZWQzU2E2SmdIRV9CQ3ptNkF4SHJEOXBfT0VhcG5Vc1Zxdnd3SzRGcXdxZnV4WDd4X21tTHNZR3RWMjlOLVJiN2VzbVVrTkk4SXlScnMzeFY2ZngtQVdHT25ZWUoyeGltX3NIYzhOVFpNSGs5NmtwZ2hBcnNHaHJqcnNKY1E2M1daOUY1cm0wOWkxWHlUMnY3S0YtX0pVVmtjMU95UWc0UmFlX3NpY1pEc2VBMlR5QmpwLWtoYWJnak85eTZoSjFTb09JaldnUWNKdEc2el9kb0wzZjNn?oc=5",
-        "source": "techradar.com",
+        "source": "TechRadar",
         "timestamp": 1786977499
       },
       {
@@ -75,16 +75,16 @@
         "timestamp": 1786957800
       },
       {
-        "title": "Alibaba reportedly nears $1.5 billion deal to sell its gaming business - TechNode",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSG5wdjF0NkpZMURoSXgxUXZ5WlRBVXF3dkxCUFpjcTFaMTJJczIzUXVCVjVrRkNYZHEtS0lLWmtPWGdEdzVWRjdkWUJiczBvNWhTTl9kVFFDU1lrSUdIS2tGQ2FEQU5pdldLcERtRHNuUDVWVllnb0FmMlBqNjJlZ1o2Q3RqYl9OTE5tNTJhN1FRbV9BakVaejdNNms3aDZjdlJXWg?oc=5",
-        "source": "TechNode",
-        "timestamp": 1786946531
-      },
-      {
         "title": "Steam Week in Review: Here are the 32 Steam games brave enough to release on GTA 6 day - PC Gamer",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbFROaWRibDFOSkk0Y1YwT3JGV1hfV2hFVlhhLXdJQTV3WjlzVGRJNXVMYkZ2bXZkNjZrOHlGMHp4MDdPUWEwaUVqVEdYdmtaVVBZY3huQ1o1NHlJdGh0OVZCSTFyMVc3VUdmdm56X1FFNWtYbC1UQ2ZUTGczVWNKbnlrNTczRXFrSk40UTFzNUFFUnJTa0pyOHQ3U2Y1Q0dEOVNMTVNKTGp2TEVtT1FHYWhZeU5nWWV4bmFsNGNDRllBRG9I?oc=5",
         "source": "PC Gamer",
         "timestamp": 1786931039
+      },
+      {
+        "title": "Ireland’s new anti-money laundering rules target gambling industry - CDC Gaming",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOUprNWtIWEM2cFRvRzAyNFZSRVNwTFlMVmdQb2oxWDVCMGFwcHA0M0FXXzZFTk5MaWxmRUp1eE0ycUsxTmZadmIwWVkyTTJ3M00wQTdHdFZBVFI3ZklERXo4NUM5by1sbEVvY3RzcUlTMmlwR0VWbG94bDA1bVoweW9TZTFoSTVxSUNUZ3ZLbkhDQVROT0hnMkFn?oc=5",
+        "source": "CDC Gaming",
+        "timestamp": 1786920646
       },
       {
         "title": "As gaming goes digital, local stores keep ownership alive - Capital Gazette",
@@ -217,22 +217,28 @@
     ],
     "updates": [
       {
+        "title": "Halo Campaign Evolved August 17 Patch Notes Released - TwistedVoxel",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcFJjTDdhZmtJWGRJMmlpLWlVek1nX3RmVTNnLWVZYmw1S3pqSm1UMVRHbDA2NWUyUHRwNXhNWU0yRzI0QkxrdXlWS1FYR3I1MXE0MGMwcDBUTzlEYUdhRlZMbFFFTVpEUW85Y3EwZnYyNTctVE5kV1h3YjhpME1RU1BZVmQ?oc=5",
+        "source": "TwistedVoxel",
+        "timestamp": 1786989348
+      },
+      {
+        "title": "Apple releases iOS 26.6.1 for iPhone, here’s what’s new - 9to5Mac",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONktvMXBCODB3Yzd6WFRSN2ZfdG13bThBS0RqMDZZeE51bFVaNlljOWQ2MGtWSzJVLW9IRDVsZjVuVEZnUnhBakx0bDVsYVZIWF9rb045clRxZEtTM0E2Nk1zNmtoV0RiOTRvTWkxWk5xRDhVMndWNzdQT1lyX2UwLVpLbU5lemJIZHJlaA?oc=5",
+        "source": "9to5Mac",
+        "timestamp": 1786988160
+      },
+      {
         "title": "College Football 27 Update Tweaks Gameplay - Athlon Sports",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVjk5NnJaM0Rwa0xMd3pZS19JZWpCaVQ3eWxBcVBfWkNmSUZSMjFDSS03MGR3R292djBFOG8zY200Zmo4LTZ2TGJfbDRBcGR4MHlGdURmdVE0RU5ua0RsQW9mOGJJZXN0amZDTlVKSmxkZldCYW9faHBoV2tCcU1RZTNEOG1xUQ?oc=5",
         "source": "Athlon Sports",
         "timestamp": 1786987299
       },
       {
-        "title": "Madden NFL 27 Update Makes New Gameplay Changes - Athlon Sports",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tcm5IUnAwMkFIcXlhb1NHclZqenRuaXUxbGxpVlZGaHdtNkFkTXBuVzRnNURoWnByMVZTV21Ka2w1Smp0ZEtEZE5QZVpQTHhKQmdockVKV2VWdXZNSlU2ZHZvSW83QVMyMEE3dlJ1M1RMSzl4TkJfdll1VWZNUQ?oc=5",
-        "source": "Athlon Sports",
-        "timestamp": 1786986605
-      },
-      {
-        "title": "Y3S2 Patch notes - Ubisoft",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQXFWaWFwREYyQ1RwVGw0TW5SVGtkcmJLSGdnUGdMWk1vUkRLQU9XQVlGRkx3czVMOFJVSy1MYms2OV9laDNqNHBFTnNsZERHNFZJTDBiNnhMSGxnbHV0WGd4UGhCVEg4bzFOV0cwQzEzbkRfYzNoOEk0NjZuYnBaeHR4ekFBZVQ2OTBGM2I5M0hiLUxUd3Mydm4zRzFaUjZ1Y09EWXRR?oc=5",
-        "source": "Ubisoft",
-        "timestamp": 1786978363
+        "title": "Halo: Campaign Evolved Update With Bug Fixes, Stability Improvements Drops This Week - GamingBolt",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNklMME14d3A4OHdtMzM2UE9uWk9aVnNDcVJtUEc5VFpWbmFtZ1pWbkY1eGE5azl2cHlhTEJEcVBzbWF4aE5lSnBhVG91c3hPcTcyR09McnFmSk01YW4xNm40Z0lYc0FYM0s0amRTYUJRaWx6VnRpMllMUzVHWGZyMnV3bDhFMi1EUHpFd2JsVlN3VHFJZVBPbXJZUmZqUnU4WEE3T2JyTm52QnM5ZnB4UzJYdw?oc=5",
+        "source": "GamingBolt",
+        "timestamp": 1786979546
       },
       {
         "title": "Crimson Desert Update 1.000.463 for Hotfix 1.18.02 Released on Aug. 17 - MP1st",
@@ -247,6 +253,12 @@
         "timestamp": 1786974678
       },
       {
+        "title": "Y3S2 Patch notes - Ubisoft",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObG5NUkMtTmUzSU83eFdLQ1FCSWRGNXFBRTdBTzdwM1U3V1F4ZWNfQ0JSUGRKbE83WHhGN3pFbzV1RENmTTJES0dTcVpLTFZCbjNMSU5QYzFnSDE3V1Y3V3pXa2dxbzBQbUpEdDlhZXpkQnNjY3FEZnRYaE9KOWdCWll1RFU3d1BTSG5XSzcyeFN6cS1jVWpOWHVpaFRIMjhTazQwcll3?oc=5",
+        "source": "Ubisoft",
+        "timestamp": 1786972327
+      },
+      {
         "title": "Helldivers 2 Update 1.007.001 Applies Weapon & Stratagem Fixes on Aug. 17 - MP1st",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVpsYXhIdDNSaDNmUEZwV1M3Q2V3OW9aTDhCaHFpZUxHbGNrMFJrOEg2aHJ6N1pEX1Q3YWxyWFYxWXZjWDJnUW0teEFwUUJiX2tiVEV6cHB3MnFuSTVselJmbHdBb0taalcyM00tdF9QWl9HaE5qS3JHNkNuQWR4b3VnUC12aTlGR1VfQXNaZzFvTjBKWjA1R0RJbzZfMG9wVzBjelVHOUNpUU5FaTdIQw?oc=5",
         "source": "MP1st",
@@ -259,16 +271,10 @@
         "timestamp": 1786968336
       },
       {
-        "title": "Crimson Desert finally fixes one of its most-requested quality-of-life issues - gamingbible.com",
+        "title": "Crimson Desert finally fixes one of its most-requested quality-of-life issues - GAMINGbible",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMzZ3OGRWN3lqUTlJeHd4TDRFOS1KSzUtcU5VRzJqa2U2Q0VUVlVNLWV2TExTOVhMTUJtLWxzVG5mSVhnSEFDaHNIc2kwY3VlbV81S1JkamVYczJPVDd3QUFNdHhGSmNFeW11RUdpNWFpOFpaMlVzMVZLV25jMnpuUjNB?oc=5",
-        "source": "gamingbible.com",
+        "source": "GAMINGbible",
         "timestamp": 1786968000
-      },
-      {
-        "title": "Beast of Reincarnation Gets Camera Fixes, DLSS 4 and FSR 4 Support in Latest Update - GamingBolt",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNnRRNnVUcnFpU0xyQVYtNVpRX0syODNuQXJ0TWRoMk9UTmVxclV0ZWxpZFJOVm9qS29YOWdPSzQ5UnJjdGhSVU5LY2RaR21VU2xfcng3d0RoaGk1cmJwdlJsWnlZanZ2bUNUUVdqX0l4cE1qcFJLaXFyNWFyZEZpWEd5c3FOS0JScU9fTXVoVmdWMzZ2NUlPdFBmTnVpeVgwdHdVUm05Wl8?oc=5",
-        "source": "GamingBolt",
-        "timestamp": 1786967627
       },
       {
         "title": "Roblox The Wild West Codes: All Active Codes List - games.gg",
@@ -287,12 +293,6 @@
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORVYtWFEwZnljM25GZEJmZmFpSE9Ibl9fSkQ2em9UVFRsM0V0WUtaeUFhWDZ1VFIwY2E3cUc5RXQzak5ESTZ1VE1PakNteDdUbjBaZllPQ2tISjQ0TFBadmxabE5NMDdmWFBCSnJoRTVENGdsNFJLc2t3VjJfMnk5SkpIdk5yWHBBX3pfQm1DUl9TUHlENURFVVhrdmptakR2a3Bvc1MxX05XQQ?oc=5",
         "source": "Neowin",
         "timestamp": 1786964401
-      },
-      {
-        "title": "August 2026 Google Play System Update for Samsung Galaxy - Gadget Hacks",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPb2twa0ZkaXlaMmRVV2dfRDVuU3h2bWpsZkVfTmxreEJZc3RiQmhFOHdkMk1QTlFLQVhjTFk4THF6bEVrWlR4V05GQXJPbk93QjNBdC1sNXFLWDR1TWhtWk9KSzNWaTJHOEtDeUxFdDFuV0t2cEZ6NkRlQXp3eWdpamRSbklPMGhfRHhQYXozMl82TGo0bDhGRTF3?oc=5",
-        "source": "Gadget Hacks",
-        "timestamp": 1786962757
       },
       {
         "title": "Windows 11 KB5121003 now crashing games and causing Windows Hello issues - Notebookcheck",
@@ -321,15 +321,21 @@
         "timestamp": 1786977091
       },
       {
+        "title": "Ghost Driver Codes (August 2026) - Beebom",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IV0VKZVQtTnVrb1pNVHpWUjFaWjB4a3lnbTRUYUFremN3RWQ2UnEwaGpwYWpaU29UNU0yMW5yVEVtcXJzWWRIcEx5SUZDQnPSAVRBVV95cUxONzdzVmdLUW12ODVTQ0VnZngxVFc2Y21qUXpvMUxMZTM3TUs5aEFyTGhHVFdJckJ0d3hFRzB6Tlg5UjRxQ2xZUHlZN0xJYlJDaWdPb1U?oc=5",
+        "source": "Beebom",
+        "timestamp": 1786973416
+      },
+      {
         "title": "Beyond Cultivation codes (August 2026) - PCGamesN",
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EN1Y1NXFCTTh2UnBPNWttRjNHeEJKREVob0JwZ0V0VkRvZHlNYjZXcjlvN2ViRlp4STVTMndTOWNpTElsSUxXUVphMnBkVU0zc3lyWGVtQkxUd29GcHc?oc=5",
         "source": "PCGamesN",
         "timestamp": 1786972797
       },
       {
-        "title": "Official online servers for the Switch version of Ark: Survival Evolved will shut down this month - Video Games Chronicle",
+        "title": "Official online servers for the Switch version of Ark: Survival Evolved will shut down this month - videogameschronicle.com",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMnlLM3R6Zy1uc0doMUg1bUI4YlhGbkFrMk9SdjU2UTgxcGtaOG12RUJxRWNyV0MybUtrRzFUbjlxRUNKUkpsYXlQc0JBcktfTDFZTTNfUkZGc0F3RnFJcGlxOHB3REtrdFVYUW43c1NjbW94R2NXTFpacXNXeDEyTktqRi1lSUNldVljQlpXeDRSWDNGMnZCQVpWTHVXUFJnZHkzeG9tZk5NU2pBVDRYNFd6YXhCWU93MkVyLUdvNDZzYy00Z0JpaTBNZGtEdW90a241Rg?oc=5",
-        "source": "Video Games Chronicle",
+        "source": "videogameschronicle.com",
         "timestamp": 1786968163
       },
       {
@@ -345,9 +351,9 @@
         "timestamp": 1786955760
       },
       {
-        "title": "FUT Codes (August 2026) - Pro Game Guides",
+        "title": "FUT Codes (August 2026) - progameguides.com",
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JRmtVLU5NYVZFRmgxaEpzVjVpU1VzcFVPVXo1NDl3SzVSdGNTYmx2dEZTbXJrM3dhbDg3NThua1lnM2UzYm5EVGllc3M4Si10RmVKUElB?oc=5",
-        "source": "Pro Game Guides",
+        "source": "progameguides.com",
         "timestamp": 1786955286
       },
       {
@@ -391,12 +397,6 @@
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnVXhPdUF0T1NnYl8yM1NINW1VVnR4bjdQLUxqelNDdl9KbUg5OHp5X2I3c05OcXozcEh6eTBvb21vallRZkhOYms1LXpTTXJfWmfSAVdBVV95cUxPLVFUa3RuSnJ1ZXlYT0dQV25aSFpaeHZBZUlVdlRuaDJ0dk5zT3NWcU0xTUxJZFQ0VzI2X25LZ1lndVUtaDlUTXlTT21XZTdSWXE0dXZ2akk?oc=5",
         "source": "Beebom",
         "timestamp": 1786942201
-      },
-      {
-        "title": "Fall For Brainrots Codes (August 2026) - Beebom",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBDaHZnOWpuT1Zfd21qakhnYzlXZDVsUWU0dGVxUkhrNTFZdE1mY1dHNXFZRVdKOTJFSkNwd2RkRGlQOC1NREg1czhmb0ZEdDlJejhTUVA5QdIBXEFVX3lxTE1INkttN0c1OGh6U1dET3EwT3B6dDFSNEZCTE9Pa0toZFpGaVFfSU1aOXJZa0pwdVpNRDhJSFpITlMtN3g1bklQbFRmTzRDWlNkang4YjJOaTNmaTdm?oc=5",
-        "source": "Beebom",
-        "timestamp": 1786906040
       }
     ],
     "guides": [
@@ -425,9 +425,9 @@
         "timestamp": 1786976580
       },
       {
-        "title": "2026 Crosstown Classic: A complete guide to this season’s matchups between the Cubs and White Sox - wgntv.com",
+        "title": "2026 Crosstown Classic: A complete guide to this season’s matchups between the Cubs and White Sox - WGN-TV",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVTZaVHdad0VFc0prZTdGQXA5bVBudlRWeXFna2hlXzFnOVBaaFFiblVPeDZoQ2EybU5pRUlsWnE5V0h0bWVRNGtBQjZ1RTkwMVVSM2R5dVBMemFDTmc4ZEhSR2N0RGEzN2MtcXd6ek5adnBQeFVQZ28zVjhrZ01BR1puWHlCdFlIb2toUHlCTk9kNlphLWd6U3RxcGZwbzZNZkhudWgzTEFkZi1UeWpSZTR1VUNQdWNUX01wUWZ0Y3F5SnVXZ2QtbGs1UkozUUluR1FyTtIB2gFBVV95cUxOWldpOTF2T0g2Qlo5ZzZkQ2YxejBZMnMyRUpPTllmTEZOUm9LNHZOQVA2U0xScVljVUx3RUFRdFJDMjBkSXZCY0ZCSFEyZ29wS2hjVzNtUFUyR2g2SWpTSEFjSGZBVTRSSHF4NFV0bXJHTzFVXzNzZjJxVUhVS0lvNjRBbVNIbXdoNHh4akJnOHpLSTZPal9aS25xUklxVjBlMGJlRlZzVFNEeG9EOW82Ujc0WHJHQzNjZjRHYzNuTWs4aUsyWGlCUmVhTGNXdEIwd2tnRThUeXdFdw?oc=5",
-        "source": "wgntv.com",
+        "source": "WGN-TV",
         "timestamp": 1786973280
       },
       {
@@ -485,10 +485,10 @@
         "timestamp": 1786921294
       },
       {
-        "title": "FPL Pre-season Form Players Guide - fpl.page",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCSUt5X3VleWktSlphUm90WDJZUjM3cGZxT0FrMnZ4R3VRbnI2enlOX2dJRVBDenFoRlFmWU5lQnhSbUwxRGJsbmYtSkQ0QzV5YVhMU0xYRG41MUNkTld3UlVOaWRCWjZwY0tLRW12UQ?oc=5",
-        "source": "fpl.page",
-        "timestamp": 1786903839
+        "title": "TFT Set 18 Guide: Blossom Ashe Ahri In-Depth Guide - Mobalytics",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YM1FJQ1lyWUVWMmZmcC1pWFJiYWxHSm9EYUQ3XzhZYzVJSEl4aVQxU010UDNrcXN1NXNhR1h6SmlTelNERUw3TUpOdFJjZTdXM2dOaGxGLVZLaEJ6Zy1XMWlhSnRmRU0?oc=5",
+        "source": "Mobalytics",
+        "timestamp": 1786911378
       }
     ],
     "assets": [
@@ -497,6 +497,12 @@
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM0dXODJXaEJmc28yejN2T2Y2aERObmUzQ3NYeDAxUzdtT3ROZGlvQ1pDX2tyUnNmeU1wQUNVckVGZ2dzMzRZYjlrMHA3Q1RETExEU1NSalNDalBhRVZoN3ZxMHZqREM3TUxPanEzQ0Z4d2VXOU1rOG9zWnQ1MXVOOW80cFp0M1VkZWx4RDNHOHN0cTFod1ZMd2VibGhXUQ?oc=5",
         "source": "Sportskeeda",
         "timestamp": 1786985040
+      },
+      {
+        "title": "Fortnite’s Cyberpunk 2077 collab leak adds male V skin & iconic weapons - Dexerto",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeHRuYWpSX21zc1pqbUhpVC1tc0dWcnUxNlBXb3JSZF9zTl8xczNiaG1PRWIyOGZjV1pNV1FLX0x2UHlKdU9sbHdrb0FQSU9QSTR0d1ZIMWNBbktUT0ZPV2tTbnF0MkY3XzFjUkRWNk5SMXZTUFpMNnczSTB3aHZBdWdwaTEwMDVkaGlaSTdiN2F3SGVybU50QlliRGx5U01BRGVlR0N5eXpjYUdZaXk0?oc=5",
+        "source": "Dexerto",
+        "timestamp": 1786981299
       },
       {
         "title": "VALORANT Aeris Skin Bundle: First Look, Price, and Release Date - GameRiv",
@@ -565,6 +571,12 @@
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRGhISEpiNnJxc0V2ekpWMHQ4eGVyU0dmSkszdHlaZEFXYzBZbWVic0c0aU5lanhWOHVCLUltTTJtaUd3azhCVE5zVGwtY1U5OXZWemJkd0s0eWxNYktrczQyWHZCRC14REtmOXV2bFB0V2UwSURqTV9obVl3OWdTZ293aFE0UjFoTHJBalZlVFF3OExCY0hSZjllbmd1UVgxa1c1VHQzZ1VKX28?oc=5",
         "source": "Big News Network.com",
         "timestamp": 1786963680
+      },
+      {
+        "title": "Kalshi Promo Code STREET: Get $25 Trade Bonus for Late Sunday MLB Games - russellstreetreport.com",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNekhtUHhrQzdnb0lOWi1Fbk8yQXFoLXhWekZIVHc5cHotYjlMLW8yOTlBc0g3MEtxb01zRlE1VTF6TWg2OVhscUlsYXhlYVFtUTl4Z1N5VmpMaDBEekxRLV9RTG93Ri03Z2hSVTJIT3F4YnN3dUxvVlY0NzdER0VkdkVSTDZGbFQxazZ0SUdFWlFibU5LTlBhNU1ya2lJb18ta2NtcXJnSGNKdWpxOVlYbWhXSXdKejhXRlhXRFVMRTVjdXhJWGxB?oc=5",
+        "source": "russellstreetreport.com",
+        "timestamp": 1786910452
       }
     ],
     "streamers": [
@@ -673,6 +685,12 @@
         "timestamp": 1786982156
       },
       {
+        "title": "From Mobile Games To E-Commerce: How Chinese Digital Businesses Are Deepening Their Presence In The Russian Market - russia's pivot to asia",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRHRhalZPOUR2NEszbElpTGwyakxhV2l3TzJTTFY5dXBQeHFMYU5VekI5bmlZZ0ZWVTk3M19UbmZkNi14STRyMXZTMUFldWQ5SzJtajgxRWFPUmphU0tad2ZHOUt3RkJRVWd5VmFXVHd1dXVxWEdhT3FNMlhkWl82NFB2dl84YmJFeU0tejNxNVhqZ1M0aDk0b3ZnbU1MOUtVbWUtUC12UWYwRlBCWUdzaU9WTlVmTkN4em9fTExzeGhHbUp5ZzZtckI2LTE5WGJnRFJmcWozOTg1RDNnbVE?oc=5",
+        "source": "russia's pivot to asia",
+        "timestamp": 1786980037
+      },
+      {
         "title": "Highly-rated city-building simulator from former Ubisoft developer released on iOS and Android - ixbt.games",
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRUk0bkt0TkhBTnEzNGNJVWxqODEzcHVmX3V1VXVOa3BNb1lMMmhDSVBrWl95MnR1ZW9VLTc4c19qcVNyWGVZZGpaZmlENUNhcDlDaTJoa2pOek9aUGZQM0YzSkgybFplTmhXNGNhYnNxN3lGUXh1b2J4WmZoMHZ2NU55LVVEVjk2YWRvQnlyYXkxOFJfTHJ6SFpXVnpYdmFlS1MydWlxZ3dNU0VudDZ0b3hUVGptdFVZaE03NlFlemRULWc4R0pZeE5oMlNNcFZ1RlZrUFZUbzdrczgwQTRfR3hlRdIB6AFBVV95cUxPamg1Q25sZzNpdXZpXzFJT1lXa0tFVzNiT3pPeWkzbmVYaHIxTzhJcWZkT3d5c3hLcHBKUDFjRHBmX3pBVUJFLWM5aHBlUlhjMjh5dGw4ek1NVUY1YXZSTmY4TW44QjExSEpLRE9oT1NfY1U3TTNCMmxoVlozS1hadmZTMGdWdk9pWDFyRWh4d0ZrN2lzc09RYWNUZllVdkZ3OHdYNXBXYTdNVGlJaGdxVFRHTmFwaGFmY3FKOG1hdEZfNHQ0aXV6RFF5S0pWbkRPTDZxTEpnUUN6cWV5bGlKUGNVaVNaczVr?oc=5",
         "source": "ixbt.games",
@@ -743,26 +761,26 @@
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SaERWQnlBS1VnNXZRNTQ3aGd6d2pVdk5aR2NiZUNBbjdjMHhVcnNQN1FjcVNlUWRWaTZ3bVpYM1ByVnBodW1aQWhQbGhuYXJCU01TWGRLWDdFRmlvUmplR2pn?oc=5",
         "source": "IGN",
         "timestamp": 1786931287
-      },
-      {
-        "title": "Sally Face 2 announced for consoles, PC, iOS, and Android - Gematsu",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR2Yxc1RoUmoxY0gySTVwY3Q3Y3JCekVsbzJHUHJVelZUeVhuYzVTcldsNXk3bXh1TUUwbldUdjljanJMYm1nRm1KOTJ6bFRVWDB4M3NVT3FicFlMWXZ4LU5mMnVRSVM4cmhMSzZSSlBWMXlhM1VzYU1ZRE1VNE5henlmR3BiZUJZME5GMWExbw?oc=5",
-        "source": "Gematsu",
-        "timestamp": 1786903255
       }
     ],
     "all": [
+      {
+        "title": "Halo Campaign Evolved August 17 Patch Notes Released - TwistedVoxel",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcFJjTDdhZmtJWGRJMmlpLWlVek1nX3RmVTNnLWVZYmw1S3pqSm1UMVRHbDA2NWUyUHRwNXhNWU0yRzI0QkxrdXlWS1FYR3I1MXE0MGMwcDBUTzlEYUdhRlZMbFFFTVpEUW85Y3EwZnYyNTctVE5kV1h3YjhpME1RU1BZVmQ?oc=5",
+        "source": "TwistedVoxel",
+        "timestamp": 1786989348
+      },
+      {
+        "title": "Apple releases iOS 26.6.1 for iPhone, here’s what’s new - 9to5Mac",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONktvMXBCODB3Yzd6WFRSN2ZfdG13bThBS0RqMDZZeE51bFVaNlljOWQ2MGtWSzJVLW9IRDVsZjVuVEZnUnhBakx0bDVsYVZIWF9rb045clRxZEtTM0E2Nk1zNmtoV0RiOTRvTWkxWk5xRDhVMndWNzdQT1lyX2UwLVpLbU5lemJIZHJlaA?oc=5",
+        "source": "9to5Mac",
+        "timestamp": 1786988160
+      },
       {
         "title": "College Football 27 Update Tweaks Gameplay - Athlon Sports",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVjk5NnJaM0Rwa0xMd3pZS19JZWpCaVQ3eWxBcVBfWkNmSUZSMjFDSS03MGR3R292djBFOG8zY200Zmo4LTZ2TGJfbDRBcGR4MHlGdURmdVE0RU5ua0RsQW9mOGJJZXN0amZDTlVKSmxkZldCYW9faHBoV2tCcU1RZTNEOG1xUQ?oc=5",
         "source": "Athlon Sports",
         "timestamp": 1786987299
-      },
-      {
-        "title": "Madden NFL 27 Update Makes New Gameplay Changes - Athlon Sports",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5tcm5IUnAwMkFIcXlhb1NHclZqenRuaXUxbGxpVlZGaHdtNkFkTXBuVzRnNURoWnByMVZTV21Ka2w1Smp0ZEtEZE5QZVpQTHhKQmdockVKV2VWdXZNSlU2ZHZvSW83QVMyMEE3dlJ1M1RMSzl4TkJfdll1VWZNUQ?oc=5",
-        "source": "Athlon Sports",
-        "timestamp": 1786986605
       },
       {
         "title": "Social Casino Apps (August 2026): Best Mobile Apps, Features & Top Picks - RotoWire",
@@ -825,10 +843,28 @@
         "timestamp": 1786981578
       },
       {
+        "title": "Fortnite’s Cyberpunk 2077 collab leak adds male V skin & iconic weapons - Dexerto",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeHRuYWpSX21zc1pqbUhpVC1tc0dWcnUxNlBXb3JSZF9zTl8xczNiaG1PRWIyOGZjV1pNV1FLX0x2UHlKdU9sbHdrb0FQSU9QSTR0d1ZIMWNBbktUT0ZPV2tTbnF0MkY3XzFjUkRWNk5SMXZTUFpMNnczSTB3aHZBdWdwaTEwMDVkaGlaSTdiN2F3SGVybU50QlliRGx5U01BRGVlR0N5eXpjYUdZaXk0?oc=5",
+        "source": "Dexerto",
+        "timestamp": 1786981299
+      },
+      {
         "title": "How to Promote Your PC Game in China? — Interview with Asia Game Buzz - WN Hub",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1hUWpZeTdQUlpqdGxDSWhObHhRYWpsQl9nOEowdlNmVWZwYTdGMXZydUxLckw5RWdxUlpfMXJVTlcxQ2hrdnhKejc3d3QzZVU?oc=5",
         "source": "WN Hub",
         "timestamp": 1786981008
+      },
+      {
+        "title": "From Mobile Games To E-Commerce: How Chinese Digital Businesses Are Deepening Their Presence In The Russian Market - russia's pivot to asia",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRHRhalZPOUR2NEszbElpTGwyakxhV2l3TzJTTFY5dXBQeHFMYU5VekI5bmlZZ0ZWVTk3M19UbmZkNi14STRyMXZTMUFldWQ5SzJtajgxRWFPUmphU0tad2ZHOUt3RkJRVWd5VmFXVHd1dXVxWEdhT3FNMlhkWl82NFB2dl84YmJFeU0tejNxNVhqZ1M0aDk0b3ZnbU1MOUtVbWUtUC12UWYwRlBCWUdzaU9WTlVmTkN4em9fTExzeGhHbUp5ZzZtckI2LTE5WGJnRFJmcWozOTg1RDNnbVE?oc=5",
+        "source": "russia's pivot to asia",
+        "timestamp": 1786980037
+      },
+      {
+        "title": "Halo: Campaign Evolved Update With Bug Fixes, Stability Improvements Drops This Week - GamingBolt",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNklMME14d3A4OHdtMzM2UE9uWk9aVnNDcVJtUEc5VFpWbmFtZ1pWbkY1eGE5azl2cHlhTEJEcVBzbWF4aE5lSnBhVG91c3hPcTcyR09McnFmSk01YW4xNm40Z0lYc0FYM0s0amRTYUJRaWx6VnRpMllMUzVHWGZyMnV3bDhFMi1EUHpFd2JsVlN3VHFJZVBPbXJZUmZqUnU4WEE3T2JyTm52QnM5ZnB4UzJYdw?oc=5",
+        "source": "GamingBolt",
+        "timestamp": 1786979546
       },
       {
         "title": "Save the Date for the 2026 World Championships Preview Show - Pokemon.com",
@@ -849,21 +885,15 @@
         "timestamp": 1786978550
       },
       {
-        "title": "Y3S2 Patch notes - Ubisoft",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQXFWaWFwREYyQ1RwVGw0TW5SVGtkcmJLSGdnUGdMWk1vUkRLQU9XQVlGRkx3czVMOFJVSy1MYms2OV9laDNqNHBFTnNsZERHNFZJTDBiNnhMSGxnbHV0WGd4UGhCVEg4bzFOV0cwQzEzbkRfYzNoOEk0NjZuYnBaeHR4ekFBZVQ2OTBGM2I5M0hiLUxUd3Mydm4zRzFaUjZ1Y09EWXRR?oc=5",
-        "source": "Ubisoft",
-        "timestamp": 1786978363
-      },
-      {
         "title": "Marvel Rivals players are messing with their config files 'to cancel games with no consequence' before they get a loss",
         "link": "https://www.reddit.com/r/gaming/comments/1vqubmg/marvel_rivals_players_are_messing_with_their/",
         "source": "Reddit",
         "timestamp": 1786977838
       },
       {
-        "title": "'I honestly thought Highguard looked pretty good' — Gears of War creator laments internet culture in which it's 'cool to hate' new games - techradar.com",
+        "title": "'I honestly thought Highguard looked pretty good' — Gears of War creator laments internet culture in which it's 'cool to hate' new games - TechRadar",
         "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNLVdBLW4yeGd1M3RzYjhjY01nR1ZNTTVjb0pYUnZzNlotSFdtc0tQa2pyZWQzU2E2SmdIRV9CQ3ptNkF4SHJEOXBfT0VhcG5Vc1Zxdnd3SzRGcXdxZnV4WDd4X21tTHNZR3RWMjlOLVJiN2VzbVVrTkk4SXlScnMzeFY2ZngtQVdHT25ZWUoyeGltX3NIYzhOVFpNSGs5NmtwZ2hBcnNHaHJqcnNKY1E2M1daOUY1cm0wOWkxWHlUMnY3S0YtX0pVVmtjMU95UWc0UmFlX3NpY1pEc2VBMlR5QmpwLWtoYWJnak85eTZoSjFTb09JaldnUWNKdEc2el9kb0wzZjNn?oc=5",
-        "source": "techradar.com",
+        "source": "TechRadar",
         "timestamp": 1786977499
       },
       {
@@ -951,9 +981,15 @@
         "timestamp": 1786973576
       },
       {
-        "title": "2026 Crosstown Classic: A complete guide to this season’s matchups between the Cubs and White Sox - wgntv.com",
+        "title": "Ghost Driver Codes (August 2026) - Beebom",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IV0VKZVQtTnVrb1pNVHpWUjFaWjB4a3lnbTRUYUFremN3RWQ2UnEwaGpwYWpaU29UNU0yMW5yVEVtcXJzWWRIcEx5SUZDQnPSAVRBVV95cUxONzdzVmdLUW12ODVTQ0VnZngxVFc2Y21qUXpvMUxMZTM3TUs5aEFyTGhHVFdJckJ0d3hFRzB6Tlg5UjRxQ2xZUHlZN0xJYlJDaWdPb1U?oc=5",
+        "source": "Beebom",
+        "timestamp": 1786973416
+      },
+      {
+        "title": "2026 Crosstown Classic: A complete guide to this season’s matchups between the Cubs and White Sox - WGN-TV",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVTZaVHdad0VFc0prZTdGQXA5bVBudlRWeXFna2hlXzFnOVBaaFFiblVPeDZoQ2EybU5pRUlsWnE5V0h0bWVRNGtBQjZ1RTkwMVVSM2R5dVBMemFDTmc4ZEhSR2N0RGEzN2MtcXd6ek5adnBQeFVQZ28zVjhrZ01BR1puWHlCdFlIb2toUHlCTk9kNlphLWd6U3RxcGZwbzZNZkhudWgzTEFkZi1UeWpSZTR1VUNQdWNUX01wUWZ0Y3F5SnVXZ2QtbGs1UkozUUluR1FyTtIB2gFBVV95cUxOWldpOTF2T0g2Qlo5ZzZkQ2YxejBZMnMyRUpPTllmTEZOUm9LNHZOQVA2U0xScVljVUx3RUFRdFJDMjBkSXZCY0ZCSFEyZ29wS2hjVzNtUFUyR2g2SWpTSEFjSGZBVTRSSHF4NFV0bXJHTzFVXzNzZjJxVUhVS0lvNjRBbVNIbXdoNHh4akJnOHpLSTZPal9aS25xUklxVjBlMGJlRlZzVFNEeG9EOW82Ujc0WHJHQzNjZjRHYzNuTWs4aUsyWGlCUmVhTGNXdEIwd2tnRThUeXdFdw?oc=5",
-        "source": "wgntv.com",
+        "source": "WGN-TV",
         "timestamp": 1786973280
       },
       {
@@ -967,6 +1003,12 @@
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WUUhDMC05REZIaXhhQnl0SmZ0Q2RwcW80b1d6a3ZMZG5sTkYyWkhyVDg3Y2ZZRTVfZDByb3pFNXBES3RWNngzUTBrMGVMTXB5VGd0SzB4TERRUW5SZlFpRkR0elFMZ2J2VjhVYXB1a1RQQlVPaXpPZA?oc=5",
         "source": "Mobilegamer.biz",
         "timestamp": 1786972504
+      },
+      {
+        "title": "Y3S2 Patch notes - Ubisoft",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObG5NUkMtTmUzSU83eFdLQ1FCSWRGNXFBRTdBTzdwM1U3V1F4ZWNfQ0JSUGRKbE83WHhGN3pFbzV1RENmTTJES0dTcVpLTFZCbjNMSU5QYzFnSDE3V1Y3V3pXa2dxbzBQbUpEdDlhZXpkQnNjY3FEZnRYaE9KOWdCWll1RFU3d1BTSG5XSzcyeFN6cS1jVWpOWHVpaFRIMjhTazQwcll3?oc=5",
+        "source": "Ubisoft",
+        "timestamp": 1786972327
       },
       {
         "title": "GamingUp Showcase 2026 Goes Live on August 23 - Games Press",
@@ -1017,40 +1059,10 @@
         "timestamp": 1786968336
       },
       {
-        "title": "Official online servers for the Switch version of Ark: Survival Evolved will shut down this month - Video Games Chronicle",
+        "title": "Official online servers for the Switch version of Ark: Survival Evolved will shut down this month - videogameschronicle.com",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMnlLM3R6Zy1uc0doMUg1bUI4YlhGbkFrMk9SdjU2UTgxcGtaOG12RUJxRWNyV0MybUtrRzFUbjlxRUNKUkpsYXlQc0JBcktfTDFZTTNfUkZGc0F3RnFJcGlxOHB3REtrdFVYUW43c1NjbW94R2NXTFpacXNXeDEyTktqRi1lSUNldVljQlpXeDRSWDNGMnZCQVpWTHVXUFJnZHkzeG9tZk5NU2pBVDRYNFd6YXhCWU93MkVyLUdvNDZzYy00Z0JpaTBNZGtEdW90a241Rg?oc=5",
-        "source": "Video Games Chronicle",
+        "source": "videogameschronicle.com",
         "timestamp": 1786968163
-      },
-      {
-        "title": "Crimson Desert finally fixes one of its most-requested quality-of-life issues - gamingbible.com",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMzZ3OGRWN3lqUTlJeHd4TDRFOS1KSzUtcU5VRzJqa2U2Q0VUVlVNLWV2TExTOVhMTUJtLWxzVG5mSVhnSEFDaHNIc2kwY3VlbV81S1JkamVYczJPVDd3QUFNdHhGSmNFeW11RUdpNWFpOFpaMlVzMVZLV25jMnpuUjNB?oc=5",
-        "source": "gamingbible.com",
-        "timestamp": 1786968000
-      },
-      {
-        "title": "Mortal Shell 2: The Complete Progression Guide - AltChar",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdm1ncU1MdElwUlpPNXlqNUpWdzVGLXRyUWRmRzU2NEExbGROYzUzSVZOb1VZQ0VwM0ZhZDJ4RHdsQ0lpR1VodW1BcjNHWTRLWDZqV2FGbi15d01teGZRaE00d2ozWjZOaXNfWXNYRWVycDNYWm4zcXF3dEVLQ0NlNjh4MHFxWER3UFRmSmtTWFdvZW8?oc=5",
-        "source": "AltChar",
-        "timestamp": 1786968000
-      },
-      {
-        "title": "Beast of Reincarnation Gets Camera Fixes, DLSS 4 and FSR 4 Support in Latest Update - GamingBolt",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNnRRNnVUcnFpU0xyQVYtNVpRX0syODNuQXJ0TWRoMk9UTmVxclV0ZWxpZFJOVm9qS29YOWdPSzQ5UnJjdGhSVU5LY2RaR21VU2xfcng3d0RoaGk1cmJwdlJsWnlZanZ2bUNUUVdqX0l4cE1qcFJLaXFyNWFyZEZpWEd5c3FOS0JScU9fTXVoVmdWMzZ2NUlPdFBmTnVpeVgwdHdVUm05Wl8?oc=5",
-        "source": "GamingBolt",
-        "timestamp": 1786967627
-      },
-      {
-        "title": "Report: Alibaba to sell gaming division for over $2 billion - Game World Observer",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM1NSZzhfb1ByQXg2SzJPS05rdWs1V2N5Z3BsQ1gyaU1BV1J4QUoxY053cWpvNHptckw4T25UZTNubEQzZjlLU1hkUGJVX2NyWUZQamtqbkhZWWtWZjFCQlJZRGVvUW16THJ1bGRlTkNkeFZzVTlVTTl6czZTTk9fR3VXV3VoMmhDc29mcjhoeGhuZGJOdDJrTFRvblZ0R0E?oc=5",
-        "source": "Game World Observer",
-        "timestamp": 1786967052
-      },
-      {
-        "title": "Roblox The Wild West Codes: All Active Codes List - games.gg",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11Ri1MWTFQQ0hLWmNFWUc1dG9xMXBkdkVVbkpib2FWTGRFZTkwWFpHckNGOVBySnhZWjhZczJQanVOa0w4VDhNUmY4NzZEN3lXMllIcFFUckVnX1F5M2VjTWVB?oc=5",
-        "source": "games.gg",
-        "timestamp": 1786966982
       }
     ]
   }
