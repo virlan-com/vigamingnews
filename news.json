@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18T19:15:38Z",
+  "last_updated": "2026-08-18T19:48:44Z",
   "data": {
     "top_stories": [
       {
@@ -33,10 +33,10 @@
         "timestamp": 1787061962
       },
       {
-        "title": "Samsung Partners With Activision For ‘Call of Duty: Modern Warfare 4’ Video Game Release - Media Play News",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd1JqSVlZbUs1NjJTLVNNdDlBcDFIWUt6QUtlZWJsNHpmX2ppOUVHc0htWndQelZQTmFqX19mSjR6R3NvcXVMU3prZVJTR1d6WmpMMTNCaDNXNWV0QWkwRWE0aEhhZzdFQlltSFRBSnM0X25Ua1BuN0hvVW1WWDBmYmFVYXZfRXVOd1g5WGhYTllLamxpMFNCcEVYNjdJU1RHaThMOGRQTk05cWRaeW1sLU8wMXlBY0E?oc=5",
-        "source": "Media Play News",
-        "timestamp": 1787060729
+        "title": "tinyBuild has filed a lawsuit against the developers of the Smalland series - WN Hub",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1dUgzLVpHRUdwcDR3VUYxWlhNc2hXTVBKb0dHRVZTNDJvWi1UUnYxVDVEbWQ1UHFLdTlkZUl0Sm12M2IwdXJkQUtZVE5SMDA?oc=5",
+        "source": "WN Hub",
+        "timestamp": 1787061210
       },
       {
         "title": "Bain & Co: Research shows only one in five players seek out new titles - GamesIndustry.biz",
@@ -51,9 +51,9 @@
         "timestamp": 1787054400
       },
       {
-        "title": "How Cyprus became one of Europe's biggest video game hubs - sg.news.yahoo.com",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uYUhjb1dOajgzRUJsTjBPU29ZLTltN2tvQ1pyTnpBa2xYOXdWZk9tcUFFdDQtTXE3Z2RsYm9HY003dFAwX0VvenB5TVFGLUlKMzZvd2pYM1hKRmtrd2NLTmpSX08yYklWcmVic1R0QnBDbDYxaGZSWl84TUZPRnc?oc=5",
-        "source": "sg.news.yahoo.com",
+        "title": "How Cyprus became one of Europe's biggest video game hubs - ca.news.yahoo.com",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9LZkhTWGxINFRjd3ZLbS1HenczbnJzN2QyZmNhNjFDMU5vOFQ4NmFEWHBaOUhrVlhhVFhMb2ZlTTlFU2RKNTFkZ0FyWExINmV0VjJGbTJKdVVBSGRiTTROTlQ4SjVvSWxPOFgwamhPZk4yOGEzVUlFbHF4WWdwV1E?oc=5",
+        "source": "ca.news.yahoo.com",
         "timestamp": 1787051893
       },
       {
@@ -95,10 +95,22 @@
     ],
     "viral": [
       {
+        "title": "Uncharted had dynamic difficulty because it was too short and it had to slow the player down, says former designer",
+        "link": "https://www.reddit.com/r/gaming/comments/1vrwlk1/uncharted_had_dynamic_difficulty_because_it_was/",
+        "source": "Reddit",
+        "timestamp": 1787075534
+      },
+      {
         "title": "World Humanoid Robot Games 2026 Beijing: Dates, Teams and Events - LatestLY",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVjJJczhXX1M2dmp6RllpRWtLUFA3TVJ3TkVPVW1kbUcxR3VzN2dqT1FhUFpGdHBQWkRiTnJJV3Vud01uY1N2aU9rNy1xd2dNSTZCd0N3Y2ZoVW5nZTEwaTdXOGkxbm9jRlVVSUJVaUd2d2R3OTdza1NBdDYwQlYtb1laMkdzYW5lYWcyVUVpVHBmR2otSkhFZjJhZlZmQTMxSE5DV2pHMEw2d010cGdqaGNfZGFHUdIBtgFBVV95cUxQVjJJczhXX1M2dmp6RllpRWtLUFA3TVJ3TkVPVW1kbUcxR3VzN2dqT1FhUFpGdHBQWkRiTnJJV3Vud01uY1N2aU9rNy1xd2dNSTZCd0N3Y2ZoVW5nZTEwaTdXOGkxbm9jRlVVSUJVaUd2d2R3OTdza1NBdDYwQlYtb1laMkdzYW5lYWcyVUVpVHBmR2otSkhFZjJhZlZmQTMxSE5DV2pHMEw2d010cGdqaGNfZGFHUQ?oc=5",
         "source": "LatestLY",
         "timestamp": 1787071368
+      },
+      {
+        "title": "Viral Video Shows Humanoid Robot Sprinting at High Speed Before Crashing Into Electrical Box - LatestLY",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVFpYWW5HUG1EUDFVTWdBMTZTUlF6NWU0Szl3WVd5VmVaTTZCeFZacnFxaGV3enRodWJXeVYta25sTXZONUZOM2dXWnM0d0dmdTdRdFpKUndVR0JaeEF5ZVZBUV9pWEhua0JWYWl6Z2hLZGd1WjNuZU1xVnF6NWczczFfRVVFS3FqV2Z0aTNWNHB6UGwyNktFVWpCaHBCZmFYV0s0QmhYcHBMaXdsYlJKd2N5V2lPYTJudEpRVU1LRC1yVjB0SVF3aEhCZUJhYnVaTWlySUFxNXJKYXlmSjhZc9IB4AFBVV95cUxPVFpYWW5HUG1EUDFVTWdBMTZTUlF6NWU0Szl3WVd5VmVaTTZCeFZacnFxaGV3enRodWJXeVYta25sTXZONUZOM2dXWnM0d0dmdTdRdFpKUndVR0JaeEF5ZVZBUV9pWEhua0JWYWl6Z2hLZGd1WjNuZU1xVnF6NWczczFfRVVFS3FqV2Z0aTNWNHB6UGwyNktFVWpCaHBCZmFYV0s0QmhYcHBMaXdsYlJKd2N5V2lPYTJudEpRVU1LRC1yVjB0SVF3aEhCZUJhYnVaTWlySUFxNXJKYXlmSjhZcw?oc=5",
+        "source": "LatestLY",
+        "timestamp": 1787068151
       },
       {
         "title": "Prince of Persia: The Sands of Time Gets Major New PC Features on GOG",
@@ -141,12 +153,6 @@
         "link": "https://www.reddit.com/r/gaming/comments/1vrlm6z/every_long_game_needs_a_where_the_hell_was_i/",
         "source": "Reddit",
         "timestamp": 1787049895
-      },
-      {
-        "title": "Are there any modern games that have a real world component.",
-        "link": "https://www.reddit.com/r/gaming/comments/1vrjt7l/are_there_any_modern_games_that_have_a_real_world/",
-        "source": "Reddit",
-        "timestamp": 1787043741
       },
       {
         "title": "Heads up, Fallout 4 and Skyrim players: New updates are incoming, so it's time to tend to your mods",
@@ -217,6 +223,12 @@
         "timestamp": 1787073557
       },
       {
+        "title": "Anno 117: Pax Romana – Patch 2.0 - anno-union.com",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tYW52d3ZGNkpnRlBlLVhBYzRiWnFfOGdTUjN6UHViQjExZWt0d3pyTVhoS2pxX0xSZWQtNWtwMm03TVdxTEFUNDkwUlpjMXRiTklDRlNxcldoM1dQYlBINTE3cWdFMlpZMVV0Z0lfYXVHT0k?oc=5",
+        "source": "anno-union.com",
+        "timestamp": 1787071679
+      },
+      {
         "title": "36.2.2 Patch Notes - Blizzard Entertainment",
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5COFYzNm9LNlZHU2wxMEFET01INHdPUGRoSGJnSEhZVkk5RXRZSnlabXZwRF95R0JTV0I4ZFlOV0N4TWJHNnlxS0NGZExBeTRTMVBLWGtranMyUnpB?oc=5",
         "source": "Blizzard Entertainment",
@@ -259,9 +271,9 @@
         "timestamp": 1787047946
       },
       {
-        "title": "Be warned: Fallout 4's next update may break your mods - and there's a similar one for Skyrim in the works, too - Eurogamer",
+        "title": "Be warned: Fallout 4's next update may break your mods - and there's a similar one for Skyrim in the works, too - eurogamer.net",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YR3FVVk9hNzEzVFFpellfOERIRXFSZU5oUUlfaDFKOHBkdGR5TmRqa3V3M0g1Rk5JNTQtMTNPZ1NVN1V0UHpFakhwZkQ4M2NsRU9DSG1mc1hyTFF5MWdyb3ZCYUV6bHlCT0pxN1NKN1dXQ1hy?oc=5",
-        "source": "Eurogamer",
+        "source": "eurogamer.net",
         "timestamp": 1787047926
       },
       {
@@ -269,12 +281,6 @@
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9BZ3NVRV9EcE5vaWc0NldURXhrd1EtN2dmNEY4WFRiT01zdkhqTnkwdk5rcjdST3pXSVlqdGw3akIzMl9HeFNla3lkR3RrVXZKUHhzajdLODVQcENRYnV5VU1yM0tERmlURjZDNTFsQWVYUQ?oc=5",
         "source": "Halo Waypoint",
         "timestamp": 1787046875
-      },
-      {
-        "title": "Trails in the Sky 1st Chapter Legacy Patch Implements Multiple Localization Updates - oprainfall",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb3d5aVpCSUk5cWJWR2c4TUVqTEtUbFJwNi1mNDlCR2FzZ1hKeEw1SHpHUkh0VnNmTG1CRVVHTnNZUE53d2lqaGhja1VqRVRDQjR4SUZOTEp4VXRvRHdzX0l3emdzRi1hb2p3Xzd4WDJ5ZTl4LWR1RGc1V3JlWHUwX0FOdXgxNWVPcmlGUkFvSVQ4Y0pzakxNTVh0MGtyaUJ2NXRjblZrVzZRaWY0U2dsY2U1N1ZfV1FKRlZNZDJ6WkxYZ2c?oc=5",
-        "source": "oprainfall",
-        "timestamp": 1787028002
       },
       {
         "title": "Ver. 1.3 Rising from the Moonlit Fog Patch Notes - NTE",
@@ -321,9 +327,9 @@
         "timestamp": 1787060658
       },
       {
-        "title": "Throw a Coin codes for August 2026 - Eurogamer",
+        "title": "Throw a Coin codes for August 2026 - eurogamer.net",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxbE9OODRjbzVjakU3UWxXT0xWMVJyN0V6cnF5Qmd0UjlueEpoU29lQW9IVVA0dkljNTJfOGRRMXZ5REpac0lpY1FLUURkSGJ0Xzg3ZU5MSlVUR2Q2Tm5qMQ?oc=5",
-        "source": "Eurogamer",
+        "source": "eurogamer.net",
         "timestamp": 1787057648
       },
       {
@@ -343,6 +349,12 @@
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKQVJXTElGd29tWGdfbmRVSktnTGI3Q3UwMkpKaGR0Zkt4MkFOZUp4STJVWEVrZnUzUXNkN0xlZGliNUwwRkE1b2pIcmxEMkZJVm9GLXRVdmxrUkJ2Sk4xVWRB?oc=5",
         "source": "Pro Game Guides",
         "timestamp": 1787042191
+      },
+      {
+        "title": "Dino Hunters codes (August 2026) - Destructoid",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tYUp5NnVFbnRycm1GMlJSc3FtdVBnbmY0M0UxSE55RzFka3hNLVNNemUyWExpYXFHenpHYllwRUtFVFFDRzg5OF9NblRIQjZBeUgzM19KcjdFMWc?oc=5",
+        "source": "Destructoid",
+        "timestamp": 1787036640
       },
       {
         "title": "Roblox Game Codes [August 17, 2026] - Sportskeeda",
@@ -431,9 +443,9 @@
         "timestamp": 1787061000
       },
       {
-        "title": "Throw a Coin codes for August 2026 - Eurogamer",
+        "title": "Throw a Coin codes for August 2026 - eurogamer.net",
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxbE9OODRjbzVjakU3UWxXT0xWMVJyN0V6cnF5Qmd0UjlueEpoU29lQW9IVVA0dkljNTJfOGRRMXZ5REpac0lpY1FLUURkSGJ0Xzg3ZU5MSlVUR2Q2Tm5qMQ?oc=5",
-        "source": "Eurogamer",
+        "source": "eurogamer.net",
         "timestamp": 1787057648
       },
       {
@@ -469,6 +481,12 @@
     ],
     "assets": [
       {
+        "title": "GTA 6's Another Gameplay Footage Leaked - It Shows Jason Driving a Car, Combat System, and More - egw.news",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTldCcDI0cVVRaGcxaTl1UC1TWHVLMnpoblU0R04xWE9IN3BvN2JTYjMyaXRSTUViYzBtSmdXWE5VR3VaY1M3WjFvM1cwVFZrNVBpVGVlVVpUNGU4Rlc3UVZQN0IxN0s3MWlTamwzQ2tmZ1lxREk1M2hWaXZ2Ulc5Wk1MeHlnWHZoaTBxOVhrbkRwWElKMkxmc2kwVQ?oc=5",
+        "source": "egw.news",
+        "timestamp": 1787082286
+      },
+      {
         "title": "The Duskbloods leak reportedly reveals 14 playable characters and classes - AltChar",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMWZmY3RGalJ0ZlZ1bk96UGc1SzEyNmlkZHNZeTlaZzk0Q3lhNzlRcFpOdWZSU0E1U29pNkpnLXMzR3BsVzdOWlIybzA3anJPTm53NTJnMXlzdU1RdWhfZWRfUThjcUJOd1Nla19lbnB2ODVpeE01cTEyZUMxamlibHB4VThFSXdqZnZheXp0eXBaVUVyTy13dUF6cENaNzdWRDlzamt0TzJtUzFrbGxESUFIbTEyRU5HMW1VMQ?oc=5",
         "source": "AltChar",
@@ -499,27 +517,27 @@
         "timestamp": 1787005906
       },
       {
-        "title": "GTA 6 Leaks: Cut Content, Two Protagonists & New Mechanics - VPEsports",
+        "title": "GTA 6 Leaks: Cut Content, Two Protagonists & New Mechanics - vpesports.com",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzWW12U1pHbjdMNFJJT2pjYUtLcjEteXNoRGRJbkkwU3gtM2xiS255VG9DR0xod2puelNWRzUzVmIzRkJqaDJwTy1CYm9xWjRtZENEbWFzYnlwck0xcnJEbDRWaUk4OHR2dV9Fd0ZR?oc=5",
-        "source": "VPEsports",
+        "source": "vpesports.com",
         "timestamp": 1787004441
       },
       {
-        "title": "Genshin Impact 6.6 Leaks Review: New Characters, Boss, Artifacts & Weapons - VPEsports",
+        "title": "Genshin Impact 6.6 Leaks Review: New Characters, Boss, Artifacts & Weapons - vpesports.com",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1TbUNVZEtRNmdGX3JKaGprMnk4a1pyS0VDb2pvQ3JwVVRZRkxVeU5jNTFMRGwwbFNPaWp5MVBvdWlPZnJPZXpfYm8tbE45SXg0RGlRdUdXYnE3eG1UeEpTUlRlU2VUc1dPN3duYjBDY2dXUkZzd2JVcFBB?oc=5",
-        "source": "VPEsports",
+        "source": "vpesports.com",
         "timestamp": 1787004175
       },
       {
-        "title": "PUBG Mobile 4.4: Ford, M1 Garand, Panzerfaust & AUG Return - VPEsports",
+        "title": "PUBG Mobile 4.4: Ford, M1 Garand, Panzerfaust & AUG Return - vpesports.com",
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80bVhoVVloY3VXdGM1M3RpMlFMUVVjVE42cHZRR3N2LXgzQ2FDOE1Jc1BlUWxXWHRGY1pQWFk1dm1xYVkzWWozaGdEOE95bDNSc2twUjVsaFY1RF95UGdLYjJ4R21iQQ?oc=5",
-        "source": "VPEsports",
+        "source": "vpesports.com",
         "timestamp": 1787002340
       },
       {
-        "title": "GTA 6: 16 weapons confirmed, but you can't carry all - VPEsports",
+        "title": "GTA 6: 16 weapons confirmed, but you can't carry all - vpesports.com",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nX29VcFk1eGRqNGp6aGxnN2VYOFpGalh6R3VIdTRWaVlaUlBndmV3TmdTTG1jdzF3ZGZ2UlZMbUZCcjFtSjgxM21WY0hDZEw5d0h4NHk2Q3lhR3hhbnpZMGFmT2ZnRy1DTHhGVHJEM0ZweTNYUTJYRA?oc=5",
-        "source": "VPEsports",
+        "source": "vpesports.com",
         "timestamp": 1786999056
       }
     ],
@@ -605,9 +623,9 @@
         "timestamp": 1787023142
       },
       {
-        "title": "Dead Matter - Development Vlog #10 - alienwarearena.com",
+        "title": "Dead Matter - Development Vlog #10 - Alienware Arena",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSDJvYllMRTg1Smx5dFBxaHV2aHljUmpFdnh4MVJGTXFXV0JDUXN4UnBhRFZnb2liN1RnbUNYQmZFaWIxVTRhZGVCWlVmOGh3R1g2S2hUTE92dHI5OEZPWXpqWTgtV3M3bXMwSi1lckhKWk4zWUlDTHk4YUlkNWJKbmRSeHo4Qi1tX2ttQ2pvRmNaN1V1dGdsMXh5RkRBOS0yWFN0cGNCQWlWZTdf?oc=5",
-        "source": "alienwarearena.com",
+        "source": "Alienware Arena",
         "timestamp": 1787015585
       },
       {
@@ -625,12 +643,6 @@
     ],
     "mobile": [
       {
-        "title": "Game Distribution: Half Your Players Already Buy Direct - Bain & Company",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaElETEpMRVBwMVc4M3psWUNPaUlDQVJwVUgyVndxXzk0OTlESlVOREJvaHk3YmFnWGttX3Zma29jVXQxZ2hOLVBCaHgyS2FXZWZJUklwZTRTRlMxSlFKZ181TEtYcnZ0Y2xDelZWOVdiQlpPMld3bFdmbnBLOWpETzJMZVY0bWg5TENQMTVrT2JtZGRwUmRyZnB0ZHB6Umk0UmtzamRkNA?oc=5",
-        "source": "Bain & Company",
-        "timestamp": 1787073366
-      },
-      {
         "title": "Social Casino Apps (August 2026): Best Mobile Apps, Features & Top Picks - RotoWire",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPakJmLXRwbWtZZEwyeTFNRTZxN2Jsc3NMVE5uMEVYc1JUaXZsVWx5RXpNZG9sRjhHcWkxOVdjcVd0MC14b1JHMjZCN0t5MGluM2JGS0dNd08yc19xQmZXRHJRVkgzYjlrZW8tM3dPci1Lb0hVb1otako3d0lsbVpwalY2R1hTSXpaR2V3eV9fSWwyMDJsOUtoTlpFMWVEcXhhZjBoREJZWUk?oc=5",
         "source": "RotoWire",
@@ -643,22 +655,28 @@
         "timestamp": 1787072640
       },
       {
+        "title": "Grand Theft Auto: Liberty City Stories - games.gg",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nRzNibWg3YkkxaHFrYnh6SWR3OGczRTNwQ1puaWwycmFxT2NGLXR6T1VsUWdRUzdZbHJ2X3E2NWpLamdrQXVVZWgtZEs5RjdKQUVRWUZWcmxrMHFwTnRJdWFwZ3lWQQ?oc=5",
+        "source": "games.gg",
+        "timestamp": 1787071958
+      },
+      {
         "title": "Cross-Platform Game Development: 10 Lessons from Mobile to PC & Console - GameDev.net",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSzJ6cnJSek9WY094eVpzYXU3Xzk2MTFaUDdGNDZRcHVBdTA0R2pXUmlfbWZBeTJmUE9EMVJoWFg5eURWdGdsQllacWxfMzlFaGdzZTM5SFkyblFmRVJNekRQOWMzZUhHMkhmRmtieDExNGxZWm44UkJNTjc1Q29KRUN6SWI4LVU5RFNxVTcxVGxMZkxoY2NRUXl3V05XUHh6RkE?oc=5",
         "source": "GameDev.net",
         "timestamp": 1787069301
       },
       {
-        "title": "Grand Theft Auto: Liberty City Stories - games.gg",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nRzNibWg3YkkxaHFrYnh6SWR3OGczRTNwQ1puaWwycmFxT2NGLXR6T1VsUWdRUzdZbHJ2X3E2NWpLamdrQXVVZWgtZEs5RjdKQUVRWUZWcmxrMHFwTnRJdWFwZ3lWQQ?oc=5",
-        "source": "games.gg",
-        "timestamp": 1787068421
-      },
-      {
         "title": "🔴 Minecraft LIVE | CHAT CONTROLS THE TNT #minecraft #live Montenegro (cxzt4XL8d6) - Mshale",
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95ZGVVLXJYNGduZXJBdFQ3cm5yWmNSRHZwNlVLNy13Q3NPUm1RZEdYY0RBYzZLei1HU0t4dXNlcTh3QjBBNEJtdExuX29takVsN1ZSM0c5dVd1cEE?oc=5",
         "source": "Mshale",
         "timestamp": 1787064139
+      },
+      {
+        "title": "Best 9 sweepstakes casinos ranked and reviewed for August 2026 - Detroit Free Press",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcU04SzFPanhuNTMtYmtkLUp6SFBVRDR5TEtVMm14M2t3bEhTSTFfYzluXzdMV0NFWmZhTGRWYVNLMVZNcWFVUW1vSWNvcHlIN3JGRkVlX2QyMG1RT2VfSkpxejNIYVRzQWZUNG1aXzNtTlNCeWhCM19SY0o0Sjh5bHItMjdiOF9ITnRyd3dWYkhLd0QzY1U0N2V4QUhvUUh3dFRESDEzaw?oc=5",
+        "source": "Detroit Free Press",
+        "timestamp": 1787062380
       },
       {
         "title": "Cyprus gaming revenue is closing in on tourism...who knew? - Kathimerini.com.cy",
@@ -697,25 +715,31 @@
         "timestamp": 1787047999
       },
       {
-        "title": "Brook Gaming to Exhibit at \"TGS 2026\"! The company will showcase fighting game hardware and unveil new products, including the latest 8K Core Fighting Board, for the first time. - saiganak.com",
+        "title": "Brook Gaming to Exhibit at \"TGS 2026\"! The company will showcase fighting game hardware and unveil new products, including the latest 8K Core Fighting Board, for the first time. - Saiga NAK",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OWDE1SC1jNlRlb084T2tOVmNGWmFTTFZkcjNxWmtkUzdpT0RrbWRkU0RweEtCT1ViaGJuYlBsNUVMVzZBa2dwdXk1TG9BZThTWHVnN0xxbk84Ujg1ek9ibXlSUUpxb2NEQUFsRXFHVWdVRmtBZUHSAXtBVV95cUxPeVUzZmpINV9qOFZiQmNmeEJjdi03ZThzZGNmOVctSXpkWGpJTzdpMUNYOEVnNTFPSkZiX0VrZjhPdzFSa0pKMHRoN2lUWXZscVVLUzBHZF9tTzBfLTFZQmFKcVhwR2pJS0lNNU9aVjMyMGI5OFh4S0pkOEU?oc=5",
-        "source": "saiganak.com",
+        "source": "Saiga NAK",
         "timestamp": 1787033273
+      },
+      {
+        "title": "Latest Gaming Updates Zeromagtech: 2026 Gaming News - Tycoonstory Media",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJUTdDRktyMnFmX1l1bS1ua1g0U2VqSUVXOExXUk5mZGJlV3B3elM3R2hnOHVfbTc3RUlEcUJ6N2o0em8zWkRfTUZGcEh5SGFmbHVCeTQtZlpHZEtQUF9oR0k5OGpRZVBmQXBrX1k1WQ?oc=5",
+        "source": "Tycoonstory Media",
+        "timestamp": 1787032861
       },
       {
         "title": "Lumines Remastered Hits iOS and Android - Tech My Money",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQajVLX3dyd2UtX0FRLWlsRFdySjZyRnBkUzFWWlA0UndiMjVIdVpXMVZ0dnRmR3BqTkFVQzEwcGFYR21IaFZSZi0ySmpmV3ZURlZxTXI5VlB4VlRnVTFId09mS3lqckJJVHNjdFRCdFN6MHo1RnM3Ymdrd2s0cnBJMNIBgAFBVV95cUxQajVLX3dyd2UtX0FRLWlsRFdySjZyRnBkUzFWWlA0UndiMjVIdVpXMVZ0dnRmR3BqTkFVQzEwcGFYR21IaFZSZi0ySmpmV3ZURlZxTXI5VlB4VlRnVTFId09mS3lqckJJVHNjdFRCdFN6MHo1RnM3Ymdrd2s0cnBJMA?oc=5",
         "source": "Tech My Money",
         "timestamp": 1787013131
-      },
-      {
-        "title": "Mobile Version of Sally Face Released on iOS and Android After 10 Years - ixbt.games",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQTlVN1NxT2E0NHNRU0hMdlVTb29vZndnbXVfXzlZUGNIRm9Td211U19JMDBtSmRNaEJkOEg0azM2VF8tU1pfNTMzVkZ4VzBFRVVQd2JmNnQwbU40NkNCMnRDTXUxMXd1TXJ0TFFRMEc0Yng4UXNGcHJyTW45d0p1X21oTkNIYWN1N0FIclQ5MTNQdzZkclNWZFhzOHlZLUlMZThMOE1HcGxPSWtILW5CMy1HQzdnQkXSAbwBQVVfeXFMTzltdkItQmdmeWVyNk1TWjg1NkZxakJ0OXZQOEpLdHRKWEpjZDg1TVl3ZDNLdjZLbnRvQWJfbTllMGxaY3ZWeVhKTmFSbUpyOHJlM1VqYUJjTlBxLWhDTHNnR1ZJR1ZvV0h0RUNXVEc0YXh4YU1oa3Y4LWJTWGlnSjVxVGVEZms5eWtxV2ZpQmZJbEQzeXl3aWRxdExZcEZGTHV0ZzdQbzZwc0Y0UV9sbkhQRUVCVVB3VDNPWEY?oc=5",
-        "source": "ixbt.games",
-        "timestamp": 1786994526
       }
     ],
     "all": [
+      {
+        "title": "GTA 6's Another Gameplay Footage Leaked - It Shows Jason Driving a Car, Combat System, and More - egw.news",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTldCcDI0cVVRaGcxaTl1UC1TWHVLMnpoblU0R04xWE9IN3BvN2JTYjMyaXRSTUViYzBtSmdXWE5VR3VaY1M3WjFvM1cwVFZrNVBpVGVlVVpUNGU4Rlc3UVZQN0IxN0s3MWlTamwzQ2tmZ1lxREk1M2hWaXZ2Ulc5Wk1MeHlnWHZoaTBxOVhrbkRwWElKMkxmc2kwVQ?oc=5",
+        "source": "egw.news",
+        "timestamp": 1787082286
+      },
       {
         "title": "Diablo 2 Resurrected Update 3.3 Released on August 18 for Patch 1.39/1.039 - MP1st",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOenBpd3E5dGJKLVBaQ25wRXk0cHBEdDZvcFBKYXUxU0N4dmloc2ozMnJuajZEdlZwRlNLeW5QMjEzRHk5ZkpZbVN6ZEtyaWZZbk9rMGNrRDQ0N3NqTV9qb2NONHZ1aW1WRnZTeVBZZVRPVGtlcXZCOXd3T1YydVZxVThoUDZ3RERJUm5pWjdJWWJZT3g1U3dhaVBtLUViUlZVTURIWmNoYVZEcTdUUlVYVg?oc=5",
@@ -733,6 +757,12 @@
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaHJ0QnhSV0xqancyQmRoaWxCVU9tbl95TVp4eFJSUTZVb0xuSmctU1JpNEx1NkJwbi1idVdyLXpyd1c1ZDVqX0FJTUFGRzBzcGh6UVZJRW91VEhQMDJ2bndTYnFOcS0xYWRfQVB2Rmdla3pYY3BLb0RYbktSdkRXbDhUdzdYQzlTdVJkX1V6VExVWTE3QlluSzNTUDlSRFloWUhWSDBHeDVIYUVqR0hVVWV3QU1zYWhfMG1BNGVZQWpJZER1Qjk0?oc=5",
         "source": "Tech Times",
         "timestamp": 1787075560
+      },
+      {
+        "title": "Uncharted had dynamic difficulty because it was too short and it had to slow the player down, says former designer",
+        "link": "https://www.reddit.com/r/gaming/comments/1vrwlk1/uncharted_had_dynamic_difficulty_because_it_was/",
+        "source": "Reddit",
+        "timestamp": 1787075534
       },
       {
         "title": "Gamescom 2026: First-Ever Sold-Out Floor, Full Schedule, and Where to Watch - Tech Times",
@@ -753,12 +783,6 @@
         "timestamp": 1787073557
       },
       {
-        "title": "Game Distribution: Half Your Players Already Buy Direct - Bain & Company",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaElETEpMRVBwMVc4M3psWUNPaUlDQVJwVUgyVndxXzk0OTlESlVOREJvaHk3YmFnWGttX3Zma29jVXQxZ2hOLVBCaHgyS2FXZWZJUklwZTRTRlMxSlFKZ181TEtYcnZ0Y2xDelZWOVdiQlpPMld3bFdmbnBLOWpETzJMZVY0bWg5TENQMTVrT2JtZGRwUmRyZnB0ZHB6Umk0UmtzamRkNA?oc=5",
-        "source": "Bain & Company",
-        "timestamp": 1787073366
-      },
-      {
         "title": "Social Casino Apps (August 2026): Best Mobile Apps, Features & Top Picks - RotoWire",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPakJmLXRwbWtZZEwyeTFNRTZxN2Jsc3NMVE5uMEVYc1JUaXZsVWx5RXpNZG9sRjhHcWkxOVdjcVd0MC14b1JHMjZCN0t5MGluM2JGS0dNd08yc19xQmZXRHJRVkgzYjlrZW8tM3dPci1Lb0hVb1otako3d0lsbVpwalY2R1hTSXpaR2V3eV9fSWwyMDJsOUtoTlpFMWVEcXhhZjBoREJZWUk?oc=5",
         "source": "RotoWire",
@@ -769,6 +793,18 @@
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYVhuOF9FSHVzU0hBZ3hnZkNlR3JkQ2M1VzlFNTJWVDE0eEpBSzBsYk1WYldWa2pBenBrTzRuNllNV3U2R1R0QjJHVmlWdE5yM1pJOElheHUtUVY0RXkzeDFSYnlYbUNrNmlzMHFRZ2t3NlhCMlVxMTYzUUNZYnRVTU9rdVV1dE1vM2ZITjZIeDI3TzZVNHhEc3AwV3dHZ3RCWlE?oc=5",
         "source": "RotoWire",
         "timestamp": 1787072640
+      },
+      {
+        "title": "Grand Theft Auto: Liberty City Stories - games.gg",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nRzNibWg3YkkxaHFrYnh6SWR3OGczRTNwQ1puaWwycmFxT2NGLXR6T1VsUWdRUzdZbHJ2X3E2NWpLamdrQXVVZWgtZEs5RjdKQUVRWUZWcmxrMHFwTnRJdWFwZ3lWQQ?oc=5",
+        "source": "games.gg",
+        "timestamp": 1787071958
+      },
+      {
+        "title": "Anno 117: Pax Romana – Patch 2.0 - anno-union.com",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tYW52d3ZGNkpnRlBlLVhBYzRiWnFfOGdTUjN6UHViQjExZWt0d3pyTVhoS2pxX0xSZWQtNWtwMm03TVdxTEFUNDkwUlpjMXRiTklDRlNxcldoM1dQYlBINTE3cWdFMlpZMVV0Z0lfYXVHT0k?oc=5",
+        "source": "anno-union.com",
+        "timestamp": 1787071679
       },
       {
         "title": "No Disc No Buy Comments Flood Phantom Blade Zero State of Play - games.gg",
@@ -831,16 +867,16 @@
         "timestamp": 1787069301
       },
       {
-        "title": "Grand Theft Auto: Liberty City Stories - games.gg",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nRzNibWg3YkkxaHFrYnh6SWR3OGczRTNwQ1puaWwycmFxT2NGLXR6T1VsUWdRUzdZbHJ2X3E2NWpLamdrQXVVZWgtZEs5RjdKQUVRWUZWcmxrMHFwTnRJdWFwZ3lWQQ?oc=5",
-        "source": "games.gg",
-        "timestamp": 1787068421
-      },
-      {
         "title": "The Aftermath of the Acquisition War: Who Actually Won Gaming’s Merger Boom? - GameTyrant",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcmFmcVpEdWhGVkhyVUFBaGRHazZYR3hHckFMVDQxUGhSOW1vWU9EWlU3SVVBZUxBNzk1Y25DLXktMEdzRmR5Zy1TZl81dUNTdDkzaUo2cU9Gdmk0andoNENsVlMtOVBxYTFUUGtzUFQxSWx2bnU4bFg0Qmpoa2kxMGxIWmlpa3IxT2Z6cFVoajh2Yzk0c0FteDRfdFRWeFRWRU9z?oc=5",
         "source": "GameTyrant",
         "timestamp": 1787068258
+      },
+      {
+        "title": "Viral Video Shows Humanoid Robot Sprinting at High Speed Before Crashing Into Electrical Box - LatestLY",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVFpYWW5HUG1EUDFVTWdBMTZTUlF6NWU0Szl3WVd5VmVaTTZCeFZacnFxaGV3enRodWJXeVYta25sTXZONUZOM2dXWnM0d0dmdTdRdFpKUndVR0JaeEF5ZVZBUV9pWEhua0JWYWl6Z2hLZGd1WjNuZU1xVnF6NWczczFfRVVFS3FqV2Z0aTNWNHB6UGwyNktFVWpCaHBCZmFYV0s0QmhYcHBMaXdsYlJKd2N5V2lPYTJudEpRVU1LRC1yVjB0SVF3aEhCZUJhYnVaTWlySUFxNXJKYXlmSjhZc9IB4AFBVV95cUxPVFpYWW5HUG1EUDFVTWdBMTZTUlF6NWU0Szl3WVd5VmVaTTZCeFZacnFxaGV3enRodWJXeVYta25sTXZONUZOM2dXWnM0d0dmdTdRdFpKUndVR0JaeEF5ZVZBUV9pWEhua0JWYWl6Z2hLZGd1WjNuZU1xVnF6NWczczFfRVVFS3FqV2Z0aTNWNHB6UGwyNktFVWpCaHBCZmFYV0s0QmhYcHBMaXdsYlJKd2N5V2lPYTJudEpRVU1LRC1yVjB0SVF3aEhCZUJhYnVaTWlySUFxNXJKYXlmSjhZcw?oc=5",
+        "source": "LatestLY",
+        "timestamp": 1787068151
       },
       {
         "title": "10 Best free online slots to play for fun in August 2026 - Detroit Free Press",
@@ -945,6 +981,12 @@
         "timestamp": 1787062492
       },
       {
+        "title": "Best 9 sweepstakes casinos ranked and reviewed for August 2026 - Detroit Free Press",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcU04SzFPanhuNTMtYmtkLUp6SFBVRDR5TEtVMm14M2t3bEhTSTFfYzluXzdMV0NFWmZhTGRWYVNLMVZNcWFVUW1vSWNvcHlIN3JGRkVlX2QyMG1RT2VfSkpxejNIYVRzQWZUNG1aXzNtTlNCeWhCM19SY0o0Sjh5bHItMjdiOF9ITnRyd3dWYkhLd0QzY1U0N2V4QUhvUUh3dFRESDEzaw?oc=5",
+        "source": "Detroit Free Press",
+        "timestamp": 1787062380
+      },
+      {
         "title": "Cyprus gaming revenue is closing in on tourism...who knew? - Kathimerini.com.cy",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQmY2b3FZMDBnR3dmTEtEWXhLN2xFTlRkNHBSdHljS2tISlRDbUtCVGctckZQOUNwRkQwUFFaS2o2elhDNmpoZ1IyeXhvY2pDN2RZdUN4OHlrYnlfLUlqOHdrTzh6Yk1LckZKVDVrNEJNaHRDWXVfRnp5ckhKLWwxSTZGZElub25HeEViSWk3TEw3UE04UUVNLTdRUkNuQ0dfUWc?oc=5",
         "source": "Kathimerini.com.cy",
@@ -969,16 +1011,16 @@
         "timestamp": 1787061691
       },
       {
+        "title": "tinyBuild has filed a lawsuit against the developers of the Smalland series - WN Hub",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1dUgzLVpHRUdwcDR3VUYxWlhNc2hXTVBKb0dHRVZTNDJvWi1UUnYxVDVEbWQ1UHFLdTlkZUl0Sm12M2IwdXJkQUtZVE5SMDA?oc=5",
+        "source": "WN Hub",
+        "timestamp": 1787061210
+      },
+      {
         "title": "Best Slots to Play Online for Real Money Ranked (August 2026) - USA Today",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbW9STjBpRk1wQUs3QnlWZzhxVEYtbERvQWxZZ2duN1E5dmNfNEV3S1hrNXNubU5kVU1QZEFuYVRzc3E0M1p5ZEpheWt3a0FUTW5DLTF2c3h5VG54MERvc0dadTJVNHF3RDVYek9MT2NXWWVOVmdmcGw4X3N3WU1DSVpxdHg1dmpNTU9SYmM2dnBzQ1JEc0pFSFBB?oc=5",
         "source": "USA Today",
         "timestamp": 1787061000
-      },
-      {
-        "title": "Samsung Partners With Activision For ‘Call of Duty: Modern Warfare 4’ Video Game Release - Media Play News",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd1JqSVlZbUs1NjJTLVNNdDlBcDFIWUt6QUtlZWJsNHpmX2ppOUVHc0htWndQelZQTmFqX19mSjR6R3NvcXVMU3prZVJTR1d6WmpMMTNCaDNXNWV0QWkwRWE0aEhhZzdFQlltSFRBSnM0X25Ua1BuN0hvVW1WWDBmYmFVYXZfRXVOd1g5WGhYTllLamxpMFNCcEVYNjdJU1RHaThMOGRQTk05cWRaeW1sLU8wMXlBY0E?oc=5",
-        "source": "Media Play News",
-        "timestamp": 1787060729
       },
       {
         "title": "Hell Let Loose: Vietnam Developers Fixed Shooter Issues on PlayStation 5 and PC - ixbt.games",
@@ -991,30 +1033,6 @@
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQczktaVdmeTdOclZJMi0zWElqZkZXQ0tnQV9sUFN2NmNXYVpocnZJMk1TeFZLX3BuQ2JHbDNNOEx5RUVvWUpnZVlXV1hHdm1rcXhMU0t6WTVEeHg0OTU3UGJtZVZOOFhYWEhoUzZQa2Z5aGIwMnhDT1pYS3JhLWN5QThuTkdlNHNUVWk4X2VrT0hKWU1iZFQ5cFZNMlFNekhaeTlsNkNybmQtRGZGamxUYVR5NlV5akFrWXJCTF9QdGVMOWJmX1ZVZm03OFo4XzE5cm1NZjhZTTZhN0Nx0gHcAUFVX3lxTFBzOS1pV2Z5N05yVkkyLTNYSWpmRldDS2dBX2xQU3Y2Y1dhWmhydkkyTVN4VktfcG5DYkdsM004THlFRW9ZSmdlWVdXWEd2bWtxeExTS3pZNUR4eDQ5NTdQYm1lVk44WFhYSGhTNlBrZnloYjAyeENPWlhLcmEtY3lBOG5OR2U0c1RVaThfZWtPSEpZTWJkVDlwVk0yUU16SFp5OWw2Q3JuZC1EZkZqbFRhVHk2VXlqQWtZckJMX1B0ZUw5YmZfVlVmbTc4WjhfMTlybU1mOFlNNmE3Q3E?oc=5",
         "source": "iGaming Brazil",
         "timestamp": 1787059695
-      },
-      {
-        "title": "Bain & Co: Research shows only one in five players seek out new titles - GamesIndustry.biz",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNak9hT1dYdUE3cE13WVhLQS1tdUlxLVRvX2VKaDZCRlE3M2Q0dVVYcXh5VHFncXBqd0J2bllSSFJYWGp4T3FUS3dDRWJqYXlGS3g3UUJIbDZYY3pGdE5pall4QWNiRDYyUl9SU20taHhzNzNpUFdTSkZZb2lUWVhLNnkxWkd5cTdfU29WeWIwQTZUV1J5Y25RWUtWSWYzUQ?oc=5",
-        "source": "GamesIndustry.biz",
-        "timestamp": 1787058000
-      },
-      {
-        "title": "Throw a Coin codes for August 2026 - Eurogamer",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxbE9OODRjbzVjakU3UWxXT0xWMVJyN0V6cnF5Qmd0UjlueEpoU29lQW9IVVA0dkljNTJfOGRRMXZ5REpac0lpY1FLUURkSGJ0Xzg3ZU5MSlVUR2Q2Tm5qMQ?oc=5",
-        "source": "Eurogamer",
-        "timestamp": 1787057648
-      },
-      {
-        "title": "Kingdom Come: Deliverance II is officially available on PlayStation Plus Extra and Premium starting today, August 18, 2026",
-        "link": "https://www.reddit.com/r/gaming/comments/1vrnn2e/kingdom_come_deliverance_ii_is_officially/",
-        "source": "Reddit",
-        "timestamp": 1787055789
-      },
-      {
-        "title": "NBA 2K27 Reveals Top 10 Highest-Rated Players - The Source Magazine",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONy1ERF9vbmlPY2g4cnBhN0VsaEgtT1FzbFNTZVpxSGZxdEpXYU1RZlBuR1hHSjByekhsbkFQOXZ2Sl9va29wSFZZTnF5Qzl5d1dmeXpLbEcwRnlrY2piYUxtMkYyUlVoN3hiOGlLeGdUUk9lSGZJN2NveVpVUVMwNmozRkhZUQ?oc=5",
-        "source": "The Source Magazine",
-        "timestamp": 1787054767
       }
     ]
   }
