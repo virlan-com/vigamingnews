@@ -1,13 +1,7 @@
 {
-  "last_updated": "2026-08-19T18:45:49Z",
+  "last_updated": "2026-08-19T19:23:47Z",
   "data": {
     "top_stories": [
-      {
-        "title": "Doug Bowser, Shawn Layden and Peter Moore unite for historic GamesBeat Next gaming legends panel - GamesBeat",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSWZvaUhrWXR4bHNfYWViWXdoVkUwZFVMVzFpbllhWmthcGdPUDZFLVd5OVJrUWxfQmx5RmZCWlhWeExoZTZ5amJPN1E4N3dzOUdSS0xJVDJFaGc5aTZKNWJMZUQ2MTJJR2FMMlNfRGh1WWIyaHkzbEtEWW5MVG95U2RKbnRlLTNubHRSdE53?oc=5",
-        "source": "GamesBeat",
-        "timestamp": 1787162436
-      },
       {
         "title": "EA employees brace for the worst under Saudi ownership: 'Hard to feel good about being bought out by a regime that's very much at odds with progressive society' - PC Gamer",
         "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPZFRfbUpVWHhTVmEyaVlkdjdRQnJlM2FXdVl0bWdPaVhldG50T0RnbXNNZXhKbURrZG1YWWtWMkNlV2hYM1ZoVm1UdjBhazZueUlzczJQNFk0eGxaRnVtUzRGNjc0Y3p2aG05SVNWNklOa21mSGI0Mm5uZHQ0aUJwM3hBU0RzN3M4azNBTGF6eXhXZjlzN3JMbFVtSzk3ZWRqSno0RmhGRkNMMkpiTTE4eVpheWp6Q0R3ODduWDVyeVdMT2UxTGhvQTFDMV9zRUw3Q1I5dUNHSm9PX0VkdG9lSmpESzhySnktcnRXM3VWcWFGMU93TWpLNHJBM0phcmtzN2NUd1lvM0cyNDB1Nmt2SHlQODdRWHdZeEh1TE94cFR3RUk?oc=5",
@@ -19,6 +13,12 @@
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT1VrYlBNTWJ4Z1RicVNjVHg5UktibndENml2MnJCMGlmbkMtT0JYdmZjZ181amJzOERScjdkS0RNZTd3YjcwalRVVTBBZDVXR0s5XzU5VWNoSlNqS3B0bXRKMGFjbFZXanVWOC02UTAzQy1waU5VcHg3T2tuS0pMOWVkTFBDS1lyNTRPM1dscENWbmFJVTRuYUtXSEFOWXowMGR6Z2ZtcF9maGhUSHY3Vl9R?oc=5",
         "source": "Gameindustry.com",
         "timestamp": 1787160816
+      },
+      {
+        "title": "The New Guys will help game studios identify and reduce audience risks before launch - GamesBeat",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMnJaM051VWEtQTVTM1I1OENWbnBNb25USElhV1NqejY0eU9lM3Y0UlVqUERONXo0c2hEU19PbkpmOWJCREM2d252bUlqUkZVMUV0VHJNTURIS1FKMTJJV0hPa0gxSkxkWmx2NlpCWElVRlFDczA1ZHZualAzVGFabWtKbFZfdmZkSjZhMWxEWG1PY2lXa1oxWk5KeEF4czg2SDZ5M0ZIYVJOcG8?oc=5",
+        "source": "GamesBeat",
+        "timestamp": 1787158793
       },
       {
         "title": "Harvey Smith and fellow Arkane Austin veterans announce a new studio, Black Pony Immersive - Game Developer",
@@ -37,12 +37,6 @@
         "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOaVptbXdxT0h3eHNIU0FLYW9kdHNBZmlROUNzSV9BS19HWXM1Q291ckpQc1NiYUVGajFhZGxlR0tRbFZCZGIxNEtGaXNsaFhOb01mMENFcHYzQ3B6Y0o1VEZLV21sSlNMd1c0VEhxWjFmcmJ2VWxIZjcyek5YRERpejFXbVUzdXMwVTBIMFp0SzJSV1RIUVpRUlYyS0pOclFHN2ZtQU9FU2lsWGFUV09TTURudWthanlsdTRSYXBtbzdMb3F6cUlKNUUzWWoxQXpSemZCUndGejRWaDd0cWstdHg1ajJpUVZfN2xoMnplMVBXSS1oaHh6ZlJiZFVjVG5icEVUVFdtcGJnQ1VxQVBuRE04Q2ZDSlEyNl9femZkWDJZX205NWZHdzV3?oc=5",
         "source": "Morningstar",
         "timestamp": 1787155800
-      },
-      {
-        "title": "The New Guys will help game studios identify and reduce audience risks before launch - GamesBeat",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMnJaM051VWEtQTVTM1I1OENWbnBNb25USElhV1NqejY0eU9lM3Y0UlVqUERONXo0c2hEU19PbkpmOWJCREM2d252bUlqUkZVMUV0VHJNTURIS1FKMTJJV0hPa0gxSkxkWmx2NlpCWElVRlFDczA1ZHZualAzVGFabWtKbFZfdmZkSjZhMWxEWG1PY2lXa1oxWk5KeEF4czg2SDZ5M0ZIYVJOcG8?oc=5",
-        "source": "GamesBeat",
-        "timestamp": 1787153453
       },
       {
         "title": "Dishonored co-creator Harvey Smith launches a new studio and it literally has the word 'Immersive' in the name - PC Gamer",
@@ -67,6 +61,12 @@
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RcERDYnNBb3pJeHZDcWppZGZOblZvQ1JadVNQVjB3RDlkZndtM2otcDI5eWYzTGRuczFMTGlKRGZPU1U5TEx4anJmalVvSE83VHdBN19PN0N2X1M2TUVWR1R2NVpxaV80VHM0TGtLVVJtNWJC?oc=5",
         "source": "The Game Business",
         "timestamp": 1787144471
+      },
+      {
+        "title": "RGB International adds veteran gaming industry executive to board - Focus Gaming News",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb3BBSTB2eVc0RC1hS05rck1YSmNjRUdaejF4ek4yOHhYSTd6eEpMUlJkWnZ3bmRyX3V5M0UwSmFnRThBNFZKSS1tUDdSN0FjbWU3WmYzM1oxN2FCMkw2enNxdW01MmlXbUQxWVkxZkU1YTFMcGZhM2VRTzNibXhNa1F4REw5d0ZYVThvdnpDRm5CcnJ0RmpnS2Y5ZGx3UTdIOXJrUzh2ZE1Wa2s?oc=5",
+        "source": "Focus Gaming News",
+        "timestamp": 1787133096
       },
       {
         "title": "Korea Association of Game Industry Signs MOU with Gyeonggi Content Agency - Inven Global",
@@ -94,6 +94,18 @@
       }
     ],
     "viral": [
+      {
+        "title": "Tom Brady takes shot at Aaron Rodgers and NFL stars avoiding preseason games - bolavip.com",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdkVncVo1MGpKcjF2T25hOEdQdDJpenhCbWV6NHI2cV9BdGJRX29VX3NQMkRIc3hKZVBjbGhkeHFVaDZuRndKUS02OGJVSUFjQVFkZzgweUVXanhsNDBvNlhpQWJteE9TYzVJSU5XT2UxNDFqOUJybTdjT0x2SjhHdDduWEVpX2o0dENsRHNsb092QkdMSEVHQUJHejBaMnJyOEtJV0RB0gGrAUFVX3lxTE9iVzNwRDJpeXNqM0xXaHkyaTF6d1BWaEdqSHZ1N0VVRFh3S3FvbHR3TlY0dWMwVnVqT3pJNjgzNkJma1hfWGUyVkdsbC1fTnNxZjZoX0l0OHR0R19tdjJyMFFadnVsZ3g1Rkt5VUxhRF9qOTBMeklFSno2b20tYzgyZ3pNZmNQWlNxblUyZGNybmJwRTFpdV8yY2ppb3VEU1YteXY4RFFvaVNIQQ?oc=5",
+        "source": "bolavip.com",
+        "timestamp": 1787162768
+      },
+      {
+        "title": "What were your Pokemon blunders as a kid?",
+        "link": "https://www.reddit.com/r/gaming/comments/1vstuw1/what_were_your_pokemon_blunders_as_a_kid/",
+        "source": "Reddit",
+        "timestamp": 1787162134
+      },
       {
         "title": "In Black Ops 7, why is the MW4 Pre-Order image ad WAY bigger than the button that lets you play the actual game, in fact why is there an ad in the first place in my $70 game?",
         "link": "https://www.reddit.com/r/gaming/comments/1vst9s8/in_black_ops_7_why_is_the_mw4_preorder_image_ad/",
@@ -191,12 +203,6 @@
         "timestamp": 1787101317
       },
       {
-        "title": "Started MAFIA today! Such a beautiful box set too!",
-        "link": "https://www.reddit.com/r/gaming/comments/1vs4krj/started_mafia_today_such_a_beautiful_box_set_too/",
-        "source": "Reddit",
-        "timestamp": 1787093197
-      },
-      {
         "title": "Bodycam: Official 'Road to Locked and Loaded' Dev Diary",
         "link": "https://www.reddit.com/r/gaming/comments/1vs4bfh/bodycam_official_road_to_locked_and_loaded_dev/",
         "source": "Reddit",
@@ -207,19 +213,13 @@
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSXNvTklrWUNoZHJ2aFJfUFVDaFFFSjl0NnphY0hRU29ZY1dXU2ktNmZEc3d3VU0xMURMYU41Ykl1V3hUbTFNYmF2aERkZFZDbE10ek01ZHZYOXhlRVZybU42SEdweWxudmFuaWNRM0c4X0NRLUxQaHNidnNMWHRDeWw5TWNTajRiNEdWa0hvbWp0RkZGUmx5T0N1aXFfQjliaWRnUXVvVWM1STludXlQTw?oc=5",
         "source": "virus.hr",
         "timestamp": 1787089287
-      },
-      {
-        "title": "23 Years after the release of Maxis' SimCity 4, modders finally fixed the \"eternal commuter\" bug.",
-        "link": "https://www.reddit.com/r/gaming/comments/1vs2d75/23_years_after_the_release_of_maxis_simcity_4/",
-        "source": "Reddit",
-        "timestamp": 1787087946
       }
     ],
     "updates": [
       {
-        "title": "NEXT and Modern Warfare 4: Early Intel, PC Specs, Pre-loading, and More - callofduty.com",
+        "title": "NEXT and Modern Warfare 4: Early Intel, PC Specs, Pre-loading, and More - Call of Duty® | Best-Selling Video Game Franchise",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSXFsZXFGaTFPYzBIZHF1VktKczI1VXlKZWIxaTNOSFhUV29na3VIZmVhWmdPY3dLV2tLYmszcy1JVHBWRmptZ0ZTbV9HSUVWd1IzQ2VnODN5TXB4X0RwQmYzVnBpSUJsT2YwamlIbWVpOHB0b2RubzhOeFdibmw2UGw1amh0WXpuSUdQc1ptUldDcS1UX2w0SnZESQ?oc=5",
-        "source": "callofduty.com",
+        "source": "Call of Duty® | Best-Selling Video Game Franchise",
         "timestamp": 1787161050
       },
       {
@@ -253,15 +253,21 @@
         "timestamp": 1787147800
       },
       {
+        "title": "Alan Wake 2 Gets FSR 4, FSR Frame Generation Support With Latest Update - GamingBolt",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUEYza1BxaTlnQk5iU0FSZXhvdFZRb0NxNnNVTkRvUW8weTRsNDRVWGlPdWRFTFUxRkxuWjQxZEw2NklLSkJyN2lJWVNLamlYcmFUbVROSXMyd3FOaXo1cWFqU1FfbEc1S0Raa1p1ZFg0VnJkWWxHLVV1X3J1QThGWWp1SGVJcXNqdG1aQldvaFo1ZWRTYWhfSA?oc=5",
+        "source": "GamingBolt",
+        "timestamp": 1787146846
+      },
+      {
         "title": "August Update: New Video Settings, Free Armor Styles, and More - Halo Waypoint",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9BZ3NVRV9EcE5vaWc0NldURXhrd1EtN2dmNEY4WFRiT01zdkhqTnkwdk5rcjdST3pXSVlqdGw3akIzMl9HeFNla3lkR3RrVXZKUHhzajdLODVQcENRYnV5VU1yM0tERmlURjZDNTFsQWVYUQ?oc=5",
         "source": "Halo Waypoint",
         "timestamp": 1787144294
       },
       {
-        "title": "New Fallout 4 Update Brings Creation Kit Archive Support, Bug Fixes & More - Full Patch Notes Listed - psu.com",
+        "title": "New Fallout 4 Update Brings Creation Kit Archive Support, Bug Fixes & More - Full Patch Notes Listed - PlayStation Universe",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMmtuMmluYk8tV1dHaWVMSGZpRUVHdlZPYWJjWDBodWRaZkRhVkpER3dNcDlicEpIOTJEUWtKanFmbl9qT2lYUUVZbE95UnN3Z1dfU21kZ1VOM2xZcDRfRTh1SzNpYTVsMWVHb253Q0Jxam9OSTNBZmNFQUI5MGV2Q0FxRHdfX0kxYUlQSklJMzlfa0JTMEpsa1gxV0tfTkZ0Q2dRQ2RvUEp4VGRnem1CV25yZWdqbDFlaUt0aWl3?oc=5",
-        "source": "psu.com",
+        "source": "PlayStation Universe",
         "timestamp": 1787133819
       },
       {
@@ -289,12 +295,6 @@
         "timestamp": 1787102327
       },
       {
-        "title": "Splatoon 3 being updated to Ver. 11.3.0 Aug 19th, 2026, patch notes shared - GoNintendo",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeldadGVkdXNBd3ZHQ1dNS29Ea2hBa3lmLVFOS0UtRUwtSGFTUVZjRnhSSVVxTWJ2MFJxZG9XdkpZbFBaRE4xc01qVWxBLXN2NjBCNXpjZ2NpSjU0dko3TEpnRjdtcFZMdWFoRkhIdFhOSHdzcE55MjhQblpwRk1ySkZxV1Q0cW41Q0JFc004c1l3UHU3V0hiOVluNG8zZUtjSEhZSU9xM1o1bHN1MXc?oc=5",
-        "source": "GoNintendo",
-        "timestamp": 1787101872
-      },
-      {
         "title": "Splatoon 3 Ver. 11.3.0 Update Launches This Week, Here Are The Full Patch Notes - Nintendo Life",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMS0zanh3TWJ2YXJuSFY0N1lraURmZEh4WWNNWWV4V1ItSEc1V2o5OWpLU2UycklaU1FCTHNaV3hBVTFmYUlraS1YSEdhQ2x2cDR1Z2FFSE1GMi1aTHBQRlc5UE1Bb0pNUUpYWEpKaTNweW85OVJqYWZHUDNqVXRrQ3gzbTBHNUZsU1RmR3pKck9pYVdhN0wxQ0txQnB6MFFoRnZSeTI4WGVHMGlhOVVZRzFxcndsRm0wUGZn?oc=5",
         "source": "Nintendo Life",
@@ -308,6 +308,18 @@
       }
     ],
     "errors": [
+      {
+        "title": "When might Fortnite Chapter 7 Season 4 start? Expected time - Sportskeeda",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQWlDNnNzb2J2N2FMbFNaSk5nelRMVkF2REhfeS1hekd1dkdpempTYkZ4MFpJd1ZOOFkzNHc1bmI1ZWU3NzRkSVNYblRRTktJVU9oclhnOGwtQmIxTEZOUWEzc2M0OXBscl9JLU1JNlF5M3ZTNlFUYzRxeVhJRXJSbHdQc3FCSzF0ck92bGtNa3ROZjBnYnF6dlNLOA?oc=5",
+        "source": "Sportskeeda",
+        "timestamp": 1787164920
+      },
+      {
+        "title": "Free Fire Redeem Codes (Valid Today, Updated Daily) - Free Fire Mania",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55djlicVZJMjhtUWlYR0lPSE5RWnU2bVR6OGl0Rm5PenNINmUwR2N0d0c3VDM3dWpUeDF6ckd0dHZlMmtCUDlCVTVoRmFvd1VPb0xUcjR3RVB2bTg5dXlhcE1YWDdZWm92dnJlME5wV01wUQ?oc=5",
+        "source": "Free Fire Mania",
+        "timestamp": 1787162203
+      },
       {
         "title": "GTA 6 Gameplay, Full Map Leaked by Hacker Protesting Digital Pre-Orders - iPhone in Canada",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeUw3SGdtMW56UkNQOHNwU0o0TlFaR3gxM1ZzakU1cnBNcVZGLVpxeHpXRHh1OUJLc2RoNU04Q2tTbGRqblBCS05WMUpmdlFxS0tuOVlxam56RU9FbWNMRXBoWEp0ZktlbHotZmJudWFON29Gcm04NTFsd09LM3Z6ZWwyMkhjMFk5QVQ2cEVwcTV1ZmxBT1RZay1RQ1dmaXNFc0l2ZUNEUFdFYm9KQVUyQTNn?oc=5",
@@ -351,12 +363,6 @@
         "timestamp": 1787122701
       },
       {
-        "title": "Anime Card Farm Codes (August 2026) - Beebom",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9PamZrNTByZVA0eGF2Vm1vN0lUZW1mN3R5NjZsOURrdWlTNW50V0xsdG85ZDhiMEdhUXBQejg3OVgwdlBLcW1acHhQeVpaQWdzM3pr0gFYQVVfeXFMUExlQVVFa3djWThUWVZVMTVJVDBlbGRRMWlid0gxUlZOc002OVdRckdod2R0TFpFVTB0MTN0TVVDMTVyb244QlhBOHB0cEpvN214RmlISVFiUA?oc=5",
-        "source": "Beebom",
-        "timestamp": 1787121898
-      },
-      {
         "title": "Fortnite Chapter 7 Season 4 Start Date and Time (Countdown Timer) - Beebom",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONko0UGg4aVZ0MDg5ZEZES2FpdTdmTlJDbXdQaDc2bTJzRFNoeE9hQm5TV2t3dXNCc05RTDdlNHBIWERodmItSWtnYUdUdDV0b0V2VDRVOEpYUmdxeFlxLWVvcDk2WXpmZWJ1YWdTTkRyUmJ2VWE4OU9CU1N6QzNEbHJveE9vekF1a2U00gGQAUFVX3lxTE1jRklROHh3ZjV5YVF2MnJrUzh1YzhLWTFzWG1OS3RDdUhJOGwwOUNyS3RpN1BYeE1kNjdUeW5QcElHelZxY1hpTUNuZmREM0E0aHF6V3B1Q1QtTnJGRzdKOVpLYTYxaXhyaE8zYlRPYWxNWGVCZ2xBb29obS1NeFhrWjVkZEtXTmUyODVEbl84eg?oc=5",
         "source": "Beebom",
@@ -391,15 +397,15 @@
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56QWhOUGNmS2dpMnBLWUp6YkpGMkVnc1JmY1R6aFpkRTRzQ0xEQ3dobmZod3ZNcHVlZk9nTVRrTDVUN2tDWEU2X2dEbWZwd1Vyc2ZnR3FPemNNRjBMQ3NjMnBxMUJtM2tOcjdEb0lMRmM?oc=5",
         "source": "GameRant",
         "timestamp": 1787103900
-      },
-      {
-        "title": "Stock up – stock down after first preseason game | Birds Huddle - Yahoo Sports",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTFNrakpQdEZrazZRYzBGenQzbnlDQXRpRWZOQ3dEQndJTWozemk0YUhCdHhUY2xaMFppVU1WTUlIMkx5aXMzc2xpNXIwUE9xSnNXZHZHTG16UTRDUVhpOGhybFN1ekpMLUVjeHRDUVAxOHBGN2tSMkxkSUI0cHRHckxGa1dDdw?oc=5",
-        "source": "Yahoo Sports",
-        "timestamp": 1787083764
       }
     ],
     "guides": [
+      {
+        "title": "10 Best free online slots to play for fun in August 2026 - Detroit Free Press",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUzRBRXlranpqV2p3YTh1YnJEMzRlbTdwaGxOMWE1WEtGY3hZRFBNRU5UT3dlY2k4OGZCWkVkMDN5SUl1a0pTeFRrVTR0VzNScUsxakEwV1VMWFJ5a2FBNFZ4RjVtcW1EWHA0cWlYMGhrNEJsNnRmY3V5U2dZdWlteXFLOGl3ak1JSjhxaTk3dzlqdGpMMUEwVldMam5OZw?oc=5",
+        "source": "Detroit Free Press",
+        "timestamp": 1787159700
+      },
       {
         "title": "Best slots to play online for real money ranked for August 2026 - Detroit Free Press",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbl82UldSWU84QWY1ZDZJckVob1pfWVdYNEtCMVQzOVVhMElZUmltbHZDbnhnekhvaDlqa2t3S2hENjZFbTJsMFJ3NmdMb25NZUY5N3I4Y21rWEZHcUlZRG1sRlNiTnFpaHlpdWdCUks3aWxBUnlJRmhlYVJoZUh4eFBrMkVudjcyRHdnZEpHQ2k4VmNPQ29mdGVpd2E?oc=5",
@@ -407,16 +413,16 @@
         "timestamp": 1787156700
       },
       {
-        "title": "Best FPL defenders + midfielders for DefCon: The ultimate guide - fantasyfootballscout.co.uk",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWll2U29wVFB6QlJWNWkzMWYwSzJzWG1KRXg2RzgzNVJ6ZVhNVW9YajNxMm9Ha0dVNnBnQjJheXhkQWRoc014ZHhhNmZhaXB2UnhodVU2OXVaT2RhdVBpZTlsbnE1WHM4NXBWc1l6cmZRZjZfb1lEMU5lRVZ6X3B6b0ZvbXpUMFpVemliZ2FvUzJUWjdJWVY5b1dWTHJ6cFRGU1pQc0FRZGRhd1RtZzNj?oc=5",
-        "source": "fantasyfootballscout.co.uk",
-        "timestamp": 1787154455
+        "title": "7 Best Casino Apps in the USA for August 2026 - List Wire",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZjNLRVJLRHh0QXMzZFU0ZmRkX2I2b3RtT3QtRGM3NUJkNjAtODFmdTJPcmRvUXBUNUwyTldhNHRXenByR0kzMjlXYnN2WDZ1OVpIQm5hblYwU2dYTWp5dUVHSFZQR2JRWUxCSThyeWUxZEhqQmZZQjJTaHR5OU1kWTZjU3dXOXJtM1NnUVNyRWdMMVhNVjNMUUlvRDVvaXRDOXVUSg?oc=5",
+        "source": "List Wire",
+        "timestamp": 1787150700
       },
       {
         "title": "NFL 2026 football watch guide: How to watch your team, the best streaming deals, and more - Mashable",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQckdLeUNHVmtoUzM5TFJ3MHpCOGRzV0NxSEM5WFBpZVBuLUl4UG5hQ2NYR3piQzE0aFJGbW9uMDJpYk9ldzlQY2JNbGhKSEk5eTA5UHRJNDRhRTBJQ1pBWlVlZVUwaGlDMm04TXZERUoxV0Izb0Q5ekVSdGJBMENnR1QwQ2dfdw?oc=5",
         "source": "Mashable",
-        "timestamp": 1787148979
+        "timestamp": 1787150000
       },
       {
         "title": "All Outfits and Locations - Assassin's Creed Black Flag Resynced Guide - IGN",
@@ -483,17 +489,120 @@
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSb3ZjWWZWYlJvSGhaMWxWRy1jbzZxcnc1eHZVYmJ4R3VGSTFFT2tfRERhNERZNkxyMmxKV3RDbktqeVpVc2t5TG5ocXJxRVZrdkgzdg?oc=5",
         "source": "Betsy.com.au",
         "timestamp": 1787092043
-      },
-      {
-        "title": "8 Online Casino Sites for Real Money Gambling Ranked (August 2026) - USA Today",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSmVBQ0xPWnJ6QU16TVFJN2lxVG9VaTl0b014TzFWaTBVX01qYWZEU1h1U0luNU9PaWxVcWZxaDBtQkM3b1hOcWJYbDR5MFVCLWQyNWRMU2RoOUVIX2Z0X01vdF9aS3kyX2JvTDJtemJZdnFlVW13WURWR05DakF0R21GMzJDOWVlUkVlV2JBZFBpdw?oc=5",
-        "source": "USA Today",
-        "timestamp": 1787084280
       }
     ],
-    "assets": [],
+    "assets": [
+      {
+        "title": "Latest GTA 6 Gameplay Leak Reveals Weapon Wheel, Taunting NPCs and Return of Fast-Food Joints - Beebom",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMWxsZVM5dWlFMkpZdmZOdi1HdnpQdENxbFNVenUzekRuTlRvMWx4ZlRuYlNsbnNyQWdSME1FN3g1ZTl1WlJGNV9WdVFQQU9lWW93NXJNb25tajFIcFl4ZFEzWHFrb01sOFd1TnNVTWdpY1BTZ2J3dzJROXRGaUY0QmhsUE44ZmZoWTNrY2llcy05WFVhZ3l5SHBJbnRsbUl5U3JBQlJOR3ZvQ2V6M2xxTG130gG3AUFVX3lxTE1hSk96YlZxTGNDZERNUjItSXUwcFIwLWluaVNNcExHQjcydHdYeEFmSnY4ckRLekhMS05NdmUwNVVuSGFqX0RQdzRrNDFqemhxemVWMkprSnZyNVlTaFdsWE1NNUkwM2lxTmVwLVE5czNhMTBOWFpiQnBoYS11Z00zVnB5U0RESzNJLXdhQzI2N1ZPUjlmWWhkVnBDN3U3YTZ4aVVZRzVMcFRYamFoWDVndHItS19RNA?oc=5",
+        "source": "Beebom",
+        "timestamp": 1787163095
+      },
+      {
+        "title": "The Duskbloods Characters/Classes Have Apparently Been Leaked - TwistedVoxel",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKNGE0VnZEOEVldzRTdEZBakllRV9US3Fsd0FBcEJCbTlyYzVqNm80WGl4QUgtMjFhaXFnWkZrY3dIOExtR1FaTFcyRG5vVWRzY1lqdTJTVWNIdy1TSjliWFNWQWRKdnZmVEN6Vml1aW4xaDRs?oc=5",
+        "source": "TwistedVoxel",
+        "timestamp": 1787156633
+      },
+      {
+        "title": "COD Modern Warfare 4 Multiplayer Trailer Breakdown - games.gg",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FZ2RpeWtwelY3M3M3a3oxWWJyNGFEaXRMN2M5SVV2Rk52ZEJ5RWtUMEZ4anpuRlBSTC1uOXM2MzBJOVliOFg1WHFtbjFKZzdNSUpkeURTVVJnV0NlVnZaTmstUFlxSnJHcE9IeUxDWjI?oc=5",
+        "source": "games.gg",
+        "timestamp": 1787152405
+      },
+      {
+        "title": "Fortnite x Cyberpunk 2077 Collab: Male V Skin and Weapons - games.gg",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oQXdnVkZUV2VSdWtLUV9RYW0tZ0toX2xCZE5Ld2tsWlEtUGMza1BKVG1jQ1VJbjBjUjdfSzNNanRwTmU4YzVrNjBGUTZlMGg4SkUxclpkMTNUTUg2WlZ5b3NrODBZS09Od1E?oc=5",
+        "source": "games.gg",
+        "timestamp": 1787150549
+      },
+      {
+        "title": "New GTA VI leak reveals major map details and gameplay mechanics - RBC-Ukraine",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRkE2RmRLR2NINU9sbHp2MlNnbVNEaEZYdjVINU5wbVlqREJXUGlZREZPRl8xT0ZNVjZYbWR0MVQ4WDJhTWJCZFFNLTlwbnh5YWRwR1RFTE91WGJSNWFYREl2M2pHRzBLNEh4aUlEREQ5SWhpVzVQcWlFcWcxdl9uV0ZiZmduSmtKZ3RmZ1RWSGVqMEk?oc=5",
+        "source": "RBC-Ukraine",
+        "timestamp": 1787146813
+      },
+      {
+        "title": "ARC Raiders Has Lost 93% of Its Steam Peak Player Count, Putting More Pressure on October’s Frozen Trail Update - The Game Post",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX2JVUDMzY1dFb09obzl4TS1sQm85ejE1aUVZMkJZb1ZFSGRfaWhqRkFnbXFPWGxDX2QwRmZKVWt1dURyd3Z6ZGRJUld1ZUtlZDEwQWJWby1PNFFHaFA5Tk8xSVlnWERMc3VBaDF1OUJ3SFBiejM3R1lULVlic2hEem5VV1YxSFduR2ltSzJOMU9VZw?oc=5",
+        "source": "The Game Post",
+        "timestamp": 1787140946
+      },
+      {
+        "title": "Free on Steam: New Western shooter launches with 93% positive reviews - Notebookcheck",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSDFpLUJ1M3JFdkRGQk5RYjY2VS1zOHJtS1ZMVU1lLWVIOVFQN2xGY3I0RkNnNW5XbGVzbEpXRlpLdmJBdHRMdjNQdTBtSERILVpYbFRvc2QtYjR0VFlnajBqVF9WMm5qLXFYdU5fZHVvckdJbjMzRk12LW1na0dIMTRsSzdLUnhwb2ljTmxkRXJnY2psR25KOXZBVEZLaV9PUkdXQWpfeXl2TEhZRlQ2NFVn?oc=5",
+        "source": "Notebookcheck",
+        "timestamp": 1787140620
+      },
+      {
+        "title": "All GTA 6 CYBERLEEK Leaks So Far—Map, Honor System & Gameplay Videos - Insider Gaming",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObkZIZE9PNGlYRVFmU1RUdWtwdXFWRUdmem5iZ0tRcUZCM1ZUNnZJNDZtajczdkZjdEJNa1NPZm9ZUE9GNEZVRGNWdnpka1ZqTVVQNWVQRFZXVEJxSDJ4QXBDTXl1Y0hOOVh2RUFPTlBwU2NjTVBJQkx0cTNFb0V4VTlJeGhvaUFyR1ZrRDFYRnVXLTRWZUZnbA?oc=5",
+        "source": "Insider Gaming",
+        "timestamp": 1787140242
+      },
+      {
+        "title": "Nioh 3 Hell Rising DLC is now available with new weapons, difficulty and content - AltChar",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMEIyQmtfR1A3eWh0RDN2Ujc1U2NGWER3S215dzhGZmtSVUxTR0JFWWtpNGVVVHlENFRPZEtmTjZmNzIxVDBxYkhHQXg4R055djNZbUFNQU9BbzUwWDY2WWxXYVUwYkdEdWRLdXRqcmpBc1Rud1B3Q0dSMVZTZVZFWGhXYTM1U0tDSE9od3VDUkZtdEhSaVp2ZUVfN2hoMHFtMWpQTHRkWExFSm16LTFxUnBnTS1ZSlZjcDZBTlVHalJiRVpN?oc=5",
+        "source": "AltChar",
+        "timestamp": 1787128980
+      },
+      {
+        "title": "GTA 6 gameplay leaks ahead of its big reveal, showcasing full map, six-star wanted level, and more - TweakTown",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPc19pQ3o1bklkbE81Wm5iRkQtdjIyOFZLMVNjT25sRGdRWWJ5R0otdmpkaHIzVWo5QlZTeFJMbDI1dTUxS0t0SFdENUNLaFhwdzdMaHpJdTB0MjZ6cW5pLVNwVjhkUjhmU0paa0FuTXJlQi1pTlNaS1JERnZMTEg1WXd1ak9fUDJfeW9wRXgydF9mZEctRUdIUHRxUmlxc3dWY2VMb1g2MlhTOVoxczZMekJqYksyd2QxOWF4YlVHUkRpcjZwLUFMaHNleHhXNjN1Y0FlLWc3OEdCeEpO?oc=5",
+        "source": "TweakTown",
+        "timestamp": 1787115370
+      },
+      {
+        "title": "GTA 6 leak: gameplay clips and the full Leonida map hit the internet days before the Netflix reveal - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNYTJobUN4X091NnN3S1c2c3UtSmtrZkMwb0w5elM3d1ZuZDBKdmFjel9SRkI5MXZQWjFOcW1TTDd1YjFrTmRicHF6NjE3SWdqYk04a0pJMTVhTWJGOHMxd3U3RUJ5ZnZpU0RuOXBJeFRxVjBndFZVeVhodzJXdG5wTkVxT1VsR045QVhrVV9DWjY3aUZLN1hVeHZPd1JUYUE5aUduR050UWozaGJ2Mk5acmhhaXMybmxNZjNWZnA2bmR6OWh1VXNNczVrN09yS2JoWWNqdzZHOWROajYtc0dFU2FtaFJqUGxjbWxDaUl4aG5qVDNRQXhLZ0psOUZUWlNXUGRHRzZERDlRUdIBjwJBVV95cUxNanp5Tl9XZENtS3VvNTRxZzFFcWVRVmRTTEliYU5lV0VpcWdQc1llclJTVFZyRG1rbmp2M2UzX3BUWDRYTXdoOTNqYlNHbW50ZDItYkgzdDRXVjl6NEtlMkZUcHBwRmEtaklOMHJUWVp6LURDYlp0dzRxeDVFNHRkUmhWOFQ0NWt4Q2ZoY1NkWGlwaUVxN0ZjeUd5SnpEN1dGazNLX3laS3NjZXZqRnhCMTdOZjNPRzNkelJJMW85ZExtVlZPazF1REFSRFJrQ1RNdHB2Zi03QzVjTDNoMUoybG40SGMtNzdiSWtXYkRYWGxkWkVkVmh4ekxSMV8xNGZ0VnQzVVdmT2F3QVY2OUxR?oc=5",
+        "source": "The Times of India",
+        "timestamp": 1787114340
+      },
+      {
+        "title": "9 Days Until GTA 6 Netflix Reveal, 'Leak' Occurs... Hacking Group Demands Apology Instead - Inven Global",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQzFwVXBvWFpzTGxHcUpSdzZZRUo4aVVvV3RnZXFZakNoVDkwc182TnpKYjg1N3RKVFdZR3RNNHc4YTNxVnBZRzJGaFE1MzlwcUZsQ3FmM2dZZUZpZU1fSUMtQWJJSVp4dXhwemQtTEFXV3VvcF9Nbk8wZlZIVmZTa3cwWG1WWkdwbTAxZzJvaUtfZHU3MUpMdEFYN1hHdHBrV0FJQ3hqWHBJMXFtOEpBMnNwbFdNV3hCNGpSNWdkQkowZ3Iz?oc=5",
+        "source": "Inven Global",
+        "timestamp": 1787108030
+      },
+      {
+        "title": "Splatoon 3 Ver. 11.3.0 Update Announced For August 19th 2026 - NintendoSoup",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeEdlOXA3R2oyVUg1c2s0WFJ6S0tXc3R4ZTE0QWpxelJWaWNTM0VFM1NDWDc1djBiVUJ6X0F0eTlEdUdGWWxiNlp0NzViMk1UTGU1VDlTQld0a29zZkJGdUFhRkszQVJyYUNWdzZrOHE5b2ZxenhDaFotYWNhazMxV3laUzNqNXpvTzNndGZLV3hjZmPSAZMBQVVfeXFMTXhHZTlwN0dqMlVINXNrNFhSektLV3N0eGUxNEFqcXpSVmljUzNFRTNTQ1g3NXYwYlVCel9BdHk5RHVHRllsYjZadDc1YjJNVExlNVQ5U0JXdGtvc2ZCRnVBYUZLM0FScmFDVnc2azhxOW9mcXp4Q2haLWFjYWszMVd5WlMzajV6b08zZ3RmS1d4Y2Zj?oc=5",
+        "source": "NintendoSoup",
+        "timestamp": 1787093773
+      },
+      {
+        "title": "Latest GTA 6 Leaks Detail Fuel, Wanted Levels, And Deep Vehicle Systems - GameFragger.com",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQc3B3cFRfb1ZHeTd1N1lrY2ROZVp6V1dPLWtOQjNBRVdwMGZLNWhLU0FnTFpQN08zZ3lhckpNMExEcGh1WDZRa3phSS1GZXkzby10cEN1UmthSFpKRHNwWGE0d3diSmdwbG5OSi1Tb3pEc2ctenBQeTJDaEVUZGtSNWhBWk1KZlNHMXpwbnVYV082eThXUFhoQU1qb1RsQS0weTZ1Y2psa1JSRXo2dEpnTi1YYlJPdFJaNFFfOEY2T01TcHZnMDNIY0l1X3NZajdmU084NzFrNmRTNUc0Y2p4MENn?oc=5",
+        "source": "GameFragger.com",
+        "timestamp": 1787087280
+      },
+      {
+        "title": "GTA 6 Gameplay Leaked Ahead Of Its New Trailer, And Rockstar Is Taking Down The Videos - Engadget",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PbFQ0QjZKRzhSRWlVTDNEdzFBeWswTUNNS3ZZOGNDYmR2Rm10cEVZTDJyUTZydEFKWWJCT2JJLXNfYktLQ05RbUpnZWdETVA4WFNFZ0ZUbWlBOTJMOGNNVTBZQ29uSC1DenliaVhrcWUzM1U?oc=5",
+        "source": "Engadget",
+        "timestamp": 1787084994
+      }
+    ],
     "browser": [],
     "streamers": [
+      {
+        "title": "Pixel Arcadia Shares Final Details Ahead Of Aug. 24 Livestream - GameDaily",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsSGR6V1FPeEdqem9aSzl4YkpWMXEzTXNwZ3FFR3pZWlA3dDl6RXZha2wyaUt6LTVwRlpZUnpCcEtqNEFib3c4bHVhTllRZkpra0dLSXVxdGZsRk0xOElBLURBUGlVVWNqZ3RKU0xDSjVVUVk?oc=5",
+        "source": "GameDaily",
+        "timestamp": 1787166900
+      },
+      {
+        "title": "In A Big Year For Avantris Entertainment, Mikey Glider Talks Actual Play, Game Design, And An Even Bigger Future - The Fandomentals",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQS3A5WVh2VTNJRHZGSi1TSXk1Smt2cFhsNjZFMXQ5UkM2X0xsRlFBTC14SHJnNzMzdXZZUVNtYzVGcUhVMU9LZ3k2Y3dHSTZwdjloR3pBUlZLR2swT0UxU0tLN1A1TkhvSkxkbmswS0dudEMydHNPQkNMOFNaU1J2S1NDTzh5ZFhXV0x0TTJ5WlU4QXRzNUtmYjRzcTlxYTJ4SGliU252TmtEN2lnaG52dVlSZjJ0TE1SSWp2RTJWTGNwalQ4UkFmLVhOTk81djBNaDhYYzlQRzNwQQ?oc=5",
+        "source": "The Fandomentals",
+        "timestamp": 1787166209
+      },
+      {
+        "title": "Lacy and Marlon Streaming Marathon | Games Revealed - WIN.GG",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fb1U1WkpRbFlnZ0NoNVFyczRtU0hjRmdfMl9rWENJT3M0QjNTWEN4Vl92aUVrZUJqMV9CVmRQTFJVdWpHaHNNZldoSVBLMmlGbnhQQ1dENlhPTlJUYXg3ZnBUVm9XNXM?oc=5",
+        "source": "WIN.GG",
+        "timestamp": 1787158893
+      },
       {
         "title": "All Call of Duty: Modern Warfare 4 Twitch Drops & How to Get Them - Insider Gaming",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44cFZnSkZTam5FRzd0dGtDb0FsTFRITjZnV1dHR19HcFZYaVVMc1ZJQVFhbDZlQW5Qdkl5cFc0N1RBVHU3MDNHZnZhcHBqN1NBeFhJZDNMYnI2dGZGZ3BVZE1sRThFVTRsYnhTdUlSTXJ2YkRyMlNtRE9R?oc=5",
@@ -513,9 +622,9 @@
         "timestamp": 1787149512
       },
       {
-        "title": "Pixel Arcadia showcase promises \"the biggest night in retro gaming\" - Pixelkin",
+        "title": "Pixel Arcadia showcase promises \"the biggest night in retro gaming\" - pixelkin.org",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd3BMNnZDVmlZY3dMOW81cnE3X1R0Z3FoVkFDZmRXMGpmWUxiaGNGN0gySjF5cVl4OWpGNENMQ1hFYUYwaHpMVzhWclZNdGNmMC1PNldsdFJ2Nmp1QkJZTGtuekdiRjZiUk5fenpUZ3ZsS2xoQ21ENHBuaDhxOHF3VlNGVUFIeDNjTlNzMGp2UFotU0dzQ0ZkMTdqX0g5Y00?oc=5",
-        "source": "Pixelkin",
+        "source": "pixelkin.org",
         "timestamp": 1787149278
       },
       {
@@ -543,34 +652,16 @@
         "timestamp": 1787136015
       },
       {
-        "title": "Streamer calls Netflix support about GTA 6 event and confirms creators' worst fears - UNILAD Tech",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUHFCWXdBcjRmcUQxMXNvbXN0OS04aHZNN0hDRXpiT3QzOWx5SXVxenBrOTQtVWxKcHV6TlBISVJmaGdQWE9VdUNoNm1McWlIdm1BOTY2T1lCbjl0MkhnWm1va2J4enFWVzVmcFNzMnVMY0RwYWJLanZiN3BSQlVfeFh1Sm5Qa3FPamZvTjZRTE9PUmdwTDFXZ0J0a0dacDRZM2xlNg?oc=5",
-        "source": "UNILAD Tech",
-        "timestamp": 1787135721
-      },
-      {
         "title": "Future of TV Briefing: YouTube Shorts gains ad dollars but needs to crack social budgets - Digiday",
         "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNeVJNS0ZJRENjeWZrRFA5QUNMTUpZbHdjMC02WklzcHZZa0swZlJGZ2g0MEFWVHFaRTdGaVE4ZnhfNWhQM2t5dFRzSndIRDFmN2NhTE9NeGs5eW1vNUZJNmY3WVRmQ0dnRWpxNU9tbXh1aU9ldlB3YllDdGFrRmQxZVZBVTE2RWE2UHRyX1ZZU0x1Y1ZTWHQzOG1LS19SRjE2VWxzRVFBTDh1LUlmOUVhX1h0SWhvUzQ5WWRwU2VoZWU4czhUNDBLRmRIdGJHWXJWdVkwZlF4TUdUcmdqekJGSzhKT3Bsd2JocFA3anhkVnhmcC1NRjF5THkxSHpiTjRrZ0MtdEhzQXFTRXpraUNYTA?oc=5",
         "source": "Digiday",
         "timestamp": 1787112169
       },
       {
-        "title": "Gamescom 2026: Everything You Need to Know - marketingtrending.asoworld.com",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZVM4dEtKZDRtZlpSNjdITjliZG1ReTQ5Yll3LVF2SENid1FRN09JWVVQdjBldThOMlQ4NS0xb3JyWmVuU2x0bWI3TGdFeE0tbFVwc1hvNEhmai01MUhwMEctTVlxMkNCTUoxYmVEeVRxZ2FHX2FWaVJKQmFBM0FwV3NQcUxtLWo5cUVNd21CTi00LURRVEZCag?oc=5",
-        "source": "marketingtrending.asoworld.com",
-        "timestamp": 1787109266
-      },
-      {
         "title": "How to Watch Warhammer Skulls 2026 - IGN",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fVXZ1QzlQS29ENURHQmF4djBDMUh1RXVNVXF5eG10cWxOWF9CSGhvSnlVU1d4czIyQjZ5RW5WOURaX1l4NGZPcFpGa2ZycnlMa05hazdyMTVaWTNJY2UwM3ZjVDJaSzVPQlNMYi1KWDk?oc=5",
         "source": "IGN",
         "timestamp": 1787092650
-      },
-      {
-        "title": "Phantom Blade Zero Livestream Flooded with 'No Disc No Buy' Comments - IGN Daily Fix - IGN India",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTVBRYzFLYmZER0UzTVFNblZkeUdVQnNKaWxBQmgtb0lwWGdGWURqQ21xQWVGU1duWmJBcjJmMndFakZQUUcyazF2cTRad1JGWTNBd1BaZHdWSjhBVkRjTk9SWTBIX3VKSkxUaFZJMmVmei1lSDRsbmRieHlBbTNtWTRaV04wUGpjQjdMTlhyVkFOMmdlUGU1YjVSNHlibGZhR0RPa1NGdEk1R2ZUU19kTVhNVURQdS1RM1ZVejh2b1ZCbGM?oc=5",
-        "source": "IGN India",
-        "timestamp": 1787088975
       },
       {
         "title": "Early YouTube Pioneer Felicia Day’s ‘The Guild’ Movie Is About to Break a Kickstarter Record - IMDb",
@@ -587,6 +678,12 @@
     ],
     "mobile": [
       {
+        "title": "Mobile Gaming Partnerships: Spades Plus Has Teamed Up With NBA Star Anthony Edwards - Trend Hunter",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ndnc3YVRDVjB2VXVwblN4X0oxZ3ZCc0VRR0NKc0d5OUlqNThOYXNTVXladjZBYVUyYktKZ2FlUjcyZkNvRklGVXNxZ0dZNmY3bHRpMXh3Y2d2QQ?oc=5",
+        "source": "Trend Hunter",
+        "timestamp": 1787167224
+      },
+      {
         "title": "Social Casino Apps (August 2026): Best Mobile Apps, Features & Top Picks - RotoWire",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbzN3SmIydVREVWN2UHY3S1d1X3pmZ3VZbVFoanZ6MlF0cTk1bURuWTl3ZmxOUXJ2by1iVHEwaVY5QXAtVnlEZGU0VGk5MTRvSk50QXMxSXdlT2tERTdfd3BJeXR4dXlRVXkwd3hsNHJiX3E3S1RkbmtxbWJEeFBFMFZoeU5WbDZMaWhsX0tNTm1XbFpGNTJsYklCbUc0QW5RLXNSQw?oc=5",
         "source": "RotoWire",
@@ -597,12 +694,6 @@
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzX2tQUWJSOWR4NEJDN1h0dEN4RHJkQU1SdHJyX01aWTlCYWg5SGI0VjU0VzF1eVJoa1ZqbTI1dks0RUFUVHVsZXhIcVJSQzlqNFRObWJzZ1FxVS1PR1dVSTlnanV6dFlIVVViNzB3?oc=5",
         "source": "goal.com",
         "timestamp": 1787158295
-      },
-      {
-        "title": "Game Firms Adopt Short-Form Platforms as Youth Shift to AI - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSlVZQUpJY2p4YWI0Yk1sYVBNQ0ZsVXEyRGJocVBRUDlyU2tfS1NwNDhYQkJTVzJ2Y09BTU1ITUFoOGV4elp5a3hzVUxpdEtRaERENGY2V2hmQkt3STVJRXJWejM2OEY5VnAwNG9nNGlZMnNwRG9tbnNLUG5QM1RrVEc0bHFNa0tY?oc=5",
-        "source": "조선일보",
-        "timestamp": 1787154165
       },
       {
         "title": "MMORPG Architect Land of Exiles is headed for a wider PC/mobile launch across SE Asia - Massively Overpowered",
@@ -623,9 +714,9 @@
         "timestamp": 1787149380
       },
       {
-        "title": "Cozy shop sim Discounty now stocking shelves on iOS and Android mobile platforms - Pixelkin",
+        "title": "Cozy shop sim Discounty now stocking shelves on iOS and Android mobile platforms - pixelkin.org",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdVpSZkFOdko2ZWJXaGJyNnhfMXV6NEtrLWpwVFF4bFhZX1R6RVA1Y1ZtODVkRi1pbWtEZDhVRG51ZzM1ZmowcVY4bkhzdHh1WlhRV3NkdUpfbGtKQU5hYkN6M2VRdVZkMG1VTlFYLUpTTG8zd0o3czVqY3Z1OWUzLW83RkZEX0MxdVRhNGtwMHZtVGF6dHJpdDRYZnk2N0U4YmhUX0hiaEhaeHdnWFVGSUN5MA?oc=5",
-        "source": "Pixelkin",
+        "source": "pixelkin.org",
         "timestamp": 1787147778
       },
       {
@@ -679,10 +770,40 @@
     ],
     "all": [
       {
-        "title": "Doug Bowser, Shawn Layden and Peter Moore unite for historic GamesBeat Next gaming legends panel - GamesBeat",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSWZvaUhrWXR4bHNfYWViWXdoVkUwZFVMVzFpbllhWmthcGdPUDZFLVd5OVJrUWxfQmx5RmZCWlhWeExoZTZ5amJPN1E4N3dzOUdSS0xJVDJFaGc5aTZKNWJMZUQ2MTJJR2FMMlNfRGh1WWIyaHkzbEtEWW5MVG95U2RKbnRlLTNubHRSdE53?oc=5",
-        "source": "GamesBeat",
-        "timestamp": 1787162436
+        "title": "Mobile Gaming Partnerships: Spades Plus Has Teamed Up With NBA Star Anthony Edwards - Trend Hunter",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ndnc3YVRDVjB2VXVwblN4X0oxZ3ZCc0VRR0NKc0d5OUlqNThOYXNTVXladjZBYVUyYktKZ2FlUjcyZkNvRklGVXNxZ0dZNmY3bHRpMXh3Y2d2QQ?oc=5",
+        "source": "Trend Hunter",
+        "timestamp": 1787167224
+      },
+      {
+        "title": "Pixel Arcadia Shares Final Details Ahead Of Aug. 24 Livestream - GameDaily",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsSGR6V1FPeEdqem9aSzl4YkpWMXEzTXNwZ3FFR3pZWlA3dDl6RXZha2wyaUt6LTVwRlpZUnpCcEtqNEFib3c4bHVhTllRZkpra0dLSXVxdGZsRk0xOElBLURBUGlVVWNqZ3RKU0xDSjVVUVk?oc=5",
+        "source": "GameDaily",
+        "timestamp": 1787166900
+      },
+      {
+        "title": "In A Big Year For Avantris Entertainment, Mikey Glider Talks Actual Play, Game Design, And An Even Bigger Future - The Fandomentals",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQS3A5WVh2VTNJRHZGSi1TSXk1Smt2cFhsNjZFMXQ5UkM2X0xsRlFBTC14SHJnNzMzdXZZUVNtYzVGcUhVMU9LZ3k2Y3dHSTZwdjloR3pBUlZLR2swT0UxU0tLN1A1TkhvSkxkbmswS0dudEMydHNPQkNMOFNaU1J2S1NDTzh5ZFhXV0x0TTJ5WlU4QXRzNUtmYjRzcTlxYTJ4SGliU252TmtEN2lnaG52dVlSZjJ0TE1SSWp2RTJWTGNwalQ4UkFmLVhOTk81djBNaDhYYzlQRzNwQQ?oc=5",
+        "source": "The Fandomentals",
+        "timestamp": 1787166209
+      },
+      {
+        "title": "When might Fortnite Chapter 7 Season 4 start? Expected time - Sportskeeda",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQWlDNnNzb2J2N2FMbFNaSk5nelRMVkF2REhfeS1hekd1dkdpempTYkZ4MFpJd1ZOOFkzNHc1bmI1ZWU3NzRkSVNYblRRTktJVU9oclhnOGwtQmIxTEZOUWEzc2M0OXBscl9JLU1JNlF5M3ZTNlFUYzRxeVhJRXJSbHdQc3FCSzF0ck92bGtNa3ROZjBnYnF6dlNLOA?oc=5",
+        "source": "Sportskeeda",
+        "timestamp": 1787164920
+      },
+      {
+        "title": "Latest GTA 6 Gameplay Leak Reveals Weapon Wheel, Taunting NPCs and Return of Fast-Food Joints - Beebom",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMWxsZVM5dWlFMkpZdmZOdi1HdnpQdENxbFNVenUzekRuTlRvMWx4ZlRuYlNsbnNyQWdSME1FN3g1ZTl1WlJGNV9WdVFQQU9lWW93NXJNb25tajFIcFl4ZFEzWHFrb01sOFd1TnNVTWdpY1BTZ2J3dzJROXRGaUY0QmhsUE44ZmZoWTNrY2llcy05WFVhZ3l5SHBJbnRsbUl5U3JBQlJOR3ZvQ2V6M2xxTG130gG3AUFVX3lxTE1hSk96YlZxTGNDZERNUjItSXUwcFIwLWluaVNNcExHQjcydHdYeEFmSnY4ckRLekhMS05NdmUwNVVuSGFqX0RQdzRrNDFqemhxemVWMkprSnZyNVlTaFdsWE1NNUkwM2lxTmVwLVE5czNhMTBOWFpiQnBoYS11Z00zVnB5U0RESzNJLXdhQzI2N1ZPUjlmWWhkVnBDN3U3YTZ4aVVZRzVMcFRYamFoWDVndHItS19RNA?oc=5",
+        "source": "Beebom",
+        "timestamp": 1787163095
+      },
+      {
+        "title": "Tom Brady takes shot at Aaron Rodgers and NFL stars avoiding preseason games - bolavip.com",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdkVncVo1MGpKcjF2T25hOEdQdDJpenhCbWV6NHI2cV9BdGJRX29VX3NQMkRIc3hKZVBjbGhkeHFVaDZuRndKUS02OGJVSUFjQVFkZzgweUVXanhsNDBvNlhpQWJteE9TYzVJSU5XT2UxNDFqOUJybTdjT0x2SjhHdDduWEVpX2o0dENsRHNsb092QkdMSEVHQUJHejBaMnJyOEtJV0RB0gGrAUFVX3lxTE9iVzNwRDJpeXNqM0xXaHkyaTF6d1BWaEdqSHZ1N0VVRFh3S3FvbHR3TlY0dWMwVnVqT3pJNjgzNkJma1hfWGUyVkdsbC1fTnNxZjZoX0l0OHR0R19tdjJyMFFadnVsZ3g1Rkt5VUxhRF9qOTBMeklFSno2b20tYzgyZ3pNZmNQWlNxblUyZGNybmJwRTFpdV8yY2ppb3VEU1YteXY4RFFvaVNIQQ?oc=5",
+        "source": "bolavip.com",
+        "timestamp": 1787162768
       },
       {
         "title": "EA employees brace for the worst under Saudi ownership: 'Hard to feel good about being bought out by a regime that's very much at odds with progressive society' - PC Gamer",
@@ -691,9 +812,21 @@
         "timestamp": 1787162306
       },
       {
-        "title": "NEXT and Modern Warfare 4: Early Intel, PC Specs, Pre-loading, and More - callofduty.com",
+        "title": "Free Fire Redeem Codes (Valid Today, Updated Daily) - Free Fire Mania",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55djlicVZJMjhtUWlYR0lPSE5RWnU2bVR6OGl0Rm5PenNINmUwR2N0d0c3VDM3dWpUeDF6ckd0dHZlMmtCUDlCVTVoRmFvd1VPb0xUcjR3RVB2bTg5dXlhcE1YWDdZWm92dnJlME5wV01wUQ?oc=5",
+        "source": "Free Fire Mania",
+        "timestamp": 1787162203
+      },
+      {
+        "title": "What were your Pokemon blunders as a kid?",
+        "link": "https://www.reddit.com/r/gaming/comments/1vstuw1/what_were_your_pokemon_blunders_as_a_kid/",
+        "source": "Reddit",
+        "timestamp": 1787162134
+      },
+      {
+        "title": "NEXT and Modern Warfare 4: Early Intel, PC Specs, Pre-loading, and More - Call of Duty® | Best-Selling Video Game Franchise",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSXFsZXFGaTFPYzBIZHF1VktKczI1VXlKZWIxaTNOSFhUV29na3VIZmVhWmdPY3dLV2tLYmszcy1JVHBWRmptZ0ZTbV9HSUVWd1IzQ2VnODN5TXB4X0RwQmYzVnBpSUJsT2YwamlIbWVpOHB0b2RubzhOeFdibmw2UGw1amh0WXpuSUdQc1ptUldDcS1UX2w0SnZESQ?oc=5",
-        "source": "callofduty.com",
+        "source": "Call of Duty® | Best-Selling Video Game Franchise",
         "timestamp": 1787161050
       },
       {
@@ -709,6 +842,12 @@
         "timestamp": 1787160816
       },
       {
+        "title": "10 Best free online slots to play for fun in August 2026 - Detroit Free Press",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUzRBRXlranpqV2p3YTh1YnJEMzRlbTdwaGxOMWE1WEtGY3hZRFBNRU5UT3dlY2k4OGZCWkVkMDN5SUl1a0pTeFRrVTR0VzNScUsxakEwV1VMWFJ5a2FBNFZ4RjVtcW1EWHA0cWlYMGhrNEJsNnRmY3V5U2dZdWlteXFLOGl3ak1JSjhxaTk3dzlqdGpMMUEwVldMam5OZw?oc=5",
+        "source": "Detroit Free Press",
+        "timestamp": 1787159700
+      },
+      {
         "title": "Social Casino Apps (August 2026): Best Mobile Apps, Features & Top Picks - RotoWire",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbzN3SmIydVREVWN2UHY3S1d1X3pmZ3VZbVFoanZ6MlF0cTk1bURuWTl3ZmxOUXJ2by1iVHEwaVY5QXAtVnlEZGU0VGk5MTRvSk50QXMxSXdlT2tERTdfd3BJeXR4dXlRVXkwd3hsNHJiX3E3S1RkbmtxbWJEeFBFMFZoeU5WbDZMaWhsX0tNTm1XbFpGNTJsYklCbUc0QW5RLXNSQw?oc=5",
         "source": "RotoWire",
@@ -721,10 +860,22 @@
         "timestamp": 1787158906
       },
       {
+        "title": "Lacy and Marlon Streaming Marathon | Games Revealed - WIN.GG",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fb1U1WkpRbFlnZ0NoNVFyczRtU0hjRmdfMl9rWENJT3M0QjNTWEN4Vl92aUVrZUJqMV9CVmRQTFJVdWpHaHNNZldoSVBLMmlGbnhQQ1dENlhPTlJUYXg3ZnBUVm9XNXM?oc=5",
+        "source": "WIN.GG",
+        "timestamp": 1787158893
+      },
+      {
         "title": "All Call of Duty: Modern Warfare 4 Twitch Drops & How to Get Them - Insider Gaming",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44cFZnSkZTam5FRzd0dGtDb0FsTFRITjZnV1dHR19HcFZYaVVMc1ZJQVFhbDZlQW5Qdkl5cFc0N1RBVHU3MDNHZnZhcHBqN1NBeFhJZDNMYnI2dGZGZ3BVZE1sRThFVTRsYnhTdUlSTXJ2YkRyMlNtRE9R?oc=5",
         "source": "Insider Gaming",
         "timestamp": 1787158800
+      },
+      {
+        "title": "The New Guys will help game studios identify and reduce audience risks before launch - GamesBeat",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMnJaM051VWEtQTVTM1I1OENWbnBNb25USElhV1NqejY0eU9lM3Y0UlVqUERONXo0c2hEU19PbkpmOWJCREM2d252bUlqUkZVMUV0VHJNTURIS1FKMTJJV0hPa0gxSkxkWmx2NlpCWElVRlFDczA1ZHZualAzVGFabWtKbFZfdmZkSjZhMWxEWG1PY2lXa1oxWk5KeEF4czg2SDZ5M0ZIYVJOcG8?oc=5",
+        "source": "GamesBeat",
+        "timestamp": 1787158793
       },
       {
         "title": "1xBet App Download and Installation Guide for Android & iOS Users 2026 - goal.com",
@@ -763,6 +914,12 @@
         "timestamp": 1787156700
       },
       {
+        "title": "The Duskbloods Characters/Classes Have Apparently Been Leaked - TwistedVoxel",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKNGE0VnZEOEVldzRTdEZBakllRV9US3Fsd0FBcEJCbTlyYzVqNm80WGl4QUgtMjFhaXFnWkZrY3dIOExtR1FaTFcyRG5vVWRzY1lqdTJTVWNIdy1TSjliWFNWQWRKdnZmVEN6Vml1aW4xaDRs?oc=5",
+        "source": "TwistedVoxel",
+        "timestamp": 1787156633
+      },
+      {
         "title": "GTA 6 Gameplay, Full Map Leaked by Hacker Protesting Digital Pre-Orders - iPhone in Canada",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeUw3SGdtMW56UkNQOHNwU0o0TlFaR3gxM1ZzakU1cnBNcVZGLVpxeHpXRHh1OUJLc2RoNU04Q2tTbGRqblBCS05WMUpmdlFxS0tuOVlxam56RU9FbWNMRXBoWEp0ZktlbHotZmJudWFON29Gcm04NTFsd09LM3Z6ZWwyMkhjMFk5QVQ2cEVwcTV1ZmxBT1RZay1RQ1dmaXNFc0l2ZUNEUFdFYm9KQVUyQTNn?oc=5",
         "source": "iPhone in Canada",
@@ -787,28 +944,10 @@
         "timestamp": 1787155411
       },
       {
-        "title": "Best FPL defenders + midfielders for DefCon: The ultimate guide - fantasyfootballscout.co.uk",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWll2U29wVFB6QlJWNWkzMWYwSzJzWG1KRXg2RzgzNVJ6ZVhNVW9YajNxMm9Ha0dVNnBnQjJheXhkQWRoc014ZHhhNmZhaXB2UnhodVU2OXVaT2RhdVBpZTlsbnE1WHM4NXBWc1l6cmZRZjZfb1lEMU5lRVZ6X3B6b0ZvbXpUMFpVemliZ2FvUzJUWjdJWVY5b1dWTHJ6cFRGU1pQc0FRZGRhd1RtZzNj?oc=5",
-        "source": "fantasyfootballscout.co.uk",
-        "timestamp": 1787154455
-      },
-      {
         "title": "Twitch's CPO Admits No One Wants Its AI Training Feature: “If It Was Opt-In, Nobody Would Opt-In” - Gadget Review",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbkNiRFZscWJLTVFyS1BKVnlLdjNpdUhXN3FMYzR5RU5Gc1ZxM3FVZHU2TGVScFVxVU1OQ3BDZVFtOTdLYWpVZ2lkQkNVbXdvdmM5X3NfWU5Xc2NMX3ZuRlZfeXp0M0ZtdGdUQWJ6UlFsWV9BU2lTSTlyaHFCWFNTa3ZsRFQ5N0ZkRXNWRk5Bb0E2TDVyVy14ZEFZaVdaeWp5bzRzVTFfWFJqM21NRzJDYlpwM2xBZDhSeFE4Q1BB?oc=5",
         "source": "Gadget Review",
         "timestamp": 1787154337
-      },
-      {
-        "title": "Game Firms Adopt Short-Form Platforms as Youth Shift to AI - 조선일보",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSlVZQUpJY2p4YWI0Yk1sYVBNQ0ZsVXEyRGJocVBRUDlyU2tfS1NwNDhYQkJTVzJ2Y09BTU1ITUFoOGV4elp5a3hzVUxpdEtRaERENGY2V2hmQkt3STVJRXJWejM2OEY5VnAwNG9nNGlZMnNwRG9tbnNLUG5QM1RrVEc0bHFNa0tY?oc=5",
-        "source": "조선일보",
-        "timestamp": 1787154165
-      },
-      {
-        "title": "The New Guys will help game studios identify and reduce audience risks before launch - GamesBeat",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMnJaM051VWEtQTVTM1I1OENWbnBNb25USElhV1NqejY0eU9lM3Y0UlVqUERONXo0c2hEU19PbkpmOWJCREM2d252bUlqUkZVMUV0VHJNTURIS1FKMTJJV0hPa0gxSkxkWmx2NlpCWElVRlFDczA1ZHZualAzVGFabWtKbFZfdmZkSjZhMWxEWG1PY2lXa1oxWk5KeEF4czg2SDZ5M0ZIYVJOcG8?oc=5",
-        "source": "GamesBeat",
-        "timestamp": 1787153453
       },
       {
         "title": "MMORPG Architect Land of Exiles is headed for a wider PC/mobile launch across SE Asia - Massively Overpowered",
@@ -829,6 +968,12 @@
         "timestamp": 1787152712
       },
       {
+        "title": "COD Modern Warfare 4 Multiplayer Trailer Breakdown - games.gg",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FZ2RpeWtwelY3M3M3a3oxWWJyNGFEaXRMN2M5SVV2Rk52ZEJ5RWtUMEZ4anpuRlBSTC1uOXM2MzBJOVliOFg1WHFtbjFKZzdNSUpkeURTVVJnV0NlVnZaTmstUFlxSnJHcE9IeUxDWjI?oc=5",
+        "source": "games.gg",
+        "timestamp": 1787152405
+      },
+      {
         "title": "Triple-A vets and accessibility experts launch new game dev co-op: Raze and Rebuild Studio - Game Developer",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTkdjUmo1aVphQUF5LTlZR1pRSWRya1JkR1BWQmw3Q19CbTlqTS1lOVV0N2VyaFczQkt2cUhUNG90akVWZW9BX3lKa1FhVHZhQTRYQmxOMTVLRTlMenQ1WFZILS0xWkxuZldZXzBaVzktZU5PeHY2cF9JX1U0VVpxbnhjRzJsZTd2ZUdWdFpKYnVubkxRa2xxT01tUnlKckR4dDdEQ19tdVIyYzNiYW5IM3ZKQXlFcVNaaE0wLThIX3lORDdtNzVz?oc=5",
         "source": "Game Developer",
@@ -839,6 +984,24 @@
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZFNBeHZKeFcyU3NIOTdoMDVrYjRnVWxfOWp3UHRPVXpjWVBCR21EZ1A0V0ZVZEtTZEp4UVo1ZlE2Umg2ZWtFdU8zaGl6U2VWR3pzemozbE45U1pYMlBIU2cyc04wbnpQZUVwU3hPWXlTTjVZdi12R1lRRkcyMGItM0xrNndlYkFFY2JOMzRBSlhzTFJFSzg4ejA5QWEyZlV4R0dENVRyM3ZQdldPMUJzVVotVDIxZ3NrQnByWE9KRmNmNEwyN2h0RVd4cmdkbzRsdlJJelNMQ1rSAdgBQVVfeXFMTWRTQXh2SnhXMlNzSDk3aDA1a2I0Z1VsXzlqd1B0T1V6Y1lQQkdtRGdQNFdGVWRLU2RKeFFaNWZRNlJoNmVrRXVPM2hpelNlVkd6c3pqM2xOOVNaWDJQSFNnMnNOMG56UGVFcFN4T1l5U041WXYtdkdZUUZHMjBiLTNMazZ3ZWJBRWNiTjM0QUpYc0xSRUs4OHowOUFhMmZVeEdHRDVUcjN2UHZXTzFCc1VaLVQyMWdza0JwclhPSkZjZjRMMjdodEVXeHJnZG80bHZSSXpTTENa?oc=5",
         "source": "LatestLY",
         "timestamp": 1787151978
+      },
+      {
+        "title": "7 Best Casino Apps in the USA for August 2026 - List Wire",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZjNLRVJLRHh0QXMzZFU0ZmRkX2I2b3RtT3QtRGM3NUJkNjAtODFmdTJPcmRvUXBUNUwyTldhNHRXenByR0kzMjlXYnN2WDZ1OVpIQm5hblYwU2dYTWp5dUVHSFZQR2JRWUxCSThyeWUxZEhqQmZZQjJTaHR5OU1kWTZjU3dXOXJtM1NnUVNyRWdMMVhNVjNMUUlvRDVvaXRDOXVUSg?oc=5",
+        "source": "List Wire",
+        "timestamp": 1787150700
+      },
+      {
+        "title": "Fortnite x Cyberpunk 2077 Collab: Male V Skin and Weapons - games.gg",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oQXdnVkZUV2VSdWtLUV9RYW0tZ0toX2xCZE5Ld2tsWlEtUGMza1BKVG1jQ1VJbjBjUjdfSzNNanRwTmU4YzVrNjBGUTZlMGg4SkUxclpkMTNUTUg2WlZ5b3NrODBZS09Od1E?oc=5",
+        "source": "games.gg",
+        "timestamp": 1787150549
+      },
+      {
+        "title": "NFL 2026 football watch guide: How to watch your team, the best streaming deals, and more - Mashable",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQckdLeUNHVmtoUzM5TFJ3MHpCOGRzV0NxSEM5WFBpZVBuLUl4UG5hQ2NYR3piQzE0aFJGbW9uMDJpYk9ldzlQY2JNbGhKSEk5eTA5UHRJNDRhRTBJQ1pBWlVlZVUwaGlDMm04TXZERUoxV0Izb0Q5ekVSdGJBMENnR1QwQ2dfdw?oc=5",
+        "source": "Mashable",
+        "timestamp": 1787150000
       },
       {
         "title": "Xbox @ Gamescom will Air Aug 26th & 27th",
@@ -865,16 +1028,10 @@
         "timestamp": 1787149380
       },
       {
-        "title": "Pixel Arcadia showcase promises \"the biggest night in retro gaming\" - Pixelkin",
+        "title": "Pixel Arcadia showcase promises \"the biggest night in retro gaming\" - pixelkin.org",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd3BMNnZDVmlZY3dMOW81cnE3X1R0Z3FoVkFDZmRXMGpmWUxiaGNGN0gySjF5cVl4OWpGNENMQ1hFYUYwaHpMVzhWclZNdGNmMC1PNldsdFJ2Nmp1QkJZTGtuekdiRjZiUk5fenpUZ3ZsS2xoQ21ENHBuaDhxOHF3VlNGVUFIeDNjTlNzMGp2UFotU0dzQ0ZkMTdqX0g5Y00?oc=5",
-        "source": "Pixelkin",
+        "source": "pixelkin.org",
         "timestamp": 1787149278
-      },
-      {
-        "title": "NFL 2026 football watch guide: How to watch your team, the best streaming deals, and more - Mashable",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQckdLeUNHVmtoUzM5TFJ3MHpCOGRzV0NxSEM5WFBpZVBuLUl4UG5hQ2NYR3piQzE0aFJGbW9uMDJpYk9ldzlQY2JNbGhKSEk5eTA5UHRJNDRhRTBJQ1pBWlVlZVUwaGlDMm04TXZERUoxV0Izb0Q5ekVSdGJBMENnR1QwQ2dfdw?oc=5",
-        "source": "Mashable",
-        "timestamp": 1787148979
       },
       {
         "title": "Naruto x Boruto Ultimate Ninja Storm Connections 1.70 update announced, patch notes - new character Uchiha Nanashi and more - Nintendo Everything",
@@ -895,9 +1052,9 @@
         "timestamp": 1787147800
       },
       {
-        "title": "Cozy shop sim Discounty now stocking shelves on iOS and Android mobile platforms - Pixelkin",
+        "title": "Cozy shop sim Discounty now stocking shelves on iOS and Android mobile platforms - pixelkin.org",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdVpSZkFOdko2ZWJXaGJyNnhfMXV6NEtrLWpwVFF4bFhZX1R6RVA1Y1ZtODVkRi1pbWtEZDhVRG51ZzM1ZmowcVY4bkhzdHh1WlhRV3NkdUpfbGtKQU5hYkN6M2VRdVZkMG1VTlFYLUpTTG8zd0o3czVqY3Z1OWUzLW83RkZEX0MxdVRhNGtwMHZtVGF6dHJpdDRYZnk2N0U4YmhUX0hiaEhaeHdnWFVGSUN5MA?oc=5",
-        "source": "Pixelkin",
+        "source": "pixelkin.org",
         "timestamp": 1787147778
       },
       {
@@ -911,72 +1068,6 @@
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUy15ZjZlSHQyVHpxZjBGbUlxU0JtVEJKYVR0OTdkN0RoRDBPUW1RSS1lVllKaldjTzdqbEhDSTM5S1o4ZTRqZVByRVYwMFVnWHNIY2dId3Ywa2ZpOExYdnZ2WWoyYVd3R3ZzRHlzSE53UzlXSDRtMGpGbTZ4WjFoUWxma2RCMjZvSVJVMm9Sazl3d05fOGNyY3A2WVVZak1idFE?oc=5",
         "source": "Pocket Gamer.biz",
         "timestamp": 1787146980
-      },
-      {
-        "title": "XSOLLA INTRODUCES INTEGRATED BACKEND AND GLOBAL PAYMENT SOLUTIONS FOR GAMES, WITH FOUNDING PARTNER ACCELBYTE - Games Press",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYlhkUFJVakd1TEpQeGg4TXhfRm9ZQWhLRlhlaFZxcWZDQVhoOV84X1hWU1lpU1dGYkJ2elVIaC1PYVJxZHZJdnhtcGJ3V0xFZXlPUFN3eE5pOXhHS3hxZWlWTlMzU2JSMzgxdUZhLXF1ejdpUk9DRzhjdk1RdFpIeU1WV2tXOTdYZWt6SXo2Mkh4cV9sZUYybjlfS0J5a1dJNUYzd3Nn?oc=5",
-        "source": "Games Press",
-        "timestamp": 1787146933
-      },
-      {
-        "title": "Someone ported this classic Xbox 360 game to Android, and it runs on budget devices - Android Authority",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQakQ1SXB1bGRUMDE5VXJRQnZNQ3FQSWVTa2kzdHdHbHpxd1U5RWhlRC1DUFloRGFaa2RXVmZOdS1HRE5mTUp1RV9YenY0N0lRcGNjeXI2TXV6NnRpZmtQYmdNeGc3bENkRElBVzJjQVdrd2hCeVlFUmZYYmVaWWNTZ0FZQmJydXVramFtbk0xcE1Tdw?oc=5",
-        "source": "Android Authority",
-        "timestamp": 1787146620
-      },
-      {
-        "title": "All Outfits and Locations - Assassin's Creed Black Flag Resynced Guide - IGN",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVVEtU3lfQXVqN2xETE1sY0t6ZGVqcm5Zbm00UUU0VlkzYjdaU3dtVlN4bUZ5ZnU5Tk9DNnNpd0otQ1BxQTBzRHpvajVlQXcydFduUlBnM0preGRMY0FmQWZNUElWMXFzX0Vkc2V4S3BkRHVUUzNoLUpnS01SSDVJU3JsU2x2NWJNd2Y0UUJwUno?oc=5",
-        "source": "IGN",
-        "timestamp": 1787146064
-      },
-      {
-        "title": "Supermarket Simulator Discounty with all updates released on iOS and Android - ixbt.games",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPalpQVU1sc3V5OGRYaml4UkpvYmMtR1Y2aUVvb1pKOFQ2S3oteGtQM3ZPTDctazBHbGMxWDJpYlZRTkhnS1FmSEFSZXdUVndEVDFmNUNKNmI4U0RkcUw3LUJnX3BIRmdwS2RpdENMMC1ocFNzVnJFZmVRemY4WldnR2JMUWs5MEpsM2huYjdabHBhWXZWek5CNF8tVDN0aE9SRnp2Tl9OUENxQ1l2czB6dlhlUWxjUFdEQjR4Qi1Vc0ZhSEFWbjBNONIBzgFBVV95cUxOZFFCMmdyUHFXSXNUSkZCNEZOcl9XZnFEbW92M1BLa0tZMTY2aEZEOWxGLVlFMHJGYjRSeHNfUUZjNG05cl9Xd2hTM3ZYVmQ0ZHEtUW5kdEhrVGdQMWdIc2lxMFRTNzdEUUlFQ1hUOVVTVVNmU3hmMGFjZkJIeE0zbjhYcWFjQi04UXBUTFFRcVRaeEhtTWpsbEJoZWFBQUp5SlRrbWEyZEFtVGxCck12SnllbVc2N092LU1RaEF5OXRzLWJRR1F6TUV3NENSQQ?oc=5",
-        "source": "ixbt.games",
-        "timestamp": 1787145709
-      },
-      {
-        "title": "Arkane veterans Harvey Smith and Ben Horne reunite: “We’re back to the games we love” - The Game Business",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1RcERDYnNBb3pJeHZDcWppZGZOblZvQ1JadVNQVjB3RDlkZndtM2otcDI5eWYzTGRuczFMTGlKRGZPU1U5TEx4anJmalVvSE83VHdBN19PN0N2X1M2TUVWR1R2NVpxaV80VHM0TGtLVVJtNWJC?oc=5",
-        "source": "The Game Business",
-        "timestamp": 1787144471
-      },
-      {
-        "title": "FPS Games Are Finally Getting a Dedicated Showcase, and It's Massive - Polygon.com",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rYUJoblJ1QWhuQmJkMHVsWUFWQmRIajVaMHNadDdnOU9TTk9RSXh2MktfSDZxdkhjNTl0Vy0wLWtSM25xN0cyMkN1X0owbndsVFlFUGo1c0hOLW9IY2syYVV2V2dNRVMyXzFnX3VsMA?oc=5",
-        "source": "Polygon.com",
-        "timestamp": 1787144414
-      },
-      {
-        "title": "Wild! Mattel Sets UNO Card-Game Competition Series to Stream on Twitch - The Hollywood Reporter",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWS10ZzVra2hnLXNBVzI1UDZ1TW53QWV4MDc4b0Z3NF9LU2VHTUhNTTNDbmRXRTdIc0tFakEya0FnZWFMdXVyb01JaHR6dk1QdjJTU29rRmhvbF9RMnZ6NW1YQkVNRmY1Z2lFMWF2Q2kyRW5NWjhIcjNLOS1UaURfMTBocDhWeW0ySUtjMDF0UmVUNWREUHY4Q1VpRW1aa3dQU3NuQlRmQ2JwaGcwSHB3?oc=5",
-        "source": "The Hollywood Reporter",
-        "timestamp": 1787144410
-      },
-      {
-        "title": "August Update: New Video Settings, Free Armor Styles, and More - Halo Waypoint",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9BZ3NVRV9EcE5vaWc0NldURXhrd1EtN2dmNEY4WFRiT01zdkhqTnkwdk5rcjdST3pXSVlqdGw3akIzMl9HeFNla3lkR3RrVXZKUHhzajdLODVQcENRYnV5VU1yM0tERmlURjZDNTFsQWVYUQ?oc=5",
-        "source": "Halo Waypoint",
-        "timestamp": 1787144294
-      },
-      {
-        "title": "PlayStation Reboots ‘Horizon Hunters Gathering’ as Live-Service Strategy Struggles",
-        "link": "https://www.reddit.com/r/gaming/comments/1vsl1jb/playstation_reboots_horizon_hunters_gathering_as/",
-        "source": "Reddit",
-        "timestamp": 1787142522
-      },
-      {
-        "title": "Bethesda Dev Says Cuts Were Rare Before Xbox Took Over: “All Of A Sudden We Have Yearly Layoffs”",
-        "link": "https://www.reddit.com/r/gaming/comments/1vskm5n/bethesda_dev_says_cuts_were_rare_before_xbox_took/",
-        "source": "Reddit",
-        "timestamp": 1787141357
-      },
-      {
-        "title": "BC.Game Payment Methods India 2026: UPI, Crypto Deposit & Withdrawal Guide - ToffeeWeb",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oVzV1TS03a1pOUGlhZWlqQXB4NVV0ODl4WEFfZGRWMXNhanVqR2JNNlg3blB2WUlLa18wWk5PZnJmdWUwT0FzZkxhS1VucGx6ZWhHNkVOWXprUTQ2bWJ2bXZheEo?oc=5",
-        "source": "ToffeeWeb",
-        "timestamp": 1787139904
       }
     ]
   }
