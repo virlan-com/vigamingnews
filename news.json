@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21T07:06:29Z",
+  "last_updated": "2026-08-21T07:56:46Z",
   "data": {
     "top_stories": [
       {
@@ -45,12 +45,6 @@
         "timestamp": 1787253548
       },
       {
-        "title": "Virginia Casino Revenue Set for Growth With Norfolk Resort - Casino.org",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS3Vtc1VpN3B4dWdHRnotanNxdk9PdDR5clUwV0w5UnFGTmVmcjROTlU1NE9tUFlpSWNsSFZKd2RDdDNhUzJuNTRFZ0xrdFM3LXRBcUQ3SXJLMDNoaTZCbElZelg3ZnJGU290NWFwREpUYktFZ1Q4ckhOMnlmMklsa3BnU0NadndFcksyMXE3cUEyb3NJREVXTXIyRG9wZw?oc=5",
-        "source": "Casino.org",
-        "timestamp": 1787250340
-      },
-      {
         "title": "Xsolla and GDC Festival of Gaming Extend Global Partnership in San Francisco for March 2027 - Business Wire",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPX3ZXdUt6cjZQODdRcU1OM1h4UEpZRUVDR1pscGZVZ1ZLOXdpdk5KTjNBa2ltRmFYWjhLUTY3SW91c3h3cm1lMTlXWGVCNVNMa1UtMWduNU9OcjhyZ2huT3pfTnk1Q09kc2dEeW9wVUZmTWdUc1EyMW5QcmM2T3daQ1ZrMjlPTWxzNWgyU3AxY3RfOUg3SWJ1U19ydmY2Y3lnOVZVVVRnR0NodTNzVkJDRzdRZVNqdDRGa0FpVTRqVmZudkk5TWJUNEJsc1ZoMzVkaW0xSFRwTEg1VjF0X1MzczJn?oc=5",
         "source": "Business Wire",
@@ -85,6 +79,12 @@
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObFFIV2RNMktTZXo3aURJYkJyblBKeFllTFB2dGhUdFBQNE9CaHh2OXd2ekFQYnU4VG5rN09Mb3FBRTQyZkVJWTU3dzNnUnd3Z0pHWHlwMFN2a0ZneTNXbjhZU3ZERUxGOFdHV2hOeUVtdDR2UzhrYVd1SGw5Y0tHRU1HLXVtOExlM01DaExNUS1MZ2JzRGZyelVVbXFfRzNq?oc=5",
         "source": "mcv/develop",
         "timestamp": 1787232673
+      },
+      {
+        "title": "Nobody’s Buying New Physical Games On Xbox In The U.S. - Kotaku",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVEh6NlFGN1dtdEVTVzlSdjh0OGRNYzQ0bUVXaWJNb1dSd2F1R2Z1LS1QUWd4UDVka1hIVk5tX2M3ZkdkMVJ5bXk1N0xidDVYMlNoWkNyR0N2M0I1dkZsY291bWtJdnJKSFhrOWRZMzdnZWNPYUZrT0NqcjBVOWxhODZOWVlrbGFoUlE?oc=5",
+        "source": "Kotaku",
+        "timestamp": 1787230844
       },
       {
         "title": "Former Arkane vets' new studio isn't going to try 'trend chasing', and in hindsight, thank God - PC Gamer",
@@ -217,15 +217,21 @@
     ],
     "updates": [
       {
+        "title": "Terraria 1.4.5.7 Update: New Content and Changes - GameLuster",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTcVhjQXhfeW9sTXhQdTJ6SzJYTlRKWHZaM21FWWwwOEJvV3djc00zcFM0OGplVXhJM1I4Ukc4QVIyMmVRNzIxUDRINlQtSkswT0FKS1VXUUpzakdrajJtTFhR?oc=5",
+        "source": "GameLuster",
+        "timestamp": 1787294261
+      },
+      {
         "title": "EA College Football 27 Patch Notes: New Update Addresses Key Gameplay Issue and Dynasty - Athlon Sports",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ2xBM0hrNm9fN3FCNXJrT3RsU3dqMEhTWl9rV3BuWllEM05lNW1QZ3puak9DSExGbWZwcWVUNmpCWnZnclg1ckpKR1R1NmVWQThXOG5JelFwajV1SkNQTUZuSzA4OXR0ZTVDdERSdUozTGt4dHNPOGkyUEFneDRJMXdfazJZWnJVTC05TjJ3?oc=5",
         "source": "Athlon Sports",
         "timestamp": 1787270580
       },
       {
-        "title": "2XKO Active Development Will End in December 2026 - Riot Games",
+        "title": "2XKO Active Development Will End in December 2026 - riotgames.com",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM0NoejhhUHhhcVUwcTc3MFE3cE5Id1QxbmxqM3FnX1J1d3dMUWFPNHExQV9kQmcybl9TOE1uc1pxZ0R1ckpJM3dHUlJ4N0VtVElpcERrOXpmZU1TNHNQNEJCam03TVpoWXl1OG84ZG5fcXdBQzQwSzJtU241cnVLN2ZB?oc=5",
-        "source": "Riot Games",
+        "source": "riotgames.com",
         "timestamp": 1787252817
       },
       {
@@ -257,12 +263,6 @@
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1RSUpLRmpPSjZYdG9LRjZYMUhWQTN0LUpSNDVKSXhsVDA3UlFQY3NOaUludlN6cE5ZZWdzYkI1SllWTUFXSWx0eXdPRlpUTG1hZmdfb1lQeDBkQjlQM20wdjB3?oc=5",
         "source": "Hell Let Loose Website",
         "timestamp": 1787243503
-      },
-      {
-        "title": "Skyrim Update 1.001.011 Released on Consoles to Add Mod Storage Limits - MP1st",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb2JpV3BVQmQxblMyOXFySk0yV1d1QThOTWtDR1ktQzlYUnZQY0ZNUXNOZ2xqcW5pZndnTmpQeWNKZktvdmthNHZ6U1VpSS1RUFVpX3JPZGNTWmMxOTc1VU5rd1lfRi1vLWtZVW5MWURWaTBnbmh3WnhZMjY5bkhjdnRwXzdyVGl3UllWSWcyMzFyWDZYWldTYlBqQjVLQmdicHU0NjZ3WkpNNmtL?oc=5",
-        "source": "MP1st",
-        "timestamp": 1787240528
       },
       {
         "title": "DOOM – Update #1 Now Available - Bethesda.net",
@@ -339,9 +339,9 @@
         "timestamp": 1787255635
       },
       {
-        "title": "2XKO Active Development Will End in December 2026 - Riot Games",
+        "title": "2XKO Active Development Will End in December 2026 - riotgames.com",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM0NoejhhUHhhcVUwcTc3MFE3cE5Id1QxbmxqM3FnX1J1d3dMUWFPNHExQV9kQmcybl9TOE1uc1pxZ0R1ckpJM3dHUlJ4N0VtVElpcERrOXpmZU1TNHNQNEJCam03TVpoWXl1OG84ZG5fcXdBQzQwSzJtU241cnVLN2ZB?oc=5",
-        "source": "Riot Games",
+        "source": "riotgames.com",
         "timestamp": 1787252817
       },
       {
@@ -355,6 +355,12 @@
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVUMybXZCdG93anVFRWZZdGhOV3ZDckw2OFJZdVF4MXJnOXd0NXVBTlJkQXRrQ0ZjeU93RDNwWnMwXzNqVFo3aUR2NW5wSWM0YUNaeDRZX1hXOHBPYnVDYU9IR1NsekJ0N1IzSDZlZENVOTBxaXFudGpqUllqZEdZUmVkNTNFeVZ1X0cwd2dvNi1DTHduWUlZV0hB0gGfAUFVX3lxTFBCSVlyZnlXZHVYV2NBbnV5cWZIeGFJU2lqaU5GSmtsb1NGckh6R2x6V2ZMOHVGZktCdlRETUo2ekdfV0pmNDVudURPbmNkX1FWNi1WNGVpNGljOFZrY2V2ckwtT1hQcThFYm5EeEFJM0Q5VWhsbjdqVWEtUE5JaWVsSnUydFZ3N0JNbktOSXlyNUVxbXF3Y1NfTmIxc3I5WQ?oc=5",
         "source": "TechPowerUp",
         "timestamp": 1787240592
+      },
+      {
+        "title": "Fortnite Matchmaking Error #1: How to Fix it - Windows Report",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1rZjZST09zamZpMlF1MEV4eFhBQjZYSGt5MGhySGV3SHc5eUc2Q1JiYVlkYXZoU01PSmVVZzdGdEI4UUZIR1FzTHNZT0ZtRTFqMW5xaXJmeU0zS0JILW8zeVNvUVdQdw?oc=5",
+        "source": "Windows Report",
+        "timestamp": 1787237989
       },
       {
         "title": "Roblox Game Codes [August 20, 2026] - Sportskeeda",
@@ -391,12 +397,6 @@
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GY2VCcWxmbFFTaFRtcXZxbk9QU0dXdGVoc19sM0pCV0tBVnlDalFlN3h4SXVXQnNlM1dYT3hFdTdDeTNfVzdEamwwUHJ2NWVjeVpnbEIzcTRMM3JCY183Zk9MSkVFVmhlaUg4SlBtc1RRdw?oc=5",
         "source": "Latest news from Azerbaijan",
         "timestamp": 1787217357
-      },
-      {
-        "title": "'Fortnite' Chapter 7, Season 4 Start-Time, Battle Pass And More - Forbes",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWUp5UkVhVWZyYnpDZFhjOFhrMVczVUs5cTFmalFDNDcyZXdxTU5xa1hOV1k5T1ZjdWU1R3RqaWh4T242WEliQ1lBQm5fSWdwVEc5TjBGWEhTcWhPQ1RCZTNRUThfenpIeC1LNWFCVTFkVzd2akR3dHVYa2ktTk5wV2w2RkdFUUFUaEFkZ1c3OEFDNjExaThOcG96eHpfd0xaSm1mZW1taVloNjVTN2Vj?oc=5",
-        "source": "Forbes",
-        "timestamp": 1787209800
       }
     ],
     "guides": [
@@ -426,7 +426,7 @@
       },
       {
         "title": "Best PayPal casinos in the US August 2026 - Detroit Free Press",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ1JEVndLamtkZmdCcURJWG9KcVR5dzJJWnhKamU3RFBMeTRqOGI5OEVqQ21uNFpwNHJrY2tkYUJEbThLTGYzOG9jQzkzS182ZlZXaFl1SVEyMTNDVE9NSTEzVXo1ZDJPSW1nNVpRUU0xUG5zVXhhdUw2UEtoWUZYMjdtTEJpM2tCYUZn?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSVNnVXc3NkVsSEgzMnltVU1hNHFpdTVocXo2dFVpNWUtQjJ1T01aU3AxTWtzMU5DOW9qTmI4bWVRSzVNNWdNSDNEc3E2TUloZnZvZGpMeFJqN21HcHhRVUctTG5KMFNGbnlVSy1obzEzQnpsZ3dKM0VVZVRCQ0VfVnUxcFNpZw?oc=5",
         "source": "Detroit Free Press",
         "timestamp": 1787254260
       },
@@ -499,6 +499,12 @@
         "timestamp": 1787266787
       },
       {
+        "title": "GTA 6: 16 weapons confirmed, but you can't carry all - VPEsports",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nX29VcFk1eGRqNGp6aGxnN2VYOFpGalh6R3VIdTRWaVlaUlBndmV3TmdTTG1jdzF3ZGZ2UlZMbUZCcjFtSjgxM21WY0hDZEw5d0h4NHk2Q3lhR3hhbnpZMGFmT2ZnRy1DTHhGVHJEM0ZweTNYUTJYRA?oc=5",
+        "source": "VPEsports",
+        "timestamp": 1787257015
+      },
+      {
         "title": "Ahri From League of Legends Just Leaked For An Upcoming Fortnite Collaboration - GameFragger.com",
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSFVRbHozZnlqR2JKTlJDME8zcGtqcWlHTjJoZDNOMS1YbFhIS21hUUEydWF3VzJMaTcxa2t1YlNDcXFvdXNHcFVtQWZXOUdadHU4WEctcXI0MzUtQUFtRExIblpjZ3FFRlZpbnpHNFBScHQ4SDRLNG1fWE1vVVdBdTdrREhnRU11UWhLT280Tm5hb2VqN0NaTENDaVFfVC1WV3pNS0stVTJMQ1FUaklwLVItbFNxLUZsNndaUFJ5ZllST0ZQdnVTZVNDZVhFNXd0eFNLTDE4dUZnXzg2TjVmQWNhQm1iVl9p?oc=5",
         "source": "GameFragger.com",
@@ -509,12 +515,6 @@
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaGlqbTVBN0t1UF9lczZpWTdxaTlZV1hCSWdkc2tCME1hbktSZU0ya09OUTdNRDdUWG9nS3hMeG13cjZjamZ4UVlmVlJUV0dfbV9pN04tUEczSEJyZjBzRlhhLTRJV1RGV0E5ZTdMOThXN29VaHN4b1F6eHFVS1NyQWsxZUhnLUtiQ1N3SWV1SFg0U0lXYXZIT25OZy1LVUY2QlVSMQ?oc=5",
         "source": "Notebookcheck",
         "timestamp": 1787244540
-      },
-      {
-        "title": "Hackers Leak New GTA VI Gameplay, Confirm Access to Game Build - A Major Blow to Rockstar - Gagadget.com",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUEVIRVlKVlFmbnljZHc5RHNfbi1GUkdkSWJ4R3AwRENoWEJYWklhUGFXY3ptUWt1TEVTLW9kaHJ6RTM4V3hNa21zWW5WX2tuNkFTc1g5a3BIakNYNmFLR04tZUYzVVIxN24tZ3M4eXk1al9aS2xkdUFiVDRzeFFDaFZTa0Vkd2JYTXBZd29JZFpnWjJKb1Uta2hjTW1VTDJJRUlpMU1SSXFEU0U5bnBJN9IBtgFBVV95cUxObWxYMXlrNFE3cjNqYmIzdXlTZXJfdnBRaW1CUnRSUFZlcjVKdmY0RVZJd0NqT1d2VDBJVWNBRFJaRXhjV0xKaU90Ull2Wi05ZWc4MEhHaUk1S3g3TTQtdzhMMzhyXy1QNWMxNVJWalQzNC1UcVY3aTItclQ4dHFIdkptYXFqelNXZ09Xc25WTW95V3ZMT2NGSjByV0pIbkVPcFRDdnRrcC1ROVFGM1o3akJxcXNaQQ?oc=5",
-        "source": "Gagadget.com",
-        "timestamp": 1787240824
       },
       {
         "title": "The Duskbloods leak reveals fast-paced battles: wolves and bestial transformations shown early - Gamesurf",
@@ -559,12 +559,6 @@
         "timestamp": 1787227904
       },
       {
-        "title": "Black Myth: Zhong Kui Official Gameplay Trailer Breakdown - games.gg",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ENERpVWVGdFE3Y3J6MGRJWWRMaEc0S3RncW42NmdVcVRyVDJWU0pHak9XY0NGamJBaUlvWnVtS29wOUg0LW5SbkZsenpVWGRfTlpLRUVmSnBUVTNWVktlUnUwUmRfMElia0Q4ag?oc=5",
-        "source": "games.gg",
-        "timestamp": 1787227256
-      },
-      {
         "title": "GTA 6 Gameplay Leaker Has an Actual Build of the Game, Still Posting Leaks - Push Square",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV3p2bl9ua294eXc5Mkt3enlWS2F0LTM1TUtsaHRDVWk1OVFLMmw3ZGJiR1g0QUs5cG5mVjhxSmJFbzRUU1h5b1lTM2FzNUFPbDlHRzVZOGxvSXN5R0FhVkFpOWhkTzJlYkItM0xTeHFWUFlncVFZR08tRWpfQ0V4bUh2aGtud3J3U2puV3JSQW5qMEtuRE9ZN1g1Q3pfazgyOUJVUWFOZW00LXJuXzg2RVI5dw?oc=5",
         "source": "Push Square",
@@ -581,17 +575,29 @@
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObkZIZE9PNGlYRVFmU1RUdWtwdXFWRUdmem5iZ0tRcUZCM1ZUNnZJNDZtajczdkZjdEJNa1NPZm9ZUE9GNEZVRGNWdnpka1ZqTVVQNWVQRFZXVEJxSDJ4QXBDTXl1Y0hOOVh2RUFPTlBwU2NjTVBJQkx0cTNFb0V4VTlJeGhvaUFyR1ZrRDFYRnVXLTRWZUZnbA?oc=5",
         "source": "Insider Gaming",
         "timestamp": 1787223202
+      },
+      {
+        "title": "Fortnite Update 42.00 Released for Chapter 7 Season 4 via Patch 1.000.228 - MP1st",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNVhFWHBuRnJ0c1M2WVcyQ0ptS25OdGF6NkpPOGswcTZPTEY1cUpXYlNKUk0tY1JDSWlrM1lxUmhOa1lhcG1feXYta2FEX3AwQkxOclBDdDdoeUYwcUdDaUMxa19qcEJlV2xvbjh3Xzl2aTN2M0Y0Y05jVUo0YzRtYzVtOF9DcF9HWnNZR2ZZZHB3b1NLaFlHNlk5VlYzRW9TRTFxNktsbnY4YmJXZ3N2OGNHaEpMNXRF?oc=5",
+        "source": "MP1st",
+        "timestamp": 1787213210
       }
     ],
     "browser": [
       {
-        "title": "2XKO Active Development Will End in December 2026 - Riot Games",
+        "title": "2XKO Active Development Will End in December 2026 - riotgames.com",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM0NoejhhUHhhcVUwcTc3MFE3cE5Id1QxbmxqM3FnX1J1d3dMUWFPNHExQV9kQmcybl9TOE1uc1pxZ0R1ckpJM3dHUlJ4N0VtVElpcERrOXpmZU1TNHNQNEJCam03TVpoWXl1OG84ZG5fcXdBQzQwSzJtU241cnVLN2ZB?oc=5",
-        "source": "Riot Games",
+        "source": "riotgames.com",
         "timestamp": 1787252817
       }
     ],
     "streamers": [
+      {
+        "title": "From Gaming Going Global to Global Growth: Key Industry Insights & Hidden Stories Behind Twitch - 36 Kr",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Ra3ZlU1MyWnYyeklhU01JUGNNYkdzRWhFRWNzaE96MUkwQ0Qwa3JwRE5aWTd6SkFiVVkyXzBoTDlDM01jeV9SLW1fWm85WmJGemFz?oc=5",
+        "source": "36 Kr",
+        "timestamp": 1787297533
+      },
       {
         "title": "Most Popular Online Slots at Stake Right Now | Top 5 List - WIN.GG",
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWVnc1ZlhmMklSWnlQNS1xWlpjVjloNXlxR3FuaDFobUs3UUt1ckFSUjNWcEZiRXRHcFBVNEhBTkcwa2E2UXA5bnprMlVqUkdOeW9ld1BmanU?oc=5",
@@ -675,12 +681,6 @@
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90anpfanNlVTlkb1ZRcHBCYWVXc3FKUlZWYVFRMUdLWkxRUUxiUGZVR1RCSXhsY3pjb250NzdxTkE5Mmx2UHlSOTRNMEw3amRLZG9UNTQtc2dueHFRVmtBZ2tLdXNxZzg0V0djb0h3?oc=5",
         "source": "The Colleges of Law",
         "timestamp": 1787220172
-      },
-      {
-        "title": "Derrick Rose celebrates NBA 2K27 cover with 2K Flower Mart at Navy Pier - AOL.com",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRDhoUGV3WGcwN1I1Y0lta2FYOTRndFEySnhucXlfYUpyS3QzMzBBUGJHeFFaNTRhVm02eTZLODljcFB6VVVUX1VxX21YTEZiZ1JId3RqOHVXcW5Ickk4NmZ4bGpxZTVLUXI0MmJ3OEdXQlFxcjl3Nkd4bVZzTm00b2Fn?oc=5",
-        "source": "AOL.com",
-        "timestamp": 1787215290
       }
     ],
     "mobile": [
@@ -777,10 +777,22 @@
     ],
     "all": [
       {
+        "title": "From Gaming Going Global to Global Growth: Key Industry Insights & Hidden Stories Behind Twitch - 36 Kr",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Ra3ZlU1MyWnYyeklhU01JUGNNYkdzRWhFRWNzaE96MUkwQ0Qwa3JwRE5aWTd6SkFiVVkyXzBoTDlDM01jeV9SLW1fWm85WmJGemFz?oc=5",
+        "source": "36 Kr",
+        "timestamp": 1787297533
+      },
+      {
         "title": "Most Popular Online Slots at Stake Right Now | Top 5 List - WIN.GG",
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWVnc1ZlhmMklSWnlQNS1xWlpjVjloNXlxR3FuaDFobUs3UUt1ckFSUjNWcEZiRXRHcFBVNEhBTkcwa2E2UXA5bnprMlVqUkdOeW9ld1BmanU?oc=5",
         "source": "WIN.GG",
         "timestamp": 1787295141
+      },
+      {
+        "title": "Terraria 1.4.5.7 Update: New Content and Changes - GameLuster",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTcVhjQXhfeW9sTXhQdTJ6SzJYTlRKWHZaM21FWWwwOEJvV3djc00zcFM0OGplVXhJM1I4Ukc4QVIyMmVRNzIxUDRINlQtSkswT0FKS1VXUUpzakdrajJtTFhR?oc=5",
+        "source": "GameLuster",
+        "timestamp": 1787294261
       },
       {
         "title": "One mobile game on backing brand to negate the ‘performance plateau’ - Marketing Week",
@@ -951,6 +963,12 @@
         "timestamp": 1787257027
       },
       {
+        "title": "GTA 6: 16 weapons confirmed, but you can't carry all - VPEsports",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nX29VcFk1eGRqNGp6aGxnN2VYOFpGalh6R3VIdTRWaVlaUlBndmV3TmdTTG1jdzF3ZGZ2UlZMbUZCcjFtSjgxM21WY0hDZEw5d0h4NHk2Q3lhR3hhbnpZMGFmT2ZnRy1DTHhGVHJEM0ZweTNYUTJYRA?oc=5",
+        "source": "VPEsports",
+        "timestamp": 1787257015
+      },
+      {
         "title": "Are Social Casino Games Becoming The New Casual Games? - Gameindustry.com",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdWVPdXZJNjJwYUY1LWswRlhacXl2N2VMUFZDTDFNNXdYLV9xR2o0bVVsX2ZJdlNCaWMwSk5QblJSa2JLaXRubjJHd0pUazlzZEU2bTNGTUhkMk0xTFNIanotaUtZYVdvNmtVbWNHMk1sRW5vOUhGSl92anZiSWhPbmhzbzM1eGM0OUxtNWJSV3VxZkhIb0J2dEZITDRjTU9hVFZjWlpqY0x2TzJs?oc=5",
         "source": "Gameindustry.com",
@@ -988,7 +1006,7 @@
       },
       {
         "title": "Best PayPal casinos in the US August 2026 - Detroit Free Press",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ1JEVndLamtkZmdCcURJWG9KcVR5dzJJWnhKamU3RFBMeTRqOGI5OEVqQ21uNFpwNHJrY2tkYUJEbThLTGYzOG9jQzkzS182ZlZXaFl1SVEyMTNDVE9NSTEzVXo1ZDJPSW1nNVpRUU0xUG5zVXhhdUw2UEtoWUZYMjdtTEJpM2tCYUZn?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSVNnVXc3NkVsSEgzMnltVU1hNHFpdTVocXo2dFVpNWUtQjJ1T01aU3AxTWtzMU5DOW9qTmI4bWVRSzVNNWdNSDNEc3E2TUloZnZvZGpMeFJqN21HcHhRVUctTG5KMFNGbnlVSy1obzEzQnpsZ3dKM0VVZVRCQ0VfVnUxcFNpZw?oc=5",
         "source": "Detroit Free Press",
         "timestamp": 1787254260
       },
@@ -1005,9 +1023,9 @@
         "timestamp": 1787253300
       },
       {
-        "title": "2XKO Active Development Will End in December 2026 - Riot Games",
+        "title": "2XKO Active Development Will End in December 2026 - riotgames.com",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM0NoejhhUHhhcVUwcTc3MFE3cE5Id1QxbmxqM3FnX1J1d3dMUWFPNHExQV9kQmcybl9TOE1uc1pxZ0R1ckpJM3dHUlJ4N0VtVElpcERrOXpmZU1TNHNQNEJCam03TVpoWXl1OG84ZG5fcXdBQzQwSzJtU241cnVLN2ZB?oc=5",
-        "source": "Riot Games",
+        "source": "riotgames.com",
         "timestamp": 1787252817
       },
       {
@@ -1027,12 +1045,6 @@
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMmpRZFNhNzJsaWI2ZER0TVgzc2xMUDF5clJiMXpja0tiRVVwaEZkZnRCQWltMzh2RUYwS29MMGw3TEs1blR6TzlaTy1NTnhTcVBkaWFGbnhqZFpQX294TTFWQ0xUTElpdmxQTHd2NlhDRVVqV0VXbjhqMkhFbURrY1Y0RzFMNzR6T21xbzZiN1c5UQ?oc=5",
         "source": "Detroit Free Press",
         "timestamp": 1787250660
-      },
-      {
-        "title": "Virginia Casino Revenue Set for Growth With Norfolk Resort - Casino.org",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS3Vtc1VpN3B4dWdHRnotanNxdk9PdDR5clUwV0w5UnFGTmVmcjROTlU1NE9tUFlpSWNsSFZKd2RDdDNhUzJuNTRFZ0xrdFM3LXRBcUQ3SXJLMDNoaTZCbElZelg3ZnJGU290NWFwREpUYktFZ1Q4ckhOMnlmMklsa3BnU0NadndFcksyMXE3cUEyb3NJREVXTXIyRG9wZw?oc=5",
-        "source": "Casino.org",
-        "timestamp": 1787250340
       },
       {
         "title": "Tomb Raider 1-3 Remastered \"Community\" update out now, patch notes - 60 FPS in Classic Graphics Mode, brightness slider, more - Nintendo Everything",
@@ -1063,18 +1075,6 @@
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYmUzak1jaUJlLU5udVR1akdzdDN0ODBDTXh5SzUtb2xwS1hXUGlTbFZqXzdzZDV3NlIwdGdHdEVHS3haRHJtOXp4b0tuUXFCNWFCeXBDN20tR0VQa296UlJCU29aTVRYWFhRM0gwWWhQbzJwYmk5d0NmS205T1BGaA?oc=5",
         "source": "IGN",
         "timestamp": 1787248601
-      },
-      {
-        "title": "Tomb Raider 1-3 Remastered Update 1.13/1.001.003 Adds New Visual Features on August 20 - MP1st",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNHBtMFNsZGRhUnFkY2VvV1ZsSk9TYVppby1lLS1vUzRZUDQ3Y3pKdG1HTmtwUkkyeWIzSlBFdVBsUXhjMEhTSnNoT1dscmttM0x1eWNXNi13SEt6bDZwZGd3NGtqb3c4ZTRzeDR2VFczeVRvb09qclJvVkVocmJaZ0NJdXFfdVlBSkxpeEFYc3VmeXlMNWJrS3VxWGMwWFctTE1FVXNidXNTUUE3YnptaU1VV2pKQjJaSzRmeWdlWmZhWGRuUWc?oc=5",
-        "source": "MP1st",
-        "timestamp": 1787248329
-      },
-      {
-        "title": "Compulsion Games pulls off management buyout and separates from Xbox: \"We're confirming we're getting all of our publishing rights back\"",
-        "link": "https://www.reddit.com/r/gaming/comments/1vtqldm/compulsion_games_pulls_off_management_buyout_and/",
-        "source": "Reddit",
-        "timestamp": 1787248230
       }
     ]
   }
