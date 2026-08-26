@@ -1,13 +1,7 @@
 {
-  "last_updated": "2026-08-26T02:39:52Z",
+  "last_updated": "2026-08-26T03:39:11Z",
   "data": {
     "top_stories": [
-      {
-        "title": "Gamescom opens in Germany as industry eyes GTA VI boost - Türkiye Today",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSjlwTkhQdVBTTThhWkVWNzI0V3YzUlNFTUhiREloMUNzNE13S1phTk1XNVNYQ09zdExrbW8zcXlFWTFKUTJPV0R3akZ5OE8zbEtHMml1R2lXcjdjcW9fZllQdUxWQ0pHWEZYdm00TmtBTW54b3kwcmtVaUtBbEFyRVNmZ1lYTFZoc083bEJGQTlWSmlN?oc=5",
-        "source": "Türkiye Today",
-        "timestamp": 1787710378
-      },
       {
         "title": "Why Major Tech Firms Retreat From Gaming Dreams: Lingxi Interactive Entertainment & Moonton Sales Explained - 36 Kr",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fb0FnZjJrMlN2ZHNwRmR1YnNkTHdrRXl1aTFZbTEzbnc5dTdiWWwyWVhWejd6S1lNSmt3SGpRWWF6SUpXQWEtODB5R3BqdGZvYnhB?oc=5",
@@ -31,6 +25,12 @@
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRVZuNFBVQlduRlRjV0ZkaG5NQ3o5RVIyT1ZRb0ozZ21lM0NnNlB1a2s5cnZYZFRaanh5RFRKMERIRFQ0SzlJNXdFT2E5MU4xWEpoZU5UN0EzMVRtYXRLTDN4UTVWSmxSOWEzeUkxenRobmpvMTZ3ajZlc0dUdHBJNmdpaXF6eU51ZFp1aEJaRm5aeTUxcXc?oc=5",
         "source": "The Motley Fool",
         "timestamp": 1787693220
+      },
+      {
+        "title": "Schell Games reportedly lays off staff - GamesIndustry.biz",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HVDZFWEp6bnlab2cycmNhWDY3Y2R5S1dWRGV0ZE4wYmRxUnZiYnNrUXRfTWVtUm95SDNMdDN2NmtYMTJ0SEQwaElDaU5rZktkczh5SGVwVkRoSXpsY2tzQzJNRmwtbE1UaUE2S09QMGRUV2l3WlVr?oc=5",
+        "source": "GamesIndustry.biz",
+        "timestamp": 1787687119
       },
       {
         "title": "Hundreds of thousands set to attend world's biggest gaming event - CGTN",
@@ -95,21 +95,27 @@
     ],
     "viral": [
       {
+        "title": "Garena Free Fire MAX Redeem Codes Today, August 26, 2026 Revealed; Know How To Redeem Codes, Grab Free - LatestLY",
+        "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPM215NV9yOGczWEFFaWJnaFJtblJJRzNhWFRfWkd3cDd3UWZRWDhCVEo4TVNleXdrRU9HSi1KTHQzcTdEU2h1eURWUlZlczVDM252MjJFZHVRUmZhMjQ4RUZaRFN1X0M1VXllSUU4QXgyOTV3enRtTkFPWXpWRXQ2anotbEtqVmtGR20xZmtNZXpQamMwYldLRlRSWFNHajlJSlRJZWJVTVVjQVBhTlJmZFF0VHNsTWljLUU1UDBBeGZjOTc5NThBYjZkY1BFUFVnczlZNVBQSWFrc3dwTURIN243VVQtTlU0UFRlM3J3TnlyMldQLThzUjJ3Mm54TGRQdEFmS3dSX1lIWFFPeXI4c0JRLXp0RzJIV0HSAZoCQVVfeXFMTzNteTVfcjhnM1hBRWliZ2hSbW5SSUczYVhUX1pHd3A3d1FmUVg4QlRKOE1TZXl3a0VPR0otSkx0M3E3RFNodXlEVlJWZXM1QzNudjIyRWR1UVJmYTI0OEVGWkRTdV9DNVV5ZUlFOEF4Mjk1d3p0bU5BT1l6VkV0Nmp6LWxLalZrRkdtMWZrTWV6UGpjMGJXS0ZUUlhTR2o5SUpUSWViVU1VY0FQYU5SZmRRdFRzbE1pYy1FNVAwQXhmYzk3OTU4QWI2ZGNQRVBVZ3M5WTVQUElha3N3cE1ESDduN1VULU5VNFBUZTNyd055cjJXUC04c1IydzJueExkUHRBZkt3Ul9ZSFhRT3lyOHNCUS16dEcySFdB?oc=5",
+        "source": "LatestLY",
+        "timestamp": 1787707809
+      },
+      {
+        "title": "From 'ridiculous' to a viral success: Akron's offensive coordinator contest has been a big hit - FOX Sports",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOV80MVB3VjVaakMwaENDUmpKbnBJV0VBaV81MmRsTUVpLVoyRVpHM3ZHb1FHNVU3WHZDNFhEMGFyQVJOclZrbC04WEVyU2Fvc0FSN3JsM2U2bUEzLUI1UlhEMUNIci1SYXBMOEtGV1F4WkNlZU5uZXdNYXpQTUlXSndnU2dSTUZKSllLbWRJZHV0R1FZU3I5QnE4cUotTUp6dkhFY2Ryd0xjZ0xON3dvblVmWjBRbTQ4LXpvZmxHLW5kOFNMX01VQQ?oc=5",
+        "source": "FOX Sports",
+        "timestamp": 1787696376
+      },
+      {
         "title": "This Woman Thought She Got The Cutest Tattoo, But People See Something Wildly Inappropriate - BuzzFeed",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWW1iQ1ZJbUMzRkJtZmxBQUJmcWpHMU1IRG1LY0lfQmFpQjdMbE5RT0NMYjlXdDdKeDYtVF9nTXlScDVJZHdDWDBmVmZ1UGxRNlVoaHdQMUVnelpNN09wczlwdVlVWEZKOHU0emRWNmo2TnRuaF9XSm55Y2VIZXBmbC1zcw?oc=5",
         "source": "BuzzFeed",
         "timestamp": 1787692224
       },
       {
-        "title": "This Mom Tried To Ban A Common Snack From School Lunches, And The Online Debate Is HEATED - BuzzFeed",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ0pfUGlrQ2VOWGNMUVlwWlVScWZ6Q2VLMHlCOG11aHZoLXVZVHpfZ0RkelkySVBmQVZ1Z21hNERCVXY0LTM2dC1DRERNQUkxZXMwYXhBNG9WaUZOQ2dtTzZHd3hjRW9uYl9FQ20zLTA0bHJwd1dxZEJaLWV4Wk9GSFVscU1xNzM3amFjLWFxV2R0emZBdVE?oc=5",
-        "source": "BuzzFeed",
-        "timestamp": 1787690035
-      },
-      {
-        "title": "Grand Theft Auto star breaks silence on GTA 6 with cheeky two-word comment - The Mirror",
+        "title": "Grand Theft Auto star breaks silence on GTA 6 with cheeky two-word comment - Daily Mirror",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcjhHUHhIUjdFRG1CQXlTcWpESkNFTXh4ZFpCeWFsZWFuallaaWgwaWVZdDJhV19QSWVtMHhaV2ZOSFZTVVhCZ2xPV2xzNUQxSDZKVEtMYTlIRUw4c3pOS21jd1pzRm1UbllsczJWdXpNREs0anhOa3NQQ1p6eUdDckRBd9IBgwFBVV95cUxNcjhHUHhIUjdFRG1CQXlTcWpESkNFTXh4ZFpCeWFsZWFuallaaWgwaWVZdDJhV19QSWVtMHhaV2ZOSFZTVVhCZ2xPV2xzNUQxSDZKVEtMYTlIRUw4c3pOS21jd1pzRm1UbllsczJWdXpNREs0anhOa3NQQ1p6eUdDckRBdw?oc=5",
-        "source": "The Mirror",
+        "source": "Daily Mirror",
         "timestamp": 1787689800
       },
       {
@@ -207,12 +213,6 @@
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON3NjSTRjZmk4V3hZV05PUlZ2WDRVTFowTXNYNmtxZnlZY3BrekJUVDdhbXcteFMzZEF4REpNRC0xaFQ1UlJ3YTA2SnNPQkdUeEVzUnNEMlBXWkFvMmprUW1IVWdsN0JXXzVIcjV0MVJkN1Q3cW00bnFYUmZOcnpkV3ZpeEdtNHI5b24yRTB3?oc=5",
         "source": "BuzzFeed",
         "timestamp": 1787662862
-      },
-      {
-        "title": "People Are Losing It Over Timothée Chalamet’s “Extremely Obvious” Stunt Double In “Marty Supreme” - BuzzFeed",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORTZXVThhcldKR0lwU291d3AyRDU0dDR3Yl8tTDZwZjhRUmNlZXJmeHUtckxuOE5PRy1QY1gyNnhlT3pURHVKM0JjSlA1alFHZmtpVlFQWkdZTU5ZOTJQTWEtb3dlYU1iYm1FMzNjNGdEWTYzNXJQQ1JFTmxVdnk4RmlmQ2J5bTdPV01kZU9aclJacVFab0NNSVo5ZUlXY3EyQkMyYnZRZzZXQQ?oc=5",
-        "source": "BuzzFeed",
-        "timestamp": 1787661608
       }
     ],
     "updates": [
@@ -377,6 +377,12 @@
         "timestamp": 1787699843
       },
       {
+        "title": "The $100 Game Plan - Betsy.com.au",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWZ1MxRHozQzh6Rjd6MFBVN0dXTUpKSnRnUzNHZzRLdkhiVkVOY0lMcTJFX1psNHc5eVd5aTZwdVJrOF9PSVpsVVpSV3p1MEdUaVB5cQ?oc=5",
+        "source": "Betsy.com.au",
+        "timestamp": 1787698582
+      },
+      {
         "title": "5 Best Video Game Stocks for 2026 and How to Invest - The Motley Fool",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRVZuNFBVQlduRlRjV0ZkaG5NQ3o5RVIyT1ZRb0ozZ21lM0NnNlB1a2s5cnZYZFRaanh5RFRKMERIRFQ0SzlJNXdFT2E5MU4xWEpoZU5UN0EzMVRtYXRLTDN4UTVWSmxSOWEzeUkxenRobmpvMTZ3ajZlc0dUdHBJNmdpaXF6eU51ZFp1aEJaRm5aeTUxcXc?oc=5",
         "source": "The Motley Fool",
@@ -393,12 +399,6 @@
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96emxJeExQUU1EdHlpOFJvd0RnR04wTzdRb09Ib0h0Z3BCcGRrc3N3M0VfWTcxTFJhc25pTGc3TjlDR0dmbmZ6MjhwOGJWbWp6UzlmMlJzbUVDU0xoblBSY191bWpuZXJJcHJBVkFfdGpyRDFNUHA3SHRMVHl5UHc?oc=5",
         "source": "Detroit Free Press",
         "timestamp": 1787689920
-      },
-      {
-        "title": "Best Michigan online casinos and gambling apps for August 2026 - Detroit Free Press",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMUFET2wyeldTNjNrZ3RZTVlYMS1HRjBwWThUc19JMXpyMW9NMHJ2ZkIzcVFteUhUUzJlU0gzMjVXWklnZ25QcmNkandva0dEeTR3WDNiQWNJS25lVlF3bE1HWXFfUTBXRHdzdVVWdzc0T1FfQ2tXYnE3RWRydGpKS1l6alVaY1V2ODRKOVZZeWdoUnZGTFgw?oc=5",
-        "source": "Detroit Free Press",
-        "timestamp": 1787689800
       },
       {
         "title": "Mississippi Online Casinos (August 2026) Guide: Find Top Legal Games - RotoWire",
@@ -431,16 +431,16 @@
         "timestamp": 1787668260
       },
       {
+        "title": "Elite 11 field hockey watch list includes game changing talent - Lohud",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNd3FfdF96T3RFZTRHT0N3aFpJamc3d3hDeTJ1UjIzWkJOQzdXY1VCdTNROVdUMmR1enNxeEdsaUNtanlndzBxREZQczhXNTZDU2wzQnhnYXhoZTBabmJPbHpQTmY1ZjZmQ3BLRHhJYUV0NHpDMjc3NjdwVW82ODRNMElYODBNWV9CUHZKMjVOQkIydmlsTmdtTWJYSDU3TUJfb2hFOGRPRlZvMEtKSVQxVXdBdE9sUERqWDVmSFF4LWRKbWVyb3RCUTZhZ0pHeFdTUTNTbkExcWtyblAzbFNGXw?oc=5",
+        "source": "Lohud",
+        "timestamp": 1787645100
+      },
+      {
         "title": "Tennis Betting Guide 2026: How to Bet on Tennis, Sites & Tips - CBS Sports",
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81VFk3bC1iS2h6bHFtSmRsQ3dFLTJBaHFxTl91OEwyQ041dHlnd0Jld1k2bEdlX0VxY0ZiMWlyU2t1dGtBY1JqTE1McDNxSmtDa1FmVkxOckt3dw?oc=5",
         "source": "CBS Sports",
         "timestamp": 1787642620
-      },
-      {
-        "title": "Titanic Escape Simulator: review - InsertCoins.press",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZY2VZR1BzVklvaVh0UmlsMF8yZkk4dWxWZkptRmRwa1E5WGdET2xheHFXSmVNeW4yVUNQYVlOamJYTzhwajJyelFHT3VXLTZ4dGNXa1EtYS04SVB2cTdRUFVFdXVwMDFWeUhrejRlTWwwejJPRWc?oc=5",
-        "source": "InsertCoins.press",
-        "timestamp": 1787642473
       },
       {
         "title": "NRL Round 26 tipping, expert tips, best tips, sure thing, upset chance - ESPN",
@@ -457,10 +457,16 @@
     ],
     "assets": [
       {
-        "title": "Apex Legends Season 30 Split 2 Battle Pass: All Skins, Price, and Release Date - GameRiv",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TMDIwWU4zWUMxRy1VRE02T0h2ZGJycXRzS2RZQ0J0anIxMzRnRWxHQ1hmU2JkQzBjM2s0QUkyN3psdndUNkI2RVJ6MEpnVUt5N3BBMTlGUGhqbmZ2ZEpMaWg2OGxpVmNlaHBMNkw3TDE?oc=5",
+        "title": "Marathon Season 3 Leaks Reveal Huge Four-Run PvE Mode, New Bosses, Weapons, and More - GameRiv",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaDRzZF9pT0JXNW9XWjNMTmVyZXBXSk5RZ2lQSzdXMG5TMWxWVFNTcFY0QVRnTE1QUXd6MGRSYnlQY09DUDRFenk0SnRyeHRMOEJUQTU3dy14S3FVT0hoSllLRWtYVVQxZDZ5RVBYeDJjTk9tODVPeUpMUFlPSE9lVnpMSnlYME9TTXdzaXR0czd2RnBKbTVqN0MyR0FiRTBMX1V1Zg?oc=5",
         "source": "GameRiv",
-        "timestamp": 1787705146
+        "timestamp": 1787700712
+      },
+      {
+        "title": "PlayStation Plus full September 2026 free game line-up leaks online - GAMINGbible",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTTNFeFRINzBpVkJMTlU0X3BOeE1XeHowbjZ5b0gyYkYxZ2hsNjg2RFBfa1d4X1RuVk12b0w5djJPeXd4djZIbW92aTY3NFZJX2xEZkdGQ2NUa2hIMDZfUWktVk9wUnlaUFFkeTBFdTRmTXhnV3daSkdWZHZob2dfajJhcWFVdUJnRXczeUJRS1JDa3B0aUhUekZILVFrTEMya3VqamFxOW9yR2w2aDdkQ0lOUGpmT3JXaE5hVEVKVlBLeUU?oc=5",
+        "source": "GAMINGbible",
+        "timestamp": 1787696797
       },
       {
         "title": "Marathon Season 3 leaks reveal a huge four-run PvE mode, new bosses, massive Perimeter expansion, weapons, Flash Boosts, major progression changes, and more - The Game Post",
@@ -479,12 +485,6 @@
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSnpHbGhSNl81cC1hNHF4WldmTFNObVU3U2E3ZE4wTjNKVFlSaTlWZElJTHFadThEdW1hVW5JNkFkc20yS09ieXhfbTB3cVpCRFpsemR0aU0tMF9OVjY4aklDM2Y3Rk1HQ1pIdzIwekhhc1d3TXMwN3k4VHdvbmRFQUVtRVFQTGdlRFRjUlV4ZWRqNkJ3NVBrNTFLMVVneUIwMVBFcjhNVkcxVS1qT2FjcGY2aDhkRTQ?oc=5",
         "source": "GameSpot",
         "timestamp": 1787690402
-      },
-      {
-        "title": "PlayStation Plus full September 2026 free game line-up leaks online - GAMINGbible",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTTNFeFRINzBpVkJMTlU0X3BOeE1XeHowbjZ5b0gyYkYxZ2hsNjg2RFBfa1d4X1RuVk12b0w5djJPeXd4djZIbW92aTY3NFZJX2xEZkdGQ2NUa2hIMDZfUWktVk9wUnlaUFFkeTBFdTRmTXhnV3daSkdWZHZob2dfajJhcWFVdUJnRXczeUJRS1JDa3B0aUhUekZILVFrTEMya3VqamFxOW9yR2w2aDdkQ0lOUGpmT3JXaE5hVEVKVlBLeUU?oc=5",
-        "source": "GAMINGbible",
-        "timestamp": 1787689534
       },
       {
         "title": "Final Fantasy 7 Revelation Gamescom Trailer Is All About The Weapons - GameSpot",
@@ -568,6 +568,12 @@
         "timestamp": 1787676669
       },
       {
+        "title": "The Witcher 4 targets 2028 as CD Projekt prepares to unveil new Witcher 3 expansion - TechSpot",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeFhYQXN4RWkzZHpCT0k1NnFPNUc3NWJ3YjFGWGVkLXZrc1Q0b2JkbE9TTEpCcTZYbUxveUVUd1FfQUhCOE1aelBKTXRkVkhCdGF0aTFjelpYS3M1Nnd1eU5uWXd1Q3A4QmlBWWNwczdDWkFpX0xBSWRtMmNwZFY5c2s5Nmk5Smp1WU1xYXdaVmlYMWprX3ZVcGo4bTZod0FfUGc?oc=5",
+        "source": "TechSpot",
+        "timestamp": 1787674020
+      },
+      {
         "title": "Where to Watch Gamescom Opening Night Live 2026 - GameTyrant",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV3ZyRzNQVzZ0VVRnbmNhcUZhUzFpYnY2cmV6bkxfVmdHU0ZaMXRST0VxSHlyZnJWQUVWbV9mOVVYMVVCRmJiY210YzdNMHNjWVhtN2dXOUZ4NU15S3pXVGpvNFFKVTVRVzhrQlFQWk5jQnZabTBEWUNwQUZzSjlseg?oc=5",
         "source": "GameTyrant",
@@ -628,19 +634,19 @@
         "timestamp": 1787644764
       },
       {
-        "title": "Amazon and Twitch Face Class-Action Lawsuit After Introducing Opt-Out Setting That Uses Streamers' Content to Train AI - IGN Africa",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQXFyVGsyQXFZTGh4RzlSYnp1dk12cWZRVEZ0Uy1PTDFFU0ZXTWlkbHU2MG5WUUdqbzF5cmpvVU9RMU04b3lKVTJSN3o5cktMNTRvanF1U2V0cEU3WlR3NzV0ZXM1N25CZTY2VkpWTWpoWUZQejB1VEF5VzF0QXFFS2JZbWVLRzBvWUJPNXJiZ1pTbm5yZVhqNmdMVnpoVHVZbGFXNzZEMmFkYW91ZW8wdEdsQm9SaEc2T1Z0R2ZLNy12T3hrSmQ0cXVvZS13a0NO?oc=5",
-        "source": "IGN Africa",
-        "timestamp": 1787644052
-      },
-      {
-        "title": "Destiny says Asmongold leaving Twitch would be “Hasan’s dream” as streamer considers Twitch exit post ban - The Times of India",
-        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQSzFja2ZOanVRZDY5LThnTGxfMzFJOEhjTC1HZHA2QzVjX3pnTnowR0JNejJrSVlHLVA0YjUyTVJVd0NVTkhEdGwwSERyclJVREx4dHBoVmxva3lLMTBqTzNUZFNkREVHUWNBVnJ6N1p4SFNnaVVtZTV5ZlZvOGFjd0NYY0dSb0RjaWNGWHVtek83aEVKVDN0SWtTOU9FNmhiWUtiT1p3U3ZJc3M3RHZtYllCRTRtR21vSU1oQkNoWnVkc0VJTVloeEtPaWFXSGdhM01XeklUdjYyQmpsNUFQRm1CTlNIN3JDR3RjX3lZeFhwYkNzdjRMS1RiRUQ4dk04RWxEcUxBdlEyaktsejNmdNIBlgJBVV95cUxPaS1ULXNnM0RXZ0tINGdkbVI1VV9FaDFQVnd4NGp5V0RueFRDbmFtNnB1OWJBRmF3QXR6Z0dPUGg0RDZzZDdhYXczZmY0NHd5cFR2SF9BYm52YlZKWVBBZWNVMkZrOTh5aHRLU1EzWnpiMzlXdUw2R2NyWExUSEVHT25PU25Zcy1Oc21QbWhUVGx0RVhYMnZUMGhaS2h6MWlaWDNqT3J4QjFzZEloZmNtMnNjVVRPaXlqM290ZTZtdmxVVHlBMGZObGVLWlZzRHU2bWwzZVBtbjFvdjNNa0NvanNQY3BpZFJuM1hUR3hjcjdZbVR0bnZUS080bGFiR3pKSHdiM3hkYVBHdGpITnRXeUZuTmMyUQ?oc=5",
-        "source": "The Times of India",
-        "timestamp": 1787643000
+        "title": "Gamescom reveals games of tomorrow - gadget.co.za",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fQmw2NGQybHBkdTlYU285V0hwTUtKRzhpTmlTRnA5NUlIR21mUUxkaEd1VGVrcFk4SlFiSmIzQmY1UE5YR251NGxQNVlDVHgwbEHSAVhBVV95cUxOdHFkbXZXV3R6Vk9Ua3hudnQ1Nmd0VWozeHNLYWxtWHFEYVNiWkFsN2gtMHV1aFBVSk5OeXAtYnkxb09QeG5EVmF0U3VzY3hFbl9GNldYbUNx?oc=5",
+        "source": "gadget.co.za",
+        "timestamp": 1787632654
       }
     ],
     "mobile": [
+      {
+        "title": "Silver Palace Nominated for Best Mobile Game at gamescom 2026 - Inven Global",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWFFYME1YVVRvblZOUzVOR19kTU9mQkhiN1JvM3BlQkJwdDBva1FRTVFwdjhvS2NIc2pqMC1uX3IxYVlhUFhhNXBEZ2F0eGQxd3dCTlBRRlpUc056alFIYjEwcjN2OTdNazF2aFlseWQ3d3JFbG9UYjlpX21JeG5GZHVwMUlaaTF6OUtsSmNXR3hPNU16OEJ2TFlnLURPQmdNcmVIQzB2Yw?oc=5",
+        "source": "Inven Global",
+        "timestamp": 1787711137
+      },
       {
         "title": "Why Major Tech Firms Retreat From Gaming Dreams: Lingxi Interactive Entertainment & Moonton Sales Explained - 36 Kr",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fb0FnZjJrMlN2ZHNwRmR1YnNkTHdrRXl1aTFZbTEzbnc5dTdiWWwyWVhWejd6S1lNSmt3SGpRWWF6SUpXQWEtODB5R3BqdGZvYnhB?oc=5",
@@ -670,12 +676,6 @@
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUG14R2JxMmpYdHA4a3E2X2ZLcXByN2VjM0w5THhYZVV6T3Ntdi1LTHpxLVFzdzRKQzMxdTRJZ2FhYUxRT2xTQmNMZmxfNEJkOFRTZnFBamtab01KS1I0cXlRcEdZMmZJV1dtVlZtcjdRdUxSNnRIRGdyZy13UFR3MlBQa09XWEpCVVVqQlBvaG9RWTNEaXAxTFZNcjVpa1RJUkJrZExtSTZLYXF0bThITDkweGgyQQ?oc=5",
         "source": "Anime News Network",
         "timestamp": 1787689625
-      },
-      {
-        "title": "HoYoverse's cosy life-sim game Petit Planet is releasing in Winter 2026 - GosuGamers",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ0MyREpwUlQxMDV4S2hzY0JYTGR6SlZZeDMwbUhQOXpRblBWdjJQQUx1VVFQQXJHUnBxMzh1Z2tMaXZuLXRVazV0NUJhVTNzbVJEZFBIM0dSZGtpZFZrTlEyQjBIMV8zcmwwQzBZa2JHSEdCN3l6cnoyQVI2aUZ0a0hrOGlNMXVvR0VyTmZSbWpLQmkzdERINnRxbHhWQ1ZMaGpGN3hKYXN0LV9sdUk4Qmc5MFhXaEd2a3VCNDcwcTI?oc=5",
-        "source": "GosuGamers",
-        "timestamp": 1787689058
       },
       {
         "title": "Social Casino Apps (August 2026): Best Mobile Apps, Features & Top Picks - RotoWire",
@@ -734,16 +734,22 @@
     ],
     "all": [
       {
-        "title": "Gamescom opens in Germany as industry eyes GTA VI boost - Türkiye Today",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSjlwTkhQdVBTTThhWkVWNzI0V3YzUlNFTUhiREloMUNzNE13S1phTk1XNVNYQ09zdExrbW8zcXlFWTFKUTJPV0R3akZ5OE8zbEtHMml1R2lXcjdjcW9fZllQdUxWQ0pHWEZYdm00TmtBTW54b3kwcmtVaUtBbEFyRVNmZ1lYTFZoc083bEJGQTlWSmlN?oc=5",
-        "source": "Türkiye Today",
-        "timestamp": 1787710378
+        "title": "Silver Palace Nominated for Best Mobile Game at gamescom 2026 - Inven Global",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWFFYME1YVVRvblZOUzVOR19kTU9mQkhiN1JvM3BlQkJwdDBva1FRTVFwdjhvS2NIc2pqMC1uX3IxYVlhUFhhNXBEZ2F0eGQxd3dCTlBRRlpUc056alFIYjEwcjN2OTdNazF2aFlseWQ3d3JFbG9UYjlpX21JeG5GZHVwMUlaaTF6OUtsSmNXR3hPNU16OEJ2TFlnLURPQmdNcmVIQzB2Yw?oc=5",
+        "source": "Inven Global",
+        "timestamp": 1787711137
       },
       {
         "title": "Why Major Tech Firms Retreat From Gaming Dreams: Lingxi Interactive Entertainment & Moonton Sales Explained - 36 Kr",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fb0FnZjJrMlN2ZHNwRmR1YnNkTHdrRXl1aTFZbTEzbnc5dTdiWWwyWVhWejd6S1lNSmt3SGpRWWF6SUpXQWEtODB5R3BqdGZvYnhB?oc=5",
         "source": "36 Kr",
         "timestamp": 1787708018
+      },
+      {
+        "title": "Garena Free Fire MAX Redeem Codes Today, August 26, 2026 Revealed; Know How To Redeem Codes, Grab Free - LatestLY",
+        "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPM215NV9yOGczWEFFaWJnaFJtblJJRzNhWFRfWkd3cDd3UWZRWDhCVEo4TVNleXdrRU9HSi1KTHQzcTdEU2h1eURWUlZlczVDM252MjJFZHVRUmZhMjQ4RUZaRFN1X0M1VXllSUU4QXgyOTV3enRtTkFPWXpWRXQ2anotbEtqVmtGR20xZmtNZXpQamMwYldLRlRSWFNHajlJSlRJZWJVTVVjQVBhTlJmZFF0VHNsTWljLUU1UDBBeGZjOTc5NThBYjZkY1BFUFVnczlZNVBQSWFrc3dwTURIN243VVQtTlU0UFRlM3J3TnlyMldQLThzUjJ3Mm54TGRQdEFmS3dSX1lIWFFPeXI4c0JRLXp0RzJIV0HSAZoCQVVfeXFMTzNteTVfcjhnM1hBRWliZ2hSbW5SSUczYVhUX1pHd3A3d1FmUVg4QlRKOE1TZXl3a0VPR0otSkx0M3E3RFNodXlEVlJWZXM1QzNudjIyRWR1UVJmYTI0OEVGWkRTdV9DNVV5ZUlFOEF4Mjk1d3p0bU5BT1l6VkV0Nmp6LWxLalZrRkdtMWZrTWV6UGpjMGJXS0ZUUlhTR2o5SUpUSWViVU1VY0FQYU5SZmRRdFRzbE1pYy1FNVAwQXhmYzk3OTU4QWI2ZGNQRVBVZ3M5WTVQUElha3N3cE1ESDduN1VULU5VNFBUZTNyd055cjJXUC04c1IydzJueExkUHRBZkt3Ul9ZSFhRT3lyOHNCUS16dEcySFdB?oc=5",
+        "source": "LatestLY",
+        "timestamp": 1787707809
       },
       {
         "title": "Modern Warfare 4 Beta Patch Notes - Call of Duty® | Best-Selling Video Game Franchise",
@@ -758,12 +764,6 @@
         "timestamp": 1787707356
       },
       {
-        "title": "Apex Legends Season 30 Split 2 Battle Pass: All Skins, Price, and Release Date - GameRiv",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TMDIwWU4zWUMxRy1VRE02T0h2ZGJycXRzS2RZQ0J0anIxMzRnRWxHQ1hmU2JkQzBjM2s0QUkyN3psdndUNkI2RVJ6MEpnVUt5N3BBMTlGUGhqbmZ2ZEpMaWg2OGxpVmNlaHBMNkw3TDE?oc=5",
-        "source": "GameRiv",
-        "timestamp": 1787705146
-      },
-      {
         "title": "Fave or flop? A guide to gauging video game success - France 24",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOclh6bFBnVlc2QmttWUJaZkpYX3lNMnRWcVJPSl9VM25haGx5TS1JUVU5Rnh6QTBxZEIzbXZpTXFBMnpFckVWMGRJSkVQc0RkQUNxUkttajdkeEp3SjFaZGhSWU1pY3Y5QjJiaHR0dm5NaGRnTENHcl9nYjN5Ui1HNm9WSEY3MWc3VmdMeVFMYXl4aEFDTmprQjRQX2g3Zw?oc=5",
         "source": "France 24",
@@ -776,6 +776,12 @@
         "timestamp": 1787704066
       },
       {
+        "title": "Marathon Season 3 Leaks Reveal Huge Four-Run PvE Mode, New Bosses, Weapons, and More - GameRiv",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaDRzZF9pT0JXNW9XWjNMTmVyZXBXSk5RZ2lQSzdXMG5TMWxWVFNTcFY0QVRnTE1QUXd6MGRSYnlQY09DUDRFenk0SnRyeHRMOEJUQTU3dy14S3FVT0hoSllLRWtYVVQxZDZ5RVBYeDJjTk9tODVPeUpMUFlPSE9lVnpMSnlYME9TTXdzaXR0czd2RnBKbTVqN0MyR0FiRTBMX1V1Zg?oc=5",
+        "source": "GameRiv",
+        "timestamp": 1787700712
+      },
+      {
         "title": "The highlights of Gamescom Opening Night Live 2026 - GamesIndustry.biz",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRDZPQWd4N3BiSHlVTGdBM21PVTQ1YTRlbmtxaHphbW9ySW14SkI3ZnJSRnp6ZExVZTY5NkZ6NkoxWDRLZk1aTVF0bzdyU0thdFhvNEFPNjBWWVNGclhyX0xySUxTMWMwYUpzblFtVVNra0RLcGVHUC1TbEVKejNSS0VoQ2IyekE?oc=5",
         "source": "GamesIndustry.biz",
@@ -786,6 +792,24 @@
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uY1VnblZ3THRYczh6STllV3haSjgzXzJDZUF4Z1JETTJTSHMyZV9WUm5RWThhLUdPLTdTZDg5TnZhLWxVMXRoS2s0Mk1FYW9naEpKQkNR?oc=5",
         "source": "Mobalytics",
         "timestamp": 1787699843
+      },
+      {
+        "title": "The $100 Game Plan - Betsy.com.au",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWZ1MxRHozQzh6Rjd6MFBVN0dXTUpKSnRnUzNHZzRLdkhiVkVOY0lMcTJFX1psNHc5eVd5aTZwdVJrOF9PSVpsVVpSV3p1MEdUaVB5cQ?oc=5",
+        "source": "Betsy.com.au",
+        "timestamp": 1787698582
+      },
+      {
+        "title": "PlayStation Plus full September 2026 free game line-up leaks online - GAMINGbible",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTTNFeFRINzBpVkJMTlU0X3BOeE1XeHowbjZ5b0gyYkYxZ2hsNjg2RFBfa1d4X1RuVk12b0w5djJPeXd4djZIbW92aTY3NFZJX2xEZkdGQ2NUa2hIMDZfUWktVk9wUnlaUFFkeTBFdTRmTXhnV3daSkdWZHZob2dfajJhcWFVdUJnRXczeUJRS1JDa3B0aUhUekZILVFrTEMya3VqamFxOW9yR2w2aDdkQ0lOUGpmT3JXaE5hVEVKVlBLeUU?oc=5",
+        "source": "GAMINGbible",
+        "timestamp": 1787696797
+      },
+      {
+        "title": "From 'ridiculous' to a viral success: Akron's offensive coordinator contest has been a big hit - FOX Sports",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOV80MVB3VjVaakMwaENDUmpKbnBJV0VBaV81MmRsTUVpLVoyRVpHM3ZHb1FHNVU3WHZDNFhEMGFyQVJOclZrbC04WEVyU2Fvc0FSN3JsM2U2bUEzLUI1UlhEMUNIci1SYXBMOEtGV1F4WkNlZU5uZXdNYXpQTUlXSndnU2dSTUZKSllLbWRJZHV0R1FZU3I5QnE4cUotTUp6dkhFY2Ryd0xjZ0xON3dvblVmWjBRbTQ4LXpvZmxHLW5kOFNMX01VQQ?oc=5",
+        "source": "FOX Sports",
+        "timestamp": 1787696376
       },
       {
         "title": "Marathon Season 3 leaks reveal a huge four-run PvE mode, new bosses, massive Perimeter expansion, weapons, Flash Boosts, major progression changes, and more - The Game Post",
@@ -824,12 +848,6 @@
         "timestamp": 1787690402
       },
       {
-        "title": "This Mom Tried To Ban A Common Snack From School Lunches, And The Online Debate Is HEATED - BuzzFeed",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZ0pfUGlrQ2VOWGNMUVlwWlVScWZ6Q2VLMHlCOG11aHZoLXVZVHpfZ0RkelkySVBmQVZ1Z21hNERCVXY0LTM2dC1DRERNQUkxZXMwYXhBNG9WaUZOQ2dtTzZHd3hjRW9uYl9FQ20zLTA0bHJwd1dxZEJaLWV4Wk9GSFVscU1xNzM3amFjLWFxV2R0emZBdVE?oc=5",
-        "source": "BuzzFeed",
-        "timestamp": 1787690035
-      },
-      {
         "title": "Xbox Goes Green Again With GameSir’s X5 Lite for Xbox Anniversary Mobile Controller - TechEBlog -",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QVm00Zk1mUHZzdUhmelU0RjlicjU0ZWZDS1QxSnI1SFJudUZqQXBuWHlJR3hrMGY2Umh3VDJyQWZBUXQyYzYzLU9VV3Z2TDlnMlJNV1BMaVFIZHU5RVRwcnlUa1Zaa2kzTXU0eFBDaXNzRlhhWUs0NnN0WGg4b2c?oc=5",
         "source": "TechEBlog -",
@@ -848,15 +866,9 @@
         "timestamp": 1787689920
       },
       {
-        "title": "Grand Theft Auto star breaks silence on GTA 6 with cheeky two-word comment - The Mirror",
+        "title": "Grand Theft Auto star breaks silence on GTA 6 with cheeky two-word comment - Daily Mirror",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcjhHUHhIUjdFRG1CQXlTcWpESkNFTXh4ZFpCeWFsZWFuallaaWgwaWVZdDJhV19QSWVtMHhaV2ZOSFZTVVhCZ2xPV2xzNUQxSDZKVEtMYTlIRUw4c3pOS21jd1pzRm1UbllsczJWdXpNREs0anhOa3NQQ1p6eUdDckRBd9IBgwFBVV95cUxNcjhHUHhIUjdFRG1CQXlTcWpESkNFTXh4ZFpCeWFsZWFuallaaWgwaWVZdDJhV19QSWVtMHhaV2ZOSFZTVVhCZ2xPV2xzNUQxSDZKVEtMYTlIRUw4c3pOS21jd1pzRm1UbllsczJWdXpNREs0anhOa3NQQ1p6eUdDckRBdw?oc=5",
-        "source": "The Mirror",
-        "timestamp": 1787689800
-      },
-      {
-        "title": "Best Michigan online casinos and gambling apps for August 2026 - Detroit Free Press",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMUFET2wyeldTNjNrZ3RZTVlYMS1HRjBwWThUc19JMXpyMW9NMHJ2ZkIzcVFteUhUUzJlU0gzMjVXWklnZ25QcmNkandva0dEeTR3WDNiQWNJS25lVlF3bE1HWXFfUTBXRHdzdVVWdzc0T1FfQ2tXYnE3RWRydGpKS1l6alVaY1V2ODRKOVZZeWdoUnZGTFgw?oc=5",
-        "source": "Detroit Free Press",
+        "source": "Daily Mirror",
         "timestamp": 1787689800
       },
       {
@@ -872,22 +884,10 @@
         "timestamp": 1787689625
       },
       {
-        "title": "PlayStation Plus full September 2026 free game line-up leaks online - GAMINGbible",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTTNFeFRINzBpVkJMTlU0X3BOeE1XeHowbjZ5b0gyYkYxZ2hsNjg2RFBfa1d4X1RuVk12b0w5djJPeXd4djZIbW92aTY3NFZJX2xEZkdGQ2NUa2hIMDZfUWktVk9wUnlaUFFkeTBFdTRmTXhnV3daSkdWZHZob2dfajJhcWFVdUJnRXczeUJRS1JDa3B0aUhUekZILVFrTEMya3VqamFxOW9yR2w2aDdkQ0lOUGpmT3JXaE5hVEVKVlBLeUU?oc=5",
-        "source": "GAMINGbible",
-        "timestamp": 1787689534
-      },
-      {
         "title": "Madden 27 Patch Notes: New Update Addresses Significant Franchise Issue and Superstar Mode - Athlon Sports",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWXdDejlrRUprUFZ3c2gwWnpNb2hzRDdnNWkya1BGRlNNVEIzZUNHUWk1TFpMNUZiQnplMHJZSlFZSjM4MDZoYjVFdHVDLVZuZE1pYnYzUmtGQXN4MVpBVXNfVmM0ZWNneDFKOWF6M0xwU1BRT0s4Tk5xdXd0ejhwVEJn?oc=5",
         "source": "Athlon Sports",
         "timestamp": 1787689384
-      },
-      {
-        "title": "HoYoverse's cosy life-sim game Petit Planet is releasing in Winter 2026 - GosuGamers",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ0MyREpwUlQxMDV4S2hzY0JYTGR6SlZZeDMwbUhQOXpRblBWdjJQQUx1VVFQQXJHUnBxMzh1Z2tMaXZuLXRVazV0NUJhVTNzbVJEZFBIM0dSZGtpZFZrTlEyQjBIMV8zcmwwQzBZa2JHSEdCN3l6cnoyQVI2aUZ0a0hrOGlNMXVvR0VyTmZSbWpLQmkzdERINnRxbHhWQ1ZMaGpGN3hKYXN0LV9sdUk4Qmc5MFhXaEd2a3VCNDcwcTI?oc=5",
-        "source": "GosuGamers",
-        "timestamp": 1787689058
       },
       {
         "title": "Free CAS Items: The Sims 4 Patch Overview (August 2026) - Sims Community",
@@ -962,6 +962,12 @@
         "timestamp": 1787687607
       },
       {
+        "title": "Schell Games reportedly lays off staff - GamesIndustry.biz",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HVDZFWEp6bnlab2cycmNhWDY3Y2R5S1dWRGV0ZE4wYmRxUnZiYnNrUXRfTWVtUm95SDNMdDN2NmtYMTJ0SEQwaElDaU5rZktkczh5SGVwVkRoSXpsY2tzQzJNRmwtbE1UaUE2S09QMGRUV2l3WlVr?oc=5",
+        "source": "GamesIndustry.biz",
+        "timestamp": 1787687119
+      },
+      {
         "title": "Path Of Exile 2 Is Finally Leaving Early Access This December",
         "link": "https://www.reddit.com/r/gaming/comments/1vya5p4/path_of_exile_2_is_finally_leaving_early_access/",
         "source": "Reddit",
@@ -1026,12 +1032,6 @@
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lcHBpaS1RWW05OEQtYmxQTl9XZzU4eGJKa3RHeDl3bUlFb1M1YkNjTjVGRm5NOWs2U3dHVW1MTEpJTmZTNWRHOXdOdjQyVHFGWlhUOEt5anh2TjkyLXFJT3VIOUV4ZHJDV1p5cUFxbDZfY0JkVzdfT1NIR3I0UmM?oc=5",
         "source": "Pearl Abyss",
         "timestamp": 1787682300
-      },
-      {
-        "title": "NODUS FALL - Reveal Trailer",
-        "link": "https://www.reddit.com/r/gaming/comments/1vy7m10/nodus_fall_reveal_trailer/",
-        "source": "Reddit",
-        "timestamp": 1787681476
       }
     ]
   }
