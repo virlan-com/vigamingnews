@@ -1,18 +1,66 @@
 {
-  "last_updated": "2026-09-29T19:06:54Z",
+  "last_updated": "2026-09-29T22:57:16Z",
   "data": {
     "top_stories": [
       {
-        "title": "Naughty Dog is working on new The Last Of Us 'projects' - Game Developer",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM3ZzeUVqYlJJRmg1MjJhVFRkd0NTMzlpM0N2UXBxN3F5NGVzYmZhUktBM3loNjFqYVR2UWZHVFQ2MThZWV9wTDJIVHJ3MllKbVBXeF90NVVHcV9DYkxRUG9NdDJTN3FwYmZhZ1M1U2YxbHBSaGVZZWJwWlZaNk5FbEVXWUstOVRLVmROVXdxRlJNZVhVX1lF?oc=5",
+        "title": "Steam's discounts and events tab will soon be fully algorithm-driven - Game Developer",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd2RIVmJTUldGZENUdFB5YWFDc29ydi1IT0Zzc09XS0RfZTZoSjJZM3J6T2JtbEtRaTkwa3dHWUdiZzU4cmU2ZTdsbW1RY21WdTJEbE9COEFfbzM3NkxUeDM3djJ0VmwyTzZtSjZHQnN4R0xXUHoySk8xU0pycUg4bWFUTWJrYzBLWFk3V0VYNkFrcmRYV3BSQVd0Yy1DMjFOTTY4?oc=5",
         "source": "Game Developer",
-        "timestamp": 1790707090
+        "timestamp": 1790717411
       },
       {
-        "title": "Hard Rock International Wins Land-Based Operator of the Year at 2026 Global Gaming Awards - Morningstar",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaTBXeXlaYzcwWm9iX2V3MDdaVEV3c3hFTnNOaHpDbHkyX2hqaVBRTzdubEFvMl9PT3ZYQjQzTWVHcmVOTjBrVGloaTRTS3k1QzcwWjU1bzJVNzhhdXRLcWZEeV9nREtSTEVfYVIzbUlxa2Z4N2xfR0FBUmhfcGFxRzZTbkVDeDRUR3luWEpwOXF6aGNIckpDejFPVmlQbVBqWWdqcFI3Z0gteV9VaUFlX3J5NVdUbk02RVVEcFFfWmpjSTN2YWJlNHBuN3l1eFVYOW8zenZEazF1ejhSaTFaUVZfT1A?oc=5",
-        "source": "Morningstar",
-        "timestamp": 1790702220
+        "title": "G2E: Internet-based skill games are a different creature, panelists maintain - CDC Gaming",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVWFYbjdkSDdKenZBemNXT1R4QVNXaWFKNzVMNktXWVg5akpYYzg2RXp2SlBXMTVORGdxcHF6WUlRTFlNVmRON3ZiY0E3X19WVDJDUjlJd1dLSHNsR2FmMV9qeXFOSV9xcDZSVDhPMkNRM3hCelVTMDZsVXh4LWpIMFhpS0VhbGRSWjZ5NGd1dWwtSUl2aFcxSWxMVEFPaGxDc0Fj?oc=5",
+        "source": "CDC Gaming",
+        "timestamp": 1790715845
+      },
+      {
+        "title": "ICE Barcelona Registration Opens as the Global Industry Prepares to Head for Barcelona - Gambling News",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQemxnTzd6dkc1anpGdElJaTFfSU9DTklQNUdKcF82OGlDaWhGaDg2UlhuWVJ5UUI0QWhTSk83ZG96SEJHdURla0gwQTZ4alhqdnlmd0RXV0dPSGpocS1Qd0lickJ2UGFuajc3SHdhcHNpaVRHYUdNQnhxVGg1WlQzOUs5RGxKVTQtRUg1dmZzXzZNVlg0TWtnVVJPOGhmT2dzMVZOWFZsM2lMbWpYc1hNSGpETjF5U0FvOC1UMXh3?oc=5",
+        "source": "Gambling News",
+        "timestamp": 1790715315
+      },
+      {
+        "title": "G2E: Las Vegas, prediction markets dominates industry discussion - CDC Gaming",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTlc1eFFtOUloMEM3SEZkMm5DVGM2dllQMUhVSHU5SFNaUUdjZC02MGR6QUdYVTJzVmNfM0pmblAtSWd6NDU3bFpiOW1VMFB3R2F5ZWpaZk5IcTRPNlpGX0VfWFhxcHoyczktbU1YZFZvdTBCc3dCaE9HZzJ1WVk3Y19hRDd5UVdDeFkxM3VR?oc=5",
+        "source": "CDC Gaming",
+        "timestamp": 1790715055
+      },
+      {
+        "title": "Casino CEOs Warn Prediction Markets Threaten State Gaming Regulations - Covers.com",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdGtkU2dmWDNJR3JwbmhHX0QzN0RZcjdpeTVRVU9uYVJJb0ZVMW5sQjVhWU5yLVlwSThwbEZZdjh2SThhVldncDVNd190X01vT1hmRDkwTS1wZjN2VzFkUEZaQmhFWlcxakNyWFgwN0xyUE45QzRyTTZuNWdZN2QzQzM1c1A0M2NWbTZHUm9MckdKUzN4NzhuTG1BTGVwLVE?oc=5",
+        "source": "Covers.com",
+        "timestamp": 1790713740
+      },
+      {
+        "title": "Trophy Games completes its biggest acquisition yet by purchasing Playrion for $2.6 million - WN Hub",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WcndrdlBTYTFsOFlBaG9XZFRyaFFyRmRsS1lubEllODVnV2wzMk1OXzFYeGtGVVkyOUZ2eDR6SzBRM3p2cEtmRjM5MWMySTg?oc=5",
+        "source": "WN Hub",
+        "timestamp": 1790712495
+      },
+      {
+        "title": "Former Dying Light franchise lead joins Bloober Team horror imprint Broken Mirror Games - Game Developer",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONHdmWUFZVjFQdTFubzJzc0VLU1hKcUotWUxYT1F0eTROeTY4N1ljVk51Y3pFNlh6ZjhlZ1hsSGZDeG5meGtuYjd0eF9CbkRwaXZGVU53eGtQNmpSNTVCUW1pWTM4RzZJRUJUVzlwVFU0M2Jrd0FkaDVJMXJUWXFudjVLMkVPWVYyaEI5T1lNR3M4VUgyLUJoLXF2UERxTy1SSFBNMjk3VnphOVhZLU5TR1JwVmpqSW80RHd5aDA2UHI5b0pS?oc=5",
+        "source": "Game Developer",
+        "timestamp": 1790711993
+      },
+      {
+        "title": "5 FanDuel Leaders on Responsible Gaming Across the Business - FanDuel",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWJBMm9CUl9PM05WQUlqWFFCYWJ4b3gxSjdhWVBBekhkSnpNeEk5WWlVeVU2bVB3UVBYU2p2TllBRDZ1a1lrWnZFeDZMQ1BydFFrbWtjZmoxNHhIb3FMaVd5bzB4QmRtTWVKdnlwV1VzUEQ2QVdUbHYxemw2MlVCbVRQWjhhUHNfdDcteFlKZXNxdkZrTnU4ZWVB?oc=5",
+        "source": "FanDuel",
+        "timestamp": 1790711015
+      },
+      {
+        "title": "The Best Of Times, The Currywurst Of Times - gameinformer.com",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdzdTUUtqWkhtSEVYV2drNGpJelZzbFhJVDhHNmpEa0NKWmpGQVZfaTV4NU55SVdfUW1xUjlJQkZJR2JOU19UektLTjQ2YTF2S3RJWjM1UF9NUzdhWWZ1eXMtenQ1dGgwTjZOTmVFbm9Fckc0VzYtYnk2RHJqR3ZsWUt5THFTYnZFelViRV93?oc=5",
+        "source": "gameinformer.com",
+        "timestamp": 1790710276
+      },
+      {
+        "title": "Four years in: How eGames Lab has helped Portugal’s games industry grow - PocketGamer.biz",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSGd5cXNPZTJibjFMU1o0M0ZMVnA5QWljMEtWamxhYWFkWDg4WDBvdGg5OWo2eENtOU1XXzRBMlFyZVhoaURtcTNMYXYtdHkybGpNMERlWnhRdEsyRE11eXpMY1YxbklHZFNjd3VLY1ZJRm9lVTRlUHNzUkQxTkMxUmI3aFh5VHFla1c2Q1ZBZjFlRDdfM2tRRmY4Zk9jZmM?oc=5",
+        "source": "PocketGamer.biz",
+        "timestamp": 1790708520
       },
       {
         "title": "Another Country Wants to Oblige Publishers to Preserve Digital Games After Server Shutdowns - ixbt.games",
@@ -21,34 +69,16 @@
         "timestamp": 1790694179
       },
       {
-        "title": "Sales of TMNT: Splintered Fate exceeded 1.5 million copies - WN Hub",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SbFVWUzNlMXR1NmxTajhfSWhLTUY3MnBfUnY3c2hseDVxWGItN0N2NnlTYTNvSzRIdndsOHh5QUk5ME5FZlBtYjZOZ3c0ZkJrNkE?oc=5",
-        "source": "WN Hub",
-        "timestamp": 1790691059
-      },
-      {
-        "title": "Quapaw Nation names Rod Centers CEO of Pine Bluff’s Saracen Casino Resort - The Arkansas Democrat-Gazette",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZFhYcDNxbVNHQURhU1ZqMFlZblN1OFlDMkU3UWhjR0hFbUVGTUpJc0dTbmM3RUk2ZThpdmJBbDVENnlFVGpOUW5XaHVmTEExUTFaMUVFMkowZkV6ZDM5cnNLWmlyZmRBVjhXZFIxY1JQWDNkanFjSzNMRVF5T0lRRWZoLUNoR0JjamQ0NC13NGRVb011VE5V?oc=5",
-        "source": "The Arkansas Democrat-Gazette",
-        "timestamp": 1790689080
+        "title": "\"Why should we just give up the entire month of November?\" – The indie games going head to head with GTA 6 - GamesIndustry.biz",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVGhqY2pTYVhLN3ZHa1RHRVJWNjdyQTZQTHA5NkdRM3lKQ05uZDM1M1R6UmFwQkRzVC1kVWxnM0NIZXRBdllzVURkV1gzZE5sblRfOF9KVTZ4a2kzVUthVGRXQWVNTWZ2UjdobzdnVHdaLXdpbEljWjJjZ1psaFhCZlJWYTlwVDIwX0ttRGpKZUZtcmxzVnVxajFvY2wtVDQtLUVfZjZmdjJuOEw5MVhfTDA0cXc0NFU4U3NVblN2OFI3eXQ4YTF3YUhaTQ?oc=5",
+        "source": "GamesIndustry.biz",
+        "timestamp": 1790685000
       },
       {
         "title": "How to Develop a Game Alone for 9 Years Without Going Crazy? — Interview with the Creator of Master of Luna - WN Hub",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzYWVJQkQ5OVdzb1FpNlRhSVVfcGVhd2RPMUFDeW96NG16OHVQZWstY1BkeU0tOENwS0s3UWdEcFkySlhYWF8zVWQyaHkwTk0?oc=5",
         "source": "WN Hub",
-        "timestamp": 1790688588
-      },
-      {
-        "title": "Saracen Casino Resort Names Rod Centers CEO Just Days After Firing GM and CMO - Casino.org",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jTXltdVZiQWJvTmFoLXBLQ1R0bzNQU0RtWlEzVmJYazg2eGpmSlN2M3FRVkRvemVxS19pV2lKSDRCbURZREF1SDltaWt0TjJvdjh0VmZTVWs4Yml3cGR4QTBSZTdSTTM4OWQyZDVPNmhVZG5PLVAya3Q3MXQ?oc=5",
-        "source": "Casino.org",
-        "timestamp": 1790686422
-      },
-      {
-        "title": "\"Why should we just give up the entire month of November?\" – The indie games going head to head with GTA 6 - GamesIndustry.biz",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVGhqY2pTYVhLN3ZHa1RHRVJWNjdyQTZQTHA5NkdRM3lKQ05uZDM1M1R6UmFwQkRzVC1kVWxnM0NIZXRBdllzVURkV1gzZE5sblRfOF9KVTZ4a2kzVUthVGRXQWVNTWZ2UjdobzdnVHdaLXdpbEljWjJjZ1psaFhCZlJWYTlwVDIwX0ttRGpKZUZtcmxzVnVxajFvY2wtVDQtLUVfZjZmdjJuOEw5MVhfTDA0cXc0NFU4U3NVblN2OFI3eXQ4YTF3YUhaTQ?oc=5",
-        "source": "GamesIndustry.biz",
-        "timestamp": 1790685000
+        "timestamp": 1790683810
       },
       {
         "title": "Amid Mass Layoffs at XBOX, the Fight for Equity in the Video Game Industry Continues - Nonprofit Quarterly",
@@ -57,48 +87,48 @@
         "timestamp": 1790677868
       },
       {
-        "title": "Vindral and Gaming Support launch first GLI-certified Green Wheel - European Gaming",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPay1BMGVreDdSXzlyZmVRWmh0cXFSSExsWnNJWGdlbXJ2M1l3d1B5NVlQampEby15QU9MVUdVOFduRUtadXdRbWJGZjZPbEVOdlUwTWpqRDJubmF1TWVOQjNuQlNTRVJjUlJBakxkLWxZYTJtTVVjTnJpaHloY09oc1ZndnRpcnlhMnBmVXdTaGlnQ1BkSmk4NlhhTmZXbGlHaHlDdjRzLTI4bHpt?oc=5",
-        "source": "European Gaming",
-        "timestamp": 1790668595
-      },
-      {
-        "title": "Fireteam Elite 2 Layoffs Delay Switch 2 to 2027 [2026] - shattered.io",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qSWdIdFdzZE9YQXhfVzRtZ0lLOFNwS3BVS3FERHBweVBCNUs4MmZGbVNsTVhicWNzcFVSbmFSRS1CUVk1TjB6MjB6bGpSdmhOa29vSVNDYUl6a0Q4RFNNa19ESGl3X255UVB3aDAxUVVTcVdaSGRmbHdPdw?oc=5",
-        "source": "shattered.io",
-        "timestamp": 1790651848
-      },
-      {
         "title": "No Gaming Industry Figures Named for 2026 Culture Committee Audit - Inven Global",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN3hpVlo3S1pjNTgxSnJUUGV3RlowTEpZdC1HXzhHckg3OXdYNzROR1IwZmREMmFMOFhrRk1rRVZoQkZGQ1QzYVZPaTlodlJFN3RIM0hjR0xKaG9iTVk1bi1IdDhxMWU5STIxU09yaTZhMzZudnA0Ukw0TVpDTGlvSWREWk5xb3NaREtrcU1fRUhueF8zNWZHOGdzaGtYRGFzbWhGWGtkN094QXlr?oc=5",
         "source": "Inven Global",
         "timestamp": 1790648503
-      },
-      {
-        "title": "Today in Gaming News – September 28, 2026 - Simulation Daily",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fVU9LU09XaEFOeFB6bXh4YUszVTJLWU55bU5mLTBmQjFtSklOUE5JSUFVekdQR2VxY21EMU1FLTBUYlVRR2lOSFJPMGVSaWFDclo3RnV0cVFibDRfVGlPUHpJNzJnYWdkLW5UQzVsS3dBYU45RE5hdmFPTQ?oc=5",
-        "source": "Simulation Daily",
-        "timestamp": 1790645898
-      },
-      {
-        "title": "Aristocrat Gaming™ Honored at Global Gaming Awards Americas with Class 2 and Class 3 Land-Based Supplier of the Year and Slot of the Year - PR Newswire",
-        "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNdm1tQVAwcEdpQUJQRU5uT005d2ZFc1ZrcFhDUXJud2Q3RU1EUWhBejducWtaTUdHT2xFZG41b1dvWU9fQ1JfcWxQTEgzeWl6SWk0YVY0YVlBWU9XNVJsNFZ5VW1UM2hxeFdldDh2dl9wMllXUF9aNDJQdjVhbEN3T2liXy1iS3JwZEtBRHZXNkNnaWtTR2xyNnFhVE5UV1B3cG9LSE8xVXpCZXBBN0ZWMUloenFJRE5SV2RUR3N1TU1fUE9TS2VqamlOWnMzd2FUdGt2NERaV2REVUlBVzJOUlFVS3NGbmthYW5NRzA1QWtoRkJ6RjB0dmNSODI3WXBEV25ySUY0Zmd3MzRpOV9LNnAwc0lMU2I1dThicg?oc=5",
-        "source": "PR Newswire",
-        "timestamp": 1790635740
-      },
-      {
-        "title": "G2E: Gaming industry should take lead in responsible use of AI, panel says - cdcgaming.com",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT3dZNlNRU3ZlbHNjSHBVQThlWXhad09wQ2Z4aXBJdUtEbnFlaGV5SWhRcE9UVXczN0ExN3MwWHJNdWlfWWJIV1luU3VjSkE5ajlxN1EwVmxKRU5kV0RJUE9wdlJ4Sm15SUtCX3dSaXdNT2ZrNWJoRW9oamJWTjNuQTYwNG9zbXpDNzJIWnNqbTAtdlQ2WmNUVE42OA?oc=5",
-        "source": "cdcgaming.com",
-        "timestamp": 1790629170
       }
     ],
     "viral": [
       {
-        "title": "What do s&box’s issues (so far) tell us about launching platforms in 2026? - newsletter.gamediscover.co",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaRmtPRUVsLUowOFhTd2xWWTJ0bDhQVUtLZlVQT2hpX3lUUjdBSjZSeE15bFVpSDFyaVVrQ1RYVkdIZ0pia3JuX19kUUtycVFHTXJwSWk0NXBYQUpiTTROZnpiQ0NicWFYam5fcWExQVNOT3FXMllBXw?oc=5",
-        "source": "newsletter.gamediscover.co",
-        "timestamp": 1790706410
+        "title": "Asian Games 2026: Vithya Ramraj's Stunning Final-Leg Acceleration in Women's 4x400m Gold Goes Viral - Asianet Newsable",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVW9qUlpIVGJnRkVfdUNjT2lEYllqQzhVUVA1OEl1MWk4cS1hWHZjTHRBYTl2b2hmU2VSZS16SnprcjdnMjJMaHFYZURQbnQ2QUoyUU56STBVZDZWS0FqRWRLZTZ5eVFaX3IxdTVBemtHNk55Q2V2R0NxcGEwcFdnLWlQTENOZ2xBdXc3eTZYQ0VZaXdYTFlvUUUtLVhjdUxsMHBIYWZQZUstN0NxNmFxeFdyUlc1VTN5M2JDQ1VDdW5XZ29ERkwyR3I4QjNnd3BvWkpYSVlBYlRSekpZc0VtTTJ6cnJ4cVY2R0VBX9IB8gFBVV95cUxPSjl5ZzlmdzhZRU1XaTFlc1ZlQ1Q2QkdheFpic1ZEN09GNlFfX25wVE5SdDdBNlVMSzJNNC1pSnZ0Qzd2V3VQSjdyTEk2bHBqSVVoWXJfOVpfWnlQVVdjdG1RSzZSZ1RDaUJ2SzdtanlOSTFWekhFdFc0ZzRuZ3U5ME1NR0o5cGpkTFhGazZXYkdQVWtndVl4bnFhdGpZek4tQ3FaNHc1anRHZkx3VGFLdXhINVZScW1fUndmTjE0cldOekt4UHFLNnEzTWhsNFJ5Wmt5eldTaE82d3dCZzVBMWRiOC1KUE9UWC1pcVlRMTN6UQ?oc=5",
+        "source": "Asianet Newsable",
+        "timestamp": 1790718560
+      },
+      {
+        "title": "Month-End Retrospective",
+        "link": "https://www.reddit.com/r/gaming/comments/1wtm9du/monthend_retrospective/",
+        "source": "Reddit",
+        "timestamp": 1790716209
+      },
+      {
+        "title": "Asian Games 2026: Chinese Swimmer Li Bingjie Pulls Five Gold Medals From Pocket in Viral Moment (WATCH) - Asianet Newsable",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPU2hVa2VEWmVUWkhneG1zVl9SR0duNTlpUkZIeVJDcFg0blBxOVVxbEd0V29HOUFkbGpOSnF0ajRSQUtTQWtvcndKQk1IWEJzSnRISURfTEluOVZSV2dNR2JyQWE5Y2h2ZHIzMlhXeUIyQ3RmRUkzb1BnVmVJVVA2YmJvU1U1LWRPMmRCYjA5MS1wRXFWR2YwMHhOTmRSbXhrRjNRdjlLbUdmY2lSUGl2NDhuRnptYUE2dlF5QzV2X18xYWNXQ3RFcU9tUmFVbktybUs2TXluM01weEdIYkNJeUZDMDNYUUprWmZ4dERLdlhld9IB9wFBVV95cUxOcVUwQllaVWJsWE9lUDk2V2FRdEVia0VXMHVJZGlBY01rM2xLNm0taXV5SzVrM1pfWWZ3TVFKSWNuT0RXX0paMjhSbUxzU1pBaFNPakZhVDExM2JPVGJOejllWnh1WkNScUZzN3NYTTdLSHRCRFI4eUNmLUZBRGtHUmNacG5qR005Qnk0TTc1MHUzTVk2Y2R3X0liVWpWaWFhS21lWlJZYkNHWkdQd0Vrc0tCdE9UdFp4WTI1b1l4eHh6WUZKLTh0Zk02R1lXNkE0ZnRCakhwOVoxOHZLbmoyZFV0Ql9DSHRvQWpnQU5SWk9ldXV6alg4?oc=5",
+        "source": "Asianet Newsable",
+        "timestamp": 1790714737
+      },
+      {
+        "title": "City Never Sleeps - Deadlock",
+        "link": "https://www.reddit.com/r/gaming/comments/1wtl64n/city_never_sleeps_deadlock/",
+        "source": "Reddit",
+        "timestamp": 1790713659
+      },
+      {
+        "title": "Guillermo del Toro confirms attempting to adapt 'Bioshock' into a movie: \"You know, I tried...Adapting it, BioShock, we had a couple of calls. They are probably one of the most disastrous calls I've ever had. So no, fuck no.”",
+        "link": "https://www.reddit.com/r/gaming/comments/1wtil0a/guillermo_del_toro_confirms_attempting_to_adapt/",
+        "source": "Reddit",
+        "timestamp": 1790707773
+      },
+      {
+        "title": "'007: First Light' Announces a Free DLC, Launching October 1st",
+        "link": "https://www.reddit.com/r/gaming/comments/1wthwaj/007_first_light_announces_a_free_dlc_launching/",
+        "source": "Reddit",
+        "timestamp": 1790706215
       },
       {
         "title": "Shuhei Yoshida Says Sony And Nintendo Should Keep The Current-Gen Going For As Long As Possible",
@@ -119,10 +149,10 @@
         "timestamp": 1790697555
       },
       {
-        "title": "Viral Steam game is GTA Istanbul with kebab deliveries in the 1970s - dexerto.com",
+        "title": "Viral Steam game is GTA Istanbul with kebab deliveries in the 1970s - Dexerto",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeG1sdmhZZDgxRG5hdGVuMUJHa042UnQ5ZjI2WE1FQS1VM0o3cDZHcGFySlNySkVvZ2cxbFZVZ2NSbDRKZkZpX3dtYUtPN2dpTXF6RlRLb3d0YlJPZmpsdUJUNkhESlVRY01weG0xRWZ6cHo3c0FObjFIbWhXcTl1bkFnQWlPanFRdWVVT3BPVF9tWVBPWFgtQmtaYm91eXdjalhlRFlGSEFucFU?oc=5",
-        "source": "dexerto.com",
-        "timestamp": 1790696770
+        "source": "Dexerto",
+        "timestamp": 1790695626
       },
       {
         "title": "Fair Collector's Edition",
@@ -131,8 +161,8 @@
         "timestamp": 1790693944
       },
       {
-        "title": "Ukrainian tourists sit on sea turtle in Oman, viral video prompts legal action - Hindustan Times",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY0xGcmRXUGZiVUNQeUpoQjRzbXlabDdydV9tMmM3eE1zS3FrV0tzeGpZTHpkOTdjVF80cUJTLThtRGltazR6Y19GM1g4TVdnZy1Xamc1b1JzbXp3bTU2eEhZckJEMDJxMjJtVTZvckwwejZmcW83Z0ttSVlNYmpjOVNORzBNa3NldmMyQ3RZOHV1V2R1NXpBZnk4bnhCR0xoZkppd3M4SDl1T0NiVkt6SmRvUjRseEQ3dlg2UWpkRXZjM1pjWmRSN3JTYS1Zc3Fybnlneg?oc=5",
+        "title": "Ukrainian tourists sit on sea turtle in Oman, viral video prompts legal action | Trending - Hindustan Times",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY0xGcmRXUGZiVUNQeUpoQjRzbXlabDdydV9tMmM3eE1zS3FrV0tzeGpZTHpkOTdjVF80cUJTLThtRGltazR6Y19GM1g4TVdnZy1Xamc1b1JzbXp3bTU2eEhZckJEMDJxMjJtVTZvckwwejZmcW83Z0ttSVlNYmpjOVNORzBNa3NldmMyQ3RZOHV1V2R1NXpBZnk4bnhCR0xoZkppd3M4SDl1T0NiVkt6SmRvUjRseEQ3dlg2UWpkRXZjM1pjWmRSN3JTYS1Zc3FybnlnetIB2gFBVV95cUxQU05nSGo5ODJMZ1cyYlBnUTZwYlQyNjhxU0FuTFMtR2NkdXZub3VONWlBOEZXQmIxc2ZTV0plOC1jU0Zlc0xnTy1heVNnNkh0QWtDZHY1NXpXTlVTakZHRUF5ejV4aFI1ajJKdWd0V0l1alphZWFTSjZDb0tEc1BaSUFkaGVTTExYUnhBaVdKd3ZaQWtwNzVYY1FUOXVleGVLNHk4WGM5LTdzdTJBamhRTnk1aDBZODRCNlBQOEtDcUdXMVpCWVl4a1JlVm9VcWY2NDlfRWs3ZV9JZw?oc=5",
         "source": "Hindustan Times",
         "timestamp": 1790692510
       },
@@ -167,12 +197,6 @@
         "timestamp": 1790682757
       },
       {
-        "title": "What game with physics has the heaviest/fastest physics simulation?",
-        "link": "https://www.reddit.com/r/gaming/comments/1wt7vhe/what_game_with_physics_has_the_heaviestfastest/",
-        "source": "Reddit",
-        "timestamp": 1790682241
-      },
-      {
         "title": "Watch: Neeru Dhanda's coach's wild celebration after historic gold medal at Asian Games; breaks umbrella - SportsTak",
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQTmNOVHZYWU9MNkwxOXp6dWhCeGh6dGRTbGNSUVBlRkI1SmE3X0UyTlRjeWlaRXZkU21EOW9XWEpOR1ZvU2prU0x0cG0wb3Z2MFRZUE5zU3hnSUxUZTVFWmdKMTFMcE5vMEw3STVZVG1mLVhTdEJ0QmdJYTQ3Smgyc2tfUWFEcGlWcDJwOXk1SHMyS0hfZHVNM0lyUFNmVVBBV1JTRHU0MzlYZU1INU9la1ZFN0ROaUZ4M25FYVhkazR3Um5fZmZTVEV0dC14eFhVUWlUWDNQcnZ2R1oxOFUtcTQtM2tSUV9RNnktdGd5ZGZRZkxrVmNXY0tR0gH6AUFVX3lxTFBOY05UdlhZT0w2TDE5enp1aEJ4aHp0ZFNsY1JRUGVGQjVKYTdfRTJOVGN5aVpFdmRTbUQ5b1dYSk5HVm9TamtTTHRwbTBvdnYwVFlQTnNTeGdJTFRlNUVaZ0oxMUxwTm8wTDdJNVlUbWYtWFN0QnRCZ0lhNDdKaDJza19RYURwaVZwMnA5eTVIczJLSF9kdU0zSXJQU2ZVUEFXUlNEdTQzOVhlTUg1T2VrVkU3RE5pRngzbkVhWGRrNHdSbl9mZlNURXR0LXh4WFVRaVRYM1BydnZHWjE4VS1xNC0za1JRX1E2eS10Z3lkZlFmTGtWY1djS1E?oc=5",
         "source": "SportsTak",
@@ -185,37 +209,31 @@
         "timestamp": 1790677984
       },
       {
-        "title": "Bengaluru girls and auto driver get into physical fight over fare in HSR Layout, video goes viral | Trending - Hindustan Times",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOTlGRXAyNmt6WVpLd0wwWWdVRlU1dUtlSEN4VGtDOGtSNmxSYzFITXRodzNVN1FPREJLMDV0bTJNX0w4TE1LQ0pPcllGTGJXbXpDX21UbktCbzFvOVY3UjdhSlFyRkd4b2d2MnB0b2NzSVF3bzl6WGhrTEpualZNdkE5bHRDdWlKRkRhQzc0U1dPdzkzelQ2bWYtczVtcjdiVjJjU2NVU2p6OEpEUi14clRsWWwwMnd3N1JWc0o1eXlma3JRREVlU3lQTUFnLTMyT2gyNk51aEx1MDYyNVlHbHZzM2ttdHJEMWt6Y3Bn0gHzAUFVX3lxTE1TMWlYemNyZ0tPblVFQkdkTzNzRnk0SjZpZDIzWWZUcmdjYW5kTFhucHl6bjBOSHAyRVI3TmVUaFF6c3dlUElyNjBuLVFlSWJOWWhtamdsN25yd244cmNSdl84YUJ3eW1zUUh3S1pPMFpXZmZJclgzSlBZa2staGZEUHN1QmUtbFNGR29TOE9ENjZyTGQ3OURSYndFMGdQTXVrOVFhemZOVE9NS3EybG4ybVVjWmE5TlJWcDltNWpSbV9pZVBXSW1tbUNscmRybGlSQ29IU3JJMVZIdDAwb0xySVA5STU1bENZalVMYVY2eVZabw?oc=5",
-        "source": "Hindustan Times",
-        "timestamp": 1790676083
-      },
-      {
-        "title": "Bengaluru founder avoids ₹4 LPA CA fee, discovers unexpected hidden cost of cheap services | Trending - Hindustan Times",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUlNQR0FlZWFVX3B4R2NhaXcxVUR3NVMzSmgwbktNd2NKRWVrcU1kVU5sVmdSX0NSNFA4cmdQRVhGXzlWbHdXa25YTDJjNnhxZmo0UlhHMndoa1JzSDNrV3MxRzRjSS1ZZUlDcWMtdnFCVEdwQnhnclFfY1djSVVuWWdtbWgxbTI2Unh2cFFpWnJ5S3dUYUdmZnhEWDdaQ0lkUVJRamFvS1RhRXFEZHpZTXRjUlZLbWdJMWZWWTBqNnR3cjZuSnplaTdGT3RsM0Z0VDlvNE1md1ZKckFRSF83SlZkTdIB6AFBVV95cUxOZTFpRXE1U2lPUW1naEVLb2JvaVJDQzJUUF9obDRSaTgyQURGQ01hNUNEc0lVY3RXUHgyMkZKUW96cEp6MDIyNGFMMTk0c25nZ1FCaDNka1ZjN01Yd3RiMGdFd3pyTkJsMWhrSmJyTVloV1JTYUdKUzFCZWdxNC1CVDlPd2ZnLUJicU1ia1pVbVkwNV8wWFFoLVVOZ2JfQmNBLWdNV2ZDeXpHamRvcTI3Y3hqcTRDUGtUdUpaUm5peENlTWQ1R3Vwc01RWkFIWWN3dUprbm1yR0hDV3ByNnBZV19qMTZpMHVR?oc=5",
-        "source": "Hindustan Times",
-        "timestamp": 1790675570
-      },
-      {
-        "title": "How Lagos yellow buses became the star of a Nigerian video game - TechCabal",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTTBNZzVzbldNMzBNOF9GVVFHT0ZHYm5JUjRFZGRQRmp5bmlsVUwyOU0wVFVzV1dvcUljWjBmR21QVEszVE5RSm1xaXJ2WjFrdU9GZmdtbndCU2VoMEFJdGdmZFVPSEgySnY2b2Y1c3c1S2pPcWwzaFFFbkd4Z01kaFZwV2p2WWFGLS1UMVIzZFdubU9fZV82NlF3VjQ4NE52NUJR?oc=5",
-        "source": "TechCabal",
-        "timestamp": 1790674289
-      },
-      {
         "title": "Sports News - LatestLY",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVEtzblRQS2VjVTdBODNYWFBGcjREMi1iVG9Od01kUi1hdWp1SHo3bFo3VmhtTF92VUtEZ0FjRW5FYkt4RmVuTUFuaDZJX19vZHVfRkRBY2JGQnFqZlduTXJmVVJvMzR2SXF0SFJqMTFOQ2twcUFRMjhKWEJCU0lIcmwzaDBhUFhydnliTDlfTG1lOE9UNmlFbWFvbWlmZl9zZ0E0NW5qeGR4TkRmSWtER0tYeE1iMnJzVG5HNkpXS2tsQzU1YlVMYXpKZjFPTnIyRjR1YzhGNVdVaHMzaGdPelQtZE1YbDRWUDd3TmxDeUxLUHliTVHSAfYBQVVfeXFMT1RLc25UUEtlY1U3QTgzWFhQRnI0RDItYlRvTndNZFItYXVqdUh6N2xaN1ZobUxfdlVLRGdBY0VuRWJLeEZlbk1Bbmg2SV9fb2R1X0ZEQWNiRkJxamZXbk1yZlVSbzM0dklxdEhSajExTkNrcHFBUTI4SlhCQlNJSHJsM2gwYVBYcnZ5Ykw5X0xtZThPVDZpRW1hb21pZmZfc2dBNDVuanhkeE5EZklrREdLWHhNYjJyc1RuRzZKV0trbEM1NWJVTGF6SmYxT05yMkY0dWM4RjVXVWhzM2hnT3pULWRNWGw0VlA3d05sQ3lMS1B5Yk1R?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOeWFjWjZ0bDdPX1lnYkVtdjVwOWxYemU0dXRRcVEwVGh4UXA5ZVZHSmk2N0diM0l6QlM0QzVwYjdaSW9xTklyVEY4MzNHN0VXdUdtUUNFa3ZiNWFBcUFfMjUzd1k0WlF5eUpidHV1N1VGREN5V1dHMzZKSFFvY3lGT1RsMGRtR0wyNzhaM2xELWpPSGZIT1dHZ09pUkRXWE5XNk44MElGZkE1OG9Vbm1sc2dCMm80TC1hNFM3NENDd0cyMlhBTEhEYlROWVdlXzVJcEJ0ak5zbkJmaVhBb1BCV3lzOE1nVVpfQUJKZ1lkRXZkd2ZKeTRVYng2a1lzckNGN2fSAYICQVVfeXFMTnlhY1o2dGw3T19ZZ2JFbXY1cDlsWHplNHV0UXFRMFRoeFFwOWVWR0ppNjdHYjNJekJTNEM1cGI3WklvcU5JclRGODMzRzdFV3VHbVFDRWt2YjVhQXFBXzI1M3dZNFpReXlKYnR1dTdVRkRDeVdXRzM2SkhRb2N5Rk9UbDBkbUdMMjc4WjNsRC1qT0hmSE9XR2dPaVJEV1hOVzZOODBJRmZBNThvVW5tbHNnQjJvNEwtYTRTNzRDQ3dHMjJYQUxIRGJUTllXZV81SXBCdGpOc25CZmlYQW9QQld5czhNZ1VaX0FCSmdZZEV2ZHdmSnk0VWJ4NmtZc3JDRjdn?oc=5",
         "source": "LatestLY",
-        "timestamp": 1790669899
-      },
-      {
-        "title": "1047 Games has one of the worst fumbling streaks I've seen from an indie / AA dev",
-        "link": "https://www.reddit.com/r/gaming/comments/1wt4bq8/1047_games_has_one_of_the_worst_fumbling_streaks/",
-        "source": "Reddit",
-        "timestamp": 1790669455
+        "timestamp": 1790677100
       }
     ],
     "updates": [
+      {
+        "title": "Jurassic World Evolution 3: Prehistoric East DLC Out Now Alongside Update 1.5 Patch Notes - GameWatcher",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ05oNFozWUVPT0h4T3FzRENkby1senkyMzNGRnpJbEM2eHVUSUhCTnFkNG1RWWlSMUM4dHlBMTRkWjd4TmpOREtEV2xYNTE5WmdGOExDUkNzLW82ZUx1cVphMkhLeW82NjV3TVdNZmhqMDd5NFd5bVU0UVFmRkNZd1lxY2c4V2swNDc5Q1k1ZV8tNXBubGlNY0lIQVdjS1YwRmZfUTlPbjJpOW5xWE90TzNzcEgtRjg?oc=5",
+        "source": "GameWatcher",
+        "timestamp": 1790710967
+      },
+      {
+        "title": "Battlefield 6 patch notes: Update 1.4.3.5 arrives on September 30, 2026 - jeu.video",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNenUwRk1ac2IzZFZLWXJIcmJLdHhESk8wUkppcHlIUThfbGNpUG03dHItVzZlMlNXOXE1T0NsWUNBYm0tTG80cmJlUVc1N1M3UUluV0g0N3RLcnVyLTR4M0tZYUx0M1B1TGZSWGpLc1BudXFfRTZkNHh0d1Z3V0RidEFqVzl1dEp3NWc?oc=5",
+        "source": "jeu.video",
+        "timestamp": 1790709759
+      },
+      {
+        "title": "LEGO Batman: Legacy of the Dark Knight Update 1.011 Flies Out on September 29 - MP1st",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORWQ4MTRCQ1UxVjFQU1k4UmdOaENtMGJTdXFkclFOalEySjlmbDNpOXlTTWNGbHZ3dVBTQ05Yd0Z6eFNqdHhwbktKRVFHUGg3OWxZWlpLcFBVaERRb2s2ZFhKNzV3T0luZHdVclhnbWdFWHRLY2JXdTJDQldUb0hkcjVFRWozWW91N2plTEV0YnFfaG13VjZSWkpDcE16SmZZdU1WQUtGcFdCR21vejdZWEJTMFB3aHg1?oc=5",
+        "source": "MP1st",
+        "timestamp": 1790705108
+      },
       {
         "title": "Aliens Fireteam Elite 2 Update 1.003 Fires Out on September 29 to Apply Fixes - MP1st",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMXY3UGt4WW5wQmh2VVBweElNbGhEMVM5bzZadTJhcDQ3bTNaSzhJbDREaWM0R0RUVnV0QzVUQ1ZqalUxeTUwM2NhM1J3Wk9ZRFRXUmluRU9RNWVWU3hqVm8tY1VUeUEzWWE3OWVFc1IyY1hZNTBWOWZBM0tpampvRHk1cXUtYVkyTUlqM2JiLVl1S2F6amNhYjYtUV9CU3lISHdVOG9ock1QNXRMZkhSSVRJdG1CUQ?oc=5",
@@ -223,34 +241,34 @@
         "timestamp": 1790704125
       },
       {
-        "title": "Among Us 19.0.0 update out now, patch notes – new Ghost Influencer role and more - Nintendo Everything",
+        "title": "NHL 27 Update 2 Released on September 29 for Patch 1.004 - MP1st",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRTV5dFV3UmpSN2VKa2tqeWNiRkJqZDRRZU5zSE9HYjNsRFlPTEJiZmNGVE9CVjFYU2cxUk95VGtXY09ubzlQTDd0OEFBcUowM293dmxEaUhpS1dKdlJ5MGNVRTNfOGhuUWhqNnN0T3E2RHI0QUxaX2lUS3l1MTdHR2hVM3hXZWpQWTZjNDMtSXZtUzVQYlo2cw?oc=5",
+        "source": "MP1st",
+        "timestamp": 1790703599
+      },
+      {
+        "title": "Among Us 19.0.0 update out now, patch notes – new Ghost Influencer role and more - nintendoeverything.com",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWUJyc0NmOHNYZlFvMk9pYzFXc2V3anRVblF6d0VlLWVVbHU2dGpPR1pXMy16MDJPRnRySzYxal9JWkl5MUFfWHdBazlhampRSDZvTlR6NjMxZFNTbHN6RFpBYTY2RXV6d2kyUmhoS0psOUhjc1prS2wwWENYLWtJTkxaQkJzNEEyeWh0U2I0ZHd6MVAzQ0dobzY3Q0RHejJTMWNuTThnU1FQa3RGN3c?oc=5",
-        "source": "Nintendo Everything",
+        "source": "nintendoeverything.com",
         "timestamp": 1790701857
       },
       {
-        "title": "Jurassic World Evolution 3: Prehistoric East DLC Out Now Alongside Update 1.5 Patch Notes - GameWatcher",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ05oNFozWUVPT0h4T3FzRENkby1senkyMzNGRnpJbEM2eHVUSUhCTnFkNG1RWWlSMUM4dHlBMTRkWjd4TmpOREtEV2xYNTE5WmdGOExDUkNzLW82ZUx1cVphMkhLeW82NjV3TVdNZmhqMDd5NFd5bVU0UVFmRkNZd1lxY2c4V2swNDc5Q1k1ZV8tNXBubGlNY0lIQVdjS1YwRmZfUTlPbjJpOW5xWE90TzNzcEgtRjg?oc=5",
-        "source": "GameWatcher",
-        "timestamp": 1790700548
+        "title": "Experts release updated Yankees-Red Sox Game 1 AL Wild Card predictions after Aaron Judge news - silive.com",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd2JWckQ1YmlxMkxsNm1Fckw0cEx4WVhodUVyZTI0ZURnbUstNmkxcEVVbWNMSDRUdFp6VmQ2UGdmbjZrZjhjemxQOElSb1NNVERESGV4b09NdFdlUkhrS2tQSHdha1A4cWZmZ1llQ1NzWGs4cVA4SWdSRlFjQ2x1YkI4OFlHQUxhQk1HME1YU3BzajVzT2x2WUxBOEZSa0c1a0xqZXcxSlpSM1VNbTRmZzg0U3dNVkVXOEhUdjJYeWFsMlhqS013azNvczJCeExBUmFOMA?oc=5",
+        "source": "silive.com",
+        "timestamp": 1790698500
       },
       {
-        "title": "The Witcher 3 Remastered Patch Notes Explained - GameWatcher",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5QnozUE5YckJmb01aUWdHWWRLQUllVmNOV1c4SEw0bTU0dXY3c1pGNXFmZmZvdUZfUWNwM2RHMXhic3ZxUXJkaDJfTm02cWpvVktLWllSNTBMWVVlQ0FCU3ZHM3BPQ2w3R2ZOa250U01LX1dRak1yVkFicUExa0E?oc=5",
-        "source": "GameWatcher",
-        "timestamp": 1790697628
-      },
-      {
-        "title": "Baldur’s Gate 3 Update 1.800.910 Drops on September 29 - MP1st",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeDNROV9MZUJ0YnRrY2lNQlpEUzRteGJyY1NTaVY2Ync3YVhIbHVIZ1hZb0dCb2tKeWNLblZZNjhobVR1bnBTMkJhaWhVdmh1VW9DRVBnaEJaVTVZZnpTNU81dEllSjUxM3ZKS2V4SEh4NW9RNkRQTHNJWDBTUFRFdmpaejZYMlFZUzd5QXdmQ2VXMVJISjVyWHNDX2xVUQ?oc=5",
-        "source": "MP1st",
-        "timestamp": 1790696098
+        "title": "Modern Warfare 4 PC Trailer, Tech Updates, and More - Call of Duty® | Best-Selling Video Game Franchise",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZEFleEJDa3lObVI1Qjk4LVVIRUtYWmlOalNRUHhIeUZzU3ktdmVzUlBhMTZiOEJodE1qUUhFYUxRa25kM3daQV9KZjNLWWhNV1hURmJEV2xGc1ZlOE5VOHVhcndianI3TXA1ZW5kRkRkelNDcV9LbGZMNktVY2FOdzFlS1FjdC1haGQwU010X3RVLUFoU3F0UmVESktYMVlPX0E?oc=5",
+        "source": "Call of Duty® | Best-Selling Video Game Franchise",
+        "timestamp": 1790695561
       },
       {
         "title": "Update 51 Base-Game Patch Now Live on All Platforms - elderscrollsonline.com",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qS1V2TUN4SG81eW5Fdk11ekVDUVEyTnpKazAxWXoxX29XcTdOV2x2SkJZRWozUTZFeGxva0VEV3JRM2Y0ckVsMTFFSDVFNFFIZkJtUDVrenZrZUYtb2lSaXBERFAtMjQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yVXBwSWlyNUlaX3hvdVR1dlk3WEQ5NmpPeW82d3BNUjI2aUh6UG95UzdOQ090YVgyb3Bzcy04VWlYS3RLXzh2TkNYV2VBZ2Mwbjhxclctd3N0WTNtRjlsWHZEOUd0QlU?oc=5",
         "source": "elderscrollsonline.com",
-        "timestamp": 1790690647
+        "timestamp": 1790695108
       },
       {
         "title": "Rainbow Six Siege Hotfix on September 29 Brings Update 3.50 | 1.000.155 - MP1st",
@@ -265,27 +283,15 @@
         "timestamp": 1790690312
       },
       {
-        "title": "The Witcher 3 Remastered Patch Notes - ign.com",
+        "title": "The Witcher 3 Remastered Patch Notes - IGN",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQkZpZHc1TkZJY2padDFTVWh6bzB4S29NV1I4cWpULThhSTNyR3J5aHlRaHVCajFhOVZ6dUx0OHRFN2doTjFyd2E2VUtiVjJKQjNlMFlYaWtPdk5adEI3b1JRZWEySVNNZnFkTWRaYTBEOUlZVVhSQXZkSmxJOW93MFJSQVJkNjZMRF8yc0JHaw?oc=5",
-        "source": "ign.com",
+        "source": "IGN",
         "timestamp": 1790682423
       },
       {
-        "title": "Crimson Desert free combat update due ahead of DLC launch as players 'prove their true strength' - GAMINGbible",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQamhtdGdnZ29DMzk5UnN5RHlBT3cxY29hanFqS0hnRHRpTjlNYWRRMmNIWXloSVlTWTc2ZGdVRkhBMVZ3SzEycUVjX3IzakE4NlRHUGdxYWFoTEZQVThEcXRGY3FZNk1VVi1LZHZjc29JTUQ2d2Zqb3VoOHZGWjZTN08wZlpjSWJVYmxydDlLWQ?oc=5",
-        "source": "GAMINGbible",
-        "timestamp": 1790676000
-      },
-      {
-        "title": "The Witcher 3 Remastered release time, countdown clock, file size, and what's new in today's free update - PC Guide",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQWFyNUVMY250NXZMZzl3YlR4eVdUSm5EY0FUdHprblN5Mjc4N012TGZmaEpTR2dBdEl0bHdCNzhIbHlWTVI5WmZoV1NoaVRQQWwyU0xOQV8xeWRjdHNyd3hNMVl2YmY5MnNFeWgzLUlzYnBrbWlmVmcxb25BSUpaUl8tVnphWllkMXhzOUdhUEdjOVBMVmlzaU50UjdBWXJ3SzZsQmFoS1RUWVB6aUtic0Fma0V4Y1l0Q1ZDVGdHTmprTHJ2cXhDMA?oc=5",
-        "source": "PC Guide",
-        "timestamp": 1790672467
-      },
-      {
-        "title": "Ver. 1.4 「For Whom the Verses Mourn」 Patch Notes - NTE",
+        "title": "Ver. 1.4 「For Whom the Verses Mourn」 Patch Notes - nte.perfectworld.com",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92dTY3V29NWTBfRmtOZTdZelJuSE45WFJoaXg1TTVVN0owTTBRQlNmNUZRbWxpbkI2WGFfSDFZd0QtdWVhS2RBMGdLTVAxMDlRaGJUZGtJUlpKTmFZWGZLejVuc1RMbi0zRV9Db1EybnAtTmY4OGFDUlp2X1pHU0E?oc=5",
-        "source": "NTE",
+        "source": "nte.perfectworld.com",
         "timestamp": 1790658696
       },
       {
@@ -299,19 +305,25 @@
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nTlNuSGVzeGNweFlXanBGVVUyUWJkaGNMSmExbUducWk1NUFCRENSOUVBZHRSZmIwUTVySzRDaHhYU0xDb3kzMlZSdlVqc2pUR2pWVV9yQUQ5WjZGRURVVS1JVTdFaFk?oc=5",
         "source": "elderscrollsonline.com",
         "timestamp": 1790637431
-      },
-      {
-        "title": "NHL 27 Patch Notes: Latest Update and Full Patch History - Insider Gaming",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTa09yNG9lYzNiTThUUkN4a0F2ZEFkN19aOEFoZi14MEdKUFRxdUlnN2ZwN0dZd2hidHlJVkNBX2JRRVFXc0tkU2VMd2d0c3lkQmlac3Y5Yk1Edw?oc=5",
-        "source": "Insider Gaming",
-        "timestamp": 1790628308
       }
     ],
     "errors": [
       {
-        "title": "Mexico Moves to Force Digital Storefronts to Disclose License Terms - gadgetreview.com",
+        "title": "Minecraft Dungeons 2 releases today: Why error code 0064 is popping up for some - Mashable",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbDFhLVZCNVpkSnBSanZKcjl1MFpzQzM5dkVkb2U3X0ozRTUtX2hzalBGcE1DeDJWVUxmNU5OaGJYS2F4dGJaR3FvTjczZzZEVlVubDJia1NVajNWWkxRVWE2RUVINmI3eGF3YkZXY0loV1VJcE1RQUFsTkhIVXBCYmVuY2paaDNmVkRpejlOdDhzZ01ZZDl4d19EWGtNQXh5?oc=5",
+        "source": "Mashable",
+        "timestamp": 1790718044
+      },
+      {
+        "title": "Legacy Piece Codes (September 2026) - Beebom",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NemZKb2dSbHBKT0FRVHlLTFpRd2FvdlZnMUNFVVhleUZjb1dfb2xSZnplckM1bmN5N3RNSUNxMGIwbWVENHFzM0phb3B2SU3SAVRBVV95cUxOeE9TMnBFTTJXX2VSMUFKVW12THpqQWp6OEJ5VktoTWQzeHpicHlmaExLRm9CakZ5cDNjckhON3ozT3JlMjlOSnhXQ3Y2alVOcjE2c0E?oc=5",
+        "source": "Beebom",
+        "timestamp": 1790707644
+      },
+      {
+        "title": "Mexico Moves to Force Digital Storefronts to Disclose License Terms - Gadget Review",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR2NIT2xxZVM1b0NjMmlYUGFsT0oyZkFxQ3FEZlVHc3l4SFFhLTZrUVB4QTBvVFBFSXdWSUdPMzNUeEFYUjJTaVpTeU16SlZhWXNvSVJxTHFNU2NoNExQalczejA1VEx6WGo5S3JndThPMExKLWVYeTFpdWlYbVVZTXBDLW9sNGJFOU5hcEVpZmk3V3l0N19zR1pHMlc?oc=5",
-        "source": "gadgetreview.com",
+        "source": "Gadget Review",
         "timestamp": 1790706423
       },
       {
@@ -351,21 +363,15 @@
         "timestamp": 1790690620
       },
       {
-        "title": "Anime Finals codes September 2026 - Pocket Tactics",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56Rk9rS25jci1XTjF6V1pGOEpSWmtvb21UVlhXazY1bWxyX1ktaGxJUmYxQmFoZ0tYeGdmRHEzc3dKSnJaaTF0Y3BSZmgwemlqc29pYkE2S2xBU3hD?oc=5",
-        "source": "Pocket Tactics",
-        "timestamp": 1790680581
-      },
-      {
-        "title": "SCP Incremental codes (September 2026) - destructoid.com",
+        "title": "SCP Incremental codes (September 2026) - Destructoid",
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LQzdzZkhDZHRMbnRWb2QyV21xVUJtbTNsc25NcjhsRUxBaHlIUG82UlhIS1RRa0NXTGNBYldaeXdZdHNUajRTLUNwLW41aU1TSk55aGdBVUFxMEJIV2pj?oc=5",
-        "source": "destructoid.com",
+        "source": "Destructoid",
         "timestamp": 1790680020
       },
       {
-        "title": "How to Fix Minecraft Dungeons 2 Error Code 0064 - beebom.com",
+        "title": "How to Fix Minecraft Dungeons 2 Error Code 0064 - Beebom",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBicGE4NUFiUTJzOVQzVHZmcENORFBBV0FTd2ZjTk9fZHRkcmR4X1dEXzZ3QkxMeXBWQ2Zqa3NLNWRyb3VlcUlWYW9sTFE4MDc3RE96UFlUSVhXb1drUzhUT05QNGNJUXl0REpYMkszQWZkMHdGakHSAXtBVV95cUxQYW40TVMzdWRLV3FNaVRRU19rX2xOUzFZU3VINGUxdFV4RC1hLVVOMVBzT3g5OHI3UXpoUUJGbXhpX0htbnRzYUszZkJWdFpjX2FrOTFwc2l5MEg1WHFqbDNwSEpSYTZlTHAybWdYT1FVWHUwUjd0RVlOcEk?oc=5",
-        "source": "beebom.com",
+        "source": "Beebom",
         "timestamp": 1790678118
       },
       {
@@ -391,26 +397,32 @@
         "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQTkd0MzZMVHlpQW9PU1BjdGIxWld0eVdicmY3TmQ3ck5pTlZ2TFZSa0N6T2hwWkhhWnBYTjdTYlZQbVp2UW1mZlBiem1fMXBtaFUwYVU0NXBoSHRyMnhTSnFoRHdFaExHc1hQRjlCbVFpdV9sRGxYbFJXWlVDbUhwaHgyb0hoYnROOFJXS1hjTUlsZjZVdERIZzZRRFJXUVB6QVN5NUtaNWxaaGlMckpLelJNZXVsbWRUeW1JNVMxVTV6aTAwSFhoeUVsa3dNREVxdTVzdnlRREF1aTlLVFJyWnB3OUNLUjcta3gtMEJnWUozRUQ0eGhGcFoyaWFCUdIBzgFBVV95cUxQZG5VaU9yNTN3NnBVNXR4Um4zNGtqZ3FQQXhKY2FYNkVnQU5QdzlxcU5GcVZQeV96c1V5TkJhTWdXUHV5ODVXUlZnZW9LUVJsNEU2SE5kSDctLW1KcnlfMGZGb0p3WGsyNG5PeVN3LVI4b0Z1UlQ5X3YzeW5lVXcxZjRLQWR4cXB5bURGalMydkEwZEhUT3JidkZzOEFsUWowMlRoR09oaEVlMWhSU0FnM3c0N1cxUnFaeWl5LXNNcEdJVl8wTmZaVFhiVjRBUQ?oc=5",
         "source": "Analytics Insight",
         "timestamp": 1790665200
-      },
-      {
-        "title": "Gears Of War: E-Day Now Has Its Own Pizza, And It Even Comes With A Special In-Game Item - Pure Xbox",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVXJVZXZEYUZGZWdGYkx2bk9aUk9wbnFaLUkxOTRuZDFZbTRBZFo0Q0ZzZ3l4NFNPZGVkYThfUVhVZjhreWJUUHpHYkFJTWYtR1Rmd0NVLTVkam83MXRueWlvYXVvc25sSnhnMTQxR3M5TXd1RG5mamh2SXBveVFINmVVOTNHQ1g3YlRJTlNxTUJIS0hRaVBtdlZ0dXhWS1BkckRuUWN6ZElaWG1IM0tyRURPRTA3U19rdFFBaG1vY1lSQQ?oc=5",
-        "source": "Pure Xbox",
-        "timestamp": 1790625900
       }
     ],
     "guides": [
       {
+        "title": "Best Race for Each Class - IGN",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tTVNIOW9vakNvaFZpU2RzZFNyd05Fck1GY2Jac0QxNXE2ZmQ4RmNrQUp1V2xwZHRsV1haYURpaGlndV95SmVvNWN0U0ZpMEltV3RGbEtLWHQxSXowUHNDd0VYM3I1VXNfQS1XbDZfVQ?oc=5",
+        "source": "IGN",
+        "timestamp": 1790696749
+      },
+      {
+        "title": "Stunning Grand Final locked in after Knights book Roosters showdown — Ultimate guide - Fox Sports",
+        "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQUE9fa3V2VWlrU0FCNWw5ZGdGNGdPVXpnTVFuOG9CU1lLTjVYVzhkV1hyMUJZdkNWWHVDNVZFOE9FRm9YaldSLXpGbUpWNHhtaE1LWnRBNGtSYnVER204U042NTZtbGtIT2hySFpJbU9GTmcxckxYcGZOS0lWVWdFS29KWGZIT1dhT3dOTkJsODQtTEF2VVk2eDNRYVNadllNdnQ4NnF3bUJ3YUNoZTNoZWJtNkE1RnJ5SG5Cc1M3Uk1XSG5KaEU2Uk5PQUNnejQ2OHdkaW01NWJ3Mm5qTy1aRXFDMnZ1QXpWOTA4M3NQRDNIN2JCcERfNnJuRWtQaGxYTW51Q1NQR1pfNXkwTnRPczVSSHFsZ3JaWHN0SFpQNnI4OGZtNWlUTmxRWHJBekpiNFhiZ0hmX213V3hSTGVqTUJFWkl1WHdLYWtkM2kxOWxOUjg1bjJqWUdR0gHaAkFVX3lxTFBQT19rdXZVaWtTQUI1bDlkZ0Y0Z09VemdNUW44b0JTWUtONVhXOGRXWHIxQll2Q1ZYdUM1VkU4T0VGb1hqV1ItekZtSlY0eG1oTUtadEE0a1JidURHbThTTjY1Nm1sa0hPaHJIWkltT0ZOZzFyTFhwZk5LSVZVZ0VLb0pYZkhPV2FPd05OQmw4NC1MQXZVWTZ4M1FhU1p2WU12dDg2cXdtQndhQ2hlM2hlYm02QTVGcnlIbkJzUzdSTVdIbkpoRTZSTk9BQ2d6NDY4d2RpbTU1YncybmpPLVpFcUMydnVBelY5MDgzc1BEM0g3YkJwRF82cm5Fa1BobFhNbnVDU1BHWl81eTBOdE9zNVJIcWxnclpYc3RIWlA2cjg4Zm01aVRObFFYckF6SmI0WGJnSGZfbXdXeFJMZWpNQkVaSXVYd0tha2QzaTE5bE5SODVuMmpZR1E?oc=5",
+        "source": "Fox Sports",
+        "timestamp": 1790686418
+      },
+      {
         "title": "The Witcher 3 Remastered Guide – 15 Best Tips and Tricks - GamingBolt",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONDdFQ1F0OG1UOVRvVjJZejFoQ28yQUFGcjNjc2gwZ1UwRE1KdmI5V2ZINEkwNm03dHFtd0ZneERudFl6SEJnVGlFdmJoQU10a3RTeE1fb3ZGZVI1aHEzZVk0a01SdzVMMVVHMWQ4c0FNTXJ1ek5WdzNUbE16bE9GWFd4UQ?oc=5",
         "source": "GamingBolt",
-        "timestamp": 1790683900
+        "timestamp": 1790685206
       },
       {
-        "title": "All Eggs - Steal An Egg [Roblox] Guide - IGN",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40Q2xzcmQxemxBTkRFWjlhMlpzVUYwdDFNTm16cGExZVpzRUJyejVqREZTODM5OGJFOEFIXy1aVFdSV1I3Rkx4c0RQYW5HUUR0MTRKcDNWdTFIQVM0a1NtM0VGVFI?oc=5",
+        "title": "Best Weapons Tier List - IGN",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE13eWhmVUloUnZBOUt0NzVLbTJBaVZQaGpKUkVaUDJoR3lNaFE0Vk1wWlJRWmNIRXVlTVJDcXZPWkpjZzNfNEJvM0FJODJVcE5xTGtGNVB3ck1hT2pqbjFrb2dpZG5pOWNTX0d0NUg0VlBLQjdlQzNBVndNa1o?oc=5",
         "source": "IGN",
-        "timestamp": 1790677583
+        "timestamp": 1790681583
       },
       {
         "title": "Best Builds - IGN",
@@ -419,34 +431,28 @@
         "timestamp": 1790674648
       },
       {
-        "title": "Stunning Grand Final locked in after Knights book Roosters showdown — Ultimate guide - Fox Sports",
-        "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQUE9fa3V2VWlrU0FCNWw5ZGdGNGdPVXpnTVFuOG9CU1lLTjVYVzhkV1hyMUJZdkNWWHVDNVZFOE9FRm9YaldSLXpGbUpWNHhtaE1LWnRBNGtSYnVER204U042NTZtbGtIT2hySFpJbU9GTmcxckxYcGZOS0lWVWdFS29KWGZIT1dhT3dOTkJsODQtTEF2VVk2eDNRYVNadllNdnQ4NnF3bUJ3YUNoZTNoZWJtNkE1RnJ5SG5Cc1M3Uk1XSG5KaEU2Uk5PQUNnejQ2OHdkaW01NWJ3Mm5qTy1aRXFDMnZ1QXpWOTA4M3NQRDNIN2JCcERfNnJuRWtQaGxYTW51Q1NQR1pfNXkwTnRPczVSSHFsZ3JaWHN0SFpQNnI4OGZtNWlUTmxRWHJBekpiNFhiZ0hmX213V3hSTGVqTUJFWkl1WHdLYWtkM2kxOWxOUjg1bjJqWUdR0gHaAkFVX3lxTFBQT19rdXZVaWtTQUI1bDlkZ0Y0Z09VemdNUW44b0JTWUtONVhXOGRXWHIxQll2Q1ZYdUM1VkU4T0VGb1hqV1ItekZtSlY0eG1oTUtadEE0a1JidURHbThTTjY1Nm1sa0hPaHJIWkltT0ZOZzFyTFhwZk5LSVZVZ0VLb0pYZkhPV2FPd05OQmw4NC1MQXZVWTZ4M1FhU1p2WU12dDg2cXdtQndhQ2hlM2hlYm02QTVGcnlIbkJzUzdSTVdIbkpoRTZSTk9BQ2d6NDY4d2RpbTU1YncybmpPLVpFcUMydnVBelY5MDgzc1BEM0g3YkJwRF82cm5Fa1BobFhNbnVDU1BHWl81eTBOdE9zNVJIcWxnclpYc3RIWlA2cjg4Zm01aVRObFFYckF6SmI0WGJnSGZfbXdXeFJMZWpNQkVaSXVYd0tha2QzaTE5bE5SODVuMmpZR1E?oc=5",
-        "source": "Fox Sports",
-        "timestamp": 1790669581
+        "title": "MLB Wild Card Game 1 Picks, Betting Systems and Playoff Handicapping Tips - vsin.com",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTHJVajVTQXlUYV94aklJWmVvSDk3MVl5dGVQSkMzUUtmUmkxZzdhTUM4ZmxYeFpPek9KU2J1YWtCQnh2LXFHRlcybmY0emNGS0NiNVpjajE4QnZBQWZLdU9BQ1Q3WFRrTHBlQVR1aWJyM3VDbjB0dmNwTzJWZjIzUmcxalpZdWlMbmh0ZlZ0RnVjQ0xhUmxiazBqNEdMcVFuRlJKQ210ZmU?oc=5",
+        "source": "vsin.com",
+        "timestamp": 1790657982
       },
       {
-        "title": "MLB Wild Card Game 1 Picks, Betting Systems and Playoff Handicapping Tips - VSiN",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTHJVajVTQXlUYV94aklJWmVvSDk3MVl5dGVQSkMzUUtmUmkxZzdhTUM4ZmxYeFpPek9KU2J1YWtCQnh2LXFHRlcybmY0emNGS0NiNVpjajE4QnZBQWZLdU9BQ1Q3WFRrTHBlQVR1aWJyM3VDbjB0dmNwTzJWZjIzUmcxalpZdWlMbmh0ZlZ0RnVjQ0xhUmxiazBqNEdMcVFuRlJKQ210ZmU?oc=5",
-        "source": "VSiN",
-        "timestamp": 1790657982
+        "title": "Beginner's Guide - Witcher 3 Features and Things to Know - IGN",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY1I5VWg1TkJCN0JUSGx3cTdqYktYQVI5LXdKaVowcGZDcWl1MGZ6el9kZ0VJc0prR2hrNUduM0w0U3Fyd1U2QzZ4MWJQbHdEMmNQVDR2ZERMOFFaNi1WbFMybHE4WUlHX1dDbmw5NEF1V0FFMGNURmdFdmJpMjNva1kyVGxhbEZvMm1OU284NG9ZaFNzY3FYMW5Pd1ZhOTBDNkIxYXhnN3M3R3df?oc=5",
+        "source": "IGN",
+        "timestamp": 1790652420
       },
       {
         "title": "Best Characters and Character Tier List - IGN",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaGNNdm5xclZEMGtoNFdVbTROQkFKRjRtUzdZazl4YmJjOE8yT1pUVHVhT2gwNVBRdUh0Y01OZDhZZEZfUGNrZVlqQ2dyc0lVNzNrcEtmN0JUbENlT01tZnJUWE9JZHhrc0FJdmFDclI2TXhNWlduenVocU1vOWFTNFhDRS1hTkpxTTRuc2t4ejhsNEZtcGhV?oc=5",
         "source": "IGN",
-        "timestamp": 1790646558
-      },
-      {
-        "title": "All Anime Expeditions Codes (September 2026) - IGN",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX1JzTXExZUJjbjdWV09SYzdlSHMyNzc2ZlRhbUMtWnlTNGtNaGdNWWFwQ2UyUDNVajQzV2c3N1cwYVhFYkM3VzZIWDNwQS1qem9YNU5rOGs3SUE2ZUlxT3dtZUJENWpnMktyWXp6c1ZtTFJGZzlGZkt6QzcyQS1QQ0NnbGZIQm5QU1l6OUFCYVVwdGlGcXU1V1ltbw?oc=5",
-        "source": "IGN",
-        "timestamp": 1790644769
+        "timestamp": 1790646540
       },
       {
         "title": "Combat Tips and Tricks - IGN",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYNndVNGV4VVZ0ellJNUpHUTQzNWhXRmp2RWczdHJZc0tnbzVLeHdDSWRuYndKUUhlRURQc0Z4WlpvSXJPZW5UNkw5UXBCLXowcy05TXpGSkVnLU1YQlVFLXU1a0ppNmQtOERJODRieUdHcGM?oc=5",
         "source": "IGN",
-        "timestamp": 1790641271
+        "timestamp": 1790641260
       },
       {
         "title": "Which Combat Abilities Should You Choose? - IGN",
@@ -483,12 +489,6 @@
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE45V0JIdzhvX0lkdTEzS3l3X3hhejhoUkM5bzdzbC1OY2tMOU4zNG91cDdGWVB4THJxUnh6UFNuY0RLMHkwZ1hTUHU0ejdfSlJvNTdmOC1YTEp3Y3VHMGlkS1poaGFLSXlCQnhBNkFHWm9JUQ?oc=5",
         "source": "IGN",
         "timestamp": 1790637838
-      },
-      {
-        "title": "Free slots: The best free sweeps slot games to play in 2026 - NJ.com",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xcTRyanpSTi1QSnJxazE5WVNVazZSNUtkSjZmN3ZxTzhUc2h2QWwyLXVWNTUwaW0wTkFvX0xhVGxMRVZfTTJGeHNlLTlJbGtGR0hnVg?oc=5",
-        "source": "NJ.com",
-        "timestamp": 1790633880
       }
     ],
     "assets": [
@@ -505,20 +505,38 @@
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOHZHUmlrdDFrZlRza3RmTnoyTnZEQUt5X1Y2RzNBdkFTdGYtRHotM09TMEtXeWtjRDNFUmlCelhlZEtfWG0wOHplQlROeF9MeU9Xc0EzWnhjYmFISDdUaHd1bExsX2gzV3lfYzR3T2NGcnBqRWZuWmpiRXN2UjFQQU9ZM0pzMWhqSmlFVW9vTmJ1ODkydzBhbG8tSkNDVHJhTk5UTDBQOWZUSldr?oc=5",
         "source": "Thurrott.com",
         "timestamp": 1790701300
+      },
+      {
+        "title": "Ace Combat 8 promised PC players a classic PS2 game, but there's a pretty massive catch - Operation Sports",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSkMxVmNFbEpWOTEzQTRXR1J6TFFQQlhTWk5CZElSajh6MUZLM0RUeGgtVm1kT1A4a2RDbDhMc3RZUm93bDl6bFoydmhYZ0ZZeTJtUkdveHhJOWxyeVhuWHRENFYxOFdzZ201eE9kQ3ZrMUlDZmR0UVNOaFF4Q3ItWV95a3hsTGRmTllNSGtHd1VXNEFFRnNVd0lKR1hDMUpxcUdvYzJDLTdwSTZQdE1oMnFmX3BISlY1RGc?oc=5",
+        "source": "Operation Sports",
+        "timestamp": 1790701200
+      },
+      {
+        "title": "Xbox officially announces Mythic Achievements, rolling out to Insiders today - TrueAchievements",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WMnRCczFzZjdGSnFzbUUwd1RSaWZDbWZkSl9zb040b05HclF3UjFuSFJzbDB1MlBKdWFzdEZFa1hETTlKRnkwUE93UjJDNkdzblVITEg2NDFHeGxxV1AyNmZRNEJ5bWpCRFVxQXItSQ?oc=5",
+        "source": "TrueAchievements",
+        "timestamp": 1790699272
       }
     ],
     "streamers": [
       {
-        "title": "Hijacking the PS5’s RTMP stream - Adafruit",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nc2hTOHFxaFo3ZjE4OWZ4Y0dmVW5aRGhuZVdNLTIyaHZ5MGlHY0Q5UkFVcUZMSzgyMXVNTWtZT2kyckcwNjFVVFEtdHdJSjVIeHh0dk9IYkxNbzRhOHJPS2JMdEQwZzlQd0tZZC1YYTNJUnd2SS1V?oc=5",
-        "source": "Adafruit",
-        "timestamp": 1790697798
+        "title": "Let’s go to the highlight reel: Twitch is helping creators turn their Clips into stream “recaps” - Tubefilter",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVWJLN1hDYzk2Zzl5TlRuMVk0bF9EQm9neTF3VXFQUmo3NlJGd1FvWGZ5RjBUckc2czd0RkVVckJiSWF6M1M1TTE4QXltZHZhOE1pbUNBWmVia0RmXy14NC1UeHBVTlNjTExEaDlIbjYwWmc3NEktY3VySmFSdGRqWGoxYjBjRlVRTkZB0gGQAUFVX3lxTE1xLWM2N3JKWU1oRUxFMUEza0NmZXFXc2NrdXVWVFg4QVFWcGRsbUtBakdfc1MzSXduVVJ3dWpGVjQyVUc1ZTdyYWdQRU12ZzdqNVlFdDZUb1UtWWE0Tjg4eF85UURoTkRDWUh2Sy1mc3Nnd2c1ZDdRcHlNLWY5WTVfd3J1clF3V1BiX3hMYTd2dQ?oc=5",
+        "source": "Tubefilter",
+        "timestamp": 1790720366
       },
       {
         "title": "YouTube will close YouTube Gaming, move it all to the main site - Mashable",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSmdjWGRQa1lFUUNMTDdkaHVmOFk2ZzkzQVNNWXZndG5CY2ZBbnpDVm9tT2oyejgyLVV3Q3JDczlvWmpwSFdTWDhwbm1YTVFaX21HQWp3R1lPRHlaM3NmdU9OdDNrNGRodUdpb0tBVXNQLTlIVXJZMklxSDZGaUlkUmxBNjUyS3Y2bkNEMmlucUNLZmRyV0g2TnpUTElyeGdv?oc=5",
         "source": "Mashable",
         "timestamp": 1790697011
+      },
+      {
+        "title": "Will Kai Cenat Grow His Twitch Subscribers in the Remainder of 2026? - WIN.GG",
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBoaUs5U3Q3XzlSUzFVX0NWUGxrajQ2Q0VtT2pYTmlHUGV0RWI5enB2RW9zSFYtdi16U0dFVGtSLVVYYmQ5dDBMbC1UaFFlS0djMXFkcnZxOXM1NWprZVdQQg?oc=5",
+        "source": "WIN.GG",
+        "timestamp": 1790692008
       },
       {
         "title": "The Witcher 3 Remastered Gives Away Free Cosmetic Rewards at Launch - VICE",
@@ -533,10 +551,16 @@
         "timestamp": 1790685668
       },
       {
-        "title": "The Witcher 3 Remastered Twitch Drops: All rewards and how to get them - AltChar",
+        "title": "The Witcher 3 Remastered Twitch Drops: All rewards and how to get them - altchar.com",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY3JKSFVodXpwWExjUVFDblpsVk5kcG91R0p0dVhXSGd3d1hyR2VWa3FSZUxyOEx3S1UxMVd0OHktcEhSWHVqS2RaaXVKTG93eUg3cHV2VzNsajlLUVVWVmhpNDFENGJjNGd0M2FtQlZibDNVTWNqcTdVZXBzMDJuN0lPNW0xellZT2tCYnFyS2FnUkh6TFZCSlJtdE9SVzdWY2hycnlxSHppUnZscjVxdXBldW52Zzg?oc=5",
-        "source": "AltChar",
+        "source": "altchar.com",
         "timestamp": 1790684940
+      },
+      {
+        "title": "The Rams Have Officially Signed Aaron Donald, Now What? Mobland (smY5kbkbiM) - Unisba Media",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN0RpbWtYZ21KeEtrUE9jTEpHRXkydUVXTDVLZWdkSnJBUHJtc3VzQ2lyZ0lNTWJOa2tLWU1RMlNLTFdIaGtWQTJITm9GS1pjME1HLXBEWXh0bFpYRVRsVkpWb2FIa1dMYS0tb1c0U0ZZTVYtb3B1c1B5U3BFUjAxSlVGakVhQQ?oc=5",
+        "source": "Unisba Media",
+        "timestamp": 1790682774
       },
       {
         "title": "All Witcher 3: Wild Hunt Remastered Twitch Drop Rewards & How To Get Them - Insider Gaming",
@@ -575,31 +599,37 @@
         "timestamp": 1790660662
       },
       {
+        "title": "GTA 6’s $400 Collector’s Edition Is the Latest Example of a Horrible Trend - polygon.com",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91dzRURTVpd1g1WUdqZ2hfT29adWRlMlNZZjNWdkJybk8ycUZpMmZwYmNlU1F0cUhVN1pyVEUtWjc5S1RnYzJWZWJlRnY3UVpOQXNSWDdXY2x1dWRSZjVtLU9pd3lmREVjakNoRk5xOTJvdUZI?oc=5",
+        "source": "polygon.com",
+        "timestamp": 1790636416
+      },
+      {
         "title": "ShackStream: Fire Emblem: Fortune's Weave on The Stevetendo Show! Episode 752 - Shacknews",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMWxJQnFpdFkzLWhUdExRQUNjb1ZUdUVMaGo5ZmVKS2p3b0JqWU53OUZyTDZpaUZQaE1IVUY0eVFydHVJV3ZmdG9idTF1UF85VlZlS01NRGF1amgzMmZqQXJNdkY4YmNZTEdOaXFuY1hfeU1XbWM3TXE5UlVuX1hMWmQ2NFY4bndtVHlIZDJ4Nl9YWXF5OEVuLUlhN28zeGE0S3RINVYtM0o1UWFia0tZOVoyS18?oc=5",
         "source": "Shacknews",
         "timestamp": 1790636400
-      },
-      {
-        "title": "How Twitch is gaming Generation Z - Campaign UK",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcTE4MlZpWDNBZGFzWW5aUm54ZVVhUko0aG5LSmw3T3A3SVVYSENXZnFDQ215QWwyREZRcWN2X0QyeWotOGZPT0YyOWN1cnE1azZoNXBGeU9zZ1Vhby1EZUplVjdlOWF3YlhRU1FPMUo1OUt0NTNQLW10emFfbWlBNmtfRHRkNGZuQV9uNmpDVEp5SVdUakJtTzV2dUM1MWo0?oc=5",
-        "source": "Campaign UK",
-        "timestamp": 1790633055
-      },
-      {
-        "title": "Gaming granny earns Guinness World Record - NPR",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTkh3aFd4dExaeDRkZVpqaHlPMG5mSjdQalJmekhWeEczNlFrN3puV2Z0bkc0dmV2ekE2OGdueDBHTEI4b3BnZ0ptTW5CTVhfTlNyVVZsSGxBS3hPMXBZYVFnck1pMkhiVE85VzVkSlZYekFCajgwS2dSVlByLWdQeUwzNHlkRTRNckNOSUo0NA?oc=5",
-        "source": "NPR",
-        "timestamp": 1790632605
-      },
-      {
-        "title": "Heroes of the Storm Twitch Drops: How to get the Deadly Chaos Wolf, free gold, and loot chests - Esports.gg",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbFZnWUFBdWhZQlloRTZTdzFoYVo4RkhUME0zQy1qcGpNc0E0ek9WYTlpYjdRNDI5MHhzdV9qM21mMVJXel9YNWdKTDBMTklZRkpPcUpKcWdLVWNUNDg0ZWZINkRuR1JZQVpCR3YzSU1TbXFmcmpuT1dRdWwyREdheVhhdnNqaEJid2tKM1pUX0dITHY3anZnelNYRExKZjJqMTVBXzh4NHFMc3lzSmhKUXNtdHpXWHlmcnpMWmFucFE?oc=5",
-        "source": "Esports.gg",
-        "timestamp": 1790624822
       }
     ],
     "mobile": [
+      {
+        "title": "Social Casino Apps 2026: Best Mobile Apps, Features & Top Picks - RotoWire",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQem9GWE9rMUV1NlU0TjBTX2tLZ09OZUZGdGY4OUl0NUJCeUkxODJIV0hkODdINkpZVFllRGh5TG1rZXNtUE5hZHRvaGJZSVV3MnNmRUJaTzFpMXJrN1ExdVR2QTNwSnV6NENXMXhYekFQZW9KSGQ3dlBKTk5VTGZHTUUtdWN6amx4TjFmdWgtaUJCSnJKYWUtU2QtbmdhRE0?oc=5",
+        "source": "RotoWire",
+        "timestamp": 1790714040
+      },
+      {
+        "title": "Get ready to play at LuckLeopard Casino: 1,000 free spins and beyond await you - Sanfermin.com",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOGg4M2pReHNPOWJ0Q0M1bGNVcDM3dGRZSm5EdExEMkIwZERTRUJ4em5ieGpYWlQ2SHlZeENGOHNMT3pjdWJOZ3l6TUhkb2dsX0NiU0Y4OWVaMENoejQzZ2N6Q045dURsNEYwYXhoVFJVdmpEb2VtQkJwTmdXeWdoM3ZYdnZwam5Vdjhaa3pzQjFoeFNBdmExYzU1MTY1U2M4T2NTbDM2dEpnQQ?oc=5",
+        "source": "Sanfermin.com",
+        "timestamp": 1790713916
+      },
+      {
+        "title": "YouTube Playables Hits 50+ Markets, Zero IAP [2026] - shattered.io",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nSmVVeVlXRXhCR1BJU3NVRXJMMHpjT0pOdUpMUlRKdFhuOWFNOHlqeDdjLWlsNF8tT1psVF9rU2xrb2ZNTlpCcW5TUWVzQllMVnlhWXBKQlN3ei1LQnBDMzhHLTNzT0VKelRfTHpScFRHQQ?oc=5",
+        "source": "shattered.io",
+        "timestamp": 1790704032
+      },
       {
         "title": "Mobile Legends: Adventure Codes – Get Free Diamond & Summon Scrolls September 2026 - EGamersWorld",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRlp0bk9pUzdYWl9RQlRRTWpqOHU4LXJGZkhHeVRscjJPekVObnRNZE5NY0I3MlVmX1F3S3ZWSzhVTTc5c0xsWVJpd05uU19Nb2d5UnRIWGdKSkdaZWM5VTN3QXdHVmJoa2RqNWRPMTlwMnp6dlFfb01OaHFpenR3VW5ELVZnQ3cxR1FzNi00aGlrNXRYR0E?oc=5",
@@ -607,9 +637,15 @@
         "timestamp": 1790700336
       },
       {
-        "title": "Fight or Kite: Is mecha MMO RF Online Next actually a game? - massivelyop.com",
+        "title": "Best 9 sweepstakes casinos ranked and reviewed for September 2026 - Detroit Free Press",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaFJObkJRX01qVG1kTEZfcXBRRmhrMmZXcktVTnlSX3dkQjdUTHFoOVBmN3RDem9rdjJTWndZX3RpTlNpSURBZ0RpYVFRNXFQbW1OanlSYjQzOGt2VWZOMTNtR0JGX3c2N1B4TlhRc25ZNmRxTnM5Z0c2WWpuajgtc1lPUUZhUkduSUFmTTNXNlRieXVoNklYazNjbw?oc=5",
+        "source": "Detroit Free Press",
+        "timestamp": 1790699400
+      },
+      {
+        "title": "Fight or Kite: Is mecha MMO RF Online Next actually a game? - Massively Overpowered",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQUdhcG1fVVJaNE42ZE93N3ltYTVVT2J2b1hmcF9POFBPajk1eGMzSFVtSXhuT1M2cUxCX1pQdWwzMjIteGdhWE5Pb1FYQWxRb2MxX0g2cFBxdFpxbHhySGFUX1BCWU1zZENRZlFJUnFrR3dyN2VsWmQxbkxlX3lyUWM4WjhuM0ZKUE1oZGh2QzVtRk1pc2JaQw?oc=5",
-        "source": "massivelyop.com",
+        "source": "Massively Overpowered",
         "timestamp": 1790697631
       },
       {
@@ -631,6 +667,12 @@
         "timestamp": 1790681293
       },
       {
+        "title": "Vidyut’s Street Fighter Arrives: Games That Made It to the Big Screen - Deccan Chronicle",
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOcDBaUWtyNnU1Mm01cHlUY200Z0dweXdWQjJXb1lDSzNzdDRGR1VldEMyLTM1N2dSaDF5QS0ycm5POUkzOWdsRWloeVRYNEdiSDQ1b1ZQcmlCci1lLUs3dTk0d3NzZXBMRjVKYUk0VDZsbFBhRHlaTXBtOW5QVHFEZTFxZGNNdEp4Q3M4X19JYkw2cDNXNGQwempERWw1dHNhS2lFeWV3LXBULUtXdFYyd1JKaGZRaEl1RXFwNDY0SllmdGJ2NWpEbUQ1MGZQTy1HN0J6elRMemNjQUNYOXJtZmZNWVczeUtnV1I4NjVrUUR2TXh2bExkWDFBRE1NZFIxLXg2NjBWZ2JUNUHSAZACQVVfeXFMTjhlRGZaRkhEQlRSRG5FeDh4dDRpSUdORlRzdVlLclFsNExnaEQwMlJUVDA0bm1IWXNKbk1qWlVwN2tCTHZfdWNRWnlNTWVSTVFiTkl1Y3hfT3BWekZZODhPbUhVMnlmc01DQXVuVWR3azdQRFRSREszdU5xQ1JPU1BXRHVZTWhUMWRFZVpuNGozVS1vb25BZVZFUi1JdHpfMm5EUmFORFQ4Z0R4VTVFOEZWU291N00zWkxkRjQ0QzF3dGRES2JlVnVSTzFxS2RwZ3RBdDZ6N1NtdXR6dElNZTJrWFlmOGlDa3BmeGlfZzRlQlpTcU9taTFiaWJ0OEg1b3lzdEd0TndMWXBaOWtKMmw?oc=5",
+        "source": "Deccan Chronicle",
+        "timestamp": 1790680090
+      },
+      {
         "title": "Your favorite free mobile game could be sharing your data with Russia and China, Proton warns - TechRadar",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZGFIckxWQWdPY2ZMWjRtbU5sdV9mZE1PNkF2WG1rOVQwMzRtVjY5VHNTZ0ZmS2NNREliLURYX2lpSkp4MWdFa3EzaVYtM3hwVDBQX1V3ZEE1OWtPNktGZ295LWhUbTlCLUhuUnpiSVNSd1h1WEZoR2RZajl3RERTTC11VllmaURDZWNCVV9raUQxVDV3QWlKc3B0N2NpSzlwdVBQSHYwb1IyQjZhaGtvWlc3ekIydkhaSTNyUXZYYm5ySWh6aWh2NF9Fck9BWWNpVmtPOGZnVGd0QVE?oc=5",
         "source": "TechRadar",
@@ -641,12 +683,6 @@
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aMVdWc0M5Q1ZNOEFQT0hpUE5RX21EbXQ5T1A1cnliRkdFcU9Od3pUVTZBV2NPSHZMQXMwUFZZS2NDa19iZXViN1RLTUVBUlZ1aldMRzNXN2d2aGM5MW80WW9YenFRZw?oc=5",
         "source": "Focus Gaming News",
         "timestamp": 1790676367
-      },
-      {
-        "title": "The soft launch games you need to know about from Supercell, EA, Moon Active, Zynga, more - Mobilegamer.biz",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WUUhDMC05REZIaXhhQnl0SmZ0Q2RwcW80b1d6a3ZMZG5sTkYyWkhyVDg3Y2ZZRTVfZDByb3pFNXBES3RWNngzUTBrMGVMTXB5VGd0SzB4TERRUW5SZlFpRkR0elFMZ2J2VjhVYXB1a1RQQlVPaXpPZA?oc=5",
-        "source": "Mobilegamer.biz",
-        "timestamp": 1790668943
       },
       {
         "title": "Free-to-Play Racer Kartboard Dash is Out Now on PC, Android and iOS. - Games Press",
@@ -661,60 +697,168 @@
         "timestamp": 1790638491
       },
       {
-        "title": "7 club game - Philippine News Agency",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQNEgwTm5oSkRBcHVfVUJXMEUxeHFuR08xdzA3QmFDTThVSWhhZG9IQlhTNEdMM2RBeFc5WTVGQmEyemgwZFN5TUVSamhzMFZ1WXBhZ3ZZbw?oc=5",
+        "title": "masaya game apk - Philippine News Agency",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBTnh2WXNGaWl1RHltc3J2M1RZaDdIS2h1ZDgtenVpTVRVYnkteThOUUxrZVVhSmU2Q28tVlZZUTZMNE54RW9DZzRHbGpscW9sN0VzblZmbWVpOWZM?oc=5",
         "source": "Philippine News Agency",
-        "timestamp": 1790635846
-      },
-      {
-        "title": "gambeta10 casino - Philippine News Agency",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IY01XS2pvS1VScmRYamI2V0ExWlFWaWh3R0FUV1E4bFItN1lLRkhkcjI5VjdVQk40UWRxdDl5bVlJOEhUbWJHVGlocHZnWkVTZkJTSkZKZFQwZTQzRXc?oc=5",
-        "source": "Philippine News Agency",
-        "timestamp": 1790635340
-      },
-      {
-        "title": "Shuhei Yoshida on the future of gaming | The Vergecast｜The Verge - finance.biggo.com",
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oQTBZRy1GMGhUbXVWSTNVOWtJenpCcUtsUUd5NmY3TjB3TzZ2b3RfZW1La3M4ZGpjS3g5eUVfcjRWNDNSYTl3ZE11ZFZWUjgxekFWblhGZ1JqZTRnTnVv?oc=5",
-        "source": "finance.biggo.com",
-        "timestamp": 1790634597
-      },
-      {
-        "title": "Social Casino Apps 2026: Best Mobile Apps, Features & Top Picks - RotoWire",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPekZQQlZFM1JncXpFbWprUTlWbUJTbFo4aTlBNmFjOGlLR0FOT2kzSE9zVUpqZk5yMkJST3NwbmxDLUh0dFllQ252OHNpaGhNZFdRUFhDTFBvYkdOMWhONFVqbkFyenlmU2dIYTlMRWNaLVFhNDdGNjd0eFE3MnRDU0xlUm1OMkZWaVJ6SE1DU0p6UTZqWkViMmJxTQ?oc=5",
-        "source": "RotoWire",
-        "timestamp": 1790627640
-      },
-      {
-        "title": "Best Casino Apps in Canada for Real Money Play In 2026 - RotoWire",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSmZFWHpZZU4xbkJpSEV0RkNXWjhBSWRWcllwa0g0T3Y4Mm9VaS1mWnY4anZ3TWM4REVVY3c4NGdWSU9taGlUdFRYU0l4UDgtSzVFc0FmMGUwazVnbF9TX1FCOXl4b3Bxa21GQlhRM2UycU42WUN6UlhqS3dqOTc1UV8tS19ackhYZElfZERyc0RFcXJUQWtCQXVsUjVKblltb1E?oc=5",
-        "source": "RotoWire",
-        "timestamp": 1790625780
+        "timestamp": 1790637062
       }
     ],
     "all": [
       {
-        "title": "Naughty Dog is working on new The Last Of Us 'projects' - Game Developer",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM3ZzeUVqYlJJRmg1MjJhVFRkd0NTMzlpM0N2UXBxN3F5NGVzYmZhUktBM3loNjFqYVR2UWZHVFQ2MThZWV9wTDJIVHJ3MllKbVBXeF90NVVHcV9DYkxRUG9NdDJTN3FwYmZhZ1M1U2YxbHBSaGVZZWJwWlZaNk5FbEVXWUstOVRLVmROVXdxRlJNZVhVX1lF?oc=5",
-        "source": "Game Developer",
-        "timestamp": 1790707090
+        "title": "Let’s go to the highlight reel: Twitch is helping creators turn their Clips into stream “recaps” - Tubefilter",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVWJLN1hDYzk2Zzl5TlRuMVk0bF9EQm9neTF3VXFQUmo3NlJGd1FvWGZ5RjBUckc2czd0RkVVckJiSWF6M1M1TTE4QXltZHZhOE1pbUNBWmVia0RmXy14NC1UeHBVTlNjTExEaDlIbjYwWmc3NEktY3VySmFSdGRqWGoxYjBjRlVRTkZB0gGQAUFVX3lxTE1xLWM2N3JKWU1oRUxFMUEza0NmZXFXc2NrdXVWVFg4QVFWcGRsbUtBakdfc1MzSXduVVJ3dWpGVjQyVUc1ZTdyYWdQRU12ZzdqNVlFdDZUb1UtWWE0Tjg4eF85UURoTkRDWUh2Sy1mc3Nnd2c1ZDdRcHlNLWY5WTVfd3J1clF3V1BiX3hMYTd2dQ?oc=5",
+        "source": "Tubefilter",
+        "timestamp": 1790720366
       },
       {
-        "title": "Mexico Moves to Force Digital Storefronts to Disclose License Terms - gadgetreview.com",
+        "title": "Asian Games 2026: Vithya Ramraj's Stunning Final-Leg Acceleration in Women's 4x400m Gold Goes Viral - Asianet Newsable",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVW9qUlpIVGJnRkVfdUNjT2lEYllqQzhVUVA1OEl1MWk4cS1hWHZjTHRBYTl2b2hmU2VSZS16SnprcjdnMjJMaHFYZURQbnQ2QUoyUU56STBVZDZWS0FqRWRLZTZ5eVFaX3IxdTVBemtHNk55Q2V2R0NxcGEwcFdnLWlQTENOZ2xBdXc3eTZYQ0VZaXdYTFlvUUUtLVhjdUxsMHBIYWZQZUstN0NxNmFxeFdyUlc1VTN5M2JDQ1VDdW5XZ29ERkwyR3I4QjNnd3BvWkpYSVlBYlRSekpZc0VtTTJ6cnJ4cVY2R0VBX9IB8gFBVV95cUxPSjl5ZzlmdzhZRU1XaTFlc1ZlQ1Q2QkdheFpic1ZEN09GNlFfX25wVE5SdDdBNlVMSzJNNC1pSnZ0Qzd2V3VQSjdyTEk2bHBqSVVoWXJfOVpfWnlQVVdjdG1RSzZSZ1RDaUJ2SzdtanlOSTFWekhFdFc0ZzRuZ3U5ME1NR0o5cGpkTFhGazZXYkdQVWtndVl4bnFhdGpZek4tQ3FaNHc1anRHZkx3VGFLdXhINVZScW1fUndmTjE0cldOekt4UHFLNnEzTWhsNFJ5Wmt5eldTaE82d3dCZzVBMWRiOC1KUE9UWC1pcVlRMTN6UQ?oc=5",
+        "source": "Asianet Newsable",
+        "timestamp": 1790718560
+      },
+      {
+        "title": "Minecraft Dungeons 2 releases today: Why error code 0064 is popping up for some - Mashable",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbDFhLVZCNVpkSnBSanZKcjl1MFpzQzM5dkVkb2U3X0ozRTUtX2hzalBGcE1DeDJWVUxmNU5OaGJYS2F4dGJaR3FvTjczZzZEVlVubDJia1NVajNWWkxRVWE2RUVINmI3eGF3YkZXY0loV1VJcE1RQUFsTkhIVXBCYmVuY2paaDNmVkRpejlOdDhzZ01ZZDl4d19EWGtNQXh5?oc=5",
+        "source": "Mashable",
+        "timestamp": 1790718044
+      },
+      {
+        "title": "Steam's discounts and events tab will soon be fully algorithm-driven - Game Developer",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd2RIVmJTUldGZENUdFB5YWFDc29ydi1IT0Zzc09XS0RfZTZoSjJZM3J6T2JtbEtRaTkwa3dHWUdiZzU4cmU2ZTdsbW1RY21WdTJEbE9COEFfbzM3NkxUeDM3djJ0VmwyTzZtSjZHQnN4R0xXUHoySk8xU0pycUg4bWFUTWJrYzBLWFk3V0VYNkFrcmRYV3BSQVd0Yy1DMjFOTTY4?oc=5",
+        "source": "Game Developer",
+        "timestamp": 1790717411
+      },
+      {
+        "title": "Month-End Retrospective",
+        "link": "https://www.reddit.com/r/gaming/comments/1wtm9du/monthend_retrospective/",
+        "source": "Reddit",
+        "timestamp": 1790716209
+      },
+      {
+        "title": "G2E: Internet-based skill games are a different creature, panelists maintain - CDC Gaming",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVWFYbjdkSDdKenZBemNXT1R4QVNXaWFKNzVMNktXWVg5akpYYzg2RXp2SlBXMTVORGdxcHF6WUlRTFlNVmRON3ZiY0E3X19WVDJDUjlJd1dLSHNsR2FmMV9qeXFOSV9xcDZSVDhPMkNRM3hCelVTMDZsVXh4LWpIMFhpS0VhbGRSWjZ5NGd1dWwtSUl2aFcxSWxMVEFPaGxDc0Fj?oc=5",
+        "source": "CDC Gaming",
+        "timestamp": 1790715845
+      },
+      {
+        "title": "ICE Barcelona Registration Opens as the Global Industry Prepares to Head for Barcelona - Gambling News",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQemxnTzd6dkc1anpGdElJaTFfSU9DTklQNUdKcF82OGlDaWhGaDg2UlhuWVJ5UUI0QWhTSk83ZG96SEJHdURla0gwQTZ4alhqdnlmd0RXV0dPSGpocS1Qd0lickJ2UGFuajc3SHdhcHNpaVRHYUdNQnhxVGg1WlQzOUs5RGxKVTQtRUg1dmZzXzZNVlg0TWtnVVJPOGhmT2dzMVZOWFZsM2lMbWpYc1hNSGpETjF5U0FvOC1UMXh3?oc=5",
+        "source": "Gambling News",
+        "timestamp": 1790715315
+      },
+      {
+        "title": "G2E: Las Vegas, prediction markets dominates industry discussion - CDC Gaming",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTlc1eFFtOUloMEM3SEZkMm5DVGM2dllQMUhVSHU5SFNaUUdjZC02MGR6QUdYVTJzVmNfM0pmblAtSWd6NDU3bFpiOW1VMFB3R2F5ZWpaZk5IcTRPNlpGX0VfWFhxcHoyczktbU1YZFZvdTBCc3dCaE9HZzJ1WVk3Y19hRDd5UVdDeFkxM3VR?oc=5",
+        "source": "CDC Gaming",
+        "timestamp": 1790715055
+      },
+      {
+        "title": "Asian Games 2026: Chinese Swimmer Li Bingjie Pulls Five Gold Medals From Pocket in Viral Moment (WATCH) - Asianet Newsable",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPU2hVa2VEWmVUWkhneG1zVl9SR0duNTlpUkZIeVJDcFg0blBxOVVxbEd0V29HOUFkbGpOSnF0ajRSQUtTQWtvcndKQk1IWEJzSnRISURfTEluOVZSV2dNR2JyQWE5Y2h2ZHIzMlhXeUIyQ3RmRUkzb1BnVmVJVVA2YmJvU1U1LWRPMmRCYjA5MS1wRXFWR2YwMHhOTmRSbXhrRjNRdjlLbUdmY2lSUGl2NDhuRnptYUE2dlF5QzV2X18xYWNXQ3RFcU9tUmFVbktybUs2TXluM01weEdIYkNJeUZDMDNYUUprWmZ4dERLdlhld9IB9wFBVV95cUxOcVUwQllaVWJsWE9lUDk2V2FRdEVia0VXMHVJZGlBY01rM2xLNm0taXV5SzVrM1pfWWZ3TVFKSWNuT0RXX0paMjhSbUxzU1pBaFNPakZhVDExM2JPVGJOejllWnh1WkNScUZzN3NYTTdLSHRCRFI4eUNmLUZBRGtHUmNacG5qR005Qnk0TTc1MHUzTVk2Y2R3X0liVWpWaWFhS21lWlJZYkNHWkdQd0Vrc0tCdE9UdFp4WTI1b1l4eHh6WUZKLTh0Zk02R1lXNkE0ZnRCakhwOVoxOHZLbmoyZFV0Ql9DSHRvQWpnQU5SWk9ldXV6alg4?oc=5",
+        "source": "Asianet Newsable",
+        "timestamp": 1790714737
+      },
+      {
+        "title": "Social Casino Apps 2026: Best Mobile Apps, Features & Top Picks - RotoWire",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQem9GWE9rMUV1NlU0TjBTX2tLZ09OZUZGdGY4OUl0NUJCeUkxODJIV0hkODdINkpZVFllRGh5TG1rZXNtUE5hZHRvaGJZSVV3MnNmRUJaTzFpMXJrN1ExdVR2QTNwSnV6NENXMXhYekFQZW9KSGQ3dlBKTk5VTGZHTUUtdWN6amx4TjFmdWgtaUJCSnJKYWUtU2QtbmdhRE0?oc=5",
+        "source": "RotoWire",
+        "timestamp": 1790714040
+      },
+      {
+        "title": "Get ready to play at LuckLeopard Casino: 1,000 free spins and beyond await you - Sanfermin.com",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOGg4M2pReHNPOWJ0Q0M1bGNVcDM3dGRZSm5EdExEMkIwZERTRUJ4em5ieGpYWlQ2SHlZeENGOHNMT3pjdWJOZ3l6TUhkb2dsX0NiU0Y4OWVaMENoejQzZ2N6Q045dURsNEYwYXhoVFJVdmpEb2VtQkJwTmdXeWdoM3ZYdnZwam5Vdjhaa3pzQjFoeFNBdmExYzU1MTY1U2M4T2NTbDM2dEpnQQ?oc=5",
+        "source": "Sanfermin.com",
+        "timestamp": 1790713916
+      },
+      {
+        "title": "Casino CEOs Warn Prediction Markets Threaten State Gaming Regulations - Covers.com",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdGtkU2dmWDNJR3JwbmhHX0QzN0RZcjdpeTVRVU9uYVJJb0ZVMW5sQjVhWU5yLVlwSThwbEZZdjh2SThhVldncDVNd190X01vT1hmRDkwTS1wZjN2VzFkUEZaQmhFWlcxakNyWFgwN0xyUE45QzRyTTZuNWdZN2QzQzM1c1A0M2NWbTZHUm9MckdKUzN4NzhuTG1BTGVwLVE?oc=5",
+        "source": "Covers.com",
+        "timestamp": 1790713740
+      },
+      {
+        "title": "City Never Sleeps - Deadlock",
+        "link": "https://www.reddit.com/r/gaming/comments/1wtl64n/city_never_sleeps_deadlock/",
+        "source": "Reddit",
+        "timestamp": 1790713659
+      },
+      {
+        "title": "Trophy Games completes its biggest acquisition yet by purchasing Playrion for $2.6 million - WN Hub",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WcndrdlBTYTFsOFlBaG9XZFRyaFFyRmRsS1lubEllODVnV2wzMk1OXzFYeGtGVVkyOUZ2eDR6SzBRM3p2cEtmRjM5MWMySTg?oc=5",
+        "source": "WN Hub",
+        "timestamp": 1790712495
+      },
+      {
+        "title": "Former Dying Light franchise lead joins Bloober Team horror imprint Broken Mirror Games - Game Developer",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONHdmWUFZVjFQdTFubzJzc0VLU1hKcUotWUxYT1F0eTROeTY4N1ljVk51Y3pFNlh6ZjhlZ1hsSGZDeG5meGtuYjd0eF9CbkRwaXZGVU53eGtQNmpSNTVCUW1pWTM4RzZJRUJUVzlwVFU0M2Jrd0FkaDVJMXJUWXFudjVLMkVPWVYyaEI5T1lNR3M4VUgyLUJoLXF2UERxTy1SSFBNMjk3VnphOVhZLU5TR1JwVmpqSW80RHd5aDA2UHI5b0pS?oc=5",
+        "source": "Game Developer",
+        "timestamp": 1790711993
+      },
+      {
+        "title": "5 FanDuel Leaders on Responsible Gaming Across the Business - FanDuel",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWJBMm9CUl9PM05WQUlqWFFCYWJ4b3gxSjdhWVBBekhkSnpNeEk5WWlVeVU2bVB3UVBYU2p2TllBRDZ1a1lrWnZFeDZMQ1BydFFrbWtjZmoxNHhIb3FMaVd5bzB4QmRtTWVKdnlwV1VzUEQ2QVdUbHYxemw2MlVCbVRQWjhhUHNfdDcteFlKZXNxdkZrTnU4ZWVB?oc=5",
+        "source": "FanDuel",
+        "timestamp": 1790711015
+      },
+      {
+        "title": "Jurassic World Evolution 3: Prehistoric East DLC Out Now Alongside Update 1.5 Patch Notes - GameWatcher",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ05oNFozWUVPT0h4T3FzRENkby1senkyMzNGRnpJbEM2eHVUSUhCTnFkNG1RWWlSMUM4dHlBMTRkWjd4TmpOREtEV2xYNTE5WmdGOExDUkNzLW82ZUx1cVphMkhLeW82NjV3TVdNZmhqMDd5NFd5bVU0UVFmRkNZd1lxY2c4V2swNDc5Q1k1ZV8tNXBubGlNY0lIQVdjS1YwRmZfUTlPbjJpOW5xWE90TzNzcEgtRjg?oc=5",
+        "source": "GameWatcher",
+        "timestamp": 1790710967
+      },
+      {
+        "title": "The Best Of Times, The Currywurst Of Times - gameinformer.com",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdzdTUUtqWkhtSEVYV2drNGpJelZzbFhJVDhHNmpEa0NKWmpGQVZfaTV4NU55SVdfUW1xUjlJQkZJR2JOU19UektLTjQ2YTF2S3RJWjM1UF9NUzdhWWZ1eXMtenQ1dGgwTjZOTmVFbm9Fckc0VzYtYnk2RHJqR3ZsWUt5THFTYnZFelViRV93?oc=5",
+        "source": "gameinformer.com",
+        "timestamp": 1790710276
+      },
+      {
+        "title": "Battlefield 6 patch notes: Update 1.4.3.5 arrives on September 30, 2026 - jeu.video",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNenUwRk1ac2IzZFZLWXJIcmJLdHhESk8wUkppcHlIUThfbGNpUG03dHItVzZlMlNXOXE1T0NsWUNBYm0tTG80cmJlUVc1N1M3UUluV0g0N3RLcnVyLTR4M0tZYUx0M1B1TGZSWGpLc1BudXFfRTZkNHh0d1Z3V0RidEFqVzl1dEp3NWc?oc=5",
+        "source": "jeu.video",
+        "timestamp": 1790709759
+      },
+      {
+        "title": "Four years in: How eGames Lab has helped Portugal’s games industry grow - PocketGamer.biz",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSGd5cXNPZTJibjFMU1o0M0ZMVnA5QWljMEtWamxhYWFkWDg4WDBvdGg5OWo2eENtOU1XXzRBMlFyZVhoaURtcTNMYXYtdHkybGpNMERlWnhRdEsyRE11eXpMY1YxbklHZFNjd3VLY1ZJRm9lVTRlUHNzUkQxTkMxUmI3aFh5VHFla1c2Q1ZBZjFlRDdfM2tRRmY4Zk9jZmM?oc=5",
+        "source": "PocketGamer.biz",
+        "timestamp": 1790708520
+      },
+      {
+        "title": "Guillermo del Toro confirms attempting to adapt 'Bioshock' into a movie: \"You know, I tried...Adapting it, BioShock, we had a couple of calls. They are probably one of the most disastrous calls I've ever had. So no, fuck no.”",
+        "link": "https://www.reddit.com/r/gaming/comments/1wtil0a/guillermo_del_toro_confirms_attempting_to_adapt/",
+        "source": "Reddit",
+        "timestamp": 1790707773
+      },
+      {
+        "title": "Legacy Piece Codes (September 2026) - Beebom",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NemZKb2dSbHBKT0FRVHlLTFpRd2FvdlZnMUNFVVhleUZjb1dfb2xSZnplckM1bmN5N3RNSUNxMGIwbWVENHFzM0phb3B2SU3SAVRBVV95cUxOeE9TMnBFTTJXX2VSMUFKVW12THpqQWp6OEJ5VktoTWQzeHpicHlmaExLRm9CakZ5cDNjckhON3ozT3JlMjlOSnhXQ3Y2alVOcjE2c0E?oc=5",
+        "source": "Beebom",
+        "timestamp": 1790707644
+      },
+      {
+        "title": "Mexico Moves to Force Digital Storefronts to Disclose License Terms - Gadget Review",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR2NIT2xxZVM1b0NjMmlYUGFsT0oyZkFxQ3FEZlVHc3l4SFFhLTZrUVB4QTBvVFBFSXdWSUdPMzNUeEFYUjJTaVpTeU16SlZhWXNvSVJxTHFNU2NoNExQalczejA1VEx6WGo5S3JndThPMExKLWVYeTFpdWlYbVVZTXBDLW9sNGJFOU5hcEVpZmk3V3l0N19zR1pHMlc?oc=5",
-        "source": "gadgetreview.com",
+        "source": "Gadget Review",
         "timestamp": 1790706423
       },
       {
-        "title": "What do s&box’s issues (so far) tell us about launching platforms in 2026? - newsletter.gamediscover.co",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaRmtPRUVsLUowOFhTd2xWWTJ0bDhQVUtLZlVQT2hpX3lUUjdBSjZSeE15bFVpSDFyaVVrQ1RYVkdIZ0pia3JuX19kUUtycVFHTXJwSWk0NXBYQUpiTTROZnpiQ0NicWFYam5fcWExQVNOT3FXMllBXw?oc=5",
-        "source": "newsletter.gamediscover.co",
-        "timestamp": 1790706410
+        "title": "'007: First Light' Announces a Free DLC, Launching October 1st",
+        "link": "https://www.reddit.com/r/gaming/comments/1wthwaj/007_first_light_announces_a_free_dlc_launching/",
+        "source": "Reddit",
+        "timestamp": 1790706215
       },
       {
         "title": "Shuhei Yoshida Says Sony And Nintendo Should Keep The Current-Gen Going For As Long As Possible",
         "link": "https://www.reddit.com/r/gaming/comments/1wthsy3/shuhei_yoshida_says_sony_and_nintendo_should_keep/",
         "source": "Reddit",
         "timestamp": 1790706013
+      },
+      {
+        "title": "LEGO Batman: Legacy of the Dark Knight Update 1.011 Flies Out on September 29 - MP1st",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORWQ4MTRCQ1UxVjFQU1k4UmdOaENtMGJTdXFkclFOalEySjlmbDNpOXlTTWNGbHZ3dVBTQ05Yd0Z6eFNqdHhwbktKRVFHUGg3OWxZWlpLcFBVaERRb2s2ZFhKNzV3T0luZHdVclhnbWdFWHRLY2JXdTJDQldUb0hkcjVFRWozWW91N2plTEV0YnFfaG13VjZSWkpDcE16SmZZdU1WQUtGcFdCR21vejdZWEJTMFB3aHg1?oc=5",
+        "source": "MP1st",
+        "timestamp": 1790705108
       },
       {
         "title": "Xbox Disc to Digital program expands again as SEGA joins a growing list of supported publishers",
@@ -729,15 +873,21 @@
         "timestamp": 1790704125
       },
       {
-        "title": "Hard Rock International Wins Land-Based Operator of the Year at 2026 Global Gaming Awards - Morningstar",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaTBXeXlaYzcwWm9iX2V3MDdaVEV3c3hFTnNOaHpDbHkyX2hqaVBRTzdubEFvMl9PT3ZYQjQzTWVHcmVOTjBrVGloaTRTS3k1QzcwWjU1bzJVNzhhdXRLcWZEeV9nREtSTEVfYVIzbUlxa2Z4N2xfR0FBUmhfcGFxRzZTbkVDeDRUR3luWEpwOXF6aGNIckpDejFPVmlQbVBqWWdqcFI3Z0gteV9VaUFlX3J5NVdUbk02RVVEcFFfWmpjSTN2YWJlNHBuN3l1eFVYOW8zenZEazF1ejhSaTFaUVZfT1A?oc=5",
-        "source": "Morningstar",
-        "timestamp": 1790702220
+        "title": "YouTube Playables Hits 50+ Markets, Zero IAP [2026] - shattered.io",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5nSmVVeVlXRXhCR1BJU3NVRXJMMHpjT0pOdUpMUlRKdFhuOWFNOHlqeDdjLWlsNF8tT1psVF9rU2xrb2ZNTlpCcW5TUWVzQllMVnlhWXBKQlN3ei1LQnBDMzhHLTNzT0VKelRfTHpScFRHQQ?oc=5",
+        "source": "shattered.io",
+        "timestamp": 1790704032
       },
       {
-        "title": "Among Us 19.0.0 update out now, patch notes – new Ghost Influencer role and more - Nintendo Everything",
+        "title": "NHL 27 Update 2 Released on September 29 for Patch 1.004 - MP1st",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRTV5dFV3UmpSN2VKa2tqeWNiRkJqZDRRZU5zSE9HYjNsRFlPTEJiZmNGVE9CVjFYU2cxUk95VGtXY09ubzlQTDd0OEFBcUowM293dmxEaUhpS1dKdlJ5MGNVRTNfOGhuUWhqNnN0T3E2RHI0QUxaX2lUS3l1MTdHR2hVM3hXZWpQWTZjNDMtSXZtUzVQYlo2cw?oc=5",
+        "source": "MP1st",
+        "timestamp": 1790703599
+      },
+      {
+        "title": "Among Us 19.0.0 update out now, patch notes – new Ghost Influencer role and more - nintendoeverything.com",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWUJyc0NmOHNYZlFvMk9pYzFXc2V3anRVblF6d0VlLWVVbHU2dGpPR1pXMy16MDJPRnRySzYxal9JWkl5MUFfWHdBazlhampRSDZvTlR6NjMxZFNTbHN6RFpBYTY2RXV6d2kyUmhoS0psOUhjc1prS2wwWENYLWtJTkxaQkJzNEEyeWh0U2I0ZHd6MVAzQ0dobzY3Q0RHejJTMWNuTThnU1FQa3RGN3c?oc=5",
-        "source": "Nintendo Everything",
+        "source": "nintendoeverything.com",
         "timestamp": 1790701857
       },
       {
@@ -747,10 +897,10 @@
         "timestamp": 1790701300
       },
       {
-        "title": "Jurassic World Evolution 3: Prehistoric East DLC Out Now Alongside Update 1.5 Patch Notes - GameWatcher",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ05oNFozWUVPT0h4T3FzRENkby1senkyMzNGRnpJbEM2eHVUSUhCTnFkNG1RWWlSMUM4dHlBMTRkWjd4TmpOREtEV2xYNTE5WmdGOExDUkNzLW82ZUx1cVphMkhLeW82NjV3TVdNZmhqMDd5NFd5bVU0UVFmRkNZd1lxY2c4V2swNDc5Q1k1ZV8tNXBubGlNY0lIQVdjS1YwRmZfUTlPbjJpOW5xWE90TzNzcEgtRjg?oc=5",
-        "source": "GameWatcher",
-        "timestamp": 1790700548
+        "title": "Ace Combat 8 promised PC players a classic PS2 game, but there's a pretty massive catch - Operation Sports",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSkMxVmNFbEpWOTEzQTRXR1J6TFFQQlhTWk5CZElSajh6MUZLM0RUeGgtVm1kT1A4a2RDbDhMc3RZUm93bDl6bFoydmhYZ0ZZeTJtUkdveHhJOWxyeVhuWHRENFYxOFdzZ201eE9kQ3ZrMUlDZmR0UVNOaFF4Q3ItWV95a3hsTGRmTllNSGtHd1VXNEFFRnNVd0lKR1hDMUpxcUdvYzJDLTdwSTZQdE1oMnFmX3BISlY1RGc?oc=5",
+        "source": "Operation Sports",
+        "timestamp": 1790701200
       },
       {
         "title": "Mobile Legends: Adventure Codes – Get Free Diamond & Summon Scrolls September 2026 - EGamersWorld",
@@ -759,28 +909,34 @@
         "timestamp": 1790700336
       },
       {
+        "title": "Best 9 sweepstakes casinos ranked and reviewed for September 2026 - Detroit Free Press",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaFJObkJRX01qVG1kTEZfcXBRRmhrMmZXcktVTnlSX3dkQjdUTHFoOVBmN3RDem9rdjJTWndZX3RpTlNpSURBZ0RpYVFRNXFQbW1OanlSYjQzOGt2VWZOMTNtR0JGX3c2N1B4TlhRc25ZNmRxTnM5Z0c2WWpuajgtc1lPUUZhUkduSUFmTTNXNlRieXVoNklYazNjbw?oc=5",
+        "source": "Detroit Free Press",
+        "timestamp": 1790699400
+      },
+      {
+        "title": "Xbox officially announces Mythic Achievements, rolling out to Insiders today - TrueAchievements",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WMnRCczFzZjdGSnFzbUUwd1RSaWZDbWZkSl9zb040b05HclF3UjFuSFJzbDB1MlBKdWFzdEZFa1hETTlKRnkwUE93UjJDNkdzblVITEg2NDFHeGxxV1AyNmZRNEJ5bWpCRFVxQXItSQ?oc=5",
+        "source": "TrueAchievements",
+        "timestamp": 1790699272
+      },
+      {
         "title": "A PlayStation 5 game was natively launched on PC for the first time, an official proposed obliging game companies to warn about server shutdowns 60 days in advance and refund money - the most interesting news for September 28 - ixbt.games",
         "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQUXNOSWd0dlhxWlJma0FVOWxneTN2dXhJVDF0cWJ1a05wczRxQ0MteENpaE1NWWFodXpnUXFJcnV5N1ZiaU9BR2xQSVo0a1ZhVTJoaFRfcE9ZNVZEa3BhSTVUSFMxTDJpTUpNSXZ2Q1pBUkZuOTRzLVJuaW81bTVocDBLbWc5aV9nZk9GVml3UE9DYXNDdXBiejIxV1JDcHNtT1BycThPMXptQ2VyTHdoVy1yTVNHU1FJNEJYWHJIX3NrZG9HV0JrcFB0aFJoWWY3NWZlYjVialY1YzV6Q3lTS0RuUVpWamx1ZXdOcXpHQV9CNTRjMWRwa2hPSFlXejZuZ19VVW1LQVpJSTVaX2VzMDl4QmFfSEpCWE1KQWpkcnFUREhHVThOaVVOZlM0RlRhdXcyVEE2TUdlVFZFekF3TDFfR1FaWklfZ2E0Qk9NVTJoRm1pNWo0NTFoRUZndnBxbUHSAecCQVVfeXFMTklwMnItenUxN2FlckZfN3BPeng0QUN0Z0poZGh2M3dBQl9TZUNDQWF1Vi1JTkdNYzhCY2NScGFjdi03Znh6Tk1oYTlqNE9JZHd6VHBNa3M2TkZvSEdMWEl2SzA3Yjh2Y2xGeWQyQW55cXFHNGIxQm1icU1fZFZTd19yLUZsZFdwekhsT1ZrZjNtcDluM0JCczhPVjRHZ0RCU2pXUEFfak9HMEV0RjVoQXdTY0lhOWtSc3ZSWXQ0Y0hpdGRTY3VBdWR1bHFTY2JDQnVRVHk2cDdleENGemdpQmhkYUJtd0dXQUJEMFhwTGRxeHZoMUpHbTJTNEpOdGJZdFNMWDF5QU5yMkRGOE9QeE9PclJySW5HWnF0aDJRb2RFNEJjY1lxVTNGSGt4WDYwaEZsMVZJWmtCdDJWYzVxYnNMU0xBSFNLbjFQcEZRVU93STdYQ3k0TTc0MTV4RlZyb3Z2TnVOR1k?oc=5",
         "source": "ixbt.games",
         "timestamp": 1790698558
       },
       {
-        "title": "Hijacking the PS5’s RTMP stream - Adafruit",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nc2hTOHFxaFo3ZjE4OWZ4Y0dmVW5aRGhuZVdNLTIyaHZ5MGlHY0Q5UkFVcUZMSzgyMXVNTWtZT2kyckcwNjFVVFEtdHdJSjVIeHh0dk9IYkxNbzRhOHJPS2JMdEQwZzlQd0tZZC1YYTNJUnd2SS1V?oc=5",
-        "source": "Adafruit",
-        "timestamp": 1790697798
+        "title": "Experts release updated Yankees-Red Sox Game 1 AL Wild Card predictions after Aaron Judge news - silive.com",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd2JWckQ1YmlxMkxsNm1Fckw0cEx4WVhodUVyZTI0ZURnbUstNmkxcEVVbWNMSDRUdFp6VmQ2UGdmbjZrZjhjemxQOElSb1NNVERESGV4b09NdFdlUkhrS2tQSHdha1A4cWZmZ1llQ1NzWGs4cVA4SWdSRlFjQ2x1YkI4OFlHQUxhQk1HME1YU3BzajVzT2x2WUxBOEZSa0c1a0xqZXcxSlpSM1VNbTRmZzg0U3dNVkVXOEhUdjJYeWFsMlhqS013azNvczJCeExBUmFOMA?oc=5",
+        "source": "silive.com",
+        "timestamp": 1790698500
       },
       {
-        "title": "Fight or Kite: Is mecha MMO RF Online Next actually a game? - massivelyop.com",
+        "title": "Fight or Kite: Is mecha MMO RF Online Next actually a game? - Massively Overpowered",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQUdhcG1fVVJaNE42ZE93N3ltYTVVT2J2b1hmcF9POFBPajk1eGMzSFVtSXhuT1M2cUxCX1pQdWwzMjIteGdhWE5Pb1FYQWxRb2MxX0g2cFBxdFpxbHhySGFUX1BCWU1zZENRZlFJUnFrR3dyN2VsWmQxbkxlX3lyUWM4WjhuM0ZKUE1oZGh2QzVtRk1pc2JaQw?oc=5",
-        "source": "massivelyop.com",
+        "source": "Massively Overpowered",
         "timestamp": 1790697631
-      },
-      {
-        "title": "The Witcher 3 Remastered Patch Notes Explained - GameWatcher",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5QnozUE5YckJmb01aUWdHWWRLQUllVmNOV1c4SEw0bTU0dXY3c1pGNXFmZmZvdUZfUWNwM2RHMXhic3ZxUXJkaDJfTm02cWpvVktLWllSNTBMWVVlQ0FCU3ZHM3BPQ2w3R2ZOa250U01LX1dRak1yVkFicUExa0E?oc=5",
-        "source": "GameWatcher",
-        "timestamp": 1790697628
       },
       {
         "title": "\"Was In My Towel\": Malaysian Cricketer's Post After Asian Games Elimination Due To Washout Is Viral - NDTV Sports",
@@ -795,22 +951,34 @@
         "timestamp": 1790697011
       },
       {
-        "title": "Viral Steam game is GTA Istanbul with kebab deliveries in the 1970s - dexerto.com",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeG1sdmhZZDgxRG5hdGVuMUJHa042UnQ5ZjI2WE1FQS1VM0o3cDZHcGFySlNySkVvZ2cxbFZVZ2NSbDRKZkZpX3dtYUtPN2dpTXF6RlRLb3d0YlJPZmpsdUJUNkhESlVRY01weG0xRWZ6cHo3c0FObjFIbWhXcTl1bkFnQWlPanFRdWVVT3BPVF9tWVBPWFgtQmtaYm91eXdjalhlRFlGSEFucFU?oc=5",
-        "source": "dexerto.com",
-        "timestamp": 1790696770
+        "title": "Best Race for Each Class - IGN",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tTVNIOW9vakNvaFZpU2RzZFNyd05Fck1GY2Jac0QxNXE2ZmQ4RmNrQUp1V2xwZHRsV1haYURpaGlndV95SmVvNWN0U0ZpMEltV3RGbEtLWHQxSXowUHNDd0VYM3I1VXNfQS1XbDZfVQ?oc=5",
+        "source": "IGN",
+        "timestamp": 1790696749
       },
       {
-        "title": "Baldur’s Gate 3 Update 1.800.910 Drops on September 29 - MP1st",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeDNROV9MZUJ0YnRrY2lNQlpEUzRteGJyY1NTaVY2Ync3YVhIbHVIZ1hZb0dCb2tKeWNLblZZNjhobVR1bnBTMkJhaWhVdmh1VW9DRVBnaEJaVTVZZnpTNU81dEllSjUxM3ZKS2V4SEh4NW9RNkRQTHNJWDBTUFRFdmpaejZYMlFZUzd5QXdmQ2VXMVJISjVyWHNDX2xVUQ?oc=5",
-        "source": "MP1st",
-        "timestamp": 1790696098
+        "title": "Viral Steam game is GTA Istanbul with kebab deliveries in the 1970s - Dexerto",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeG1sdmhZZDgxRG5hdGVuMUJHa042UnQ5ZjI2WE1FQS1VM0o3cDZHcGFySlNySkVvZ2cxbFZVZ2NSbDRKZkZpX3dtYUtPN2dpTXF6RlRLb3d0YlJPZmpsdUJUNkhESlVRY01weG0xRWZ6cHo3c0FObjFIbWhXcTl1bkFnQWlPanFRdWVVT3BPVF9tWVBPWFgtQmtaYm91eXdjalhlRFlGSEFucFU?oc=5",
+        "source": "Dexerto",
+        "timestamp": 1790695626
+      },
+      {
+        "title": "Modern Warfare 4 PC Trailer, Tech Updates, and More - Call of Duty® | Best-Selling Video Game Franchise",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZEFleEJDa3lObVI1Qjk4LVVIRUtYWmlOalNRUHhIeUZzU3ktdmVzUlBhMTZiOEJodE1qUUhFYUxRa25kM3daQV9KZjNLWWhNV1hURmJEV2xGc1ZlOE5VOHVhcndianI3TXA1ZW5kRkRkelNDcV9LbGZMNktVY2FOdzFlS1FjdC1haGQwU010X3RVLUFoU3F0UmVESktYMVlPX0E?oc=5",
+        "source": "Call of Duty® | Best-Selling Video Game Franchise",
+        "timestamp": 1790695561
       },
       {
         "title": "[STREAM] 10 years game of the year. The Witcher 3 Remastered - ixbt.games",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeWhjNzFRR3pWZjI0U0kzbmtxS3lZY202V0RRQmpRbGJaSE5GYXdJeTFDS1BFWTBoY2ZGZEVua2VsRkV5WjZPVkFDdU5NbTVnZU80ZkhLUlJraFRwZGVtVjV3ckc3ck56cm9rMHlwT1lQS3Bmb3hROUE5Vm9La2xORGdMc0hNT0VlRkp4aWdCWVM0WGpWQ29PazdValZEeWN1NXMzaGhSN2NISzlIdGZxajVvQUszUdIBuwFBVV95cUxOelNWWGI2V1pmMHU1T0dwYUlwVjFPV3FGTWRfeEN0aXc1Wndfd0ozVnozcW5fdkdQRF9fWHhPUTQtVkpEYnE3ZjVRVDZJTHdzU1VBY0RrQ0c1V2RXLU5KMUp4dUQ4WHJhUGdTaFRUdzZESEZlelhhSnN5T1gwY2p3Zm9UY1lLVHZ3dDl2Zlo3ZjItS25Rb2dFblBYZl9qYkFuT2I3bUpFMFpESFllaGk1S2gtd0w4Z3hGSXBN?oc=5",
         "source": "ixbt.games",
         "timestamp": 1790695261
+      },
+      {
+        "title": "Update 51 Base-Game Patch Now Live on All Platforms - elderscrollsonline.com",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yVXBwSWlyNUlaX3hvdVR1dlk3WEQ5NmpPeW82d3BNUjI2aUh6UG95UzdOQ090YVgyb3Bzcy04VWlYS3RLXzh2TkNYV2VBZ2Mwbjhxclctd3N0WTNtRjlsWHZEOUd0QlU?oc=5",
+        "source": "elderscrollsonline.com",
+        "timestamp": 1790695108
       },
       {
         "title": "Another Country Wants to Oblige Publishers to Preserve Digital Games After Server Shutdowns - ixbt.games",
@@ -835,162 +1003,6 @@
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aNFdZaW96MEFEYjVud0lXd0hhTFVsOEI1WHU5YUJxbm01dEN1S2hIRGhEeEV2Qkx2TDRaeXBxdlp4X1E2eWJwN2M2WVYyMmtESHc?oc=5",
         "source": "Eurogamer.net",
         "timestamp": 1790693096
-      },
-      {
-        "title": "Ukrainian tourists sit on sea turtle in Oman, viral video prompts legal action - Hindustan Times",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY0xGcmRXUGZiVUNQeUpoQjRzbXlabDdydV9tMmM3eE1zS3FrV0tzeGpZTHpkOTdjVF80cUJTLThtRGltazR6Y19GM1g4TVdnZy1Xamc1b1JzbXp3bTU2eEhZckJEMDJxMjJtVTZvckwwejZmcW83Z0ttSVlNYmpjOVNORzBNa3NldmMyQ3RZOHV1V2R1NXpBZnk4bnhCR0xoZkppd3M4SDl1T0NiVkt6SmRvUjRseEQ3dlg2UWpkRXZjM1pjWmRSN3JTYS1Zc3Fybnlneg?oc=5",
-        "source": "Hindustan Times",
-        "timestamp": 1790692510
-      },
-      {
-        "title": "'Ace Combat 8: Wings of Theve' - Review Thread",
-        "link": "https://www.reddit.com/r/gaming/comments/1wtbrn3/ace_combat_8_wings_of_theve_review_thread/",
-        "source": "Reddit",
-        "timestamp": 1790692437
-      },
-      {
-        "title": "US favorite free mobile games send data to China, Russia, and Israel, study finds - Cybernews",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNXy0xWjNkUTF5WXZBRklzS3A3S2NVUDFxaU9DbExDUDVjWm1SNG4zMFEyQU1RcG0tbWRrQjRPa29JYWJ3VUhxRUdEa1hxS19NN2JNbXdHdlVtaG4yYm42cUlJc2h1Y3pWRDJFTTJuXzNEYjk3TVJENUU1bGpLeEc4YmMzd1dmNnM?oc=5",
-        "source": "Cybernews",
-        "timestamp": 1790692407
-      },
-      {
-        "title": "Deep Fishing codes September 2026 - Pocket Tactics",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RQTM5TEZQWjBtX0JPeU03dlV3NENjb0hmY3ZFekJtV1E2a1JJUEpnYzZtZlIxdjN0UG8wTVYzYWZZWUZqeGdnTS02Rk1fckRHcEpwSVE3NG1QTjBC?oc=5",
-        "source": "Pocket Tactics",
-        "timestamp": 1790691897
-      },
-      {
-        "title": "Best Casino Apps for Real Money: Tested, Ranked and Reviewed for 2026 - List Wire",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWnZGR00wbkU1XzloQ1BuQjBFemJXNE43YzdXbk14Q1p2aENnWnBwaXYzT3lJZDNhSnBrWFlnaUtnNzN6MmM1aFdyWnJ3TXVLekZRTU9Jc3RseTlLeDZZYTJyTHdmZUJOWDI0ZnFocTZIZDNBcFpxVjg0OVhxcEdMVUpFMnNDWUljNHhNWFk4NC1VejdtQk5aTXVoU1BUdzJtRmtuRGZ3ckFyNjJRRl9NMElpRFNXdHd5Q2c?oc=5",
-        "source": "List Wire",
-        "timestamp": 1790691240
-      },
-      {
-        "title": "Sales of TMNT: Splintered Fate exceeded 1.5 million copies - WN Hub",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SbFVWUzNlMXR1NmxTajhfSWhLTUY3MnBfUnY3c2hseDVxWGItN0N2NnlTYTNvSzRIdndsOHh5QUk5ME5FZlBtYjZOZ3c0ZkJrNkE?oc=5",
-        "source": "WN Hub",
-        "timestamp": 1790691059
-      },
-      {
-        "title": "Update 51 Base-Game Patch Now Live on All Platforms - elderscrollsonline.com",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1qS1V2TUN4SG81eW5Fdk11ekVDUVEyTnpKazAxWXoxX29XcTdOV2x2SkJZRWozUTZFeGxva0VEV3JRM2Y0ckVsMTFFSDVFNFFIZkJtUDVrenZrZUYtb2lSaXBERFAtMjQ?oc=5",
-        "source": "elderscrollsonline.com",
-        "timestamp": 1790690647
-      },
-      {
-        "title": "Defeat Anime RNG Codes (September 2026) — Free Trait Shards [UPD 6] - Pro Game Guides",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FTHFvZ29vVlhDdWotVmNYRkQ4MUhTckI3U3dRcHFNcWt5aXU3NnJMNG8wZDAxX0R4QzNwM0RHeTBuX2Vyd3dJc2Z6T2VHTkh0SGRRWndtWWtLOXZvZ2ctbVZMdlBSNmM?oc=5",
-        "source": "Pro Game Guides",
-        "timestamp": 1790690620
-      },
-      {
-        "title": "Rainbow Six Siege Hotfix on September 29 Brings Update 3.50 | 1.000.155 - MP1st",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYVRwZkJZYkNIa3cybVZpT2ZnVUMyWEdvaDRaVUp2QVlWak1LRWZoU0ZPX2d0a2J0clRaQzZGeDhNVUJyeUFYby1McHpwb1lnQjh4SWFxeXU2LXY1TDJDemx5MjRsRVZlNENUOUk5bTZHa2V4RkRhNG5OZXFaZy1pekNoT2hPTFRPVFBMTUJkd3Y1dUhqNG9WUG1ETDBwcUFHSlFTajNhTnQwNzRMLWdV?oc=5",
-        "source": "MP1st",
-        "timestamp": 1790690396
-      },
-      {
-        "title": "The Witcher 3 update today (29 September): What changes in the patch notes? - Radio Times",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52dGR5MHJoWmRjZFowRHlvRDk1UVVid3BKMDUtdEhLelBkTTV3TktuUF8xbGRvcTFxTHlSblJNN2FraUxFVXVaNmR0Zm1ZMDQ1YjF5TWRqYVdmODhEMlRKNXhoRmsxcDh4SHlqbEFLbmk0Q0twVnRmTFFNb0ZEZG8?oc=5",
-        "source": "Radio Times",
-        "timestamp": 1790690312
-      },
-      {
-        "title": "Quapaw Nation names Rod Centers CEO of Pine Bluff’s Saracen Casino Resort - The Arkansas Democrat-Gazette",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZFhYcDNxbVNHQURhU1ZqMFlZblN1OFlDMkU3UWhjR0hFbUVGTUpJc0dTbmM3RUk2ZThpdmJBbDVENnlFVGpOUW5XaHVmTEExUTFaMUVFMkowZkV6ZDM5cnNLWmlyZmRBVjhXZFIxY1JQWDNkanFjSzNMRVF5T0lRRWZoLUNoR0JjamQ0NC13NGRVb011VE5V?oc=5",
-        "source": "The Arkansas Democrat-Gazette",
-        "timestamp": 1790689080
-      },
-      {
-        "title": "How to Develop a Game Alone for 9 Years Without Going Crazy? — Interview with the Creator of Master of Luna - WN Hub",
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzYWVJQkQ5OVdzb1FpNlRhSVVfcGVhd2RPMUFDeW96NG16OHVQZWstY1BkeU0tOENwS0s3UWdEcFkySlhYWF8zVWQyaHkwTk0?oc=5",
-        "source": "WN Hub",
-        "timestamp": 1790688588
-      },
-      {
-        "title": "The Witcher 3 Remastered Gives Away Free Cosmetic Rewards at Launch - VICE",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY3dMYWdYRDItLXdrUHRhZkJKcjhpVkoyY2NESVdTQV85TzBOQnplc2FfME5jWWZYZWRJbXpxVENaWkFabzdBV3E4YXJTeGNZVjVBVHhPOFV2bGZhZUhQYnl0d0RPRFRIU2FENi1qMzhmREdBZ2hQSEFodVpfNTRZNw?oc=5",
-        "source": "VICE",
-        "timestamp": 1790687251
-      },
-      {
-        "title": "Saracen Casino Resort Names Rod Centers CEO Just Days After Firing GM and CMO - Casino.org",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jTXltdVZiQWJvTmFoLXBLQ1R0bzNQU0RtWlEzVmJYazg2eGpmSlN2M3FRVkRvemVxS19pV2lKSDRCbURZREF1SDltaWt0TjJvdjh0VmZTVWs4Yml3cGR4QTBSZTdSTTM4OWQyZDVPNmhVZG5PLVAya3Q3MXQ?oc=5",
-        "source": "Casino.org",
-        "timestamp": 1790686422
-      },
-      {
-        "title": "‘Aloo-posto burger, bhaja bhetki sandwich’: Starbucks launches Durga Pujo special menu, billboard pic goes viral | Trending - Hindustan Times",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQc2tqazVkLWEzWjRMR0t3Y2ZTUF9MX2diTjd1R3BWWjBjR2tXZUtLaGhpc0xDdzM4V0g0TkVCNGNfS3pQSlZLUmptc1p3SkU3MFNjaW5BZTg5dllFb3FOc2hoUXREWHZwWWdEbHpFV0U2N0w3MG1qSHgzUlVkNERLU0JBMWpzc0xHOUN4Z1pHOGl2dG9nNTI2Q3JIM2l3RG90MTJ2WHBseTkwa2J5b1RxV3g1WEtoNFk0LWMtaEdtSm5rVU4wcjBJMWdvVEhfM0x6dFpmcVFGSkh1Y0ZEeFAyemFTbXJvOGhDdzdjU1VSTHVZV1BIamcwSFlMUdIBgAJBVV95cUxOZlc1WEVMREtMZ0ZBbmJEQy1fbElrY1JwbXg3RGdmQ2s4ZzRnd0VVaFVIOEJNQnpaVWJkeHNPd1pMenU1Rk1UeUdEX3Q3c3gtR3htV0ktOE9OV2lLNWJxb3Bxam1oc2pybHRDUC1NOXNqUTY2SURhRldVVG03RFU4eTQ0bER6TkhMQmJMbkwzdjFYaVlNRXFBOUVIekI2UjRCWFhhNGFLZ1o2elpXZWtxNmZhODRVRGRMU1ZOeFN1UHAtb01VZktxOXJSWWNmMGJDdnJ0dmpXbUllSEUxQjFBZmt2bGo3RWU5Q19NZEhCSS1RV3FsUmVuclJ1NERHc1h3?oc=5",
-        "source": "Hindustan Times",
-        "timestamp": 1790685980
-      },
-      {
-        "title": "Sports News | Gulveer Singh Wins Third Medal at 2026 Asian Games, Clinches Bronze in Men's 5000m - LatestLY",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYXVzaG1IUV9Ca0V2dHdYVk02Q3M3emk5TWNFRURMQ0czLXRtQXppaWJoSmJuWS1LYWVJNXd4TXB6YzFzMHZtY3VRLXNESVJZaHRHSC00cGZiZTVVYUpzU0llSTQ4LVJwc0lEUEEwbkpTUXVnVEQwMGRDUE40N09NTXVXQ2YtX2I1VDVZLU9LWnZaZkt2dERSVnRGS1Q2UjdQMjByRVlmeG1WZG10U0pyZGN0MkZNZ1loaE84ckozUFF3X05TejdxNlJxdEhJODJOM0FHa0pVMjkxemxSWFFn0gHfAUFVX3lxTFBhdXNobUhRX0JrRXZ0d1hWTTZDczd6aTlNY0VFRExDRzMtdG1BemlpYmhKYm5ZLUthZUk1d3hNcHpjMXMwdm1jdVEtc0RJUllodEdILTRwZmJlNVVhSnNTSWVJNDgtUnBzSURQQTBuSlNRdWdURDAwZENQTjQ3T01NdVdDZi1fYjVUNVktT0tadlpmS3Z0RFJWdEZLVDZSN1AyMHJFWWZ4bVZkbXRTSnJkY3QyRk1nWWhoTzhySjNQUXdfTlN6N3E2UnF0SEk4Mk4zQUdrSlUyOTF6bFJYUWc?oc=5",
-        "source": "LatestLY",
-        "timestamp": 1790685979
-      },
-      {
-        "title": "Want to up your FC 27 game? Here are 11 of the best FC 27 creators to watch - Red Bull",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuZzZWaEMzWHZuQzhhZGlCemxFRzcwZ3VaelBBZEhFWUpXbFc4dWVVX2htQVhITV8yUFBrTVRSLW0wUzcwNkhxZmVCbWcyRmdlSzBYSWlYa2tBaVdTTkE?oc=5",
-        "source": "Red Bull",
-        "timestamp": 1790685668
-      },
-      {
-        "title": "\"Why should we just give up the entire month of November?\" – The indie games going head to head with GTA 6 - GamesIndustry.biz",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVGhqY2pTYVhLN3ZHa1RHRVJWNjdyQTZQTHA5NkdRM3lKQ05uZDM1M1R6UmFwQkRzVC1kVWxnM0NIZXRBdllzVURkV1gzZE5sblRfOF9KVTZ4a2kzVUthVGRXQWVNTWZ2UjdobzdnVHdaLXdpbEljWjJjZ1psaFhCZlJWYTlwVDIwX0ttRGpKZUZtcmxzVnVxajFvY2wtVDQtLUVfZjZmdjJuOEw5MVhfTDA0cXc0NFU4U3NVblN2OFI3eXQ4YTF3YUhaTQ?oc=5",
-        "source": "GamesIndustry.biz",
-        "timestamp": 1790685000
-      },
-      {
-        "title": "The Witcher 3 Remastered Twitch Drops: All rewards and how to get them - AltChar",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY3JKSFVodXpwWExjUVFDblpsVk5kcG91R0p0dVhXSGd3d1hyR2VWa3FSZUxyOEx3S1UxMVd0OHktcEhSWHVqS2RaaXVKTG93eUg3cHV2VzNsajlLUVVWVmhpNDFENGJjNGd0M2FtQlZibDNVTWNqcTdVZXBzMDJuN0lPNW0xellZT2tCYnFyS2FnUkh6TFZCSlJtdE9SVzdWY2hycnlxSHppUnZscjVxdXBldW52Zzg?oc=5",
-        "source": "AltChar",
-        "timestamp": 1790684940
-      },
-      {
-        "title": "The Witcher 3 Remastered Guide – 15 Best Tips and Tricks - GamingBolt",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONDdFQ1F0OG1UOVRvVjJZejFoQ28yQUFGcjNjc2gwZ1UwRE1KdmI5V2ZINEkwNm03dHFtd0ZneERudFl6SEJnVGlFdmJoQU10a3RTeE1fb3ZGZVI1aHEzZVk0a01SdzVMMVVHMWQ4c0FNTXJ1ek5WdzNUbE16bE9GWFd4UQ?oc=5",
-        "source": "GamingBolt",
-        "timestamp": 1790683900
-      },
-      {
-        "title": "The Witcher 3: Wild Hunt — Remastered is now out!",
-        "link": "https://www.reddit.com/r/gaming/comments/1wt84sn/the_witcher_3_wild_hunt_remastered_is_now_out/",
-        "source": "Reddit",
-        "timestamp": 1790683047
-      },
-      {
-        "title": "Gulveer Singh Wins Bronze Medal at Asian Games 2026 in Men’s 5000m - LatestLY",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ2hjdnVTUVNPLVAzZE1sVFZ4ZE9vWkJCM256dU5fbnJ5U3NfVkRITXAyTG05b01yU2plazR3SFRkUHppMVQ3ems0c0dXQVdLaUZVTDhtdmJ5OXdyY2ZKTVNROVFGMnZKM29oaXpIdm1mdmRDY04wTUhmSHpXMWtvOXVkTEsxZWFScUp6dXNFa19BaEVrbERsb2gwV2Z2S3RBR1BCcUV1LTMwMkgxbVRsTTMwQmPSAbQBQVVfeXFMTkNoY3Z1U1FTTy1QM2RNbFRWeGRPb1pCQjNuenVOX25yeVNzX1ZESE1wMkxtOW9NclNqZWs0d0hUZFB6aTFUN3prNHNHV0FXS2lGVUw4bXZieTl3cmNmSk1TUTlRRjJ2SjNvaGl6SHZtZnZkQ2NOME1IZkh6VzFrbzl1ZExLMWVhUnFKenVzRWtfQWhFa2xEbG9oMFdmdkt0QUdQQnFFdS0zMDJIMW1UbE0zMEJj?oc=5",
-        "source": "LatestLY",
-        "timestamp": 1790682757
-      },
-      {
-        "title": "The Witcher 3 Remastered Patch Notes - ign.com",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQkZpZHc1TkZJY2padDFTVWh6bzB4S29NV1I4cWpULThhSTNyR3J5aHlRaHVCajFhOVZ6dUx0OHRFN2doTjFyd2E2VUtiVjJKQjNlMFlYaWtPdk5adEI3b1JRZWEySVNNZnFkTWRaYTBEOUlZVVhSQXZkSmxJOW93MFJSQVJkNjZMRF8yc0JHaw?oc=5",
-        "source": "ign.com",
-        "timestamp": 1790682423
-      },
-      {
-        "title": "What game with physics has the heaviest/fastest physics simulation?",
-        "link": "https://www.reddit.com/r/gaming/comments/1wt7vhe/what_game_with_physics_has_the_heaviestfastest/",
-        "source": "Reddit",
-        "timestamp": 1790682241
-      },
-      {
-        "title": "No Ads, No Paywalls, Real $FUN Rewards: Inside FUNToken’s Android Gaming Model - Coinpedia Fintech News",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaDZfYW1yYXMwN09VeTM1Y05rZGJDSVF3SFdBdm00TGMxeThCMWpCcmVUa3ZIMFpHMWY0anpRU2RuVldOYnMyREQ5Y1Bna1BQemZtZ19TekEwQkljTjlvNTRvc2NZbURkMVgxZ2RwclVQcjBOUWsxb01zY3h1eTRsUGthZURjLWdLbFc2Q1c4blF0QXVmTVgtMFRIT3gwZ01DVDhNdVB2NTRsLTBr0gGyAUFVX3lxTE44ekdIYXdUUEdhQXp3a3lJc09HSzhrNnlpREhteXBvN19KSUtLTVhtVjRJV0wxTTBnc19GSnVRRkd2TXpNejktRy01LW4zdTZSaDFjc0kwWjNZZFppSEplZUF5Z1BqYTloNHd2ek4yVkJnZGFqQ2gzdlFtTER6b3liSDhHT01PU04tZGI5emRMZnFkUUFHMzZsT2Z5Q2syTHdKeDB3T0J0bmJVRHc0MHdBMmc?oc=5",
-        "source": "Coinpedia Fintech News",
-        "timestamp": 1790681293
-      },
-      {
-        "title": "All Witcher 3: Wild Hunt Remastered Twitch Drop Rewards & How To Get Them - Insider Gaming",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVHljTTVnenZNZFJRQmdiZjJCMUNHcGVsSkxKNzlibkxxT2tUeE96SndWVnlZb3RKMmQ3Sy1NSEFnXzJHc1NoUURUVTZHQkd5bjF6MklnQlEtOGRjdkZsbkFBQ01FbnFsbHdPN3ZqSmdMcTdJVEJ3VFBJei1xNkZTSVlaYW1tQ2d1emVhTmVxdkJQMkVHUWhwdWVBUUFqODQ?oc=5",
-        "source": "Insider Gaming",
-        "timestamp": 1790681110
       }
     ]
   }
